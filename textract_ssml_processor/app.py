@@ -1,8 +1,6 @@
-# textract_ssml_processor/app.py
-
-from flask import Blueprint, current_app, render_template, request, redirect, url_for, send_from_directory
+from flask import Blueprint, current_app, render_template, request, redirect, url_for, send_from_directory, flash
 from .forms import UploadForm
-from .utils import process_text_file, process_ssml_chunks, clean_ssml_tags, get_existing_files, get_cleaned_chunks
+from .utils import process_text_file, process_ssml_chunks, clean_ssml_tags, get_existing_files, get_cleaned_chunks, estimate_cost
 import os
 
 bp = Blueprint('app', __name__)
@@ -15,17 +13,24 @@ def index():
         output_file_name = upload_form.output_file_name.data
         upload_file_path = os.path.join(current_app.config['UPLOAD_FOLDER'], file.filename)
         file.save(upload_file_path)
-        
-        # Process the file and save the output with the specified name in the processed folder
-        processed_file_path = process_text_file(upload_file_path, output_file_name)
-        
-        # Remove the original uploaded file
-        if os.path.exists(upload_file_path):
-            os.remove(upload_file_path)
-        
-        # Redirect to refresh the page with updated files
-        return redirect(url_for('app.index'))
 
+        # Estimate cost
+        character_count, gpt_cost, polly_cost_generative, polly_cost_long_form = estimate_cost(upload_file_path)
+        
+        formatted_gpt_cost = f"${gpt_cost:.2f}"
+        formatted_polly_cost_generative = f"${polly_cost_generative:.2f}"
+        formatted_polly_cost_long_form = f"${polly_cost_long_form:.2f}"
+        
+        flash(f"Estimated cost: GPT-4: {formatted_gpt_cost}, Polly Generative: {formatted_polly_cost_generative}, Polly Long-Form: {formatted_polly_cost_long_form}")
+        
+        return render_template('confirm.html', 
+                               character_count=character_count,
+                               gpt_cost=formatted_gpt_cost,
+                               polly_cost_generative=formatted_polly_cost_generative,
+                               polly_cost_long_form=formatted_polly_cost_long_form,
+                               upload_file_name=file.filename,
+                               output_file_name=output_file_name)
+        
     processed_files = get_existing_files(current_app.config['PROCESSED_FOLDER'])
     chunk_files = get_existing_files(current_app.config['CHUNKS_FOLDER'])
     processed_folder = current_app.config['PROCESSED_FOLDER']
@@ -39,6 +44,21 @@ def index():
                            chunks_folder=chunks_folder,
                            get_cleaned_chunks=get_cleaned_chunks,
                            enumerate=enumerate)
+
+@bp.route('/confirm', methods=['POST'])
+def confirm():
+    upload_file_name = request.form['upload_file_name']
+    output_file_name = request.form['output_file_name']
+    upload_file_path = os.path.join(current_app.config['UPLOAD_FOLDER'], upload_file_name)
+
+    # Process the file and save the output with the specified name in the processed folder
+    processed_file_path = process_text_file(upload_file_path, output_file_name)
+
+    # Remove the original uploaded file
+    if os.path.exists(upload_file_path):
+        os.remove(upload_file_path)
+
+    return redirect(url_for('app.index'))
 
 @bp.route('/clean/<filename>', methods=['GET', 'POST'])
 def clean(filename):
@@ -56,3 +76,17 @@ def download(filename):
     folder = current_app.config['CHUNKS_FOLDER']
     print(f"Downloading {filename} from {folder}")  # Debug statement
     return send_from_directory(folder, filename)
+
+@bp.route('/delete_processed/<filename>', methods=['POST'])
+def delete_processed(filename):
+    file_path = os.path.join(current_app.config['PROCESSED_FOLDER'], filename)
+    if os.path.exists(file_path):
+        os.remove(file_path)
+    return redirect(url_for('app.index'))
+
+@bp.route('/delete_chunk/<filename>', methods=['POST'])
+def delete_chunk(filename):
+    file_path = os.path.join(current_app.config['CHUNKS_FOLDER'], filename)
+    if os.path.exists(file_path):
+        os.remove(file_path)
+    return redirect(url_for('app.index'))

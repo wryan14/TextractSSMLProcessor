@@ -71,48 +71,47 @@ def process_text_file(file_path, output_file_name):
     
     with open(output_file_path, 'w', encoding='utf-8') as file:
         file.write(formatted_text)
-
-    print(f"Processed file saved at {output_file_path}")  # Debug statement
-
+    print(f"File processed and saved as {output_file_path}")
     return output_file_path
 
 def process_ssml_chunks(file_path, output_folder):
     with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
+    
+    # Remove any existing <speak> tags to avoid duplicates
+    text = re.sub(r'</?speak>', '', text)
 
-    def save_chunks(chunks):
-        if not os.path.exists(output_folder):
-            os.makedirs(output_folder)
-        chunk_filenames = []
-        for i, chunk in enumerate(chunks):
-            chunk_filename = f'{os.path.basename(file_path).split(".")[0]}_chunk_{i+1}.txt'
-            chunk_path = os.path.join(output_folder, chunk_filename)
-            with open(chunk_path, 'w', encoding='utf-8') as file:
-                file.write(chunk)
-            print(f"Saved chunk: {chunk_path}")  # Debug statement
-            chunk_filenames.append(chunk_filename)
-        return chunk_filenames
-
-    cleaned_text = re.sub(r'</?speak>', '', text)
+    text = html.unescape(text)
+    paragraphs = re.split(r'(?<=</p>)', text)
+    
     chunks = []
-    last_pos = 0
-    speak_open_tag = '<speak>'
-    speak_close_tag = '</speak>'
-    chunk_size = 50000
-    paragraphs = re.split(r'(?<=</p>)', cleaned_text)
-    current_chunk = speak_open_tag
+    current_chunk = ''
+    chunk_size = 50000  # 50,000 characters
+
     for para in paragraphs:
         if len(current_chunk) + len(para) > chunk_size:
-            current_chunk += speak_close_tag
-            chunks.append(current_chunk)
-            current_chunk = speak_open_tag + para
+            chunks.append(f'<speak>{current_chunk}</speak>')
+            current_chunk = para
         else:
             current_chunk += para
-    current_chunk += speak_close_tag
-    chunks.append(current_chunk)
-    chunk_filenames = save_chunks(chunks)
-    print(f"Chunks saved: {chunk_filenames}")  # Debug statement
-    return chunk_filenames
+    
+    # Add the last chunk if it's not empty
+    if current_chunk:
+        chunks.append(f'<speak>{current_chunk}</speak>')
+    
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+    
+    chunk_files = []
+    base_name = os.path.splitext(os.path.basename(file_path))[0]
+    for i, chunk in enumerate(chunks, start=1):
+        chunk_file_name = f"{base_name}_chunk_{i}.txt"
+        chunk_file_path = os.path.join(output_folder, chunk_file_name)
+        with open(chunk_file_path, 'w', encoding='utf-8') as file:
+            file.write(chunk)
+        chunk_files.append(chunk_file_name)
+    
+    return chunk_files
 
 def clean_ssml_tags(file_path):
     allowed_tags = {"break", "lang", "p", "phoneme", "s", "speak", "sub", "w"}
@@ -152,7 +151,7 @@ def clean_ssml_tags(file_path):
         with open(file_path, 'w', encoding='utf-8') as file:
             file.write(cleaned_ssml)
 
-        print(f"Cleaned SSML file saved at {file_path}")  # Debug statement
+        print(f"Cleaned SSML file saved at {file_path}")
 
     except ParseError as e:
         print(f"Error parsing the SSML text: {e}")
@@ -161,7 +160,7 @@ def clean_ssml_tags(file_path):
 
 def get_existing_files(folder):
     files = [f for f in os.listdir(folder) if os.path.isfile(os.path.join(folder, f))]
-    print(f"Existing files in {folder}: {files}")  # Debug statement
+    print(f"Existing files in {folder}: {files}")
     return files
 
 def get_cleaned_chunks(folder, filename):
@@ -169,5 +168,20 @@ def get_cleaned_chunks(folder, filename):
     chunks = [f for f in os.listdir(folder) if f.startswith(filename)]
     chunks = [f for f in chunks if pattern.search(f)]
     chunks.sort(key=lambda x: int(pattern.search(x).group(1)))
-    print(f"Cleaned chunks for {filename}: {chunks}")  # Debug statement
+    print(f"Cleaned chunks for {filename}: {chunks}")
     return chunks
+
+def estimate_cost(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        text = file.read()
+    
+    character_count = len(text)
+
+    # OpenAI GPT-4 cost
+    gpt_cost = (character_count / 1000000) * 20  # $0.02 per 1k tokens (approx 750 characters)
+
+    # Amazon Polly costs
+    polly_cost_generative = (character_count / 1000000) * 30  # $30 per 1M characters
+    polly_cost_long_form = (character_count / 1000000) * 100  # $100 per 1M characters
+
+    return character_count, gpt_cost, polly_cost_generative, polly_cost_long_form

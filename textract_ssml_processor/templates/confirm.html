@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Confirm Processing</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">Confirm Processing</h1>
+        <p>Character Count: {{ character_count }}</p>
+        <p>Estimated Cost:</p>
+        <ul>
+            <li>OpenAI GPT-4: {{ gpt_cost }}</li>
+            <li>Amazon Polly Generative: {{ polly_cost_generative }}</li>
+            <li>Amazon Polly Long-Form: {{ polly_cost_long_form }}</li>
+        </ul>
+        <form method="POST" action="{{ url_for('app.confirm') }}">
+            <input type="hidden" name="upload_file_name" value="{{ upload_file_name }}">
+            <input type="hidden" name="output_file_name" value="{{ output_file_name }}">
+            <button type="submit" class="btn btn-primary">Proceed</button>
+            <a href="{{ url_for('app.index') }}" class="btn btn-secondary">Cancel</a>
+        </form>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</body>
+</html>

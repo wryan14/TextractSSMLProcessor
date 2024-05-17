@@ -38,6 +38,9 @@
                         <form method="POST" action="{{ url_for('app.clean', filename=file) }}">
                             <button type="submit" class="btn btn-warning">Clean</button>
                         </form>
+                        <form method="POST" action="{{ url_for('app.delete_processed', filename=file) }}" style="display:inline;">
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
                     </td>
                 </tr>
                 {% endfor %}
@@ -62,7 +65,12 @@
                     <td rowspan="{{ chunks|length }}">{{ file }}</td>
                     {% endif %}
                     <td>{{ i + 1 }}</td>
-                    <td><a href="{{ url_for('app.download', filename=chunk) }}" class="btn btn-primary">Download Chunk {{ i + 1 }}</a></td>
+                    <td>
+                        <a href="{{ url_for('app.download', filename=chunk) }}" class="btn btn-primary">Download Chunk {{ i + 1 }}</a>
+                        <form method="POST" action="{{ url_for('app.delete_chunk', filename=chunk) }}" style="display:inline;">
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </td>
                 </tr>
                 {% endfor %}
                 {% endfor %}
