@@ -5,6 +5,7 @@ import time
 from xml.etree import ElementTree as ET
 from xml.etree.ElementTree import ParseError
 import html
+from flask import current_app
 
 # Retrieve the API key from the environment variable
 api_key = os.getenv('OPENAI_API_KEY')
@@ -55,7 +56,6 @@ def safe_format_text_with_gpt(text_chunk):
             time.sleep(wait)
     raise Exception("Failed to process text after multiple attempts")
 
-# Function to process the text
 def process_text_file(file_path, output_file_name):
     with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
@@ -63,9 +63,17 @@ def process_text_file(file_path, output_file_name):
     chunks = chunk_text(clean_text)
     formatted_chunks = [safe_format_text_with_gpt(chunk) for chunk in chunks]
     formatted_text = '\n'.join(formatted_chunks)
-    output_file_path = os.path.join(os.path.dirname(file_path), output_file_name)
+    
+    output_folder = current_app.config['PROCESSED_FOLDER']
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+    output_file_path = os.path.join(output_folder, output_file_name)
+    
     with open(output_file_path, 'w', encoding='utf-8') as file:
         file.write(formatted_text)
+
+    print(f"Processed file saved at {output_file_path}")  # Debug statement
+
     return output_file_path
 
 def process_ssml_chunks(file_path, output_folder):
@@ -75,9 +83,15 @@ def process_ssml_chunks(file_path, output_folder):
     def save_chunks(chunks):
         if not os.path.exists(output_folder):
             os.makedirs(output_folder)
+        chunk_filenames = []
         for i, chunk in enumerate(chunks):
-            with open(os.path.join(output_folder, f'chunk_{i+1}.txt'), 'w', encoding='utf-8') as file:
+            chunk_filename = f'{os.path.basename(file_path).split(".")[0]}_chunk_{i+1}.txt'
+            chunk_path = os.path.join(output_folder, chunk_filename)
+            with open(chunk_path, 'w', encoding='utf-8') as file:
                 file.write(chunk)
+            print(f"Saved chunk: {chunk_path}")  # Debug statement
+            chunk_filenames.append(chunk_filename)
+        return chunk_filenames
 
     cleaned_text = re.sub(r'</?speak>', '', text)
     chunks = []
@@ -96,7 +110,9 @@ def process_ssml_chunks(file_path, output_folder):
             current_chunk += para
     current_chunk += speak_close_tag
     chunks.append(current_chunk)
-    save_chunks(chunks)
+    chunk_filenames = save_chunks(chunks)
+    print(f"Chunks saved: {chunk_filenames}")  # Debug statement
+    return chunk_filenames
 
 def clean_ssml_tags(file_path):
     allowed_tags = {"break", "lang", "p", "phoneme", "s", "speak", "sub", "w"}
@@ -136,7 +152,22 @@ def clean_ssml_tags(file_path):
         with open(file_path, 'w', encoding='utf-8') as file:
             file.write(cleaned_ssml)
 
+        print(f"Cleaned SSML file saved at {file_path}")  # Debug statement
+
     except ParseError as e:
         print(f"Error parsing the SSML text: {e}")
     except Exception as e:
         print(f"An error occurred: {e}")
+
+def get_existing_files(folder):
+    files = [f for f in os.listdir(folder) if os.path.isfile(os.path.join(folder, f))]
+    print(f"Existing files in {folder}: {files}")  # Debug statement
+    return files
+
+def get_cleaned_chunks(folder, filename):
+    pattern = re.compile(r'_chunk_(\d+)\.txt$')
+    chunks = [f for f in os.listdir(folder) if f.startswith(filename)]
+    chunks = [f for f in chunks if pattern.search(f)]
+    chunks.sort(key=lambda x: int(pattern.search(x).group(1)))
+    print(f"Cleaned chunks for {filename}: {chunks}")  # Debug statement
+    return chunks

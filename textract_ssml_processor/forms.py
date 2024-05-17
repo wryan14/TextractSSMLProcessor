@@ -8,7 +8,3 @@ class UploadForm(FlaskForm):
     file = FileField('Upload OCR File', validators=[DataRequired()])
     output_file_name = StringField('Output File Name', validators=[DataRequired()])
     submit = SubmitField('Process')
-
-class SSMLForm(FlaskForm):
-    output_folder = StringField('Output Folder', validators=[DataRequired()])
-    submit = SubmitField('Process SSML')
