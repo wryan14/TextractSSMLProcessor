@@ -1,0 +1,896 @@
+<speak>
+    <p>
+        The Evangelical United Brethren Church was created in 1946 by the union of The Church of the United Brethren in Christ and The Evangelical Church. <s>The new body found its life and expression rooted in the two former churches.</s> <s>These two churches were American born due to a rebirth of spirit and not because of a theological revolt.</s> <s>They accepted, confessed, and defended "the faith which was once for all delivered unto the saints."</s> <s>At the time of their union in 1946, they did not change their Confession of Faith.</s> <s>They simply made a new affirmation of their faith so The Evangelical United Brethren Church is in reality a continuous succession of historic and evangelical Christianity.</s>
+    </p>
+    <p>
+        The Joint Commission on Church Federation and Union in 1946 formulated a Plan and Basis of Union and declared, <phoneme alphabet="ipa" ph="ɪn">"In</phoneme> all the basic and enduring elements of faith and ecclesiastical organization they <phoneme alphabet="ipa" ph="ðeɪ">(<phoneme alphabet="ipa" ph="ðiz">these</phoneme> churches) are alike."</phoneme> <s>This declaration was approved by both uniting churches in their vote on the Plan and Basis of Union.</s>
+    </p>
+    <p>
+        In 1958, the General Conference authorized the Board of Bishops to conduct a study of the respective Confessions of Faith of the two former communions with a view to combining both statements into one unified statement of faith.
+    </p>
+
+
+  <p>
+    This was done by engaging leaders of the Church in dialogue on each article and then preparing a statement of faith for presentation to the General Conference, Grand Rapids, Michigan, October 1962:
+  </p>
+  <p>
+    "WHEREAS, This Confession of Faith as adopted is a continuance of and is in fact The Confession of Faith of the Church of The United Brethren in Christ' and The Articles of Faith and The Doctrines of Regeneration, Sanctification and Christian Perfection of The Evangelical Church' as stated in the 1947 edition of the Discipline; and
+  </p>
+  <p>
+    "WHEREAS, It is well to reaffirm the doctrinal statement as set forth in The Plan and Basis of Union as therein stated; now therefore be it
+  </p>
+  <p>
+    "Resolved, That we do hereby solemnly declare and affirm that the single creedal statement, The Confession of Faith of The Evangelical United Brethren Church, is a continuance of both of the earlier creedal statements of our Church and is in agreement with the doctrines of the Christian religion as contained in the Holy Scriptures and accepted and held by The Evangelical United Brethren Church; and we do hereby declare before all men our acceptance of this doctrinal confession as 'The Confession of Faith of The Evangelical United Brethren Church.'
+  </p>
+  <p>
+    The doctrinal content of this book has been approved by the Board of Bishops of The Evangelical United Brethren Church according to the provisions of The Discipline, Paragraph 1866.
+  </p>
+  <p>
+    E. Craig Brandenburg, Executive Secretary Board of Christian Education.
+  </p>
+
+
+    <p>
+        <phoneme alphabet="ipa" ph="ˈkeɪʃən">cation</phoneme>
+    </p>
+    <p>
+        Dayton, Ohio <break time="500ms" /> April, 1964
+    </p>
+    <p>
+        This book seeks to give fuller understanding and meaning to the stately words of the Confession of Faith of The Evangelical United Brethren Church. Primarily it is a book for adults. It is not intended to be a <phoneme alphabet="ipa" ph="pəˈpjʊlər">popular</phoneme> book for easy reading. It is for the earnest seeker after truth.
+    </p>
+    <p>
+        A Confession of Faith is a brief statement. It is a summary of all that could be said. Therefore, a Confession should be accompanied by a more comprehensive exposition or commentary. This book is such an exposition and commentary.
+    </p>
+    <p>
+        The Confession of Faith of The Evangelical United Brethren Church has sixteen articles. Each article is given attention in one chapter of this book. Each chapter has been written by a different person. The appropriate article, quoted verbatim from <sub alias="The Discipline">The Discipline</sub>, appears at the beginning of each chapter.
+    </p>
+    <p>
+        A book written by sixteen authors has certain advantages. Sixteen writers give a book a richness of background and experience surpassing that of any one writer. Sixteen writers provide a variety of style and a change of pace that are refreshing. On the other hand, a book produced by sixteen writers runs certain risks. There may be duplications, omissions, differences of emphasis, and even variations of opinions.
+    </p>
+    <p>
+        The writers of this book include six bishops, four theological seminary professors, one conference superintendent, one pastor, one woman who is a church editor, and three lay men who are respectively a lawyer, a physician, and <break time="500ms" />.
+    </p>
+
+
+    <p>
+        The six bishops and the four professors who have contributed chapters, plus the editor, spent the better part of two years studying and preparing the Confession of Faith of The Evangelical United Brethren Church for presentation to, and adoption by, the 1962 General Conference of the denomination. The other six writers were enlisted to give variety and scope to the total authorship of the book.
+    </p>
+    <p>
+        Each writer is responsible for his or her views as set forth in the various chapters. No editorial pressure was applied to obtain conformity to a theological point-of-view, or to a certain style of writing. All the authors, being loyal and thoughtful members of The Evangelical United Brethren Church, wrote within the framework of Evangelical United Brethren doctrine and polity.
+    </p>
+    <p>
+        Each writer made his or her contribution to the book from the vantage point of his position in the Church, out of his own religious life, and with the background of his own education and professional experience. Some of the writers dealt with the words of the Confession of Faith in detail. Others sought to interpret the spirit of the article in an inspirational manner without close regard to specifics. Some wrote as classroom professors, some as church administrators, some as pastors and preachers, and some as dedicated members of the laity.
+    </p>
+    <p>
+        The reader should not be alarmed if he does not agree precisely with a particular writer. The Evangelical United Brethren Church is tolerant and permits <sub alias="contributions">contributions</sub>.
+    </p>
+
+
+  <p>
+    <s>Considerable latitude within the basic meaning of the truths set forth in the Confession of Faith.</s>
+  </p>
+  <p>
+    <s>If the reader finds silence regarding certain aspects of doctrine, he should not be surprised.</s>
+    <s>All the writers were embarrassed by lack of space.</s>
+    <s>There was too much to say in a few pages.</s>
+    <s>Since something had to be omitted, perhaps the writers omitted the very thing that the reader will be looking for.</s>
+  </p>
+  <p>
+    <s>This book can be used in various ways:</s>
+    <s>for personal reading, study classes, or group discussion.</s>
+    <s>It can become the basis for sermons and lectures.</s>
+  </p>
+  <p>
+    <s>So that the reader may derive maximum benefit from this book, the following suggestions are made:</s>
+  </p>
+  <p>
+    <s>1. Search for the meaning behind the words.</s>
+    <s>2. While reading each chapter, or portion of a chapter, meditate on what is said by the writer.</s>
+    <s>Compare one's own ideas and convictions with those of the writer.</s>
+    <s>Do not be too quick to adopt new views.</s>
+    <s>On the other hand, do not have a mind closed to new ideas.</s>
+    <s>3. Pray that the words of this book will come alive in the life of the reader and produce stronger faith and a more Christ-like life.</s>
+    <s>4. Pray that the reading of this book will result in personal commitment to help others to understand the Christian faith so that the purposes of Christian education, evangelism, and missions may be fulfilled.</s>
+  </p>
+  <p>
+    <s>All those involved in the preparation of this book hope and pray it will serve the purpose for which it is intended, namely, to make the teachings of the Christian Church, as reflected in the Confession of Faith.</s>
+  </p>
+
+
+    <p>
+        The Evangelical United Brethren Church, meaningful and helpful for a higher level of Christian thought and action.
+    </p>
+    <p>
+        Editor
+        <break time="1s" />
+        Pittsburgh, Pennsylvania
+        <break time="1s" />
+        April, 1964
+    </p>
+    <p>
+        "In the beginning God created the heavens and the earth." - <sub alias="Genesis">Gen.</sub> 1:1
+    </p>
+    <p>
+        Article I
+    </p>
+    <p>
+        "We believe in the one true, holy and living God, Eternal Spirit, who is Creator, Sovereign and Preserver of all things visible and invisible. He is infinite in power, wisdom, justice, goodness and love, and rules with gracious regard for the well-being and salvation of men, to the glory of his name. We believe the one God reveals himself as the Trinity: Father, Son and Holy Spirit, distinct but inseparable, eternally one in essence and power."
+    </p>
+    <p>
+        Thornton Wilder in the play, "Our Town," gives the address of a letter to one of the characters in the play as:
+    </p>
+    <p>
+        "Jane Crofut, The Crofut Farm, Grover's Corners, Sutton County, New Hampshire, United States of America, Continent of North America, Western Hemisphere, The Earth, The Solar System, The Universe, The Mind of God."
+    </p>
+    <p>
+        Some such address would be correct for each of us. Our little lives, our troubled human family, our beloved Church, our world community of nations, have their location eventually in The Mind of God. In the Bible we read:
+    </p>
+    <p>
+        "The God who created the world and everything in it, and who is Lord of heaven and earth is himself the universal giver of life and breath and all else. He created every race of men of one stock, to inhabit the whole earth."
+    </p>
+
+
+    <p>
+        He fixed the epochs of their history and the limits of their territory. They were to seek God, and, it might be, touch and find him; <s>though indeed he is not far from each one of us, for in him we live and move, in him we exist.</s> 
+        <sub alias="Acts seventeen twenty-four to twenty-eight">Acts 17:24-28</sub>, New English Bible.
+    </p>
+    <p>
+        The Confession of Faith of The Evangelical United Brethren Church makes this affirmation: 
+        <break time="500ms" />
+        "We believe in the one true, holy and living God, Eternal Spirit, who is Creator, Sovereign and Preserver of all things visible and invisible." 
+        <break time="500ms" />
+        This statement of belief merits study of its relevance to living in this kind of world and to the global situation.
+    </p>
+    <p>
+        Basic Spiritual Research
+        <break time="500ms" />
+        The honest, thoughtful Christian recognizes constant need for spiritual research. The advances made in the sciences speak of the value of painstaking disciplined explorations.
+        <break time="500ms" />
+        An earnest, sincere desire to recapture certainty about God in the life of the individual, in the family circle, and in church fellowship requires disciplined thought, Bible study and prayer. What are some tried and trusted guides for the Christian who seeks to verify the meaning of the living God for modern times? 
+        <s>The basic elements seem clear.</s>
+    </p>
+    <p>
+        The New Testament outlines simply two first principles which are brought to life in this passage from the Epistle to the Hebrews:
+        <break time="500ms" />
+        "The man who approaches God must have faith in two things, first that God exists, and secondly that it is worth a man's while to try to find God." 
+        <sub alias="Hebrews eleven six">Hebrews 11:6</sub>, J. B. Phillips Translation.
+    </p>
+
+
+    <p>
+        First, we should approach the living God with faith and expectancy. <s>The prospector for gold believes that gold exists.</s> <s>His search is reinforced by the findings of others, and he uses the best implements available to aid his quest.</s> <s>As a seeker, he is confident that his search will be rewarded and that he will be a finder.</s>
+    </p>
+    <p>
+        The living God invites the seeker. <s>The questing spirit is essential.</s> <s>The Bible makes clear that the seeking mind and spirit are essential if fresh discoveries of the divine presence, power, and saving grace are to be made.</s> <s><phoneme alphabet="ipa" ph="siːk ðə lɔːrd waɪl hiː meɪ bi faʊnd, kɔːl əˈpɒn hɪm waɪl hiː ɪz nɪər">Seek the Lord while he may be found, call upon him while he is near.</phoneme></s> <s><sub alias="Isaiah">Isaiah</sub> 55:6.</s>
+    </p>
+    <p>
+        The Master himself, in his Sermon on the Mount, extends an invitation to earnest, thoughtful, inquiring minds to become seekers for the reality of the living God, our Father. <s><phoneme alphabet="ipa" ph="æsk, ænd ɪt wɪl bi ˈɡɪvən juː; siːk ænd juː wɪl faɪnd; nɒk, ænd ɪt wɪl bi ˈoʊpənd tuː juː">Ask, and it will be given you; seek and you will find; knock, and it will be opened to you.</phoneme></s> <s><sub alias="Matthew">Matthew</sub> 7:7.</s>
+    </p>
+    <p>
+        Jesus Christ offers us in this "age of anxiety" the knowledge of the living God, who can be known and trusted. <s>For the mad race after material things, he substitutes the search for values which are enduring and satisfying.</s> <s><phoneme alphabet="ipa" ph="siːk fɜːrst hɪz ˈkɪŋdəm ænd hɪz ˈraɪtʃəsnɪs, ænd ɔːl ðiːz θɪŋz ʃæl bi jɔːrz æz wɛl">Seek first his kingdom and his righteousness, and all these things shall be yours as well.</phoneme></s> <s><sub alias="Matthew">Matthew</sub> 6:33.</s>
+    </p>
+    <p>
+        The renewal of the Church for which all Christians pray awaits researchers and seekers who will make contemporary discoveries of the reality of the living God.
+    </p>
+    <p>
+        God Rewards Diligent Seekers
+    </p>
+    <p>
+        In the second place is the conviction that the living God...
+    </p>
+
+
+    <p>
+        <s>God will reward those who diligently seek him.</s>
+        <s>Always, God rewards those who seek earnestly for the meaning of life on this tiny planet, if the search is done in the right way.</s>
+    </p>
+    <p>
+        <s>"He rewards those who search for him."</s>
+        <s>"It is worth a man's while to try to find God."</s>
+        <s>"Whoever would approach God must have faith in his willingness to reward those who try to find him."</s>
+    </p>
+    <p>
+        <s>This search is full of definite results if the search is made with all the heart and with all the soul.</s>
+        <s>If the spiritual conditions are met, there is a yield which is dependable.</s>
+        <s>God is the rewarder, the recompenser, and the remunerator of those who pay the price of research in the area of spiritual knowledge.</s>
+    </p>
+    <p>
+        <s>"Eureka!" was a good slogan for the State of California when gold was discovered in 1848.</s>
+        <s>Now "Eureka!" is in the vocabulary of Christian seekers who would call attention to facts about God and his action in Christ to redeem the world.</s>
+    </p>
+    <p>
+        <s>Upon the lips of the courageous prophet, Jeremiah, are words which are beamed to our generation.</s>
+        <s>These words arose out of the prophet's own toils and sufferings in the religious quest.</s>
+        <s>"You will seek me and find me; when you seek me with all your heart, I will be found by you, says the Lord."</s>
+        <s>(Jeremiah 29:13-14.)</s>
+    </p>
+    <p>
+        <s>One hears above these ancient affirmations Mendelssohn's unforgettable melody carrying this insight into the present day:</s>
+        <s>"If with all your hearts ye truly seek me, ye shall ever surely find me, thus saith our God."</s>
+        <s>(Compare Deuteronomy 4:29.)</s>
+    </p>
+    <p>
+        <s>Modern believers verify the truth of these words.</s>
+    </p>
+
+
+  <p>
+    <s>
+      Quoted statement from Pascal, 
+      <phoneme alphabet="ipa" ph="kənˈsoʊl">Console</phoneme> 
+      thyself, thou wouldst not be seeking me hadst thou not already found me.
+    </s>
+  </p>
+  <p>
+    <s>
+      God Speaks Through Paul
+    </s>
+    <s>
+      Paul's writings in the New Testament are a rich resource produced by an inspired witness who found in Christ the key which unlocks knowledge concerning the nature, purpose, and saving power of the living God.
+    </s>
+    <s>
+      From the laboratory of life, the facts of Christian experience are constructed into a glad New Testament doxology.
+    </s>
+    <s>
+      We know that in everything God works for good with those who love him, who are called according to his purpose.
+    </s>
+    <s>
+      What then shall we say to this?
+    </s>
+    <s>
+      If God is for us, who is against us?
+    </s>
+    <s>
+      Who shall separate us from the love of Christ?
+    </s>
+    <s>
+      Shall tribulation, or distress, or persecution, or famine or nakedness or peril or sword?
+    </s>
+    <s>
+      No, in all these things we are more than conquerors through him who loved us!
+      <sub alias="Romans 8:28-37">Romans eight, twenty-eight to thirty-seven</sub>.
+    </s>
+  </p>
+  <p>
+    <s>
+      This exclamation of Paul is no ivory-tower poetic utterance.
+    </s>
+    <s>
+      The great Apostle was not an impractical idealist.
+    </s>
+    <s>
+      He did not open his mind to easy concepts.
+    </s>
+    <s>
+      This is a report of a research specialist in the Christian exploration of life's meaning at both its highest and deepest levels.
+    </s>
+    <s>
+      Here is a man who had been exposed to the worst that this kind of world can bring.
+    </s>
+    <s>
+      In the midst of trial, he found security in a living relationship to the living God manifest in Jesus Christ our Lord.
+    </s>
+    <s>
+      Paul made a surrender, which was very costly, to Jesus Christ as Lord of life.
+    </s>
+    <s>
+      He entered a field of knowledge about God which such a 
+    </s>
+  </p>
+
+
+  <p>
+    Surrender made possible. He was led to rethink the nature of God in the light of new truth. This new truth came home to Paul, the researcher, when the God of all-creative power broke through into life as love divine seeking to save the sinner and the sinful race. 
+  </p>
+  <p>
+    In the case of Paul, a Christ-centered experience led to a Christ-centered thought about God. The meaning of life was illuminated by the suffering and victory of Christ crucified and risen. The theological statement made by Paul should be seen as testimony concerning discoveries made and tested in the heat of life's struggle. Behind Paul's affirmation are long years of missionary and evangelistic endeavor and sacrificial self-giving.
+  </p>
+  <p>
+    </p>
+  <p>
+    In addition to the external trials of Paul there were pressures on the inner life, the daily burden of responsibility for all the churches.
+  </p>
+
+
+  <p>
+    <s>
+      Ion of tiny church fellowships in a pagan society, and human nature in the raw with which an evangelist must deal when turning persons from a life of impurity to the good life in Christ.
+    </s>
+    <s>
+      There were the weaknesses which appear when you work with an infant church moving toward maturity.
+    </s>
+    <s>
+      Numerous case studies of the progress of individuals and groups caught up by the love of Christ in a decaying social order filled the mind of this pastor and missionary to the Mediterranean community in the first century.
+    </s>
+    <s>
+      In such circumstances he found the living God active and available.
+    </s>
+  </p>
+  <p>
+    <s>
+      God Speaks Through the Doctrine of the Church
+    </s>
+    <s>
+      When we confront the theological affirmations of the Confession of Faith of The Evangelical United Brethren Church we are dealing with the testimony of Christians expressed in doctrine.
+    </s>
+    <s>
+      In these statements we seek to understand and reaffirm the discoveries made by Christians in the fellowship of the living Church concerning God and his holy will.
+    </s>
+    <s>
+      History marches through such affirmations.
+    </s>
+    <s>
+      The truths conveyed in the Confession of Faith were not born yesterday.
+    </s>
+    <s>
+      The voice of the ages and the ageless is heard as an overtone of hard-won affirmations.
+    </s>
+    <s>
+      In the paragraphs of our Confession one finds the "faith of our Fathers living still in spite of dungeon, fire and sword."
+    </s>
+    <s>
+      We hold no narrow provincial idea of this creed.
+    </s>
+    <s>
+      It is not the private possession of one segment of the Christian movement.
+    </s>
+    <s>
+      We consider the creed to be the heritage of the faithful from New.
+    </s>
+  </p>
+
+
+    <p>
+        <s>Our Debt to the Past</s>
+        <s>Comparisons may be made between our present affirmations and the historic creeds of the past.</s>
+        <s>There are evidences of our debt to yesterday.</s>
+        <s>The Thirty-Nine Articles of the Church of England were treated with reverence by John Wesley and his collaborators.</s>
+        <s>Such treatment was born out of the fresh and vital experience of salvation to which they testified.</s>
+        <s>The missionary and evangelistic expansion of the Church, on the wings of the evangelical revival in the 1700's and early 1800's, was made possible by a fresh verification of these truths.</s>
+        <s>Our own Church fathers, ministering to German immigrants who moved westward across North America, were sustained by unfaltering trust in these affirmations of faith in the living God made known in Christ.</s>
+        <s>Let us study carefully and zestfully our Confession of Faith, which was adopted by the 1962 General Conference and approved by the vote of the annual conferences.</s>
+        <s>It is a great spiritual resource vindicated and verified in the experience of the Church.</s>
+        <s>It is a reservoir of evidence accumulated by the many who have ventured Godward by trusting Christ in fellowship with others who shared their faith.</s>
+    </p>
+    <p>
+        <s>Our Confession of Faith is an invitation to modern men and women to explore with inquiring minds this deposit of data about the world and its meaning in the atomic age.</s>
+        <s>It is a declaration of certainties in the area of spiritual understanding.</s>
+        <s>It welcomes testing and investigation.</s>
+    </p>
+
+
+  <p>
+    <s>
+      Here is a statement of faith which has survived manifold changes in the thought-world, in scientific outlook and philosophical presuppositions.
+    </s>
+    <s>
+      Our creed is not valid because it is ancient.
+    </s>
+    <s>
+      It is valid because it functions redemptively in every age.
+    </s>
+  </p>
+  <break time="1s" />
+  <p>
+    <s>
+      We have come to know God as the Creator and Father of us all.
+    </s>
+    <s>
+      We have come to know God as Redeemer and Savior in Christ.
+    </s>
+    <s>
+      We have come to know God as Holy Spirit working in us and through us in the fellowship of the living Church.
+    </s>
+    <s>
+      We confess our faith in the Holy Trinity.
+    </s>
+    <s>
+      We worship one God--Father, Son and Holy Spirit.
+    </s>
+    <s>
+      Thus in the Christian Church the evidence of research in the area of knowledge of the Eternal is manifest.
+    </s>
+    <s>
+      The best approach to the understanding of this doctrine is through the rediscovery of the experiences out of which it grew.
+    </s>
+  </p>
+  <break time="1s" />
+  <p>
+    <s>
+      The human mind is limited in its effort to put into words what the living God has come to mean to the Christian.
+    </s>
+    <s>
+      The unfathomed mystery of the Godhead remains a challenge to fresh explorations yet to be made.
+    </s>
+    <s>
+      Indeed, new knowledge concerning the creative and intelligent power at work in the cosmic forces of the vast universe calls for fresh adventures in the faith we have inherited from the past.
+    </s>
+  </p>
+  <break time="1s" />
+  <p>
+    <s>
+      We have merely begun to explore what it means to believe in the God of creation, the God of redemption and the God now at work to save the human race on this tiny planet.
+    </s>
+    <s>
+      Our finite minds find difficulty in conceiving all that.
+    </s>
+  </p>
+
+
+  <p>
+    <s>
+      Is involved in the realm of God.
+    </s>
+    <s>
+      But our faith that Omnipotence is behind the gospel makes us unashamed in our quest.
+    </s>
+    <s>
+      Far-reaching changes in our society are taking place.
+    </s>
+    <s>
+      An age that is old is passing away and a new age is painfully being born.
+    </s>
+    <s>
+      We stand with the inspired research specialist of the first century and affirm:
+    </s>
+  </p>
+  <p>
+    <s>
+      "For I am not ashamed of the Gospel.
+    </s>
+    <s>
+      I see it as the very power of God working for the salvation of everyone who believes it, both Jew and Greek.
+    </s>
+    <s>
+      I see in it God's plan for imparting righteousness to men, a process begun and continued by their faith."
+    </s>
+    <s>
+      <sub alias="Romans 1:16-17">Romans 1:16-17</sub>, J. B. Phillips Translation.
+    </s>
+  </p>
+  <break time="1s" />
+  <p>
+    <s>
+      For Meditation and Discussion
+    </s>
+  </p>
+  <p>
+    <s>
+      The writer of this chapter begins with an inspirational appeal to be seekers of spiritual truth.
+    </s>
+    <s>
+      Some people seem to have closed minds religiously.
+    </s>
+    <s>
+      Does your personal religion allow a place for the search for new aspects of truth?
+    </s>
+  </p>
+  <p>
+    <s>
+      As a seeker do you desire to enter into deeper religious experience?
+    </s>
+    <s>
+      If so, how can this be done in your case?
+    </s>
+  </p>
+  <p>
+    <s>
+      What are some of the rewards enjoyed by the diligent seeker for spiritual truth?
+    </s>
+  </p>
+  <p>
+    <s>
+      What are some of the barriers facing a seeker of truth?
+    </s>
+  </p>
+  <p>
+    <s>
+      The Apostle Paul paid a price for being a "seeker" and a "conqueror."
+    </s>
+    <s>
+      <sub alias="Romans 8:37">Romans 8:37</sub>.
+    </s>
+    <s>
+      What kind of price must the Christian today pay for seeking to grow in Christian life?
+    </s>
+  </p>
+  <p>
+    <s>
+      What can and should you do now to make God's rule more effective in your life?
+    </s>
+  </p>
+  <p>
+    <s>
+      The Article of Faith which appears at the beginning of this chapter, says God "rules".
+    </s>
+  </p>
+
+
+  <p>
+    With gracious regard for the well-being and salvation of men, to the glory of his name. 
+  </p>
+  <p>
+    What testimony can you give as to God's gracious regard for you in your life? In the lives of other Christians whom you know?
+  </p>
+  <p>
+    In this Article of Faith, various words are used to describe God. Study these words carefully. Do these words satisfy you in expressing your thoughts and experience of God? What additional words or ideas would you add to get a satisfactory definition of God?
+  </p>
+  <p>
+    Communists do not believe in God; at least they are not supposed to. If you were trying to convert a communist to Christianity, how would you proceed? What would you say? What would you do? What would you ask the communist to think and do?
+  </p>
+  <p>
+    This Article of Faith refers to the Trinity: Father, Son, and Holy Spirit. This is one of the great concepts of the Christian religion. In defining the Holy Trinity, the early church fathers were trying to explain how the God whom they knew as Creator of the world is at the same time the God known in Jesus Christ and the God known as the Holy Spirit. A right idea of the Trinity is the source of great inspiration and personal spiritual power. Use this opportunity through meditation, Bible study, reading, and discussion to get a firm understanding of the Holy Trinity and his relationship to your life.
+  </p>
+  <p>
+    Prayer:
+    <break time="1s" />
+    Lord, come dwell within us,
+    While on earth we tarry.
+    Make us thy blest sanctuary;
+    Grant us now thy presence,
+    Unto us draw nearer,
+    And reveal thyself still clearer.
+  </p>
+
+
+  <p>
+    <s>Ere we are, near or far,</s>
+    <s>Let us see thy power,</s>
+    <s>Every day and hour.</s>
+    <s>AMEN.</s>
+    <s>Gerhard Tersteegen.</s>
+  </p>
+  <p>
+    <s>"You are the Christ, the Son of the Living God."</s>
+    <s><sub alias="Matthew">Matthew</sub> 16:16</s>
+  </p>
+  <p>
+    <s>"We believe in Jesus Christ, truly God and truly man, in whom the divine and human natures are perfectly and inseparably united.</s>
+    <s>He is the eternal Word made flesh, the only begotten Son of the Father, born of the Virgin Mary by the power of the Holy Spirit.</s>
+    <s>As ministering Servant, he lived, suffered, and died on the cross.</s>
+    <s>He was buried, rose from the dead, and ascended into heaven to be with the Father, from whence he shall return.</s>
+    <s>He is eternal Savior and Mediator, who intercedes for us, and by him all men will be judged."</s>
+  </p>
+  <p>
+    <s>This second article in our Confession of Faith is meant to set down guidelines for our thought.</s>
+    <s>Surely we shall find it helpful.</s>
+    <s>But there are some words and ideas here that today many persons would not normally use.</s>
+    <s>Concepts like "eternal Word" or "eternal Savior and Mediator" are not part of the usual vocabulary of our twentieth-century minds.</s>
+  </p>
+  <p>
+    <s>The Church uses these relatively unfamiliar words not because she likes to make obscure statements about important truth.</s>
+    <s>Such words are used because they come from our very rich inheritance.</s>
+    <s>We Christians in the twentieth century are not the first persons to try to understand Jesus Christ.</s>
+    <s>We are the heirs of two thousand years of the Church's fruitful thought about our Lord.</s>
+  </p>
+
+
+    <p>
+        <s>Sense new, rightly makes use of concepts which come from a long tradition.</s>
+        <s>Therefore, let us probe the depths of meaning in the ideas and concepts which the Church has found to be most adequate to convey the truth about Jesus the Christ.</s>
+    </p>
+    <p>
+        <s>The Meaning of "In Christ"</s>
+    </p>
+    <p>
+        <s>It is not always the strange or the complex which most needs illumination.</s>
+        <s>Let us first look at what seems to be a relatively simple statement: "We believe in Jesus Christ."</s>
+        <s>Does not the simplicity of this statement disappear, however, when we look at the strange use of the word "in"?</s>
+        <s>Why did not the writers of our Confession of Faith say "that" or "about"?</s>
+        <s>Then this Article could be taken as simply our intellectual agreement with certain statements about Jesus.</s>
+        <s>But the Confessional statement begins with the words: We believe in Jesus Christ.</s>
+    </p>
+    <p>
+        <s>Indeed, the first three articles of our Confession, and only the first three, begin by using the little word "in."</s>
+        <s>In these three instances we say: We believe in God, in Jesus Christ, and in the Holy Spirit.</s>
+        <s>The use of the word "in" indicates that these are personal statements about personal relations with another personal being.</s>
+        <s>We might merely believe statements, but we can only believe in persons.</s>
+        <s>Thus all that we say as Christians concerning Jesus and his relation to God is based upon our personal relation with him and our trust in him.</s>
+        <s>In this Article of Faith we do not merely accept certain intellectual "truths"; mainly we seek to give expression to our sense of rela</s>
+    </p>
+
+
+  <p>
+    It is also important that we know from the beginning that this article concerning Jesus Christ cannot be understood apart from Article I on God, and Article III on the Holy Spirit.
+    <break time="500ms" />
+    The unique claim of the Christian faith is that the God who is infinitely powerful and infinitely good is most fully and concretely known only when he confronts us in the historical life of Jesus of Nazareth.
+    <break time="500ms" />
+    The Christian experience and claim is that in Jesus we meet a person in whom God himself meets us.
+    <break time="500ms" />
+    This is the relation of Article I to Article II.
+  </p>
+  <p>
+    <sub alias="Personal Experience of God in Christ">Personal Experience of God in Christ</sub>
+    <break time="500ms" />
+    We must understand, also, that our knowledge of God in Christ must rest on a sense of direct confrontation or personal experience.
+    <break time="500ms" />
+    This experience results in overwhelming conviction.
+    <break time="500ms" />
+    We have no way of logically proving that God can be known in a man.
+    <break time="500ms" />
+    Our knowledge of God in Christ is not an achievement of our human minds.
+    <break time="500ms" />
+    Our knowledge of God in Christ is a gift that breaks in upon us from beyond ourselves.
+    <break time="500ms" />
+    We come to know God because we have come to be known by him.
+    <break time="500ms" />
+    God gives us the possibility of personal relation to him.
+    <break time="500ms" />
+    It is the Holy Spirit who convinces us of the ultimate meaning of Christ and leads us into faithful response.
+    <break time="500ms" />
+    God's spirit, influencing our spirits, gives us the knowledge we have of ultimate truth.
+    <break time="500ms" />
+    Thus we say, <phoneme alphabet="ipa" ph="wi bɪˈliv ɪn ˈdʒizəs kraɪst">"We believe in Jesus Christ."</phoneme>
+  </p>
+  <p>
+    <sub alias="Elements of Historical Truth">Elements of Historical Truth</sub>
+    <break time="500ms" />
+    We should be quite clear, then, that our knowledge of God in Jesus of
+  </p>
+
+
+    <p>Nazareth is a conviction which grows out of our personal response to the action of God's Holy Spirit in us. <break time="500ms" /> However, we should be clear, also, that there are solid elements of historical truth in our knowledge of God in Christ because Jesus actually was an historical person. <s>Moreover, we know quite definitely what kind of person he was.</s> <s>Christian faith does not begin with theories or speculation about God.</s> <s>It begins with the historical reality of Jesus.</s></p>
+    
+    <p>The New Testament, especially its first four books, constitutes our record of the life and action of Jesus, the carpenter of Nazareth. <s>We can rest assured that the New Testament is an adequate historical record of the kind of man Jesus was.</s> <s>To be sure, the gospels were meant to be more than purely historical biographies.</s> <s>They were written by believers who had faith in Jesus Christ as the revelation of God.</s></p>
+    
+    <p>Our faith in Christ is based on the action of the Holy Spirit in our spirits as we respond to the Biblical record of Jesus' life, death, and resurrection.</p>
+    
+    <p><sub alias="The Truth of the Resurrection">The Truth of the Resurrection</sub></p>
+    
+    <p>This Article of Faith catches up the essence of Jesus' historical life by characterizing him as a "ministering Servant." <s>His loving, sacrificial service to mankind was climaxed in his self-giving death on a cross.</s> <s>Jesus' death and burial were not the end, however, of the Christian community's experience with him in history.</s> <s>As our Confession of Faith puts it, he "rose from the dead and ascended into heaven to be with the Father."</s></p>
+
+
+    <p>
+        <s>
+            Have the testimony of the first century church to the reality of our Lord's resurrection, and we have our experience of a living Lord.
+        </s>
+        <s>
+            There are those who can accept the historical reliability of the New Testament record concerning Jesus' life until they come to the event of his resurrection.
+        </s>
+        <s>
+            This, they feel, just cannot be true.
+        </s>
+        <s>
+            They conclude that the Church must have created this story.
+        </s>
+        <s>
+            But in fact it is the other way around.
+        </s>
+        <s>
+            The truth of the resurrection created the church.
+        </s>
+        <s>
+            As Emil Brunner so well puts it: "That the message of the primitive church is the witness to the resurrection of Jesus, that it was the appearances of the risen Lord which brought the shattered and scattered disciples together again after the catastrophe of Good Friday, and formed the real foundation of the Christian Church-stands upon such firm ground, that even the unbelieving historian cannot get away from it."
+        </s>
+        <s>
+            <sub alias="Emil Brunner, The Christian Doctrine of Creation and Redemption. trans. Olive Wyon (Philadelphia. The Westminster Press, 1952), p. 366.">
+                Emil Brunner, The Christian Doctrine of Creation and Redemption. trans. Olive Wyon (Philadelphia. The Westminster Press, 1952), p. 366.
+            </sub>
+        </s>
+    </p>
+    <p>
+        <s>
+            Men do not create illusions and then die rather than deny the truth of them.
+        </s>
+        <s>
+            It is confidence in the victory of Christ over evil and death because one has met the risen Christ, that makes men strong in their faith and love so that they dare to die for Christ if need be.
+        </s>
+        <s>
+            This is what thousands did in the early church.
+        </s>
+        <s>
+            It is what many more since have done and are willing to do today.
+        </s>
+    </p>
+    <p>
+        <s>
+            To summarize what has been said thus far,
+        </s>
+    </p>
+
+
+  <p>
+    <s>
+      The Confession of Faith of The Evangelical United Brethren Church affirms that:
+    </s>
+    <s>
+      <sub alias="one">(1)</sub> the life of Jesus was fully and completely a human life, the character of which may be reliably known through the New Testament;
+    </s>
+    <s>
+      and <sub alias="two">(2)</sub> that in a unique and unrepeatable way this human life is the self-revelation of God.
+    </s>
+    <s>
+      Some formulation of these two points is, of course, at the heart of the theology of every Christian church.
+    </s>
+  </p>
+  <break time="1s" />
+  <p>
+    <s>
+      From here, we move to certain phrases of our Confession which are not easy to understand.
+    </s>
+    <s>
+      It has proven very difficult in the whole history of the Church to hold both of the above two points together.
+    </s>
+    <s>
+      After all, we are trying to state the amazing claim that a truly human life was uniquely one with the life of God.
+    </s>
+    <s>
+      There always have been those who feel that if Jesus really were God, he could not have been completely human.
+    </s>
+    <s>
+      Or, on the other hand, if he really knew all the perplexities and temptations of being human, he could not fully have been God.
+    </s>
+    <s>
+      Our Confession of Faith uses those concepts which the Church has found most adequate for stating this truth about God being in Christ.
+    </s>
+    <s>
+      At the same time, the statement safeguards against errors that have appeared in the history of man's thinking about this unique claim.
+    </s>
+  </p>
+  <break time="1s" />
+  <p>
+    <s>
+      Three Errors
+    </s>
+    <s>
+      Robert C. Johnson, in his excellent book on <phoneme alphabet="ipa" ph="ðə">the</phoneme> "Meaning of Christ" defines three errors that have appeared in the history of thinking about Jesus Christ.
+    </s>
+    <s>
+      We can understand many of the statements in our Confession of Faith in this context.
+    </s>
+  </p>
+
+
+  <p>
+    <s>
+      Ith as an attempt to guard against these three errors.
+      Let us consider them in turn.
+    </s>
+    <s>
+      The first error is to think of Jesus as 
+      <phoneme ph="ˈæ">A</phoneme>
+      <phoneme ph="ˈmænˌlaɪk">Manlike</phoneme>
+      God (but not really a man).
+    </s>
+    <s>
+      To those who think thus, Jesus seemed to be only a man; or perhaps only pretended to be a man.
+    </s>
+    <s>
+      According to this point of view, Jesus was God masquerading in human form.
+    </s>
+    <s>
+      He knew already as a little child that he would be crucified.
+    </s>
+    <s>
+      He was never really tempted.
+    </s>
+    <s>
+      Against this erroneous view, our Confession affirms that Jesus was truly man, having a human nature, and was 
+      <phoneme ph="ˈmeɪd ˈflɛʃ">"made flesh."</phoneme>
+    </s>
+    <s>
+      He knew every tension and struggle that we know.
+    </s>
+  </p>
+  <break time="1s" />
+  <p>
+    <s>
+      The second error is to think of Jesus as 
+      <phoneme ph="ˈeɪ">A</phoneme>
+      <phoneme ph="ˈɡɑdlaɪk">Godlike</phoneme>
+      Man (but not really God).
+    </s>
+    <s>
+      There have always been those who thought of Jesus only as a 
+      <phoneme ph="ˈɡreɪt ˈtiːʧər">"great teacher,"</phoneme>
+      or a 
+      <phoneme ph="ˈwʌndərfəl ˈmɔrəl ɪɡˈzæmpl">"wonderful moral example,"</phoneme>
+      or perhaps a 
+      <phoneme ph="ˈtru ˈprɑfɪt">"true prophet."</phoneme>
+    </s>
+    <s>
+      This idea suggests that Jesus was a great and good man whom God especially blessed and used, but he was exclusively human.
+    </s>
+    <s>
+      Against this position, our Confession of Faith affirms that Jesus was truly God, having a divine nature.
+    </s>
+    <s>
+      We affirm that Jesus was 
+      <sub alias="the only begotten Son of the Father">"the only begotten Son of the Father,"</sub>
+      born of the Virgin Mary by the power of the Holy Spirit.
+    </s>
+  </p>
+  <break time="1s" />
+  <p>
+    <s>
+      The basic meaning of the doctrine of the virgin birth is to be seen precisely at this point.
+    </s>
+    <s>
+      This doctrine affirms that Jesus is by nature and eternally the unique Son of God, and that he entered the realm of nature as a human being.
+    </s>
+  </p>
+
+
+    <p>
+        nd history as such. He was the unique Son of God from the beginning.
+    </p>
+    <p>
+        The third kind of error sees Jesus as <phoneme alphabet="ipa" ph="ɡɒd mæn">"God/Man"</phoneme> <sub alias="but">but</sub> neither really God nor really man. This error is the result of the human mind trying to arrive at some simple, logical explanation as to how Jesus could be both truly God and truly man. The explanation usually has been in some such terms as Jesus had a human body, but a divine mind, soul, or spirit. The terrible result of this too-simple suggestion, however, is that it conceives Jesus as some kind of split-person who is neither completely human nor divine. Against this view, our Confession of Faith positively affirms that in Jesus "the divine and human natures are perfectly and inseparably united."
+    </p>
+    <p>
+        We are provided no explanation how this union can be. The <sub alias="how">"how"</sub> is left a mystery. If eternal God revealed his very being in a truly human man, we cannot expect some simple explanation as to how this occurred. This event is not simple or common. It is unique, unprecedented, and mysterious.
+    </p>
+    <p>
+        We may ask the question as to <sub alias="how">"how,"</sub> and seek an answer. But the Church has never prescribed an answer to this question. No answer is adequate or acceptable which in any way violates the truth that God uniquely revealed himself in the fully human person, Jesus of Nazareth.
+    </p>
+    <p>
+        The Church, however, uses certain ideas to illuminate the meaning of this mystery. Let us now try to give further definition to the ideas used in our Confession. These ideas come to us from the mind of the Church.
+    </p>
+
+
+    <p>
+        The early church, which in turn largely rested upon the long experience of Israel as recorded in the Old Testament.
+    </p>
+    <p>
+        The most important idea or concept is the title "Christ." Many use this word as though it were a part of Jesus' name. It is not that at all, but it is a title which describes his meaning. <w role="ivona:NN">Christ</w> is the Greek version of the Hebrew word "Messiah," which means <sub alias="the Anointed one">the Anointed one</sub>. The Jews used this word to designate the one they expected God to send in order to bring God's Kingdom fully into history. Christians call Jesus <phoneme ph="ðə kraɪst">the Christ</phoneme> because they believe he fulfilled this Jewish expectation, even though not precisely in the way some Jews expected it to be fulfilled. The Kingdom of God did come into history in and with Jesus, and thus he is the Christ.
+    </p>
+    <p>
+        Jesus is also called <phoneme ph="ðə ɪˈtɜrnəl wɜrd">the eternal Word</phoneme> in our Confession. <phoneme ph="wɜrd">Word</phoneme> is the English translation for the Greek concept of <phoneme ph="ˈloʊɡɒs">Logos</phoneme>. In Greek philosophy, <phoneme ph="ˈloʊɡɒs">Logos</phoneme> means the principle of universal reason or the divine principle of creativity. The use of this concept in the New Testament, however, very likely had a more strongly Jewish background. The <phoneme ph="wɜrd">Word</phoneme> ("dabhar" in Hebrew) was one of the ways the Old Testament speaks of the creative activity of God. (See Psalms 33:6, 9.) Whether of Greek or Jewish background, to call Jesus <phoneme ph="ðə ɪˈtɜrnəl wɜrd meɪd flɛʃ">the eternal Word made flesh</phoneme> is to say that the meaning of the whole world process is to be found in this person.
+    </p>
+    <p>
+        Christ As Savior and Mediator
+    </p>
+    <p>
+        Our Confession also speaks of Jesus as...
+    </p>
+
+
+  <p>
+    The word <w role="amazon:NN">"salvation"</w> should be understood according to its root meaning of health or wholeness of human life, the essential soundness and completeness of the human person.
+  </p>
+  <p>
+    Jesus is called <w role="amazon:NN">"Savior"</w> because the Christian finds healing and wholeness restored to his divided and distorted personality through his relationship with Jesus Christ. He is Savior because he is also Mediator. Any <w role="amazon:NN">"mediator"</w> is one who stands between two separated parties in order to bring them together. Jesus is the Divine Mediator because in Christian experience he is the only one who can reconcile the righteous and merciful God with a sinful man.
+  </p>
+  <p>
+    <w role="amazon:NN">Christ's</w> Work to be Fulfilled
+  </p>
+  <p>
+    We should note that this work of Christ for our salvation continues in the present and into the future. Our Confession asserts that Christ now <sub alias="intercedes">inter-cedes</sub> for us, and that he shall return. Christ's saving work is finished in the Cross and Resurrection, but we look forward to its final fulfillment in God's good time. We already know the joy of his love, and hope for the time when his love will overcome all the unloveliness which continues in our present history.
+  </p>
+  <p>
+    The last phrase of our Confession asserts that the love of Christ is the standard by which all men will be judged, and that the person of Christ is the judge. As Christians we are glad to accept so righteous and so gracious a judgment, desiring nothing more than to have our lives conformed to his loving will by the influence of his Holy Spirit.
+  </p>
+
+
+    <p>
+        <s>In conclusion, let us remember where we began.</s> 
+        <s>Much of what we have discussed in this chapter is the Church's belief about Christ.</s> 
+        <s>This is important, but it is not enough unless it rests upon our belief in Christ.</s> 
+        <s>Knowing him is far more important than knowing about him.</s> 
+        <s>It is not even essential that we fully understand every word that the Church has used to describe and define him.</s> 
+        <s>What is important is that we know the reality to which these words point, namely, that we have bowed repentantly before our Lord's judgment and received his grace into faithful and humble hearts.</s>
+    </p>
+    <break time="1s" />
+    <p>
+        <s>For Meditation and Discussion</s>
+    </p>
+    <break time="1s" />
+    <p>
+        <s>1. The writer of this chapter emphasizes the importance of belief in Christ, rather than belief about Christ.</s> 
+        <s>A pagan can believe many facts about Christ, but only a Christian can believe in Christ as Savior and Lord.</s> 
+        <s>How does your belief in Christ make you different from an unbeliever?</s> 
+        <s>How has your belief in Christ changed your life and made you what you are as a Christian?</s>
+    </p> 
+    <break time="1s" />
+    <p>
+        <s>2. The writer states that when we "confront" God in Jesus Christ it is an overwhelming experience.</s> 
+        <s>There are many ways in which people undergo this experience.</s> 
+        <s>How have you personally "confronted" God in Jesus Christ?</s> 
+        <s>What effect has this experience had on your personality, your work, your relationship with others?</s>
+    </p> 
+    <break time="1s" />
+    <p>
+        <s>3. Pretend you are preaching to primitive people in the Andes Mountains.</s> 
+        <s>They have never heard of Jesus Christ; or if they have heard of him it is only in a remote way.</s>
+    </p></speak>
