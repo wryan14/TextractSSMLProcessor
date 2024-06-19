@@ -26,18 +26,30 @@ def remove_headers(text):
     return '\n'.join(processed_lines)
 
 # Function to break text into chunks
-def chunk_text(text, chunk_size=1500):
+def chunk_text(text, chunk_size=4000):
     return [text[i:i+chunk_size] for i in range(0, len(text), chunk_size)]
 
 def generate_ssml_request(text_chunk):
     allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <sub>, and <w>"
-    prompt_text = (f"Please review this messy text to format, correct any spelling mistakes, remove page numbers and page titles, and mark it up with SSML markup for a text to speech process. "
+    prompt_text = (f"Please review this messy text to format, correct any spelling mistakes, remove page numbers and page titles, and mark it up with SSML markup for a text-to-speech process. "
                    f"The only permitted tags are {allowed_tags}. Please only provide the marked up text in your response. "
                    f"Text to format: {text_chunk}")
     return prompt_text
 
-def safe_format_text_with_gpt(text_chunk):
-    formatted_prompt = generate_ssml_request(text_chunk)
+def generate_translation_and_ssml_request(text_chunk, language):
+    allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <sub>, and <w>"
+    prompt_text = (f"Please translate the following {language} text into English. The translation should use modern, easy-to-understand English while staying true to the original meaning and context. "
+                   f"After translating, format the translated text, correct any spelling mistakes in the translation, remove page numbers and page titles, and mark it up with SSML markup for a text-to-speech process. "
+                   f"The only permitted tags are {allowed_tags}. Please only provide the translated and marked-up text in your response. "
+                   f"Text to translate and format: {text_chunk}")
+    return prompt_text
+
+def safe_format_text_with_gpt(text_chunk, translate=True, language="Latin"):
+    if translate:
+        formatted_prompt = generate_translation_and_ssml_request(text_chunk, language)
+    else:
+        formatted_prompt = generate_ssml_request(text_chunk)
+ 
     for attempt in range(5):  # Retry up to 5 times
         try:
             response = client.chat.completions.create(
@@ -47,7 +59,7 @@ def safe_format_text_with_gpt(text_chunk):
                 temperature=0.7
             )
             if response.choices and response.choices[0].message:
-                return response.choices[0].message.content
+                return response.choices[0].message.content.strip()
             else:
                 return "No response generated"
         except Exception as e:
@@ -55,6 +67,7 @@ def safe_format_text_with_gpt(text_chunk):
             print(f"Request failed, retrying in {wait} seconds...")
             time.sleep(wait)
     raise Exception("Failed to process text after multiple attempts")
+
 
 def process_text_file(file_path, output_file_name):
     with open(file_path, 'r', encoding='utf-8') as file:
