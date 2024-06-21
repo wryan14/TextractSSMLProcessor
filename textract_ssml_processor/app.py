@@ -1,7 +1,7 @@
 from flask import Blueprint, current_app, render_template, request, redirect, url_for, send_from_directory, flash
 from werkzeug.utils import secure_filename
 from .forms import UploadForm
-from .utils import process_text_file, process_ssml_chunks, clean_ssml_tags, get_existing_files, get_cleaned_chunks, estimate_cost
+from .utils import process_text_file, clean_ssml_tags, get_existing_files, get_cleaned_chunks, estimate_cost, process_ssml_chunks
 import os
 
 bp = Blueprint('app', __name__)
@@ -61,7 +61,7 @@ def confirm():
     upload_file_path = os.path.join(current_app.config['UPLOAD_FOLDER'], upload_file_name)
 
     # Process the file and save the output with the specified name in the processed folder
-    processed_file_path = process_text_file(upload_file_path, output_file_name, title, author, language)
+    processed_file_paths = process_text_file(upload_file_path, output_file_name, title, author, language)
 
     # Remove the original uploaded file
     if os.path.exists(upload_file_path):
@@ -80,9 +80,10 @@ def clean(filename):
 
     return redirect(url_for('app.index'))
 
+
 @bp.route('/download/<filename>', methods=['GET'])
 def download(filename):
-    folder = current_app.config['CHUNKS_FOLDER']
+    folder = current_app.config['PROCESSED_FOLDER']
     return send_from_directory(folder, filename)
 
 @bp.route('/delete_processed/<filename>', methods=['POST'])
