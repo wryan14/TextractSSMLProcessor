@@ -84,3 +84,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+chunks/
+processed/

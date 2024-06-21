@@ -1,4 +1,5 @@
 from flask import Blueprint, current_app, render_template, request, redirect, url_for, send_from_directory, flash
+from werkzeug.utils import secure_filename
 from .forms import UploadForm
 from .utils import process_text_file, process_ssml_chunks, clean_ssml_tags, get_existing_files, get_cleaned_chunks, estimate_cost
 import os
@@ -11,7 +12,10 @@ def index():
     if upload_form.validate_on_submit():
         file = upload_form.file.data
         output_file_name = upload_form.output_file_name.data
-        upload_file_path = os.path.join(current_app.config['UPLOAD_FOLDER'], file.filename)
+        title = upload_form.title.data
+        author = upload_form.author.data
+        language = upload_form.language.data
+        upload_file_path = os.path.join(current_app.config['UPLOAD_FOLDER'], secure_filename(file.filename))
         file.save(upload_file_path)
 
         # Estimate cost
@@ -29,19 +33,21 @@ def index():
                                polly_cost_generative=formatted_polly_cost_generative,
                                polly_cost_long_form=formatted_polly_cost_long_form,
                                upload_file_name=file.filename,
-                               output_file_name=output_file_name)
+                               output_file_name=output_file_name,
+                               title=title,
+                               author=author,
+                               language=language,
+                               )
         
     processed_files = get_existing_files(current_app.config['PROCESSED_FOLDER'])
     chunk_files = get_existing_files(current_app.config['CHUNKS_FOLDER'])
-    processed_folder = current_app.config['PROCESSED_FOLDER']
     chunks_folder = current_app.config['CHUNKS_FOLDER']
 
     return render_template('index.html', 
                            upload_form=upload_form, 
                            processed_files=processed_files, 
                            chunk_files=chunk_files,
-                           processed_folder=processed_folder,
-                           chunks_folder=chunks_folder,
+                           chunks_folder=chunks_folder,  # Ensure chunks_folder is passed to the template
                            get_cleaned_chunks=get_cleaned_chunks,
                            enumerate=enumerate)
 
@@ -49,10 +55,13 @@ def index():
 def confirm():
     upload_file_name = request.form['upload_file_name']
     output_file_name = request.form['output_file_name']
+    title = request.form.get('title', '')
+    author = request.form.get('author', '')
+    language = request.form.get('language', 'latin')
     upload_file_path = os.path.join(current_app.config['UPLOAD_FOLDER'], upload_file_name)
 
     # Process the file and save the output with the specified name in the processed folder
-    processed_file_path = process_text_file(upload_file_path, output_file_name)
+    processed_file_path = process_text_file(upload_file_path, output_file_name, title, author, language)
 
     # Remove the original uploaded file
     if os.path.exists(upload_file_path):
@@ -60,7 +69,7 @@ def confirm():
 
     return redirect(url_for('app.index'))
 
-@bp.route('/clean/<filename>', methods=['GET', 'POST'])
+@bp.route('/clean/<filename>', methods=['POST'])
 def clean(filename):
     processed_folder = current_app.config['PROCESSED_FOLDER']
     chunks_folder = current_app.config['CHUNKS_FOLDER']
@@ -74,7 +83,6 @@ def clean(filename):
 @bp.route('/download/<filename>', methods=['GET'])
 def download(filename):
     folder = current_app.config['CHUNKS_FOLDER']
-    print(f"Downloading {filename} from {folder}")  # Debug statement
     return send_from_directory(folder, filename)
 
 @bp.route('/delete_processed/<filename>', methods=['POST'])

@@ -5,6 +5,7 @@ import time
 from xml.etree import ElementTree as ET
 from xml.etree.ElementTree import ParseError
 import html
+from werkzeug.utils import secure_filename
 from flask import current_app
 
 # Retrieve the API key from the environment variable
@@ -29,26 +30,26 @@ def remove_headers(text):
 def chunk_text(text, chunk_size=4000):
     return [text[i:i+chunk_size] for i in range(0, len(text), chunk_size)]
 
-def generate_ssml_request(text_chunk):
-    allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <sub>, and <w>"
+def generate_ssml_request(text_chunk, title, author):
+    allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <sub>, <w>"
     prompt_text = (f"Please review this messy text to format, correct any spelling mistakes, remove page numbers and page titles, and mark it up with SSML markup for a text-to-speech process. "
                    f"The only permitted tags are {allowed_tags}. Please only provide the marked up text in your response. "
                    f"Text to format: {text_chunk}")
     return prompt_text
 
-def generate_translation_and_ssml_request(text_chunk, language):
-    allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <sub>, and <w>"
+def generate_translation_and_ssml_request(text_chunk, language, title, author):
+    allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <sub>, <w>"
     prompt_text = (f"Please translate the following {language} text into English. The translation should use modern, easy-to-understand English while staying true to the original meaning and context. "
                    f"After translating, format the translated text, correct any spelling mistakes in the translation, remove page numbers and page titles, and mark it up with SSML markup for a text-to-speech process. "
                    f"The only permitted tags are {allowed_tags}. Please only provide the translated and marked-up text in your response. "
                    f"Text to translate and format: {text_chunk}")
     return prompt_text
 
-def safe_format_text_with_gpt(text_chunk, translate=True, language="Latin"):
-    if translate:
-        formatted_prompt = generate_translation_and_ssml_request(text_chunk, language)
+def safe_format_text_with_gpt(text_chunk, language="Latin", title="", author=""):
+    if language.lower()!='english':
+        formatted_prompt = generate_translation_and_ssml_request(text_chunk, language, title, author)
     else:
-        formatted_prompt = generate_ssml_request(text_chunk)
+        formatted_prompt = generate_ssml_request(text_chunk, title, author)
  
     for attempt in range(5):  # Retry up to 5 times
         try:
@@ -59,22 +60,21 @@ def safe_format_text_with_gpt(text_chunk, translate=True, language="Latin"):
                 temperature=0.7
             )
             if response.choices and response.choices[0].message:
-                return response.choices[0].message.content.strip()
+                return clean_and_simplify_ssml_with_gpt(response.choices[0].message.content.strip())
             else:
                 return "No response generated"
         except Exception as e:
             wait = 2 ** attempt
-            print(f"Request failed, retrying in {wait} seconds...")
+            print(f"Request failed, retrying in {wait} seconds... Exception: {e}")
             time.sleep(wait)
     raise Exception("Failed to process text after multiple attempts")
 
-
-def process_text_file(file_path, output_file_name):
+def process_text_file(file_path, output_file_name, title, author, language):
     with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
     clean_text = remove_headers(text)
     chunks = chunk_text(clean_text)
-    formatted_chunks = [safe_format_text_with_gpt(chunk) for chunk in chunks]
+    formatted_chunks = [safe_format_text_with_gpt(chunk, language, title, author) for chunk in chunks]
     formatted_text = '\n'.join(formatted_chunks)
     
     output_folder = current_app.config['PROCESSED_FOLDER']
@@ -83,9 +83,35 @@ def process_text_file(file_path, output_file_name):
     output_file_path = os.path.join(output_folder, output_file_name)
     
     with open(output_file_path, 'w', encoding='utf-8') as file:
-        file.write(formatted_text)
+        file.write(formatted_text.replace('```xml', "").replace('```ssml', '').replace('```', ''))
     print(f"File processed and saved as {output_file_path}")
     return output_file_path
+
+# New Function to Clean and Simplify SSML
+def clean_and_simplify_ssml_with_gpt(ssml_chunk):
+    prompt_text = (
+        f"Please clean the provided SSML content, ensuring that all SSML tags are correctly formatted with no nested tags and all open tags are closed. "
+        f"Return only the cleaned SSML content without any additional text or instructions. Ensure that the original latin text is not included, only the English translation."
+        f"SSML to clean: {ssml_chunk}"
+        )
+
+    for attempt in range(5):  # Retry up to 5 times
+        try:
+            response = client.chat.completions.create(
+                model="gpt-4o",
+                messages=[{"role": "user", "content": prompt_text}],
+                max_tokens=2048,
+                temperature=0.7
+            )
+            if response.choices and response.choices[0].message:
+                return response.choices[0].message.content.strip()
+            else:
+                print(f"No response generated. Attempt: {attempt + 1}, Response: {response}")
+                time.sleep(2 ** attempt)  # Exponential backoff
+        except Exception as e:
+            print(f"Exception occurred: {e}. Attempt: {attempt + 1}")
+            time.sleep(2 ** attempt)  # Exponential backoff
+    raise Exception("Failed to process text after multiple attempts")
 
 def process_ssml_chunks(file_path, output_folder):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -171,12 +197,19 @@ def clean_ssml_tags(file_path):
     except Exception as e:
         print(f"An error occurred: {e}")
 
+def handle_uploaded_file(uploaded_file):
+    file_path = secure_filename(uploaded_file.filename)
+    file_path = os.path.join(current_app.config['UPLOAD_FOLDER'], file_path)
+    with open(file_path, 'wb') as f:
+        f.write(uploaded_file.read())
+    return file_path
+
 def get_existing_files(folder):
     files = [f for f in os.listdir(folder) if os.path.isfile(os.path.join(folder, f))]
-    print(f"Existing files in {folder}: {files}")
     return files
 
 def get_cleaned_chunks(folder, filename):
+    print(f"get_cleaned_chunks called with folder: {folder}, filename: {filename}")
     pattern = re.compile(r'_chunk_(\d+)\.txt$')
     chunks = [f for f in os.listdir(folder) if f.startswith(filename)]
     chunks = [f for f in chunks if pattern.search(f)]
