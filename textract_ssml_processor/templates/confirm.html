@@ -1,3 +1,4 @@
+# confirm.html
 <!doctype html>
 <html lang="en-US">
 <head>
@@ -9,23 +10,29 @@
 <body>
     <div class="container">
         <h1 class="mt-5">Confirm Processing</h1>
-        <p>Character Count: {{ character_count }}</p>
-        <p>Estimated Cost:</p>
+        <h2 class="mt-4">Estimated Costs</h2>
+        <p>Total Characters: {{ character_count }}</p>
+        <p>GPT-4 Cost: {{ gpt_cost }}</p>
+        <p>Polly Generative Cost: {{ polly_cost_generative }}</p>
+        <p>Polly Long-Form Cost: {{ polly_cost_long_form }}</p>
+        
+        <h2 class="mt-4">Files to Process</h2>
         <ul>
-            <li>OpenAI gpt-4o: {{ gpt_cost }}</li>
-            <li>Amazon Polly Generative: {{ polly_cost_generative }}</li>
-            <li>Amazon Polly Long-Form: {{ polly_cost_long_form }}</li>
+        {% for file in files %}
+            <li>{{ file | basename }}</li>
+        {% endfor %}
         </ul>
+        
         <form method="POST" action="{{ url_for('app.confirm') }}">
-            <input type="hidden" name="upload_file_name" value="{{ upload_file_name }}">
-            <input type="hidden" name="output_file_name" value="{{ output_file_name }}">
-            <button type="submit" class="btn btn-primary">Proceed</button>
-            <a href="{{ url_for('app.index') }}" class="btn btn-secondary">Cancel</a>
+            {% for file in files %}
+            <input type="hidden" name="files" value="{{ file }}">
+            {% endfor %}
+            <input type="hidden" name="title" value="{{ title }}">
+            <input type="hidden" name="author" value="{{ author }}">
+            <input type="hidden" name="language" value="{{ language }}">
+            <button type="submit" class="btn btn-primary">Confirm and Process</button>
         </form>
+        <a href="{{ url_for('app.index') }}" class="btn btn-secondary mt-2">Cancel</a>
     </div>
-
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 </body>
 </html>

@@ -10,14 +10,11 @@
     <div class="container">
         <h1 class="mt-5">Textract SSML Processor</h1>
 
-        <h2 class="mt-4">Upload New OCR File</h2>
+        <h2 class="mt-4">Upload New OCR Files</h2>
         <form method="POST" enctype="multipart/form-data" class="mb-4">
             {{ upload_form.hidden_tag() }}
             <div class="form-group">
-                {{ upload_form.file.label }} {{ upload_form.file(class="form-control-file") }}
-            </div>
-            <div class="form-group">
-                {{ upload_form.output_file_name.label }} {{ upload_form.output_file_name(class="form-control") }}
+                {{ upload_form.files.label }} {{ upload_form.files(class="form-control-file", multiple=True) }}
             </div>
             <div class="form-group">
                 {{ upload_form.title.label }} {{ upload_form.title(class="form-control") }}

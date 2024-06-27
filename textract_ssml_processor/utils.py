@@ -336,3 +336,28 @@ def estimate_cost(file_path):
     polly_cost_long_form = (character_count / 1000000) * 100  # $100 per 1M characters
 
     return character_count, gpt_cost, polly_cost_generative, polly_cost_long_form
+
+def estimate_total_cost(file_paths):
+    total_character_count = 0
+    total_gpt_cost = 0
+    total_polly_cost_generative = 0
+    total_polly_cost_long_form = 0
+    
+    for file_path in file_paths:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            file_content = file.read()
+        
+        character_count = len(file_content)
+        total_character_count += character_count
+        
+        # Calculate costs
+        gpt_cost = (character_count / 1000000) * 20  # $0.02 per 1k tokens (approx 750 characters)
+        polly_cost_generative = (character_count / 1000000) * 30  # $30 per 1M characters
+        polly_cost_long_form = (character_count / 1000000) * 100  # $100 per 1M characters
+        
+        total_gpt_cost += gpt_cost
+        total_polly_cost_generative += polly_cost_generative
+        total_polly_cost_long_form += polly_cost_long_form
+    
+    return total_character_count, total_gpt_cost, total_polly_cost_generative, total_polly_cost_long_form
+
