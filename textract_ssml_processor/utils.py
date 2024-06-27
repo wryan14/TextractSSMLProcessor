@@ -4,6 +4,7 @@ import re
 import time
 from xml.etree import ElementTree as ET
 from xml.etree.ElementTree import ParseError
+from lxml import etree
 import html
 from werkzeug.utils import secure_filename
 from flask import current_app
@@ -241,8 +242,16 @@ def process_ssml_chunks(file_path, output_folder):
     
     chunk_files = []
     base_name = os.path.splitext(os.path.basename(file_path))[0]
+    base_name = base_name.replace('processed_', '')
     for i, chunk in enumerate(chunks, start=1):
-        chunk_file_name = f"{base_name}_chunk_{i}.txt"
+        if len(base_name.split('_part_'))==2:
+            if len(chunks) >=2:
+                part_num = base_name.split('_part_')[-1]+'_'+str(int(i))
+            else:
+                part_num = base_name.split('_part_')[-1]
+            chunk_file_name = f"{base_name}_chunk_{part_num}.txt"
+        else:
+            chunk_file_name = f"{base_name}_chunk_{i}.txt"
         chunk_file_path = os.path.join(output_folder, chunk_file_name)
         with open(chunk_file_path, 'w', encoding='utf-8') as file:
             file.write(chunk)
@@ -300,17 +309,21 @@ def clean_ssml_tags(file_path):
 
         content = re.sub(r'<w([^>]*)>', lambda m: ensure_role_attribute(m.group(0)), content)
 
-        root = ET.fromstring(f"<root>{content}</root>")
+        root = etree.fromstring(f"<root>{content}</root>")
 
-        def remove_unwanted_tags(element):
+        def remove_unwanted_tags(element, allowed_tags=allowed_tags):
             for child in list(element):
                 if child.tag not in allowed_tags:
-                    element.remove(child)
+                    # Replace the tag with its children
+                    parent = child.getparent()
+                    for grandchild in list(child):
+                        parent.insert(parent.index(child), grandchild)
+                    parent.remove(child)
                 else:
-                    remove_unwanted_tags(child)
+                    remove_unwanted_tags(child, allowed_tags)
 
         remove_unwanted_tags(root)
-        cleaned_ssml = ET.tostring(root, encoding='unicode').replace('<root>', '').replace('</root>', '')
+        cleaned_ssml = etree.tostring(root, encoding='unicode').replace('<root>', '').replace('</root>', '')
 
         with open(file_path, 'w', encoding='utf-8') as file:
             file.write(cleaned_ssml)
