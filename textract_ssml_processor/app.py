@@ -64,8 +64,8 @@ def confirm():
     processed_file_paths = process_text_file(upload_file_path, output_file_name, title, author, language)
 
     # Remove the original uploaded file
-    if os.path.exists(upload_file_path):
-        os.remove(upload_file_path)
+    # if os.path.exists(upload_file_path):
+    #     os.remove(upload_file_path)
 
     return redirect(url_for('app.index'))
 
