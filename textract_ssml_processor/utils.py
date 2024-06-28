@@ -4,6 +4,7 @@ import re
 import time
 from xml.etree import ElementTree as ET
 from xml.etree.ElementTree import ParseError
+from lxml import etree
 import html
 from werkzeug.utils import secure_filename
 from flask import current_app
@@ -241,8 +242,16 @@ def process_ssml_chunks(file_path, output_folder):
     
     chunk_files = []
     base_name = os.path.splitext(os.path.basename(file_path))[0]
+    base_name = base_name.replace('processed_', '')
     for i, chunk in enumerate(chunks, start=1):
-        chunk_file_name = f"{base_name}_chunk_{i}.txt"
+        if len(base_name.split('_part_'))==2:
+            if len(chunks) >=2:
+                part_num = base_name.split('_part_')[-1]+'_'+str(int(i))
+            else:
+                part_num = base_name.split('_part_')[-1]
+            chunk_file_name = f"{base_name}_chunk_{part_num}.txt"
+        else:
+            chunk_file_name = f"{base_name}_chunk_{i}.txt"
         chunk_file_path = os.path.join(output_folder, chunk_file_name)
         with open(chunk_file_path, 'w', encoding='utf-8') as file:
             file.write(chunk)
@@ -300,17 +309,21 @@ def clean_ssml_tags(file_path):
 
         content = re.sub(r'<w([^>]*)>', lambda m: ensure_role_attribute(m.group(0)), content)
 
-        root = ET.fromstring(f"<root>{content}</root>")
+        root = etree.fromstring(f"<root>{content}</root>")
 
-        def remove_unwanted_tags(element):
+        def remove_unwanted_tags(element, allowed_tags=allowed_tags):
             for child in list(element):
                 if child.tag not in allowed_tags:
-                    element.remove(child)
+                    # Replace the tag with its children
+                    parent = child.getparent()
+                    for grandchild in list(child):
+                        parent.insert(parent.index(child), grandchild)
+                    parent.remove(child)
                 else:
-                    remove_unwanted_tags(child)
+                    remove_unwanted_tags(child, allowed_tags)
 
         remove_unwanted_tags(root)
-        cleaned_ssml = ET.tostring(root, encoding='unicode').replace('<root>', '').replace('</root>', '')
+        cleaned_ssml = etree.tostring(root, encoding='unicode').replace('<root>', '').replace('</root>', '')
 
         with open(file_path, 'w', encoding='utf-8') as file:
             file.write(cleaned_ssml)
@@ -336,3 +349,28 @@ def estimate_cost(file_path):
     polly_cost_long_form = (character_count / 1000000) * 100  # $100 per 1M characters
 
     return character_count, gpt_cost, polly_cost_generative, polly_cost_long_form
+
+def estimate_total_cost(file_paths):
+    total_character_count = 0
+    total_gpt_cost = 0
+    total_polly_cost_generative = 0
+    total_polly_cost_long_form = 0
+    
+    for file_path in file_paths:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            file_content = file.read()
+        
+        character_count = len(file_content)
+        total_character_count += character_count
+        
+        # Calculate costs
+        gpt_cost = (character_count / 1000000) * 20  # $0.02 per 1k tokens (approx 750 characters)
+        polly_cost_generative = (character_count / 1000000) * 30  # $30 per 1M characters
+        polly_cost_long_form = (character_count / 1000000) * 100  # $100 per 1M characters
+        
+        total_gpt_cost += gpt_cost
+        total_polly_cost_generative += polly_cost_generative
+        total_polly_cost_long_form += polly_cost_long_form
+    
+    return total_character_count, total_gpt_cost, total_polly_cost_generative, total_polly_cost_long_form
+
