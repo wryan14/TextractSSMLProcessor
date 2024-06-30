@@ -1,23 +1,31 @@
-# ssml_processing.py
-
 import boto3
 import os
 import re
 from botocore.exceptions import BotoCoreError, ClientError
 
-def split_ssml(ssml_text, max_chunk_size=3000):
+def split_ssml(ssml_text, max_chunk_size=2500):
     parts = re.split(r'(<[^>]+>)', ssml_text)
-
     chunks = []
     current_chunk = ""
     current_length = 0
     open_tags = []
 
-    def add_closing_tags(open_tags):
-        return "".join([f"</{tag[1:]}" for tag in reversed(open_tags)])
+    def add_closing_tags(tags):
+        closing_tags = ""
+        for tag in reversed(tags):
+            if tag.startswith('</'):
+                continue
+            tag_name = tag[1:-1].split()[0]  # Get the tag name without attributes
+            closing_tags += f"</{tag_name}>"
+        return closing_tags
 
-    def add_opening_tags(open_tags):
-        return "".join(open_tags)
+    def add_opening_tags(tags):
+        opening_tags = ""
+        for tag in tags:
+            if tag.startswith('</'):
+                continue
+            opening_tags += tag
+        return opening_tags
 
     for part in parts:
         part_length = len(part)
@@ -29,7 +37,8 @@ def split_ssml(ssml_text, max_chunk_size=3000):
             if re.match(r'<[^/]+>', part) and not part.startswith('<speak'):
                 open_tags.append(part)
             elif re.match(r'</[^>]+>', part):
-                if open_tags and open_tags[-1][1:] == part[2:]:
+                tag_name = part[2:-1]
+                if open_tags and open_tags[-1][1:-1].split()[0] == tag_name:
                     open_tags.pop()
         else:
             current_chunk += add_closing_tags(open_tags)
@@ -39,11 +48,12 @@ def split_ssml(ssml_text, max_chunk_size=3000):
             current_chunk = add_opening_tags(open_tags) + part
             current_length = len(current_chunk)
 
-            open_tags = []
+            open_tags = [tag for tag in open_tags if not tag.startswith('</')]
             if re.match(r'<[^/]+>', part) and not part.startswith('<speak'):
                 open_tags.append(part)
             elif re.match(r'</[^>]+>', part):
-                if open_tags and open_tags[-1][1:] == part[2:]:
+                tag_name = part[2:-1]
+                if open_tags and open_tags[-1][1:-1].split()[0] == tag_name:
                     open_tags.pop()
 
     if current_chunk:
@@ -71,16 +81,28 @@ def process_ssml_files(input_directory, output_directory, output_filename, defau
 
     os.makedirs(output_directory, exist_ok=True)
     output_files = []
-    input_files = sorted([f for f in os.listdir(input_directory) if f.endswith('.txt')])
+
+    pattern = re.compile(r'_(part_\d+)_.*_(chunk_\d+)\.txt$')
+    input_files = [f for f in os.listdir(input_directory) if f.endswith('.txt') and pattern.search(f)]
+    sorted_files = sorted(input_files, key=lambda x: (
+        int(pattern.search(x).group(1).split('_')[1]), 
+        int(pattern.search(x).group(2).split('_')[1])
+    ))
 
     global_part_number = 1
 
-    for input_file in input_files:
+    for input_file in sorted_files:
         voice_id = get_voice_from_filename(input_file, default_voice_id)
         engine = voice_engine_map[voice_id]
-        max_chars = 3000 if engine == 'generative' else 6000
 
-        with open(os.path.join(input_directory, input_file), 'r') as file:
+        if engine=='generative':
+            max_chars=2750
+        elif engine=='long-form':
+            max_chars=2500
+        else:
+            max_chars=6000
+
+        with open(os.path.join(input_directory, input_file), 'r', encoding='utf-8') as file:
             ssml_text = file.read()
 
         ssml_chunks = split_ssml(ssml_text, max_chars)
@@ -108,16 +130,30 @@ def process_ssml_files(input_directory, output_directory, output_filename, defau
 
             except (BotoCoreError, ClientError) as error:
                 print(f"Error processing {input_file} (part {global_part_number}): {error}")
-                break
+                raise error
 
     return output_files
 
 def rename_files(directory):
     files = os.listdir(directory)
-    filtered_files = [f for f in files if f.endswith('.txt') and f.split('_')[-1][0].isdigit()]
-    sorted_files = sorted(filtered_files, key=lambda x: int(x.split('_')[-1].split('.')[0]))
+    
+    pattern = re.compile(r'_(part_\d+)_.*_(chunk_\d+)\.txt$')
+    filtered_files = [f for f in files if f.endswith('.txt') and pattern.search(f)]
+    sorted_files = sorted(filtered_files, key=lambda x: (
+        int(pattern.search(x).group(1).split('_')[1]), 
+        int(pattern.search(x).group(2).split('_')[1])
+    ))
 
     for index, file_name in enumerate(sorted_files):
-        new_name = f"{file_name.rsplit('_', 1)[0]}_{index + 1}.txt"
+        new_name = re.sub(r'chunk_\d+', f'chunk_{index + 1}', file_name)
         os.rename(os.path.join(directory, file_name), os.path.join(directory, new_name))
-        print(f"Renamed: {file_name} -> {new_name}")
+        if index<4:
+            print(f"Renamed: {file_name} -> {new_name}")
+
+# Example usage:
+# output_files = process_ssml_files(
+#     input_directory='/path/to/ssml/files',
+#     output_directory='/path/to/output',
+#     output_filename='my_audiobook',
+#     default_voice_id='Matthew'
+# )
