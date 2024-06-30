@@ -74,7 +74,7 @@ def clean(filename):
     processed_folder = current_app.config['PROCESSED_FOLDER']
     chunks_folder = current_app.config['CHUNKS_FOLDER']
     file_path = os.path.join(processed_folder, filename)
-    chunked_files = process_ssml_chunks(file_path, chunks_folder)
+    chunked_files = process_ssml_chunks(file_path, chunks_folder, add_title_files=True)
     for chunk_file in chunked_files:
         clean_ssml_tags(os.path.join(chunks_folder, chunk_file))
 

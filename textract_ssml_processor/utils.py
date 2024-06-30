@@ -212,19 +212,29 @@ def process_text_file(file_path, output_file_name, title, author, language):
     print(f"File processed and saved as {output_file_path}")
     return output_file_path
 
-def process_ssml_chunks(file_path, output_folder):
+
+def generate_title_file(title, output_folder, base_name, part_num, chunk_num):
+    title_content = f"""<speak>
+<break time="1s"/>[ADD TITLE </speak>]
+<break time="2s"/>
+</speak>"""
+    title_file_name = f"{chunk_num}-{base_name}_part_{part_num}_voice_Ruth_chunk_{chunk_num}.txt"
+    title_file_path = os.path.join(output_folder, title_file_name)
+    with open(title_file_path, 'w', encoding='utf-8') as file:
+        file.write(title_content)
+    return title_file_name
+
+def process_ssml_chunks(file_path, output_folder, add_title_files=False):
     with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
     
-    # Remove any existing <speak> tags to avoid duplicates
     text = re.sub(r'</?speak>', '', text)
-
     text = html.unescape(text)
     paragraphs = re.split(r'(?<=</p>)', text)
     
     chunks = []
     current_chunk = ''
-    chunk_size = 50000  # 50,000 characters
+    chunk_size = 50000
 
     for para in paragraphs:
         if len(current_chunk) + len(para) > chunk_size:
@@ -233,7 +243,6 @@ def process_ssml_chunks(file_path, output_folder):
         else:
             current_chunk += para
     
-    # Add the last chunk if it's not empty
     if current_chunk:
         chunks.append(f'<speak>{current_chunk}</speak>')
     
@@ -243,19 +252,24 @@ def process_ssml_chunks(file_path, output_folder):
     chunk_files = []
     base_name = os.path.splitext(os.path.basename(file_path))[0]
     base_name = base_name.replace('processed_', '')
-    for i, chunk in enumerate(chunks, start=1):
-        if len(base_name.split('_part_'))==2:
-            if len(chunks) >=2:
-                part_num = base_name.split('_part_')[-1]+'_'+str(int(i))
-            else:
-                part_num = base_name.split('_part_')[-1]
-            chunk_file_name = f"{base_name}_chunk_{part_num}.txt"
-        else:
-            chunk_file_name = f"{base_name}_chunk_{i}.txt"
+    
+    part_num = base_name.split('_part_')[-1] if '_part_' in base_name else '1'
+    
+    chunk_num = 1
+    
+    if add_title_files:
+        title = f"Part {part_num}"
+        title_file = generate_title_file(title, output_folder, base_name, part_num, chunk_num)
+        chunk_files.append(title_file)
+        chunk_num += 1
+
+    for chunk in chunks:
+        chunk_file_name = f"{chunk_num}-{base_name}_part_{part_num}_chunk_{chunk_num}.txt"
         chunk_file_path = os.path.join(output_folder, chunk_file_name)
         with open(chunk_file_path, 'w', encoding='utf-8') as file:
             file.write(chunk)
         chunk_files.append(chunk_file_name)
+        chunk_num += 1
     
     return chunk_files
 
