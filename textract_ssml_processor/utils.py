@@ -212,13 +212,13 @@ def process_text_file(file_path, output_file_name, title, author, language):
     print(f"File processed and saved as {output_file_path}")
     return output_file_path
 
-
 def generate_title_file(title, output_folder, base_name, part_num, chunk_num):
     title_content = f"""<speak>
-<break time="1s"/>[ADD TITLE </speak>]
+<break time="1s"/>[TITLE </speak>]
 <break time="2s"/>
 </speak>"""
-    title_file_name = f"{chunk_num}-{base_name}_part_{part_num}_voice_Ruth_chunk_{chunk_num}.txt"
+    
+    title_file_name = f"{base_name}_Title_voice_Ruth_chunk_{chunk_num}.txt"
     title_file_path = os.path.join(output_folder, title_file_name)
     with open(title_file_path, 'w', encoding='utf-8') as file:
         file.write(title_content)
@@ -261,10 +261,9 @@ def process_ssml_chunks(file_path, output_folder, add_title_files=False):
         title = f"Part {part_num}"
         title_file = generate_title_file(title, output_folder, base_name, part_num, chunk_num)
         chunk_files.append(title_file)
-        chunk_num += 1
 
     for chunk in chunks:
-        chunk_file_name = f"{chunk_num}-{base_name}_part_{part_num}_chunk_{chunk_num}.txt"
+        chunk_file_name = f"{base_name}_z_chunk_{chunk_num}.txt"
         chunk_file_path = os.path.join(output_folder, chunk_file_name)
         with open(chunk_file_path, 'w', encoding='utf-8') as file:
             file.write(chunk)
