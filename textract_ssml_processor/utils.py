@@ -298,6 +298,39 @@ def get_cleaned_chunks(folder, filename):
     print(f"Cleaned chunks for {filename}: {chunks}")
     return chunks
 
+def preprocess_ssml_tags(file_path):
+    # List of allowed tags
+    allowed_tags = ["break", "lang", "p", "phoneme", "s", "speak", "sub", "w"]
+
+    # Create a regex pattern to match allowed tags and their attributes
+    allowed_pattern = re.compile(r'</?({})(\s[^>]*)?/?>'.format('|'.join(allowed_tags)), re.IGNORECASE)
+
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            content = file.read()
+
+        # Unescape HTML entities
+        content = html.unescape(content)
+
+        # Function to remove disallowed tags
+        def remove_disallowed_tags(match):
+            tag = match.group(0)
+            if allowed_pattern.match(tag):
+                return tag
+            else:
+                return ''  # Remove disallowed tag
+
+        # Remove disallowed tags while preserving allowed tags
+        cleaned_content = re.sub(r'</?[^>]+>', remove_disallowed_tags, content)
+
+        with open(file_path, 'w', encoding='utf-8') as file:
+            file.write(cleaned_content)
+
+        print(f"Preprocessed SSML file saved at {file_path}")
+
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
 # Function to clean SSML tags
 def clean_ssml_tags(file_path):
     allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <sub>, <w>"
@@ -327,10 +360,15 @@ def clean_ssml_tags(file_path):
         def remove_unwanted_tags(element, allowed_tags=allowed_tags):
             for child in list(element):
                 if child.tag not in allowed_tags:
-                    # Replace the tag with its children
+                    # Keep the text content and tail
+                    text = (child.text or '') + (child.tail or '')
+                    previous = child.getprevious()
                     parent = child.getparent()
-                    for grandchild in list(child):
-                        parent.insert(parent.index(child), grandchild)
+                    if previous is not None:
+                        previous.tail = (previous.tail or '') + text
+                    else:
+                        parent.text = (parent.text or '') + text
+                    # Remove the unwanted tag
                     parent.remove(child)
                 else:
                     remove_unwanted_tags(child, allowed_tags)

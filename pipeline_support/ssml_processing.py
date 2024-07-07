@@ -42,7 +42,7 @@ def split_ssml(ssml_text, max_chunk_size=2500):
                     open_tags.pop()
         else:
             current_chunk += add_closing_tags(open_tags)
-            current_chunk = f"<speak>{current_chunk}</speak>"
+            current_chunk = f"<speak>{current_chunk.strip()}</speak>"
             chunks.append(current_chunk)
 
             current_chunk = add_opening_tags(open_tags) + part
@@ -130,6 +130,10 @@ def process_ssml_files(input_directory, output_directory, output_filename, defau
 
             except (BotoCoreError, ClientError) as error:
                 print(f"Error processing {input_file} (part {global_part_number}): {error}")
+                print(chunk)
+                raise error
+            except Exception as error:
+                print(chunk)
                 raise error
 
     return output_files

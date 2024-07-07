@@ -2,7 +2,7 @@
 from flask import Blueprint, current_app, render_template, request, redirect, url_for, send_from_directory, flash
 from werkzeug.utils import secure_filename
 from .forms import UploadForm
-from .utils import process_text_file, clean_ssml_tags, get_existing_files, get_cleaned_chunks, estimate_cost, process_ssml_chunks, estimate_total_cost
+from .utils import process_text_file, clean_ssml_tags, preprocess_ssml_tags, get_existing_files, get_cleaned_chunks, estimate_cost, process_ssml_chunks, estimate_total_cost
 import os
 
 bp = Blueprint('app', __name__)
@@ -76,6 +76,7 @@ def clean(filename):
     file_path = os.path.join(processed_folder, filename)
     chunked_files = process_ssml_chunks(file_path, chunks_folder, add_title_files=True)
     for chunk_file in chunked_files:
+        preprocess_ssml_tags(os.path.join(chunks_folder, chunk_file))
         clean_ssml_tags(os.path.join(chunks_folder, chunk_file))
 
     return redirect(url_for('app.index'))
