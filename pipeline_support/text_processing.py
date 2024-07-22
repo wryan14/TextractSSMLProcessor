@@ -8,7 +8,7 @@ def remove_square_brackets(text):
 
 def split_into_sections(text):
     sections = re.split(r'<h4><center>', text)
-    return [section.strip() for section in sections if section.strip()]
+    return [section.strip() for section in sections if section.strip() and section.strip()!="<br>"]
 
 def extract_and_print_all_caps_title(content, part):
     lines = content.split('\n')

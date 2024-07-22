@@ -67,7 +67,12 @@ def get_voice_from_filename(filename, default_voice):
     voice_match = re.search(r'_voice_(Ruth|Matthew|Gregory)_', filename)
     return voice_match.group(1) if voice_match else default_voice
 
-def process_ssml_files(input_directory, output_directory, output_filename, default_voice_id):
+class SSMLProcessingError(Exception):
+    """Custom exception for SSML processing errors"""
+    pass
+
+def process_ssml_files(input_directory, output_directory, output_filename, default_voice_id, start_part=1):
+    print(f"Starting process_ssml_files with start_part={start_part}")
     polly_client = boto3.client('polly')
 
     voice_engine_map = {
@@ -84,30 +89,49 @@ def process_ssml_files(input_directory, output_directory, output_filename, defau
 
     pattern = re.compile(r'_(part_\d+)_.*_(chunk_\d+)\.txt$')
     input_files = [f for f in os.listdir(input_directory) if f.endswith('.txt') and pattern.search(f)]
+    
+    if not input_files:
+        raise SSMLProcessingError(f"No input files found in directory: {input_directory}")
+
     sorted_files = sorted(input_files, key=lambda x: (
         int(pattern.search(x).group(1).split('_')[1]), 
         int(pattern.search(x).group(2).split('_')[1])
     ))
 
+    print(f"Found {len(sorted_files)} input files")
+
     global_part_number = 1
 
     for input_file in sorted_files:
+        print(f"Processing file: {input_file}")
+
         voice_id = get_voice_from_filename(input_file, default_voice_id)
         engine = voice_engine_map[voice_id]
 
-        if engine=='generative':
-            max_chars=2750
-        elif engine=='long-form':
-            max_chars=2500
+        if engine == 'generative':
+            max_chars = 2750
+        elif engine == 'long-form':
+            max_chars = 2500
         else:
-            max_chars=6000
+            max_chars = 6000
 
-        with open(os.path.join(input_directory, input_file), 'r', encoding='utf-8') as file:
-            ssml_text = file.read()
+        try:
+            with open(os.path.join(input_directory, input_file), 'r', encoding='utf-8') as file:
+                ssml_text = file.read()
+        except Exception as e:
+            raise SSMLProcessingError(f"Error reading file {input_file}: {str(e)}")
 
         ssml_chunks = split_ssml(ssml_text, max_chars)
+        print(f"Split {input_file} into {len(ssml_chunks)} chunks")
 
-        for chunk in ssml_chunks:
+        for chunk_index, chunk in enumerate(ssml_chunks):
+            print(f"Processing part {global_part_number} (File: {input_file}, Chunk: {chunk_index + 1})")
+            
+            if global_part_number < start_part:
+                print(f"Skipping part {global_part_number} < start_part {start_part}")
+                global_part_number += 1
+                continue
+
             try:
                 response = polly_client.synthesize_speech(
                     Engine=engine,
@@ -129,13 +153,11 @@ def process_ssml_files(input_directory, output_directory, output_filename, defau
                 global_part_number += 1
 
             except (BotoCoreError, ClientError) as error:
-                print(f"Error processing {input_file} (part {global_part_number}): {error}")
-                print(chunk)
-                raise error
+                raise SSMLProcessingError(f"Error processing {input_file} (part {global_part_number}, chunk {chunk_index + 1}): {error}\nProblematic chunk: {chunk}")
             except Exception as error:
-                print(chunk)
-                raise error
+                raise SSMLProcessingError(f"Unexpected error processing {input_file} (part {global_part_number}, chunk {chunk_index + 1}): {error}\nProblematic chunk: {chunk}")
 
+    print(f"Finished processing. Generated {len(output_files)} output files.")
     return output_files
 
 def rename_files(directory):
@@ -151,7 +173,7 @@ def rename_files(directory):
     for index, file_name in enumerate(sorted_files):
         new_name = re.sub(r'chunk_\d+', f'chunk_{index + 1}', file_name)
         os.rename(os.path.join(directory, file_name), os.path.join(directory, new_name))
-        if index<4:
+        if index < 4:
             print(f"Renamed: {file_name} -> {new_name}")
 
 # Example usage:
