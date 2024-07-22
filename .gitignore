@@ -88,3 +88,4 @@ chunks/
 processed/
 uploads/
 *.ipynb
+translation_logs/

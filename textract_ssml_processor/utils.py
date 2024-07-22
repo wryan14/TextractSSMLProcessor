@@ -10,6 +10,29 @@ from werkzeug.utils import secure_filename
 from flask import current_app
 from bs4 import BeautifulSoup
 
+import logging
+import json
+import os
+from datetime import datetime
+
+# Setup logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+# Create a custom logger for translations
+translation_logger = logging.getLogger('translation_mapping')
+translation_logger.setLevel(logging.INFO)
+
+# Create a file handler for the translation logger
+log_directory = 'translation_logs'
+os.makedirs(log_directory, exist_ok=True)
+log_file = os.path.join(log_directory, f'translation_log_{datetime.now().strftime("%Y%m%d_%H%M%S")}.json')
+file_handler = logging.FileHandler(log_file, mode='w')
+translation_logger.addHandler(file_handler)
+
+def log_translation(original, translated):
+    translation_logger.info(json.dumps({'original': original, 'translated': translated}))
+
 # Retrieve the API key from the environment variable
 api_key = os.getenv('OPENAI_API_KEY')
 
@@ -18,6 +41,9 @@ if not api_key:
 
 # Initialize the client with the API key
 client = openai.OpenAI(api_key=api_key)
+
+def log_translation(original, translated):
+    translation_logger.info(json.dumps({'original': original, 'translated': translated}))
 
 # Function to remove page titles and headers
 def remove_headers(text):
@@ -123,7 +149,10 @@ def validate_ssml_with_gpt(ssml_chunk):
 
 
 
+# Modify the safe_format_text_with_gpt function
 def safe_format_text_with_gpt(text_chunk, language="Latin", title="", author=""):
+    original_text = text_chunk
+
     if language.lower() != 'english':
         formatted_prompt = generate_translation_request(text_chunk, language)
     else:
@@ -138,16 +167,34 @@ def safe_format_text_with_gpt(text_chunk, language="Latin", title="", author="")
                 temperature=0.7
             )
             if response.choices and response.choices[0].message:
-                enhanced_ssml = clean_and_enhance_ssml_with_gpt(response.choices[0].message.content.strip())
+                translated_text = response.choices[0].message.content.strip()
+                
+                # Log the translation
+                if language.lower() != 'english':
+                    log_translation(original_text, translated_text)
+                
+                enhanced_ssml = clean_and_enhance_ssml_with_gpt(translated_text)
                 validated_ssml = validate_ssml_with_gpt(enhanced_ssml)
+                
                 return validated_ssml
             else:
                 return "No response generated"
         except Exception as e:
             wait = 2 ** attempt
-            print(f"Request failed, retrying in {wait} seconds... Exception: {e}")
+            logger.error(f"Request failed, retrying in {wait} seconds... Exception: {e}")
             time.sleep(wait)
     raise Exception("Failed to process text after multiple attempts")
+
+# Add this function to retrieve synchronized texts from the log file
+def get_synchronized_texts(log_file_path):
+    original_texts = []
+    translated_texts = []
+    with open(log_file_path, 'r') as log_file:
+        for line in log_file:
+            entry = json.loads(line)
+            original_texts.append(entry['original'])
+            translated_texts.append(entry['translated'])
+    return "\n\n".join(original_texts), "\n\n".join(translated_texts)
 
 
 def convert_html_to_ssml(html_content):
@@ -331,33 +378,18 @@ def preprocess_ssml_tags(file_path):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-# Function to clean SSML tags
 def clean_ssml_tags(file_path):
-    allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <sub>, <w>"
+    allowed_tags = ["break", "lang", "p", "phoneme", "s", "speak", "sub", "w"]
 
     def ensure_role_attribute(tag):
         if 'role=' not in tag:
             tag = tag.replace('<w', '<w role="amazon:NN"', 1)
         return tag
 
-    try:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            content = file.read()
-
-        content = html.unescape(content)
-
-        def ensure_break_time(match):
-            if 'time' not in match.group(0):
-                return '<break time="1s"/>'
-            return match.group(0)
-
-        content = re.sub(r'<break\s*/?>', ensure_break_time, content)
-
-        content = re.sub(r'<w([^>]*)>', lambda m: ensure_role_attribute(m.group(0)), content)
-
+    def clean_tags(content):
         root = etree.fromstring(f"<root>{content}</root>")
 
-        def remove_unwanted_tags(element, allowed_tags=allowed_tags):
+        def remove_unwanted_tags(element):
             for child in list(element):
                 if child.tag not in allowed_tags:
                     # Keep the text content and tail
@@ -371,20 +403,64 @@ def clean_ssml_tags(file_path):
                     # Remove the unwanted tag
                     parent.remove(child)
                 else:
-                    remove_unwanted_tags(child, allowed_tags)
+                    remove_unwanted_tags(child)
 
         remove_unwanted_tags(root)
-        cleaned_ssml = etree.tostring(root, encoding='unicode').replace('<root>', '').replace('</root>', '')
+        return etree.tostring(root, encoding='unicode').replace('<root>', '').replace('</root>', '')
+
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            content = file.read()
+
+        content = html.unescape(content)
+
+        # Initial cleaning
+        content = re.sub(r'<break\s*/?>', lambda m: '<break time="1s"/>' if 'time' not in m.group(0) else m.group(0), content)
+        content = re.sub(r'<w([^>]*)>', ensure_role_attribute, content)
+        content = clean_tags(content)
+
+        # Apply the smoothing process
+        smoothed_ssml = smooth_text_for_youtube(content)
+
+        # Final cleaning after smoothing
+        final_cleaned_ssml = clean_tags(smoothed_ssml)
+
+        # Ensure the content is wrapped in <speak> tags
+        if not final_cleaned_ssml.strip().startswith('<speak>'):
+            final_cleaned_ssml = f'<speak>{final_cleaned_ssml}</speak>'
 
         with open(file_path, 'w', encoding='utf-8') as file:
-            file.write(cleaned_ssml)
+            file.write(final_cleaned_ssml)
 
-        print(f"Cleaned SSML file saved at {file_path}")
+        print(f"Cleaned, smoothed, and re-cleaned SSML file saved at {file_path}")
 
-    except ParseError as e:
+    except etree.ParseError as e:
         print(f"Error parsing the SSML text: {e}")
     except Exception as e:
         print(f"An error occurred: {e}")
+
+def smooth_text_for_youtube(ssml_content):
+    prompt = ("Please review and smooth over the following text to make it more readable and coherent for a YouTube video script. "
+              "Ensure that the meaning and tone are preserved, and make the language flow naturally for spoken presentation. "
+              "Do not alter any SSML tags or introduce new ones. Provide only the smoothed-over text without adding any new content.")
+
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[
+                {"role": "system", "content": "You are an AI assistant that smooths text for YouTube scripts while preserving SSML tags."},
+                {"role": "user", "content": f"{prompt}\n\nText to smooth: {ssml_content}"}
+            ],
+            max_tokens=2048,
+            temperature=0.7
+        )
+        if response.choices and response.choices[0].message:
+            return response.choices[0].message.content.strip()
+        else:
+            return ssml_content  # Return original content if no response
+    except Exception as e:
+        print(f"Error in smoothing text: {e}")
+        return ssml_content  # Return original content in case of error
 
 def estimate_cost(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -423,5 +499,4 @@ def estimate_total_cost(file_paths):
         total_polly_cost_generative += polly_cost_generative
         total_polly_cost_long_form += polly_cost_long_form
     
-    return total_character_count, total_gpt_cost, total_polly_cost_generative, total_polly_cost_long_form
-
+    return total_character_count, total_gpt_cost, total_poll
