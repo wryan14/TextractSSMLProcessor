@@ -30,8 +30,13 @@ log_file = os.path.join(log_directory, f'translation_log_{datetime.now().strftim
 file_handler = logging.FileHandler(log_file, mode='w')
 translation_logger.addHandler(file_handler)
 
-def log_translation(original, translated):
-    translation_logger.info(json.dumps({'original': original, 'translated': translated}))
+def log_translation(latin_text, english_text):
+    log_directory = 'translation_logs'
+    os.makedirs(log_directory, exist_ok=True)
+    log_file = os.path.join(log_directory, f'translation_log_{datetime.now().strftime("%Y%m%d_%H%M%S")}.json')
+    with open(log_file, 'a') as file:
+        json.dump({'latin': latin_text, 'english': english_text}, file)
+        file.write('\n')
 
 # Retrieve the API key from the environment variable
 api_key = os.getenv('OPENAI_API_KEY')
@@ -42,8 +47,8 @@ if not api_key:
 # Initialize the client with the API key
 client = openai.OpenAI(api_key=api_key)
 
-def log_translation(original, translated):
-    translation_logger.info(json.dumps({'original': original, 'translated': translated}))
+# def log_translation(original, translated):
+#     translation_logger.info(json.dumps({'original': original, 'translated': translated}))
 
 # Function to remove page titles and headers
 def remove_headers(text):
@@ -149,7 +154,6 @@ def validate_ssml_with_gpt(ssml_chunk):
 
 
 
-# Modify the safe_format_text_with_gpt function
 def safe_format_text_with_gpt(text_chunk, language="Latin", title="", author=""):
     original_text = text_chunk
 
@@ -157,7 +161,7 @@ def safe_format_text_with_gpt(text_chunk, language="Latin", title="", author="")
         formatted_prompt = generate_translation_request(text_chunk, language)
     else:
         formatted_prompt = generate_ssml_request(text_chunk, title, author)
- 
+
     for attempt in range(5):  # Retry up to 5 times
         try:
             response = client.chat.completions.create(
@@ -168,15 +172,15 @@ def safe_format_text_with_gpt(text_chunk, language="Latin", title="", author="")
             )
             if response.choices and response.choices[0].message:
                 translated_text = response.choices[0].message.content.strip()
-                
-                # Log the translation
-                if language.lower() != 'english':
-                    log_translation(original_text, translated_text)
-                
+
+                # Clean SSML and get the smoothed text
                 enhanced_ssml = clean_and_enhance_ssml_with_gpt(translated_text)
                 validated_ssml = validate_ssml_with_gpt(enhanced_ssml)
-                
-                return validated_ssml
+
+                # Get the smoothed text for logging
+                smooth_text = smooth_text_for_youtube(validated_ssml)
+
+                return smooth_text, text_chunk
             else:
                 return "No response generated"
         except Exception as e:
@@ -246,17 +250,27 @@ def process_text_file(file_path, output_file_name, title, author, language):
         clean_text = remove_headers(text)
 
     chunks = chunk_text(clean_text)
-    formatted_chunks = [safe_format_text_with_gpt(chunk, language, title, author) for chunk in chunks]
+    tuple_chunk = [safe_format_text_with_gpt(chunk, language, title, author) for chunk in chunks]
+    formatted_chunks = [x[0] for x in tuple_chunk]
+    latin_chunks = [x[1] for x in tuple_chunk]
     formatted_text = '\n'.join(formatted_chunks)
+    latin_text = '\n'.join(latin_chunks)
     
     output_folder = current_app.config['PROCESSED_FOLDER']
+    output_latin_folder = current_app.config['LATIN_FOLDER']
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
+    if not os.path.exists(output_latin_folder):
+        os.makedirs(output_latin_folder)
     output_file_path = os.path.join(output_folder, output_file_name)
+    output_latin_path = os.path.join(output_latin_folder, 'latin_'+output_file_name)
     
     with open(output_file_path, 'w', encoding='utf-8') as file:
         file.write(formatted_text.replace('```xml', "").replace('```ssml', '').replace('```', ''))
     print(f"File processed and saved as {output_file_path}")
+
+    with open(output_latin_path, 'w', encoding='utf-8') as latinfile:
+        latinfile.write(latin_text)
     return output_file_path
 
 def generate_title_file(title, output_folder, base_name, part_num, chunk_num):
@@ -272,6 +286,17 @@ def generate_title_file(title, output_folder, base_name, part_num, chunk_num):
     return title_file_name
 
 def process_ssml_chunks(file_path, output_folder, add_title_files=False):
+    try:
+        latin_correlate_file = os.path.basename(file_path)
+        latin_correlate_path = current_app.config['LATIN_FOLDER']
+        latin_correlate_path = os.path.join(latin_correlate_path, 'latin_' + latin_correlate_file)
+        
+        with open(latin_correlate_path, 'r', encoding='utf-8') as latin_file:
+            latin_text = latin_file.read()
+    except Exception as e:
+        print('Error loading Latin path - ', e)
+        latin_text = ""
+
     with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
     
@@ -309,13 +334,27 @@ def process_ssml_chunks(file_path, output_folder, add_title_files=False):
         title_file = generate_title_file(title, output_folder, base_name, part_num, chunk_num)
         chunk_files.append(title_file)
 
+    translated_chunks = []
+
     for chunk in chunks:
         chunk_file_name = f"{base_name}_z_chunk_{chunk_num}.txt"
         chunk_file_path = os.path.join(output_folder, chunk_file_name)
+        
+        # Save the chunk to a file
         with open(chunk_file_path, 'w', encoding='utf-8') as file:
             file.write(chunk)
+        
+        # Translate the chunk and clean SSML
+        translated_chunk = safe_format_text_with_gpt(chunk, language="Latin")
+        translated_chunks.append(translated_chunk)
+
         chunk_files.append(chunk_file_name)
         chunk_num += 1
+    
+    final_translated_text = '\n'.join(translated_chunks)
+
+    # Log the original Latin text and the final English translated text
+    log_translation(latin_text, final_translated_text)
     
     return chunk_files
 
@@ -499,4 +538,4 @@ def estimate_total_cost(file_paths):
         total_polly_cost_generative += polly_cost_generative
         total_polly_cost_long_form += polly_cost_long_form
     
-    return total_character_count, total_gpt_cost, total_poll
+    return total_character_count, total_gpt_cost, total_polly_cost_generative, total_polly_cost_long_form

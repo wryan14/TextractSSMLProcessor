@@ -5,3 +5,4 @@ class Config:
     UPLOAD_FOLDER = os.path.join(os.getcwd(), 'uploads')
     PROCESSED_FOLDER = os.path.join(os.getcwd(), 'processed')
     CHUNKS_FOLDER = os.path.join(os.getcwd(), 'chunks')
+    LATIN_FOLDER = os.path.join(os.getcwd(), 'latin')
