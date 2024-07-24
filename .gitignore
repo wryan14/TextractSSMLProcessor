@@ -86,6 +86,7 @@ dmypy.json
 
 chunks/
 processed/
+audio/
 uploads/
 *.ipynb
 translation_logs/

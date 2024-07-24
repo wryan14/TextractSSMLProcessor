@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timestamp Results</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Subtitle Files Generated</h1>
+        <div class="mt-4">
+            <a href="{{ url_for('timestamp.download_srt', language='english', english_srt=english_srt) }}" class="btn btn-primary">Download English Subtitles</a>
+            <a href="{{ url_for('timestamp.download_srt', language='latin', latin_srt=latin_srt) }}" class="btn btn-secondary">Download Latin Subtitles</a>
+        </div>
+        <div class="mt-4">
+            <h2>English Subtitles Preview</h2>
+            <pre>{{ english_srt[:500] }}...</pre>
+            <h2>Latin Subtitles Preview</h2>
+            <pre>{{ latin_srt[:500] }}...</pre>
+        </div>
+    </div>
+</body>
+</html>
