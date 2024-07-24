@@ -1,7 +1,9 @@
-import boto3
+import json
 import os
 import re
+import boto3
 from botocore.exceptions import BotoCoreError, ClientError
+from typing import List, Dict
 
 def split_ssml(ssml_text, max_chunk_size=2500):
     parts = re.split(r'(<[^>]+>)', ssml_text)
@@ -11,21 +13,10 @@ def split_ssml(ssml_text, max_chunk_size=2500):
     open_tags = []
 
     def add_closing_tags(tags):
-        closing_tags = ""
-        for tag in reversed(tags):
-            if tag.startswith('</'):
-                continue
-            tag_name = tag[1:-1].split()[0]  # Get the tag name without attributes
-            closing_tags += f"</{tag_name}>"
-        return closing_tags
+        return "".join(f"</{tag[1:-1].split()[0]}>" for tag in reversed(tags) if not tag.startswith('</'))
 
     def add_opening_tags(tags):
-        opening_tags = ""
-        for tag in tags:
-            if tag.startswith('</'):
-                continue
-            opening_tags += tag
-        return opening_tags
+        return "".join(tag for tag in tags if not tag.startswith('</'))
 
     for part in parts:
         part_length = len(part)
@@ -63,16 +54,16 @@ def split_ssml(ssml_text, max_chunk_size=2500):
 
     return [x.replace('<p></p>', '').replace("<speak><speak>", '<speak>').replace('</speak></speak>', '</speak>') for x in chunks]
 
-def get_voice_from_filename(filename, default_voice):
-    voice_match = re.search(r'_voice_(Ruth|Matthew|Gregory)_', filename)
-    return voice_match.group(1) if voice_match else default_voice
-
 class SSMLProcessingError(Exception):
     """Custom exception for SSML processing errors"""
     pass
 
-def process_ssml_files(input_directory, output_directory, output_filename, default_voice_id, start_part=1):
-    print(f"Starting process_ssml_files with start_part={start_part}")
+def process_ssml_from_json_files(input_directory: str,
+                                 output_directory: str, 
+                                 output_filename: str, 
+                                 default_voice_id: str,
+                                 start_part: int = 1) -> List[str]:
+    print(f"Starting process_ssml_from_json_files with start_part={start_part}")
     polly_client = boto3.client('polly')
 
     voice_engine_map = {
@@ -81,67 +72,56 @@ def process_ssml_files(input_directory, output_directory, output_filename, defau
         'Gregory': 'long-form'
     }
 
-    if default_voice_id not in voice_engine_map:
-        raise ValueError(f"Unsupported default_voice_id: {default_voice_id}. Please use 'Ruth', 'Matthew', or 'Gregory'.")
-
     os.makedirs(output_directory, exist_ok=True)
     output_files = []
 
-    pattern = re.compile(r'_(part_\d+)_.*_(chunk_\d+)\.txt$')
-    input_files = [f for f in os.listdir(input_directory) if f.endswith('.txt') and pattern.search(f)]
+    json_files = sorted([f for f in os.listdir(input_directory) if f.endswith('.json')])
     
-    if not input_files:
-        raise SSMLProcessingError(f"No input files found in directory: {input_directory}")
+    if not json_files:
+        raise ValueError(f"No JSON files found in directory: {input_directory}")
 
-    sorted_files = sorted(input_files, key=lambda x: (
-        int(pattern.search(x).group(1).split('_')[1]), 
-        int(pattern.search(x).group(2).split('_')[1])
-    ))
-
-    print(f"Found {len(sorted_files)} input files")
+    print(f"Found {len(json_files)} input JSON files")
 
     global_part_number = 1
 
-    for input_file in sorted_files:
-        print(f"Processing file: {input_file}")
-
-        voice_id = get_voice_from_filename(input_file, default_voice_id)
-        engine = voice_engine_map[voice_id]
-
-        if engine == 'generative':
-            max_chars = 2750
-        elif engine == 'long-form':
-            max_chars = 2500
-        else:
-            max_chars = 6000
+    for json_file in json_files:
+        print(f"Processing file: {json_file}")
 
         try:
-            with open(os.path.join(input_directory, input_file), 'r', encoding='utf-8') as file:
-                ssml_text = file.read()
+            with open(os.path.join(input_directory, json_file), 'r', encoding='utf-8') as file:
+                data = json.load(file)
         except Exception as e:
-            raise SSMLProcessingError(f"Error reading file {input_file}: {str(e)}")
+            raise ValueError(f"Error reading JSON file {json_file}: {str(e)}")
 
-        ssml_chunks = split_ssml(ssml_text, max_chars)
-        print(f"Split {input_file} into {len(ssml_chunks)} chunks")
-
-        for chunk_index, chunk in enumerate(ssml_chunks):
-            print(f"Processing part {global_part_number} (File: {input_file}, Chunk: {chunk_index + 1})")
+        for chunk_index, chunk in enumerate(data['chunks'], start=1):
+            ssml_text = chunk['cleaned_english_translation']
             
-            if global_part_number < start_part:
-                print(f"Skipping part {global_part_number} < start_part {start_part}")
-                global_part_number += 1
-                continue
+            # Use the voice from the JSON if available, otherwise use the default
+            voice_id = chunk.get('voice')
+            if voice_id is None:
+                voice_id = default_voice_id
+                print(f"Chunk {chunk_index} - No voice specified in JSON, using default: {voice_id}")
+            else:
+                print(f"Chunk {chunk_index} - Voice specified in JSON: {voice_id}")
+            
+            if voice_id not in voice_engine_map:
+                print(f"Warning: Unsupported voice '{voice_id}' for chunk {chunk_index} in {json_file}. Using default voice.")
+                voice_id = default_voice_id
+
+            engine = voice_engine_map[voice_id]
+            print(f"Using voice: {voice_id} with engine: {engine}")
 
             try:
+                print(f"Attempting to synthesize speech for chunk {chunk_index} with voice {voice_id}")
                 response = polly_client.synthesize_speech(
                     Engine=engine,
-                    Text=chunk,
+                    Text=ssml_text,
                     TextType='ssml',
                     OutputFormat='mp3',
                     VoiceId=voice_id
                 )
 
-                output_file = f"{output_filename}_part{global_part_number}.mp3"
+                output_file = f"{output_filename}_part{global_part_number:03d}_{voice_id}.mp3"
                 output_path = os.path.join(output_directory, output_file)
                 
                 with open(output_path, 'wb') as file:
@@ -153,33 +133,44 @@ def process_ssml_files(input_directory, output_directory, output_filename, defau
                 global_part_number += 1
 
             except (BotoCoreError, ClientError) as error:
-                raise SSMLProcessingError(f"Error processing {input_file} (part {global_part_number}, chunk {chunk_index + 1}): {error}\nProblematic chunk: {chunk}")
+                print(f"Error synthesizing speech: {error}")
+                raise ValueError(f"Error processing {json_file} (part {global_part_number}, chunk {chunk_index}): {error}\nProblematic SSML: {ssml_text}")
             except Exception as error:
-                raise SSMLProcessingError(f"Unexpected error processing {input_file} (part {global_part_number}, chunk {chunk_index + 1}): {error}\nProblematic chunk: {chunk}")
+                print(f"Unexpected error: {error}")
+                raise ValueError(f"Unexpected error processing {json_file} (part {global_part_number}, chunk {chunk_index}): {error}\nProblematic SSML: {ssml_text}")
 
     print(f"Finished processing. Generated {len(output_files)} output files.")
     return output_files
 
-def rename_files(directory):
-    files = os.listdir(directory)
-    
-    pattern = re.compile(r'_(part_\d+)_.*_(chunk_\d+)\.txt$')
-    filtered_files = [f for f in files if f.endswith('.txt') and pattern.search(f)]
-    sorted_files = sorted(filtered_files, key=lambda x: (
-        int(pattern.search(x).group(1).split('_')[1]), 
-        int(pattern.search(x).group(2).split('_')[1])
-    ))
+# Example usage
+if __name__ == "__main__":
+    input_directory = 'C:/Users/rdw71/Documents/Python/TextractSSMLProcessor/processed'
+    audio_dir = 'C:/Users/rdw71/Documents/Python/TextractSSMLProcessor/audio_output'
+    title = "Your Book Title"  # Set this to your book title
+    output_filename = title.replace(' ', '_')
+    default_voice_id = 'Matthew'
+    start_part = 1  # Start from Polly audio file part 1, adjust as needed
 
-    for index, file_name in enumerate(sorted_files):
-        new_name = re.sub(r'chunk_\d+', f'chunk_{index + 1}', file_name)
-        os.rename(os.path.join(directory, file_name), os.path.join(directory, new_name))
-        if index < 4:
-            print(f"Renamed: {file_name} -> {new_name}")
+    # Check if the input directory exists
+    if not os.path.exists(input_directory):
+        print(f"Error: Input directory '{input_directory}' does not exist.")
+    else:
+        print(f"Processing SSML chunks from JSON files, starting from Polly audio file part {start_part}...")
+        try:
+            outfiles = process_ssml_from_json_files(
+                input_directory=input_directory,
+                output_directory=audio_dir, 
+                output_filename=output_filename, 
+                default_voice_id=default_voice_id,
+                start_part=start_part
+            )
 
-# Example usage:
-# output_files = process_ssml_files(
-#     input_directory='/path/to/ssml/files',
-#     output_directory='/path/to/output',
-#     output_filename='my_audiobook',
-#     default_voice_id='Matthew'
-# )
+            print(f"Processed {len(outfiles)} files.")
+            if outfiles:
+                print("First few output files:")
+                for file in outfiles[:5]:
+                    print(file)
+        except SSMLProcessingError as e:
+            print(f"Error processing SSML: {str(e)}")
+        except Exception as e:
+            print(f"Unexpected error: {str(e)}")

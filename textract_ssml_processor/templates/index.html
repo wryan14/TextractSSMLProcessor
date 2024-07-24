@@ -8,9 +8,9 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="mt-5">Textract SSML Processor</h1>
+        <h1 class="mt-5">Text Processor</h1>
 
-        <h2 class="mt-4">Upload New OCR Files</h2>
+        <h2 class="mt-4">Upload New Files</h2>
         <form method="POST" enctype="multipart/form-data" class="mb-4">
             {{ upload_form.hidden_tag() }}
             <div class="form-group">
@@ -41,11 +41,7 @@
                 <tr>
                     <td>{{ file }}</td>
                     <td>
-                        <form method="POST" action="{{ url_for('app.clean', filename=file) }}">
-                            <input type="hidden" name="title" value="{{ upload_form.title.data }}">
-                            <input type="hidden" name="author" value="{{ upload_form.author.data }}">
-                            <button type="submit" class="btn btn-warning">Clean</button>
-                        </form>
+                        <a href="{{ url_for('app.view_json', filename=file) }}" class="btn btn-info">View JSON</a>
                         <form method="POST" action="{{ url_for('app.delete_processed', filename=file) }}" style="display:inline;">
                             <button type="submit" class="btn btn-danger">Delete</button>
                         </form>
@@ -54,40 +50,10 @@
                 {% endfor %}
             </tbody>
         </table>
-
-        <h2 class="mt-4">Chunk Files</h2>
-        <table class="table table-bordered">
-            <thead>
-                <tr>
-                    <th>File Name</th>
-                    <th>Chunk Number</th>
-                    <th>Action</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for file in chunk_files %}
-                {% set chunks = get_cleaned_chunks(chunks_folder, file) %}
-                {% for i, chunk in enumerate(chunks) %}
-                <tr>
-                    {% if loop.first %}
-                    <td rowspan="{{ chunks|length }}">{{ file }}</td>
-                    {% endif %}
-                    <td>{{ i + 1 }}</td>
-                    <td>
-                        <a href="{{ url_for('app.download', filename=chunk) }}" class="btn btn-primary">Download Chunk {{ i + 1 }}</a>
-                        <form method="POST" action="{{ url_for('app.delete_chunk', filename=chunk) }}" style="display:inline;">
-                            <button type="submit" class="btn btn-danger">Delete</button>
-                        </form>
-                    </td>
-                </tr>
-                {% endfor %}
-                {% endfor %}
-            </tbody>
-        </table>
     </div>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 </body>
 </html>

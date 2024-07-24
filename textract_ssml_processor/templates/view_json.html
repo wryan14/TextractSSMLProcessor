@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>View and Edit JSON</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .editor-container {
+            height: calc(100vh - 250px);
+            min-height: 400px;
+        }
+        .editor {
+            height: 100%;
+            resize: none;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        .sticky-top {
+            top: 20px;
+        }
+        .btn-group-vertical {
+            width: 100%;
+        }
+        .btn-group-vertical .btn {
+            margin-bottom: 10px;
+        }
+        #new-chunk-container {
+            display: none;
+            background-color: #e9ecef;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        .chunk-header {
+            background-color: #007bff;
+            color: white;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid mt-4">
+        <h1 class="text-center mb-4">Edit Text: {{ filename }}</h1>
+        <div id="flash-messages"></div>
+        <div class="row" id="main-container">
+            <div class="col-md-5">
+                <div class="chunk-header">Current Chunk: Latin</div>
+                <div class="editor-container">
+                    <textarea id="latin-editor" class="form-control editor"></textarea>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="sticky-top">
+                    <div class="card mb-3">
+                        <div class="card-header bg-primary text-white">
+                            Navigation
+                        </div>
+                        <div class="card-body">
+                            <div class="btn-group d-flex" role="group">
+                                <button id="prev-btn" class="btn btn-outline-primary w-100">&lt; Prev</button>
+                                <button id="next-btn" class="btn btn-outline-primary w-100">Next &gt;</button>
+                            </div>
+                            <div class="mt-2 text-center">
+                                <span id="chunk-info" class="text-muted"></span>
+                            </div>
+                        </div>
+                    </div>
+            
+                    <div class="card mb-3">
+                        <div class="card-header bg-info text-white">
+                            Voice Selection
+                        </div>
+                        <div class="card-body">
+                            <select id="voice-select" class="form-control">
+                                <option value="Matthew">Matthew</option>
+                                <option value="Ruth">Ruth</option>
+                                <option value="Gregory">Gregory</option>
+                            </select>
+                        </div>
+                    </div>
+            
+                    <div class="card mb-3">
+                        <div class="card-header bg-success text-white">
+                            Actions
+                        </div>
+                        <div class="card-body">
+                            <button id="save-btn" class="btn btn-success btn-block mb-2">Save Changes</button>
+                            <button id="new-chunk-btn" class="btn btn-info btn-block mb-2">New Chunk Before</button>
+                            <button id="delete-chunk-btn" class="btn btn-danger btn-block">Delete Chunk</button>
+                        </div>
+                    </div>
+            
+                    <a href="{{ url_for('app.index') }}" class="btn btn-secondary btn-block mt-3">Back to Index</a>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="chunk-header">Current Chunk: Cleaned English</div>
+                <div class="editor-container">
+                    <textarea id="cleaned-english-editor" class="form-control editor"></textarea>
+                </div>
+            </div>
+        </div>
+
+        <!-- New Chunk Creation Interface (Initially Hidden) -->
+        <div class="row mt-4" id="new-chunk-container" style="display: none;">
+            <div class="col-md-5">
+                <div class="chunk-header">New Chunk: Latin</div>
+                <div class="editor-container">
+                    <textarea id="new-latin-editor" class="form-control editor"></textarea>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="sticky-top">
+                    <div class="card mb-3">
+                        <div class="card-header bg-info text-white">
+                            New Chunk Voice
+                        </div>
+                        <div class="card-body">
+                            <select id="new-voice-select" class="form-control">
+                                <option value="Matthew">Matthew</option>
+                                <option value="Ruth">Ruth</option>
+                                <option value="Gregory">Gregory</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="btn-group-vertical w-100">
+                        <button id="confirm-new-chunk-btn" class="btn btn-success mb-2">Confirm New Chunk</button>
+                        <button id="cancel-new-chunk-btn" class="btn btn-danger">Cancel</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="chunk-header">New Chunk: Cleaned English</div>
+                <div class="editor-container">
+                    <textarea id="new-cleaned-english-editor" class="form-control editor"></textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script>
+        const jsonData = {{ data | tojson | safe }};
+        let currentChunk = 0;
+    
+        function updateChunkNumbers() {
+            jsonData.chunks.forEach((chunk, index) => {
+                chunk.chunk_number = index + 1;
+            });
+        }
+    
+        function updateEditors() {
+            const chunk = jsonData.chunks[currentChunk];
+            $('#latin-editor').val(chunk.original_latin);
+            $('#cleaned-english-editor').val(chunk.cleaned_english_translation);
+            $('#voice-select').val(chunk.voice || 'Matthew');
+            updateNavigationButtons();
+            updateChunkInfo();
+        }
+    
+        function updateNavigationButtons() {
+            $('#prev-btn').prop('disabled', currentChunk === 0);
+            $('#next-btn').prop('disabled', currentChunk === jsonData.chunks.length - 1);
+            $('#delete-chunk-btn').prop('disabled', jsonData.chunks.length <= 1);
+        }
+    
+        function updateChunkInfo() {
+            $('#chunk-info').text(`Chunk ${currentChunk + 1} of ${jsonData.chunks.length}`);
+        }
+    
+        function saveChanges() {
+            const chunk = jsonData.chunks[currentChunk];
+            chunk.original_latin = $('#latin-editor').val();
+            chunk.cleaned_english_translation = $('#cleaned-english-editor').val();
+            chunk.voice = $('#voice-select').val();
+    
+            updateChunkNumbers();
+    
+            $.ajax({
+                url: '{{ url_for("app.view_json", filename=filename) }}',
+                method: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify(jsonData),
+                success: function(response) {
+                    $('#flash-messages').html('<div class="alert alert-success alert-dismissible fade show" role="alert">Changes saved successfully!<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
+                },
+                error: function(xhr, status, error) {
+                    $('#flash-messages').html('<div class="alert alert-danger alert-dismissible fade show" role="alert">Error saving changes: ' + error + '<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
+                }
+            });
+        }
+    
+        function showNewChunkEditor() {
+            $('#new-chunk-container').show();
+            $('#new-latin-editor').val('');
+            $('#new-cleaned-english-editor').val('');
+            $('#new-voice-select').val($('#voice-select').val());
+        }
+    
+        function hideNewChunkEditor() {
+            $('#new-chunk-container').hide();
+        }
+    
+        function createNewChunk() {
+            const newChunk = {
+                original_latin: $('#new-latin-editor').val(),
+                cleaned_english_translation: $('#new-cleaned-english-editor').val(),
+                voice: $('#new-voice-select').val()
+            };
+            jsonData.chunks.splice(currentChunk, 0, newChunk);
+            updateChunkNumbers();
+            hideNewChunkEditor();
+            updateEditors();
+            $('#flash-messages').html('<div class="alert alert-info alert-dismissible fade show" role="alert">New chunk created. Remember to save your changes!<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
+        }
+    
+        function deleteCurrentChunk() {
+            if (jsonData.chunks.length <= 1) {
+                alert("Cannot delete the only chunk.");
+                return;
+            }
+    
+            if (confirm("Are you sure you want to delete this chunk?")) {
+                jsonData.chunks.splice(currentChunk, 1);
+                updateChunkNumbers();
+                if (currentChunk >= jsonData.chunks.length) {
+                    currentChunk = jsonData.chunks.length - 1;
+                }
+                updateEditors();
+                $('#flash-messages').html('<div class="alert alert-warning alert-dismissible fade show" role="alert">Chunk deleted. Remember to save your changes!<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
+            }
+        }
+    
+        $(document).ready(function() {
+            updateChunkNumbers();
+            updateEditors();
+    
+            $('#save-btn').click(saveChanges);
+    
+            $('#prev-btn').click(function() {
+                if (currentChunk > 0) {
+                    currentChunk--;
+                    updateEditors();
+                }
+            });
+    
+            $('#next-btn').click(function() {
+                if (currentChunk < jsonData.chunks.length - 1) {
+                    currentChunk++;
+                    updateEditors();
+                }
+            });
+    
+            $('#new-chunk-btn').click(showNewChunkEditor);
+            $('#confirm-new-chunk-btn').click(createNewChunk);
+            $('#cancel-new-chunk-btn').click(hideNewChunkEditor);
+            $('#delete-chunk-btn').click(deleteCurrentChunk);
+    
+            $(document).keydown(function(e) {
+                if (e.ctrlKey) {
+                    if (e.which === 37) { // Left arrow
+                        $('#prev-btn').click();
+                        e.preventDefault();
+                    } else if (e.which === 39) { // Right arrow
+                        $('#next-btn').click();
+                        e.preventDefault();
+                    } else if (e.which === 83) { // 'S' key
+                        saveChanges();
+                        e.preventDefault();
+                    } else if (e.which === 78) { // 'N' key
+                        showNewChunkEditor();
+                        e.preventDefault();
+                    } else if (e.which === 68) { // 'D' key
+                        deleteCurrentChunk();
+                        e.preventDefault();
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>

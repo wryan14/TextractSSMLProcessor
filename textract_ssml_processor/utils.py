@@ -1,19 +1,20 @@
-import openai
 import os
 import re
 import time
-from xml.etree import ElementTree as ET
-from xml.etree.ElementTree import ParseError
-from lxml import etree
 import html
-from werkzeug.utils import secure_filename
-from flask import current_app
-from bs4 import BeautifulSoup
-
 import logging
 import json
-import os
 from datetime import datetime
+from typing import Dict, List, Tuple
+
+import openai
+import nltk
+from lxml import etree
+from bs4 import BeautifulSoup
+from werkzeug.utils import secure_filename
+from flask import current_app
+from xml.etree import ElementTree as ET
+from xml.etree.ElementTree import ParseError
 
 # Setup logging
 logging.basicConfig(level=logging.INFO)
@@ -59,15 +60,37 @@ def remove_headers(text):
             processed_lines.append(line)
     return '\n'.join(processed_lines)
 
-# Function to break text into chunks
-def chunk_text(text, chunk_size=4000):
-    return [text[i:i+chunk_size] for i in range(0, len(text), chunk_size)]
+def chunk_text(text: str, max_chunk_size: int = 2000) -> List[str]:
+    # Split the text into sentences using NLTK
+    sentences = nltk.sent_tokenize(text)
+    
+    chunks = []
+    current_chunk = ""
+    
+    for sentence in sentences:
+        # If adding this sentence would exceed the max chunk size, start a new chunk
+        if len(current_chunk) + len(sentence) > max_chunk_size and current_chunk:
+            chunks.append(current_chunk.strip())
+            current_chunk = ""
+        
+        current_chunk += sentence + " "
+        
+        # If the current chunk is already at or over the max size, add it to chunks
+        if len(current_chunk) >= max_chunk_size:
+            chunks.append(current_chunk.strip())
+            current_chunk = ""
+    
+    # Add any remaining text as the last chunk
+    if current_chunk:
+        chunks.append(current_chunk.strip())
+    
+    return chunks
 
-# Function to chunk the processed SSML
-def chunk_ssml_text(ssml_text, chunk_size=4000):
-    # Split the SSML content into manageable chunks
-    ssml_chunks = chunk_text(ssml_text, chunk_size)
-    return [f"<speak>{chunk}</speak>" for chunk in ssml_chunks]
+# # Function to chunk the processed SSML
+# def chunk_ssml_text(ssml_text, chunk_size=4000):
+#     # Split the SSML content into manageable chunks
+#     ssml_chunks = chunk_text(ssml_text, chunk_size)
+#     return [f"<speak>{chunk}</speak>" for chunk in ssml_chunks]
 
 # Function to generate SSML request
 def generate_ssml_request(text_chunk, title, author):
@@ -154,13 +177,12 @@ def validate_ssml_with_gpt(ssml_chunk):
 
 
 
-def safe_format_text_with_gpt(text_chunk, language="Latin", title="", author=""):
-    original_text = text_chunk
-
+def safe_format_text_with_gpt(text_chunk: str, language: str) -> Tuple[str, str]:
+    logger.debug(f"Formatting text with GPT, language: {language}")
     if language.lower() != 'english':
         formatted_prompt = generate_translation_request(text_chunk, language)
     else:
-        formatted_prompt = generate_ssml_request(text_chunk, title, author)
+        formatted_prompt = generate_ssml_request(text_chunk, "", "")
 
     for attempt in range(5):  # Retry up to 5 times
         try:
@@ -182,12 +204,26 @@ def safe_format_text_with_gpt(text_chunk, language="Latin", title="", author="")
 
                 return smooth_text, text_chunk
             else:
-                return "No response generated"
+                logger.warning(f"No response generated on attempt {attempt + 1}")
         except Exception as e:
             wait = 2 ** attempt
-            logger.error(f"Request failed, retrying in {wait} seconds... Exception: {e}")
+            logger.error(f"Request failed on attempt {attempt + 1}, retrying in {wait} seconds... Exception: {e}")
             time.sleep(wait)
     raise Exception("Failed to process text after multiple attempts")
+
+def handle_uploaded_file(file_path: str, title: str, author: str, language: str) -> str:
+    filename = os.path.basename(file_path)
+    output_file_name = f"processed_{filename}"
+    
+    # Process the file
+    output_dict = process_text_file(file_path, output_file_name, title, author, language)
+    
+    # Save the output dictionary as a JSON file
+    output_json_path = os.path.join(current_app.config['PROCESSED_FOLDER'], f"{output_file_name}.json")
+    with open(output_json_path, 'w', encoding='utf-8') as json_file:
+        json.dump(output_dict, json_file, ensure_ascii=False, indent=2)
+    
+    return output_json_path
 
 # Add this function to retrieve synchronized texts from the log file
 def get_synchronized_texts(log_file_path):
@@ -239,39 +275,50 @@ def convert_html_to_ssml(html_content):
 
     return processed_content
 
-# Function to process text file
-def process_text_file(file_path, output_file_name, title, author, language):
+def process_text_file(file_path: str, output_file_name: str, title: str, author: str, language: str) -> Dict[str, List[Dict[str, str]]]:
+    logger.info(f"Starting to process file: {file_path}")
+    
     with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
 
     if is_html(text):
         clean_text = convert_html_to_ssml(text)
     else:
-        clean_text = remove_headers(text)
+        # clean_text = remove_headers(text)
+        clean_text = text
 
+    latin_correlate_path = os.path.join(current_app.config['LATIN_FOLDER'], f"latin_{output_file_name}")
+    with open(latin_correlate_path, 'w', encoding='utf-8') as latin_file:
+        latin_file.write(clean_text)
+
+    # Process and translate the text
     chunks = chunk_text(clean_text)
-    tuple_chunk = [safe_format_text_with_gpt(chunk, language, title, author) for chunk in chunks]
-    formatted_chunks = [x[0] for x in tuple_chunk]
-    latin_chunks = [x[1] for x in tuple_chunk]
-    formatted_text = '\n'.join(formatted_chunks)
-    latin_text = '\n'.join(latin_chunks)
+    output_dict = {"chunks": []}
     
-    output_folder = current_app.config['PROCESSED_FOLDER']
-    output_latin_folder = current_app.config['LATIN_FOLDER']
-    if not os.path.exists(output_folder):
-        os.makedirs(output_folder)
-    if not os.path.exists(output_latin_folder):
-        os.makedirs(output_latin_folder)
-    output_file_path = os.path.join(output_folder, output_file_name)
-    output_latin_path = os.path.join(output_latin_folder, 'latin_'+output_file_name)
+    for i, chunk in enumerate(chunks, 1):
+        try:
+            # Translate
+            translated_chunk, _ = safe_format_text_with_gpt(chunk, language)
+            
+            # Clean and preprocess SSML tags
+            cleaned_chunk = clean_ssml_tags(preprocess_ssml_tags(translated_chunk))
+            
+            chunk_dict = {
+                "chunk_number": i,
+                "original_latin": chunk,
+                "cleaned_english_translation": cleaned_chunk
+            }
+            output_dict["chunks"].append(chunk_dict)
+        except Exception as e:
+            logger.error(f"Error processing chunk {i}: {str(e)}")
+            chunk_dict = {
+                "chunk_number": i,
+                "original_latin": chunk,
+                "cleaned_english_translation": "Translation failed"
+            }
+            output_dict["chunks"].append(chunk_dict)
     
-    with open(output_file_path, 'w', encoding='utf-8') as file:
-        file.write(formatted_text.replace('```xml', "").replace('```ssml', '').replace('```', ''))
-    print(f"File processed and saved as {output_file_path}")
-
-    with open(output_latin_path, 'w', encoding='utf-8') as latinfile:
-        latinfile.write(latin_text)
-    return output_file_path
+    return output_dict
 
 def generate_title_file(title, output_folder, base_name, part_num, chunk_num):
     title_content = f"""<speak>
@@ -285,91 +332,98 @@ def generate_title_file(title, output_folder, base_name, part_num, chunk_num):
         file.write(title_content)
     return title_file_name
 
-def process_ssml_chunks(file_path, output_folder, add_title_files=False):
-    try:
-        latin_correlate_file = os.path.basename(file_path)
-        latin_correlate_path = current_app.config['LATIN_FOLDER']
-        latin_correlate_path = os.path.join(latin_correlate_path, 'latin_' + latin_correlate_file)
+# def process_ssml_chunks(file_path: str, latin_correlate_path: str) -> Dict[str, List[Dict[str, str]]]:
+#     logger.debug(f"Processing SSML chunks for file: {file_path}")
+#     logger.debug(f"Latin correlate path: {latin_correlate_path}")
+    
+#     latin_text = ""
+#     try:
+#         with open(latin_correlate_path, 'r', encoding='utf-8') as latin_file:
+#             latin_text = latin_file.read()
+#         logger.debug(f"Latin text length: {len(latin_text)}")
+#     except Exception as e:
+#         logger.error(f'Error loading Latin path - {e}')
+    
+#     if not latin_text:
+#         logger.warning("Latin text is empty or could not be loaded.")
+
+#     text = ""
+#     try:
+#         with open(file_path, 'r', encoding='utf-8') as file:
+#             text = file.read()
+#         logger.debug(f"Original text length: {len(text)}")
+#     except Exception as e:
+#         logger.error(f'Error loading original file - {e}')
+    
+#     if not text:
+#         logger.error("Original text is empty or could not be loaded.")
+#         return {"chunks": []}
+
+#     text = re.sub(r'</?speak>', '', text)
+#     text = html.unescape(text)
+#     paragraphs = re.split(r'(?<=</p>)', text)
+    
+#     chunks = []
+#     current_chunk = ''
+#     chunk_size = 50000
+
+#     for para in paragraphs:
+#         if len(current_chunk) + len(para) > chunk_size:
+#             chunks.append(f'<speak>{current_chunk}</speak>')
+#             current_chunk = para
+#         else:
+#             current_chunk += para
+    
+#     if current_chunk:
+#         chunks.append(f'<speak>{current_chunk}</speak>')
+    
+#     logger.debug(f"Number of chunks: {len(chunks)}")
+    
+#     output_dict = {"chunks": []}
+    
+#     for i, chunk in enumerate(chunks, 1):
+#         logger.debug(f"Processing chunk {i}")
+#         # Preprocess and clean SSML tags
+#         chunk = preprocess_ssml_tags(chunk)
+#         chunk = clean_ssml_tags(chunk)
         
-        with open(latin_correlate_path, 'r', encoding='utf-8') as latin_file:
-            latin_text = latin_file.read()
-    except Exception as e:
-        print('Error loading Latin path - ', e)
-        latin_text = ""
-
-    with open(file_path, 'r', encoding='utf-8') as file:
-        text = file.read()
-    
-    text = re.sub(r'</?speak>', '', text)
-    text = html.unescape(text)
-    paragraphs = re.split(r'(?<=</p>)', text)
-    
-    chunks = []
-    current_chunk = ''
-    chunk_size = 50000
-
-    for para in paragraphs:
-        if len(current_chunk) + len(para) > chunk_size:
-            chunks.append(f'<speak>{current_chunk}</speak>')
-            current_chunk = para
-        else:
-            current_chunk += para
-    
-    if current_chunk:
-        chunks.append(f'<speak>{current_chunk}</speak>')
-    
-    if not os.path.exists(output_folder):
-        os.makedirs(output_folder)
-    
-    chunk_files = []
-    base_name = os.path.splitext(os.path.basename(file_path))[0]
-    base_name = base_name.replace('processed_', '')
-    
-    part_num = base_name.split('_part_')[-1] if '_part_' in base_name else '1'
-    
-    chunk_num = 1
-    
-    if add_title_files:
-        title = f"Part {part_num}"
-        title_file = generate_title_file(title, output_folder, base_name, part_num, chunk_num)
-        chunk_files.append(title_file)
-
-    translated_chunks = []
-
-    for chunk in chunks:
-        chunk_file_name = f"{base_name}_z_chunk_{chunk_num}.txt"
-        chunk_file_path = os.path.join(output_folder, chunk_file_name)
+#         # Translate the chunk and clean SSML
+#         try:
+#             translated_chunk, _ = safe_format_text_with_gpt(chunk, language="Latin")
+#             logger.debug(f"Translated chunk length: {len(translated_chunk)}")
+            
+#             # Clean the translated chunk
+#             translated_chunk = preprocess_ssml_tags(translated_chunk)
+#             translated_chunk = clean_ssml_tags(translated_chunk)
+#         except Exception as e:
+#             logger.error(f"Error in translation for chunk {i}: {e}")
+#             translated_chunk = None
         
-        # Save the chunk to a file
-        with open(chunk_file_path, 'w', encoding='utf-8') as file:
-            file.write(chunk)
+#         # Find corresponding Latin text
+#         original_latin = "Latin text not found"
+#         if latin_text:
+#             start_index = latin_text.find(chunk)
+#             if start_index != -1:
+#                 end_index = start_index + len(chunk)
+#                 original_latin = latin_text[start_index:end_index]
+#             else:
+#                 logger.warning(f"Latin text not found for chunk {i}")
+#         else:
+#             logger.warning(f"No Latin text available for chunk {i}")
         
-        # Translate the chunk and clean SSML
-        translated_chunk = safe_format_text_with_gpt(chunk, language="Latin")
-        translated_chunks.append(translated_chunk)
-
-        chunk_files.append(chunk_file_name)
-        chunk_num += 1
+#         chunk_dict = {
+#             "chunk_number": i,
+#             "original_latin": original_latin,
+#             "translated_english": translated_chunk if translated_chunk else "Translation failed"
+#         }
+#         output_dict["chunks"].append(chunk_dict)
     
-    final_translated_text = '\n'.join(translated_chunks)
-
-    # Log the original Latin text and the final English translated text
-    log_translation(latin_text, final_translated_text)
-    
-    return chunk_files
+#     return output_dict
 
 # Function to detect HTML content
 def is_html(text):
     html_tags = re.compile('<.*?>')
     return bool(html_tags.search(text))
-
-# Main function for handling uploaded files
-def handle_uploaded_file(uploaded_file):
-    file_path = secure_filename(uploaded_file.filename)
-    file_path = os.path.join(current_app.config['UPLOAD_FOLDER'], file_path)
-    with open(file_path, 'wb') as f:
-        f.write(uploaded_file.read())
-    return file_path
 
 def get_existing_files(folder):
     files = [f for f in os.listdir(folder) if os.path.isfile(os.path.join(folder, f))]
@@ -384,49 +438,37 @@ def get_cleaned_chunks(folder, filename):
     print(f"Cleaned chunks for {filename}: {chunks}")
     return chunks
 
-def preprocess_ssml_tags(file_path):
-    # List of allowed tags
+def preprocess_ssml_tags(content: str) -> str:
+    """Preprocess SSML tags in the given content string."""
     allowed_tags = ["break", "lang", "p", "phoneme", "s", "speak", "sub", "w"]
-
-    # Create a regex pattern to match allowed tags and their attributes
     allowed_pattern = re.compile(r'</?({})(\s[^>]*)?/?>'.format('|'.join(allowed_tags)), re.IGNORECASE)
 
-    try:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            content = file.read()
+    # Unescape HTML entities
+    content = html.unescape(content)
 
-        # Unescape HTML entities
-        content = html.unescape(content)
+    # Function to remove disallowed tags
+    def remove_disallowed_tags(match):
+        tag = match.group(0)
+        return tag if allowed_pattern.match(tag) else ''
 
-        # Function to remove disallowed tags
-        def remove_disallowed_tags(match):
-            tag = match.group(0)
-            if allowed_pattern.match(tag):
-                return tag
-            else:
-                return ''  # Remove disallowed tag
+    # Remove disallowed tags while preserving allowed tags
+    cleaned_content = re.sub(r'</?[^>]+>', remove_disallowed_tags, content)
 
-        # Remove disallowed tags while preserving allowed tags
-        cleaned_content = re.sub(r'</?[^>]+>', remove_disallowed_tags, content)
+    return cleaned_content
 
-        with open(file_path, 'w', encoding='utf-8') as file:
-            file.write(cleaned_content)
-
-        print(f"Preprocessed SSML file saved at {file_path}")
-
-    except Exception as e:
-        print(f"An error occurred: {e}")
-
-def clean_ssml_tags(file_path):
+def clean_ssml_tags(content: str) -> str:
+    """Clean and process SSML tags in the given content string."""
     allowed_tags = ["break", "lang", "p", "phoneme", "s", "speak", "sub", "w"]
 
     def ensure_role_attribute(tag):
-        if 'role=' not in tag:
-            tag = tag.replace('<w', '<w role="amazon:NN"', 1)
-        return tag
+        return tag.replace('<w', '<w role="amazon:NN"', 1) if 'role=' not in tag else tag
 
     def clean_tags(content):
-        root = etree.fromstring(f"<root>{content}</root>")
+        try:
+            root = etree.fromstring(f"<root>{content}</root>")
+        except etree.ParseError as e:
+            print(f"Error parsing SSML: {e}")
+            return content  # Return original content if parsing fails
 
         def remove_unwanted_tags(element):
             for child in list(element):
@@ -447,36 +489,19 @@ def clean_ssml_tags(file_path):
         remove_unwanted_tags(root)
         return etree.tostring(root, encoding='unicode').replace('<root>', '').replace('</root>', '')
 
-    try:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            content = file.read()
+    # Initial cleaning
+    content = re.sub(r'<break\s*/?>', lambda m: '<break time="1s"/>' if 'time' not in m.group(0) else m.group(0), content)
+    content = re.sub(r'<w([^>]*)>', ensure_role_attribute, content)
+    content = clean_tags(content)
 
-        content = html.unescape(content)
+    # Final cleaning
+    final_cleaned_ssml = clean_tags(content)
 
-        # Initial cleaning
-        content = re.sub(r'<break\s*/?>', lambda m: '<break time="1s"/>' if 'time' not in m.group(0) else m.group(0), content)
-        content = re.sub(r'<w([^>]*)>', ensure_role_attribute, content)
-        content = clean_tags(content)
+    # Ensure the content is wrapped in <speak> tags
+    if not final_cleaned_ssml.strip().startswith('<speak>'):
+        final_cleaned_ssml = f'<speak>{final_cleaned_ssml}</speak>'
 
-        # Apply the smoothing process
-        smoothed_ssml = smooth_text_for_youtube(content)
-
-        # Final cleaning after smoothing
-        final_cleaned_ssml = clean_tags(smoothed_ssml)
-
-        # Ensure the content is wrapped in <speak> tags
-        if not final_cleaned_ssml.strip().startswith('<speak>'):
-            final_cleaned_ssml = f'<speak>{final_cleaned_ssml}</speak>'
-
-        with open(file_path, 'w', encoding='utf-8') as file:
-            file.write(final_cleaned_ssml)
-
-        print(f"Cleaned, smoothed, and re-cleaned SSML file saved at {file_path}")
-
-    except etree.ParseError as e:
-        print(f"Error parsing the SSML text: {e}")
-    except Exception as e:
-        print(f"An error occurred: {e}")
+    return final_cleaned_ssml
 
 def smooth_text_for_youtube(ssml_content):
     prompt = ("Please review and smooth over the following text to make it more readable and coherent for a YouTube video script. "
@@ -539,3 +564,4 @@ def estimate_total_cost(file_paths):
         total_polly_cost_long_form += polly_cost_long_form
     
     return total_character_count, total_gpt_cost, total_polly_cost_generative, total_polly_cost_long_form
+
