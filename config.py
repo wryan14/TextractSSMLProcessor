@@ -7,3 +7,4 @@ class Config:
     CHUNKS_FOLDER = os.path.join(os.getcwd(), 'chunks')
     LATIN_FOLDER = os.path.join(os.getcwd(), 'latin')
     AUDIO_OUTPUT_FOLDER = os.path.join(os.getcwd(), 'audio')
+    SUBTITLE_OUTPUT = os.path.join(os.getcwd(), 'subtitles')
