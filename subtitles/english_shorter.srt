@@ -1,1000 +1,226 @@
 1
-00:00:00,000 --> 00:00:04,919
-Book of Emendation 
-by Leporius, a monk and priest.
+00:00:00,000 --> 00:00:02,825
+Saint Eucherius, Bishop of Lyons, Exhortation to Monks.
 
 2
-00:00:04,919 --> 00:00:08,500
-Leporius, a Gaul by birth, first became a monk in Marseilles.
+00:00:02,825 --> 00:00:10,787
+(From the Codex Regular of Marianus Brockie, volume 1.)
+What should we offer you, dearest brothers, that would be worthy for us to say and for you to hear?
 
 3
-00:00:08,500 --> 00:00:14,077
-He excelled in monastic life through the virtue of his actions and the innocence of his morals.
+00:00:10,787 --> 00:00:14,743
+What can we dare to speak to you, whom we also regard with silent admiration?
 
 4
-00:00:14,077 --> 00:00:22,354
-However, he believed this was achieved solely by his own will and effort, not by God's help, and thus began to profess the Pelagian doctrine.
+00:00:14,743 --> 00:00:18,544
+How can we build you up with words when you build us up with your example?
 
 5
-00:00:22,354 --> 00:00:26,287
-Gennadius attests to this, and Cassian also reports similar things.
+00:00:18,544 --> 00:00:21,986
+Can we teach you what to do, when we already marvel at what you do?
 
 6
-00:00:26,287 --> 00:00:33,508
-Leporius not only followed Pelagius but also fell into the same heresy that Nestorius later spread more widely in the East.
+00:00:21,986 --> 00:00:23,168
+What then shall we say?
 
 7
-00:00:33,508 --> 00:00:39,437
-According to Cassian, Leporius was among the first or the greatest proponents of this heresy in Gaul.
+00:00:23,168 --> 00:00:25,993
+To abandon the world, which you have already abandoned?
 
 8
-00:00:39,437 --> 00:00:42,313
-Facundus, Bishop of Hermiane, also recorded this.
+00:00:25,993 --> 00:00:28,870
+To scorn riches, which many of you have already scorned?
 
 9
-00:00:42,313 --> 00:00:52,997
-The author of the "Collationes" writes that such a poisonous pest emerged during his time, especially in the city of the Belgians, or possibly from the greatest city of the Velgians.
+00:00:28,870 --> 00:00:31,181
+To flee desires, which you have already fled?
 
 10
-00:00:52,997 --> 00:00:58,398
-Thus, it is uncertain whether he meant Belica on the Rhone in Bressia or Augusta Treverorum.
+00:00:31,181 --> 00:00:34,161
+To choose healthier things, which you have already chosen?
 
 11
-00:00:58,398 --> 00:01:05,853
-Sirmondus and Garnerius, adhering to the latter reading, understood it as the city of Treves, and Tillemont does not deny this.
+00:00:34,161 --> 00:00:40,582
+Therefore, I will open my mouth in shared joy, fulfilling what was said: "Open your mouth, and I will fill it" (Psalm 80:11).
 
 12
-00:01:05,853 --> 00:01:18,533
-In that city, Leporius first absorbed or taught his errors, which he later published in a letter upon returning to Provence, causing a grave scandal and offense to charity, as he admits in his own Book of Correction.
+00:00:40,582 --> 00:00:46,952
+So I will speak to you, dearest ones, without fear; there should be no hesitation in one person where there is joy for many.
 
 13
-00:01:18,533 --> 00:01:32,152
-Although Cassian and other Gallican doctors advised him to renounce his impiety, holding a beneficial counsel in addition, he was rightly expelled from the Church by Proculus and Cyllinius, Gallican bishops, for presuming his error.
+00:00:46,952 --> 00:00:48,853
+The work of God is what gives us joy.
 
 14
-00:01:32,152 --> 00:01:38,668
-This is clear from the letter of the African fathers to the same bishops, which is attached to Leporius’s book.
+00:00:48,853 --> 00:00:50,445
+Learn well what you teach well.
 
 15
-00:01:44,304 --> 00:01:50,152
-He, however, exiled from his homeland, crossed over to Africa with several followers of his wickedness.
+00:00:50,445 --> 00:00:53,168
+If only our mouth could preach to you as you deserve.
 
 16
-00:01:50,152 --> 00:02:00,031
-There, inspired by the grace of God and through the efforts of some African bishops, especially Augustine, he recognized and renounced his error and professed sound doctrine.
+00:00:53,168 --> 00:00:59,538
+What others preach rightly, you fulfill; what others speak, you do: for you display the life of angels while still on earth.
 
 17
-00:02:00,031 --> 00:03:25,030
-Yet, when he caused scandal to many in Gaul, he sent a letter as a witness to his faith to Proculus, Cyllinius, and other bishops of Gaul, which he confirmed with this subscription:
-    
-    
-        
-            "I, Leporius, have subscribed to this document, dictated by my own understanding, in which I express my faith, which, God willing, I will hold until the end, before the holy bishops in the church of Carthage."
-        
-    
-    
-        About this document of Leporius, Cassian said:
-    
-    
-        
-            "Thus, he magnificently condemned the poorly conceived belief so that his correction is almost as admirable as the untainted faith of many; for the first thing is not to fall into error at all; the second is to repudiate it well."
-        
-    
-    
-        He added:
-    
-    
-        
-            "Therefore, having come to his senses, he confessed his error in Africa, where he was and still is, both with sorrow and without shame; but also sent letters of tearful confession and lamentation to all the cities of Gaul, so that where his deviation was previously known, his correction might be known as well; and those who were witnesses of his error before would be the same ones to witness his correction later."
-        
-    
-    
-        Moreover, some learned men, such as Garnerius, Quesnellius, Tillemont, and the editors of the works of Noris, have thought that this document of Leporius was written by Augustine, both from the style and the expressions used.
+00:00:59,538 --> 00:01:03,802
+For that heavenly conduct, which few will see there, you already make visible here.
 
 18
-00:03:25,030 --> 00:03:34,796
-They were especially persuaded by the fact that among the testimonies attached to the letter of Saint Leo 165, the document of Leporius is inscribed under Augustine's name.
+00:01:03,802 --> 00:01:07,295
+You are, as the Savior said, the light of this world (Matthew 5:14).
 
 19
-00:03:34,796 --> 00:03:39,623
-They also noted that this was done in the second session of the Council of Chalcedon.
+00:01:07,295 --> 00:01:09,196
+You are the lamp placed on the stand.
 
 20
-00:03:39,623 --> 00:03:42,178
-It is also read in the same way in Theodoret.
+00:01:09,196 --> 00:01:13,716
+If anyone is distant from this lamp, they must be engulfed in the darkness of the world.
 
 21
-00:03:42,178 --> 00:03:59,439
-But here it should be noted that there is one and the same passage taken from the document of Leporius, which appears in the writings of the authors mentioned; therefore, it should be said that the opinion about the authorship of Augustine regarding the document of Leporius stems from the letter of Leo.
+00:01:13,716 --> 00:01:18,545
+But whoever approaches this light will surely have eyes to see, just as they had ears to hear.
 
 22
-00:04:01,824 --> 00:04:06,110
-As for the Council of Chalcedon, the same letter from Leo was read there.
+00:01:18,545 --> 00:01:26,456
+Therefore, for this lamp to have the brightest light, it must always be filled with the oil of mercy, piety, gentleness, humility, obedience, and charity.
 
 23
-00:04:06,110 --> 00:04:11,864
-Theodoret, when he referenced the same words, is understood to have copied them from Leo's letter.
+00:01:26,456 --> 00:01:32,877
+Humility, above all, must be cultivated, as it makes us equal to the just, joins us with angels, and brings us closer to God.
 
 24
-00:04:11,864 --> 00:04:19,320
-The great pope likely attributed that work to Augustine because he knew it was approved by him and endorsed with his signature.
+00:01:34,007 --> 00:01:39,845
+This is the person who does not fear ruin, falling, or slipping, because humility has nothing from which to fall.
 
 25
-00:04:19,320 --> 00:04:25,192
-The document was known to be signed by four African bishops, with Augustine standing out among them.
+00:01:39,845 --> 00:01:41,085
+Do you want not to fall?
 
 26
-00:04:25,192 --> 00:04:43,804
-On that occasion, they wrote a joint letter to Bishops Proculus and Cyllinnius of Gaul, including these noteworthy points: "Just as Leporius was accepted by us through his presence, so let him be accepted by you through his letter." They also thought it should be signed by their own hands, testifying that it is his.
+00:01:41,085 --> 00:01:42,273
+Don't lift yourself up.
 
 27
-00:04:43,804 --> 00:04:55,312
-Sirmondus states that the letter of the African fathers, although written in the name of four bishops, clearly reflects Augustine's style and intellect, making it seem undoubtedly dictated by him.
+00:01:42,273 --> 00:01:43,668
+Do you want not to puff up?
 
 28
-00:04:55,312 --> 00:04:57,895
-It is indeed listed among Augustinian works.
+00:01:43,668 --> 00:01:44,650
+Don't be puffed up.
 
 29
-00:04:57,895 --> 00:05:08,640
-However, it would be useful to consult the learned writers of French Literary History on this matter, who emphatically assert that the work attributed to Leporius was authored by him.
+00:01:44,650 --> 00:03:01,934
+As someone rightly said: "Whatever swells is not healthy." For pride, which is contrary to humility, what else is it but swelling? Just as a body with swelling is not healthy, neither is a soul with pride. Therefore, humble yourself and do not seek things higher than you Ecclesiastes 3:22.
+If someone wants to be proud, they can exercise their pride by being proud toward the world, despising worldly behavior, considering its desires as nothing, rising up against vices, being proud against pride itself, and having power, riches, desires, and other things that dominate the world under their feet.
+Let them despise all things here considered great and magnificent as filth and dung with commendable severity: they will satisfy their pride when they see themselves in spirit above even kings. Yet if they still want to be holy and proud, they will indeed be a despiser of the world but humble to Christ. They will indeed be chosen there, but here they will be submissive: for they lift themselves up in those things so that they can more easily lower themselves to these things.
+If we diligently maintain this humility, then true obedience will also be served without effort. In this obedience, beloved ones, genuine contrition is shown. For the one who judges themselves as the least is contrite in heart. When would they dare to carry out their own wills? When would they dare to resist the author who commanded them? Hence the Apostle also says: Obey your leaders, and so on (Hebrews 13:17).
 
 30
-00:05:08,640 --> 00:05:17,036
-This document held great authority among the ancients, and Leporius himself was regarded as a defender of the Catholic faith against Nestorius.
+00:03:01,934 --> 00:03:04,362
+But is only the one who commands to be praised?
 
 31
-00:05:17,036 --> 00:05:34,592
-This is evident from Cassian, who, after quoting several passages from the document, concludes with these words: "Therefore, this confession of his (Leporius), that is, the faith of all Catholics, was approved by all the African bishops where he wrote, and all the Gallican bishops to whom he wrote.
+00:03:04,362 --> 00:03:07,410
+Is not the one who obeys, beloved ones, also to be praised?
 
 32
-00:05:34,592 --> 00:05:42,988
-No one has ever existed who could dislike this faith without being guilty of infidelity: because to deny a proven faith is to profess impiety."
+00:03:07,410 --> 00:03:10,613
+The former deserves glory for leading, the latter for obeying.
 
 33
-00:05:44,280 --> 00:05:53,899
-Furthermore, Pope John II used evidence from the Leporian document to affirm the doctrine of faith, asserting that this document was approved by the African Synod.
+00:03:10,613 --> 00:03:16,503
+Therefore, a great honor and reward is aimed for by both, while one advises well, and the other obeys good advice.
 
 34
-00:05:53,899 --> 00:05:59,093
-It was read aloud before the holy bishops in the Church of Carthage, as Leporius writes.
+00:03:16,967 --> 00:03:24,059
+This obedience was particularly emphasized by our Savior, who aimed to save us not only by redeeming us but also by teaching us obedience.
 
 35
-00:05:59,093 --> 00:06:29,132
-Here are the words of the praised Roman Pontiff: "Leporius," he says, "in the letter confirmed by Bishop Aurelius of Carthage, the blessed Augustine, and the African Synod, etc."
-    
-    
-      Additionally, in a petition presented by Basil the Deacon, Archimandrite, and other monks to Emperor Theodosius in 430, which is found among the acts of the Council of Ephesus, Leporius is counted among the holy fathers of the Church who explained the mystery of the Incarnation, teaching that Christ is truly God.
+00:03:24,059 --> 00:03:26,783
+For He, being equal to the Father, obeyed the Father.
 
 36
-00:06:29,132 --> 00:06:49,433
-(For Quesnellus should not be heeded, who vainly persuades himself that the Leporius praised by Basil is different from our Leporius, some bishop of another see, because he is listed among the bishops who defended the divinity of Christ.)
-    
-    
-      Facundus also praises Leporius's document, using its testimony to support orthodox faith.
+00:03:26,783 --> 00:03:27,810
+And how did He obey?
 
 37
-00:06:49,433 --> 00:06:56,338
-Finally, as we saw earlier, Gennadius lists him among the illustrious men renowned for their ecclesiastical writings.
+00:03:27,810 --> 00:03:29,352
+Did He obey in an easy matter?
 
 38
-00:06:56,338 --> 00:07:11,741
-Therefore, after Leporius had given such an excellent example of his doctrine and piety in Africa, having once been a monk in Gaul teaching erroneous doctrines against the faith, he was established in that region and ordained as a priest of the Church of Hippo.
+00:03:29,352 --> 00:03:30,431
+He obeyed unto death.
 
 39
-00:07:11,741 --> 00:07:14,456
-This is well known from Cassian and Gennadius.
+00:03:30,431 --> 00:03:31,613
+And what kind of death?
 
 40
-00:07:14,456 --> 00:07:35,879
-Cassian says: "Leporius, once a monk, now a priest"; Gennadius states: "Leporius, still a monk, later a priest."
-    
-    
-      Moreover, the question among scholars is whether our Leporius, now a priest, is the same as the one named among the priests of the Church of Hippo in the ecclesiastical acts where Saint Augustine designated Heraclius as his successor.
+00:03:31,613 --> 00:03:33,617
+The death on the cross Philippians 2:8.
 
 41
-00:07:35,879 --> 00:07:45,616
-These acts are said to have been published during the twelfth consulship of Theodosius and the second consulship of Valentinian, on the sixth day before the kalends.
+00:03:33,617 --> 00:03:36,957
+Not only did He obey, but He also made the Father's will His own.
 
 42
-00:07:49,512 --> 00:07:50,943
-October, the year 426.
+00:03:36,957 --> 00:03:44,357
+For we can do what we are commanded even unwillingly; true obedience is when the one who obeys begins to want what the one who commands desires.
 
 43
-00:07:50,943 --> 00:08:17,752
-Around this time, the holy doctor delivered a sermon about the life and conduct of clerics, in which he praised Leporius extensively with these words:
-  "I say to you, who perhaps do not know; for many of you do know: the priest Leporius, although born to a noble family and in a very honorable place among his people, nevertheless, already serving God, having left all he had, I took him in as a poor man," etc.
+00:03:44,357 --> 00:03:51,397
+The Holy Scripture says: It is good for a man to carry the yoke from his youth; he will sit alone and remain silent Lamentations 3:27-28.
 
 44
-00:08:17,752 --> 00:08:24,909
-With these words, Augustine clearly states that this priest of Hippo was a monk and, importantly, a foreigner.
+00:03:51,397 --> 00:03:57,153
+Therefore, with Christ helping us, let us guard our mouths with a door and bolts, and weigh our words carefully.
 
 45
-00:08:24,909 --> 00:08:38,119
-As Norisius rightly noticed, it seems reasonable to consider that this Leporius is the same one who had previously traveled from Gaul to Africa as a monk, where the holy father took him in as a poor man.
+00:03:57,153 --> 00:04:01,983
+The Apostle says: Those who serve well gain a good standing for themselves First Timothy 3:13.
 
 46
-00:08:38,119 --> 00:08:49,701
-But it is better to consult the learned men we mentioned earlier, who, after examining the recently recited passage of Augustine more carefully, have come to the same conclusion.
+00:04:01,983 --> 00:04:10,257
+And these things, beloved ones, I do not say to instruct you, but so that you may recognize in my words the benefits of humility and obedience that you practice.
 
 47
-00:08:49,701 --> 00:08:51,913
-This was also the view of Sirmond.
+00:04:10,257 --> 00:04:15,807
+These benefits, which draw you towards the eternal kingdom of God, we desire for you to possess unceasingly.
 
 48
-00:08:51,913 --> 00:08:57,640
-However, Baronius, Garnerius, Tillemont, and the Ballerini brothers thought differently.
+00:04:15,807 --> 00:04:20,483
+For it is not the one who starts, but the one who perseveres that will be saved Mark 13:13.
 
 49
-00:08:57,640 --> 00:09:01,544
-Indeed, Leporius was still living in Africa in the year 430.
+00:04:20,483 --> 00:04:23,463
+And to the one who wants to be saved, there is a struggle.
 
 50
-00:09:01,544 --> 00:09:10,458
-For Cassian, speaking about him, says: "He then, having come to his senses, was not only in Africa, where he was then and still is," etc.
+00:04:23,463 --> 00:04:31,685
+If someone in battle leaves their position when the lines are drawn and stands against the adversaries, they are henceforth regarded as cowardly and a deserter.
 
 51
-00:09:10,458 --> 00:09:13,321
-So he wrote in his books on the Incarnation.
+00:04:31,685 --> 00:04:40,575
+In this place too, soldiers of Christ seem to be standing as if in a battle line against the devil: to abandon the fight and leave is not only inglorious but also dangerous.
 
 52
-00:09:13,321 --> 00:09:30,044
-This work, written against Nestorius, was composed while Nestorius still held the see of Constantinople, and it is known to have been written before the Council of Ephesus in 431, thus around the year 430, as Norisius and Tillemont concluded after Baronius.
+00:04:40,575 --> 00:04:45,817
+We must stay in this very place; so that by holding on to what we have, others do not take our crowns.
 
 53
-00:09:30,044 --> 00:09:39,610
-Therefore, if we now carefully consider the reasons discussed so far, it is almost possible to determine the time when Leporius published his work.
+00:04:45,817 --> 00:04:55,375
+We must stay and remain, so that by fighting gloriously here, sailing peacefully, we may live the safest life in spiritual pursuits and grasp eternal life, for which we have been called.
 
 54
-00:09:39,610 --> 00:09:43,969
-There are indeed various opinions on this matter among learned men.
-
-55
-00:09:43,969 --> 00:09:52,689
-Norisius states that Leporius' conversion and thus his confession should not be placed beyond the year 410, and even before that year.
-
-56
-00:09:52,689 --> 00:09:59,521
-Sirmond believes it happened around the year 425, and Garnerius thinks it was in the preceding year, 424.
-
-57
-00:10:00,888 --> 00:10:09,470
-Pagius dates it to the year 427, after Saint Augustine published his book "On Rebuke and Grace." Tillemont and the Ballerini brothers agree.
-
-58
-00:10:09,470 --> 00:10:18,297
-However, the most learned scholars, previously praised by us, assert that the "Refutation" was written by Leporius in 418 or at the latest, 419.
-
-59
-00:10:18,297 --> 00:10:26,021
-They argue that the death of Bishop Proculus of Marseilles cannot be dated beyond these years, as even Tillemont acknowledges.
-
-60
-00:10:26,021 --> 00:10:33,622
-Both Leporius' booklet and the letter from the African fathers concerning Leporius' conversion are addressed to this bishop.
-
-61
-00:10:33,622 --> 00:10:40,365
-There is no other Bishop Proculus of Marseilles who could alter this argument or provide a different timeline.
-
-62
-00:10:40,365 --> 00:10:44,901
-We omit other significant reasons by which scholars confirm this timeline.
-
-63
-00:10:44,901 --> 00:11:00,839
-They also counter the objection based on the timing of Saint Augustine's publication of "On Rebuke and Grace," showing that by 421, when Augustine published his "Enchiridion," Leporius' errors were well known to him, and he openly criticized them in that work.
-
-64
-00:11:00,839 --> 00:11:06,234
-Therefore, after considering these points, we confidently adhere to this latter opinion.
-
-65
-00:11:06,234 --> 00:11:16,103
-We know that Sirmond later approved it for the reason that Pope John II, as mentioned earlier, asserted that Leporius' letter was confirmed by the African synod.
-
-66
-00:11:16,103 --> 00:11:37,804
-"If," he says, "he called it African, which we have after the consulship of Honorius XII and Theodosius VIII in 419 AD, then it must be established that Leporius' correction occurred in that same year."
-  
-  
-    Only fragments of Leporius' booklet remain, taken from Cassian's books on the Incarnation, with the letter from the African bishops prefixed.
-
-67
-00:11:37,804 --> 00:11:42,340
-Sirmond was the first to publish these in 1629 among the councils of Gaul.
-
-68
-00:11:42,340 --> 00:11:50,615
-The following year, in 1630, he published the complete work from a manuscript of the Herivall Abbey among five ancient doctrinal works.
-
-69
-00:11:50,615 --> 00:11:57,052
-Since then, it has appeared in the royal edition of the councils at Lucca and also in Labbe's collection.
-
-70
-00:12:00,240 --> 00:12:07,866
-Furthermore, Garnerius added the same work, corrected many errors, and included the letter from the African bishops to his Marius Mercator.
-
-71
-00:12:07,866 --> 00:12:10,938
-It was also added to the library of the Fathers of Lyon.
-
-72
-00:12:10,938 --> 00:12:15,712
-Finally, with Garnerius's corrections, it appears in the collection of Sirmond's works.
-
-73
-00:12:15,712 --> 00:12:20,265
-We have provided this edition for printing, and it is much clearer than the others.
-
-74
-00:12:22,296 --> 00:12:35,927
-Leporius the Priest,
-      
-      Book of Emendation,
-      or Satisfaction,
-      containing a confession of the Catholic faith about the mystery of Christ's incarnation,
-      along with the denunciation of previous errors,
-      to the Bishops of Gaul.
-
-75
-00:12:35,927 --> 00:12:40,375
-To the most blessed and revered priests of God, Proculus and Quillenus, from Leporius, the insignificant.
-
-76
-00:12:40,375 --> 00:12:43,891
-What should I first accuse myself of, my lords, venerable and most blessed priests?
-
-77
-00:12:43,891 --> 00:12:44,484
-I do not know.
-
-78
-00:12:44,484 --> 00:12:46,432
-What I should excuse in myself, I cannot find.
-
-79
-00:12:46,432 --> 00:12:56,302
-Such is the pride of ignorance,
-      such foolish simplicity with harmful persuasion,
-      such fervor with intemperance,
-      such, to speak more truly, with the weakening of faith—
-      all these things at once took hold of me.
-
-80
-00:12:56,302 --> 00:13:02,190
-To obey so many and such great things,
-      and to be able to reject the same from my mind,
-      is a wondrous cause for gratitude to me.
-
-81
-00:13:02,190 --> 00:13:05,409
-I recognize, therefore, my fault,
-      and willingly become my own accuser.
-
-82
-00:13:05,409 --> 00:13:12,398
-But I hope for mercy,
-      because I acted in ignorance:
-      for the cause of my sin would be inexcusable if I had knowingly done anything with deliberate intent.
-
-83
-00:13:12,398 --> 00:13:18,752
-I call God as witness to my soul:
-      I believed my error to be the truth,
-      and I considered the obscure darkness to be the most sincere light.
-
-84
-00:13:18,752 --> 00:13:22,268
-Zeal for God, but not according to knowledge,
-      misled me when I was unguarded.
-
-85
-00:13:22,268 --> 00:13:29,427
-But now, what we believed would be pleasing to your blessedness,
-      His mercy has recalled me,
-      wandering into rough and thorny paths,
-      to the straight way.
-
-86
-00:13:29,427 --> 00:13:40,143
-And crooked things have become straight for me,
-      and rough places into smooth paths:
-      and having been instructed by all my fellow priests and your brothers,
-      with the darkness now cleared away,
-      I understand in what part I was blind.
-
-87
-00:13:40,143 --> 00:13:43,278
-And therefore the recognition of the truth itself renders me a supplicant.
-
-88
-00:13:43,278 --> 00:13:48,658
-I confess, I erred ignorantly,
-      and in some things exceeded the rule of truth,
-      while I thought I held it completely.
-
-89
-00:13:57,384 --> 00:14:03,809
-My lack of knowledge has become obvious, and this burdens me even more because I tried to defend it despite the scandal it caused.
-
-90
-00:14:03,809 --> 00:14:09,097
-As clear as daylight now, I realize I defended it more out of human error than with the rationale of faith.
-
-91
-00:14:09,097 --> 00:14:19,377
-But because nothing else could be done except for my own foolishness to live within me, when I had myself as both student and teacher: I wish humility had broken my presumption, which was driven by ignorance.
-
-92
-00:14:19,377 --> 00:14:21,799
-But alas, I was found both reckless and arrogant.
-
-93
-00:14:21,799 --> 00:14:26,593
-Now I move past this with your forgiveness, and I will not delay in addressing the present issue.
-
-94
-00:14:26,593 --> 00:14:29,015
-I will hurry to heal the wounds I have inflicted.
-
-95
-00:14:29,015 --> 00:14:33,513
-There will be no shame in accepting the cure, as there was no caution in preserving health.
-
-96
-00:14:33,513 --> 00:14:35,786
-Where discord was born, peace will be created.
-
-97
-00:14:35,786 --> 00:15:01,734
-Therefore, the letter, which was the cause of scandal and a stumbling block to charity, written by me once in simplicity but now recognized as infidel in some parts, I ask according to the profession of this letter and your holy authority, that it be trodden into oblivion in that part or cause where it is proven to have been produced against the truth due to ignorance: so that it may be known and evident to all that what was contrary to faith and truth has been cut out from the body of the same letter with condemnation.
-
-98
-00:15:01,734 --> 00:15:12,014
-I cry out, I confess the truth, my lords: some brothers saw the deeper issues better, but we felt much more on the surface; and being in our own darkness, we considered those who saw more closely to be blind.
-
-99
-00:15:12,014 --> 00:15:36,282
-But now, with the Lord's favor, our eyes once opened, we see the true light with them, and in the same grace of light, with the true physician's clay placed over our eyes, we regain our sight; and we now see Jesus Christ the Lord not as we were previously deceived, but as He truly is, with the sincerest gaze: and according to the truth of the creed, what we previously feared to say due to error, not out of any impiety, about Mary being the mother of God, we now most steadfastly confess.
-
-100
-00:15:37,320 --> 00:15:52,505
-However, because we denied that Christ, the Son of God, was born of Holy Mary, and as you all remember, but ignoring the mystery of faith, we said that not God Himself was born as a man, but that a perfect man was born with God: fearing, of course, that we might assign human nature to divinity.
-
-101
-00:15:52,505 --> 00:15:53,484
-Oh, foolish wisdom!
-
-102
-00:15:53,484 --> 00:16:02,904
-As if, if God did not disdain to be born with man, He would disdain to be born as a man because of the status of His own nature: or He could do the former, but perhaps not the latter.
-
-103
-00:16:02,904 --> 00:16:05,632
-I firmly believe God cannot do what He does not want.
-
-104
-00:16:05,632 --> 00:16:11,604
-If He wanted to be born, I most certainly believe that He could because the status of God cannot sustain any danger.
-
-105
-00:16:11,604 --> 00:16:20,406
-Nor did He, made man for our sake, consider it unworthy to be born of a human, because He did not consider it unworthy to create the very human from whom He would be born.
-
-106
-00:16:20,406 --> 00:16:30,290
-Therefore, if we do not grasp this power of God, and in our own understanding and reasoning, we, being wise, say that God was born with man so that inferior acts do not seem to be done by God.
-
-107
-00:16:30,290 --> 00:16:37,754
-Thus, we say that the man was born with God, giving separately what belongs to God to God alone, and separately what belongs to man to man alone.
-
-108
-00:16:37,754 --> 00:16:47,278
-We most clearly introduce a fourth person into the Trinity and begin to make not one but two Christs from the one Son of God: may the Lord and God Christ Himself turn this away from us.
-
-109
-00:16:47,278 --> 00:16:58,191
-Therefore, we confess our Lord and God Jesus Christ, the only Son of God, who was born from the Father before the ages, in the latest time made man from the Holy Spirit and Mary, ever virgin, born as God and man.
-
-110
-00:16:58,191 --> 00:17:09,671
-Confessing both natures, God and man inseparably, we receive with pious faith, and from the time of the assumed flesh, we say all things which were of God passed into man, so that all things which were of man came into God.
-
-111
-00:17:09,671 --> 00:17:22,695
-With this understanding, the Word was made flesh, not that by any conversion or change it began to be what it was not, but that by the power of divine dispensation, the Word of the Father, never departing from the Father, deigned to become properly man.
-
-112
-00:17:22,695 --> 00:17:28,666
-The only begotten was incarnate in that secret mystery which He alone knows: for it is ours to believe, His to know.
-
-113
-00:17:32,064 --> 00:17:40,662
-Just as God the Word, taking on everything that is human, becomes a man; the man who is taken up, by receiving everything that is of God, cannot be anything other than God.
-
-114
-00:17:40,662 --> 00:17:45,011
-However, being called incarnate and mingled does not mean a reduction of His substance.
-
-115
-00:17:45,011 --> 00:17:48,710
-For God knows how to blend without corrupting Himself and yet truly blend.
-
-116
-00:17:48,710 --> 00:17:55,459
-He takes into Himself in such a way that nothing is added to Him and knows how to pour Himself out completely, so that nothing is lost.
-
-117
-00:17:55,459 --> 00:18:06,507
-Therefore, let us not, out of our own weakness and based on visible evidence from our experiences, mistakenly think that God and man are mixed together into some sort of blended body through a confusion of flesh and Word.
-
-118
-00:18:06,507 --> 00:18:10,756
-God forbid we believe that, as if two natures have been fused into one like an alloy.
-
-119
-00:18:10,756 --> 00:18:12,755
-Such a mixture would corrupt both parts.
-
-120
-00:18:12,755 --> 00:18:27,402
-For God, who is capable but not capturable, who penetrates but is not penetrable, who fills but is not fillable, who is wholly present everywhere and diffused everywhere through the infusion of His power, is mercifully mixed with human nature, but human nature is not mixed with divine nature.
-
-121
-00:18:27,402 --> 00:18:32,701
-Therefore, flesh progresses into the Word, not the Word into flesh: and yet, truly, the Word became flesh.
-
-122
-00:18:32,701 --> 00:18:43,949
-But, as we said, this is only personal and proper, not natural with the Father or the Holy Spirit: because the only-begotten God, the true God, who is one in nature with the Father and the Holy Spirit, is different in person.
-
-123
-00:18:43,949 --> 00:18:51,947
-For we do not say that the Father is the same as the Son, nor do we say the Son is the same as the Father, nor do we call the Holy Spirit the Father or the Son.
-
-124
-00:18:51,947 --> 00:19:02,045
-By distinguishing the persons in their properties, we properly call the Father, God the Father, and we properly call the Son, God the Son, and we properly confess the Holy Spirit as God the Holy Spirit.
-
-125
-00:19:02,045 --> 00:19:08,394
-And although we say God three times, we do not believe in three Gods, but in one God perfect in the Trinity of His omnipotence.
-
-126
-00:19:10,943 --> 00:19:24,904
-Therefore, born to us from the Holy Spirit and Mary, ever virgin, God-man Jesus Christ, the Son of God: thus, in each other, the Word and flesh become one, so that both substances naturally remain in their own perfection, without any prejudice to themselves.
-
-127
-00:19:24,904 --> 00:19:34,048
-The divine communicates to humanity, and the human partakes in divinity: not one God and another man, but the same God who is also man; and in turn, man who is also God.
-
-128
-00:19:34,048 --> 00:19:37,403
-Jesus Christ, the one Son of God, is both called and truly is.
-
-129
-00:19:37,403 --> 00:19:50,768
-And so, we must always act and believe that the Lord Jesus Christ, the Son of God, true God, whom we confess to be always with the Father and equal to the Father before the ages, is the same one who, from the time he took on flesh, became God-man.
-
-130
-00:19:50,768 --> 00:20:03,483
-We do not deny that he became God, nor do we believe that he increased in God over stages and times, or that he was of one state before the resurrection, and of another after the resurrection; but always of the same fullness and power.
-
-131
-00:20:03,483 --> 00:20:24,857
-And because he bore all our weaknesses, that is, of our nature, and truly took upon himself our emotions according to the flesh, to prove himself a true man, following the same course of our mortality, with power, not necessity, of age and wisdom, as the Evangelist says in Luke 2:52: he grew, he hungered, he thirsted, he was tired, he was flogged, he was crucified, he died, and he rose again.
-
-132
-00:20:24,857 --> 00:20:33,676
-He was not changed from the nature of divinity: for indeed, we have already professed above that the nature of divinity is unchangeable, immutable, and impassible.
-
-133
-00:20:33,676 --> 00:20:43,524
-But because the Word of God descended, graciously taking man upon himself, and through the acceptance of God, man ascended into the Word of God; the whole God Word became wholly man.
-
-134
-00:20:43,524 --> 00:20:49,097
-For it was not God the Father who became man, nor the Holy Spirit, but the only begotten of the Father.
-
-135
-00:20:52,127 --> 00:21:08,158
-Therefore, we must regard the person of the flesh and the Word as one, so that we may faithfully and without any doubt believe that the same Son of God is always inseparable, named of dual substance, in the days of His flesh, and truly always did all that pertains to man, and always possessed all that pertains to God.
-
-136
-00:21:08,158 --> 00:21:11,676
-For though He was crucified in weakness, He lives by the power of God.
-
-137
-00:21:11,676 --> 00:21:15,093
-As it is written in Second Corinthians chapter thirteen, verse four.
-
-138
-00:21:15,093 --> 00:21:21,927
-Hence, we no longer fear to say, according to God, that God was born of a human, that God suffered as a human, that God died, and so on.
-
-139
-00:21:21,927 --> 00:21:26,148
-But we proudly declare that God was born, and that the same God as a human suffered.
-
-140
-00:21:26,148 --> 00:21:32,581
-For I am not ashamed of the gospel, as the Apostle says:  For it is the power of God for the salvation of everyone who believes.
-
-141
-00:21:32,581 --> 00:21:35,294
-As it is written in Romans chapter one, verse sixteen.
-
-142
-00:21:35,294 --> 00:21:39,566
-Surely, it is the power of God for salvation to believe that God suffered as a human.
-
-143
-00:21:39,566 --> 00:21:47,053
-But for the one who does not believe, it is considered the weakness of God, to their destruction, to not believe that God was crucified in the flesh.
-
-144
-00:21:47,053 --> 00:21:57,908
-Therefore, the same Apostle again says:  But we preach Christ crucified: surely the power and wisdom of God; because what seems foolish of God is wiser than humans; and what seems weak of God is stronger than humans.
-
-145
-00:21:57,908 --> 00:22:02,230
-As it is written in First Corinthians chapter one, verses twenty-three to twenty-five.
-
-146
-00:22:02,230 --> 00:22:07,707
-For what seems so foolish and weak to unbelieving humans as when they hear that the Son of God was crucified?
-
-147
-00:22:07,707 --> 00:22:11,828
-But it pleased God through the foolishness of preaching to save those who believe.
-
-148
-00:22:11,828 --> 00:22:15,245
-As it is written in First Corinthians chapter one, verse twenty-one.
-
-149
-00:22:15,245 --> 00:22:24,793
-Because our faith mainly consists in believing that the only Son of God, not adoptive but His own, not imaginary but real, not temporary but eternal, suffered everything in the flesh for us.
-
-150
-00:22:24,793 --> 00:22:32,230
-And not for Himself, but for us; and not for His sake, but for ours, because we were fallen, He mercifully came down from the heights to the depths.
-
-151
-00:22:32,230 --> 00:22:42,030
-Because, as the Apostle says:  Though He was in the form of God, He did not consider equality with God something to be grasped, but He emptied Himself, taking the form of a servant, and the rest.
-
-152
-00:22:42,030 --> 00:22:45,346
-As it is written in Philippians chapter two, verse six, and so on.
-
-153
-00:22:45,346 --> 00:22:50,070
-What is so clear as to recognize from this testimony the mystery of such a great dispensation?
-
-154
-00:22:50,070 --> 00:22:52,030
-For in the form of God, who but God is?
-
-155
-00:22:56,351 --> 00:22:58,735
-So, how did the source of fullness empty itself?
-
-156
-00:22:58,735 --> 00:23:01,616
-Wasn't it when the form of God took the form of a servant?
-
-157
-00:23:01,616 --> 00:23:04,347
-When the Lord graciously took on the role of a servant?
-
-158
-00:23:04,347 --> 00:23:16,018
-And for the sake of our forgiveness and mercy, by doing and enduring humble things, the Word made flesh nullified in person what it possessed by nature, and through obedience and humility, restored what was lost in Adam's disobedience.
-
-159
-00:23:16,018 --> 00:23:24,460
-Though dead in the flesh, He always lives, giving life to all things with the Father in the spirit: now never to die again, having been raised by the Father in the flesh.
-
-160
-00:23:24,460 --> 00:23:26,745
-He becomes for us the firstborn from the dead.
-
-161
-00:23:26,745 --> 00:23:38,018
-As it is written in Colossians, chapter 1, verse 18, He is the only begotten of the living God, living before all ages: for us, poor in time and needy in humanity, He received for us what He always abundantly has in the Father.
-
-162
-00:23:38,018 --> 00:23:41,147
-Oh, the depth of the riches of the wisdom and knowledge of God!
-
-163
-00:23:41,147 --> 00:23:44,524
-How unsearchable are His judgments, and His ways beyond finding out!
-
-164
-00:23:44,524 --> 00:23:46,957
-As it is written in Romans, chapter 11, verse 33.
-
-165
-00:23:46,957 --> 00:23:59,124
-He is given a name for our sake, but He grants it to all, because God, the giver of all things, knows Himself as God in giving and as man in receiving: so that at the name of Jesus every knee should bow, in heaven, on earth, and under the earth.
-
-166
-00:23:59,124 --> 00:24:03,594
-And every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.
-
-167
-00:24:03,594 --> 00:24:06,623
-As it is written in Philippians, chapter 2, verses 10 and 11.
-
-168
-00:24:06,623 --> 00:24:10,845
-This is our faith, and this is the change brought by the right hand of the Most High.
-
-169
-00:24:10,845 --> 00:24:14,023
-As it is written in Psalm 77, verse 10, in a better translation.
-
-170
-00:24:14,023 --> 00:24:17,797
-This is how we believe, this is how we hold: and this is not from ourselves.
-
-171
-00:24:17,797 --> 00:24:27,978
-As it is written in Ephesians, chapter 2, verse 8, it is the gift of God: not from the merit of our own wisdom, so that we do not boast in ourselves: for we are His workmanship, created long ago in Christ.
-
-172
-00:24:27,978 --> 00:24:34,732
-As it is written in Ephesians, chapter 2, verse 10: but now again, being renewed in the light by the apostolic men who gave birth to us.
-
-173
-00:24:34,732 --> 00:24:37,016
-To Him, therefore, be honor and glory forever.
-
-174
-00:24:37,016 --> 00:24:37,265
+00:04:56,351 --> 00:06:13,199
+Our Savior speaks: "A city built on a hill cannot be hidden. Nor do people light a lamp and put it under a basket, but on a lampstand, so it gives light to everyone in the house."
+Matthew 5:14.
+Therefore, it is fitting that such a bright lamp, originally placed under the basket of the monastery, is now transferred to the lampstand of the Church. This metaphorical basket aligns well with the monastery, where everything is done with careful measure. In the monastery, everything said or done is presented in the most equitable manner, adhering to the measure of the basket.
+We can interpret the monastery through this spiritual metaphor. Like a basket, it contains nothing mixed within it. Just as wheat is separated from the chaff, the monastery receives those separated from the world. After the Lord’s winnowing, which cleanses His threshing floor by ejecting the refuse outside, it keeps His chosen ones within as purer grains.
+Just as the basket represents the monastery, the lampstand represents the Church. Being set in a visible or prominent place, it shows the light placed on it to everyone. A lit fire is meant to shine; hidden good does little, and hidden light shines little.
+Exalt, most blessed bishop, proclaim your voice like a trumpet to the people from Heaven. Reveal the treasure you have unearthed in secret. Share the wealth you have amassed. Pour out openly to those who hunger the riches you have prepared in the wilderness, with the help of our Lord Jesus Christ, who lives and reigns with God the Father and the Holy Spirit, forever and ever.
 Amen.
-
-175
-00:24:43,919 --> 00:24:59,007
-Regarding what we foolishly proposed in that letter, albeit ignorantly, and what we now confess as abominable—applying labor, devotion, merit, and faith to Christ to such an extent that we judged these things to be inappropriate for the Son of God—we now see it as the height of our blindness and folly.
-
-176
-00:24:59,007 --> 00:25:01,746
-We clearly see the truth in some criticisms against us.
-
-177
-00:25:01,746 --> 00:25:13,049
-It is as if we, although we never intended this, almost made Christ similar to each of the saints, assigning to Him, who is God over all, those things that belong to mere mortals, thus placing Him among others in a certain way.
-
-178
-00:25:13,049 --> 00:25:24,003
-Although He is called the head of the body and truly is the head of the Church, and although He came from the same human lineage according to the flesh, without sin, He, who is unique, should not be counted among others.
-
-179
-00:25:24,003 --> 00:25:35,406
-Nor should those things be attributed to Him that can be measured, because it is said of Him: "For God does not give the Spirit by measure."
-    
-    
-        Where the fullness of divinity is, there is neither measure nor limit.
-
-180
-00:25:35,406 --> 00:25:42,078
-He does not know labor, devotion, faith, or merit, the end of merits, who acts infinitely and without limits in all things with power.
-
-181
-00:25:42,078 --> 00:25:57,614
-Indeed, as a man, He is born by faith and truly according to the flesh; but He does not cease to be God: He is nurtured, progresses, grows, matures, and like a lamb silent before its shearer, He endures insults, is scourged, and does not reject the accursed death, being the author of life who came in the flesh.
-
-182
-00:25:57,614 --> 00:26:06,178
-But He completes all these things, not out of necessity as one of us, but having the power to lay down His life and the power to take it up again, He willingly accepted it.
-
-183
-00:26:09,215 --> 00:26:19,478
-I also believe it should be mentioned that in the same letter, I made a similar mistake by saying that Christ, our Lord, fulfilled all that was required of his sufferings without divine help, as if he were a perfect man.
-
-184
-00:26:19,478 --> 00:26:25,123
-I intended to portray Christ as a perfect man, suggesting that the Word of the Father was separate from these sufferings.
-
-185
-00:26:25,123 --> 00:26:30,767
-I tried to prove that a man alone accomplished all these things through his mortal nature, without any divine assistance.
-
-186
-00:26:30,767 --> 00:26:36,925
-Truly blind, I acknowledged that the man was taken up into God, but I did not want what belonged to the man to be taken up into God.
-
-187
-00:26:36,925 --> 00:26:45,881
-Indeed, God undoubtedly took up the whole man into himself, so that what we think unworthy of God was not done by the man alone by natural judgment, but by God through the man, and in the man.
-
-188
-00:26:45,881 --> 00:26:49,660
-The man himself, made for us, fulfilled the divine plan by his power and mystery.
-
-189
-00:26:49,660 --> 00:26:55,397
-Then, adding to my foolishness, a very learned scribe confirmed things not understood by those who did not understand them.
-
-190
-00:26:55,397 --> 00:27:11,118
-I thought that what we have stated above should be understood in this way: with the testimony where it is written, "My God, my God, why have you forsaken me?" (Psalm 22:1), I suggested that the Lord of glory uttered this saying on the cross because the perfect patience of the man was tested in such great sufferings without divine help.
-
-191
-00:27:11,118 --> 00:27:18,768
-Therefore, if he spoke these words in suffering to prove human patience, he should have also cried out with the same words for the same reason when he was scourged.
-
-192
-00:27:18,768 --> 00:27:25,906
-He should have also said the same words when he was crowned with many wounds, where there were as many pains as there were thorns he received in mockery.
-
-193
-00:27:25,906 --> 00:27:28,938
-Or perhaps these were lighter for Christ, and those were heavier.
-
-194
-00:27:28,938 --> 00:27:33,976
-I believe that he who had the will to endure all these things had the same power to suffer all these things.
-
-195
-00:27:37,847 --> 00:27:42,845
-So, he cried out as it is written, and while hanging on the cross, he first called out to death.
-
-196
-00:27:42,845 --> 00:27:50,601
-This wasn't to show human patience, which could be proven by actions alone, but to clearly show himself as the Son of God in the flesh, about to die.
-
-197
-00:27:50,601 --> 00:27:54,557
-Using the voice of his flesh, he spoke of the past as if it were the future.
-
-198
-00:27:54,557 --> 00:28:02,885
-Because through the death on the cross, his earthly body would be temporarily abandoned by God, not only by God but also by his soul, which was united with God.
-
-199
-00:28:02,885 --> 00:28:05,852
-He testified to this before it happened, as he was dying.
-
-200
-00:28:05,852 --> 00:28:11,734
-For after giving up his spirit, the flesh could not cry out; otherwise, who would believe that Christ truly died?
-
-201
-00:28:11,734 --> 00:28:16,679
-God did not leave the man in his suffering, but allowed the body to die according to human law.
-
-202
-00:28:16,679 --> 00:28:23,134
-The divinity, united with the soul, did not abandon the crucified man to punishment but temporarily left the lifeless flesh.
-
-203
-00:28:23,134 --> 00:28:28,860
-Thus, Christ, the Son of God, lay dead in the tomb while the same Christ, the Son of God, descended into hell.
-
-204
-00:28:28,860 --> 00:28:35,159
-As the blessed Apostle says: "What does 'he ascended' mean except that he also descended to the lower parts of the earth?
-
-205
-00:28:35,159 --> 00:28:39,791
-He who descended is the same one who ascended above all the heavens"  (Ephesians 4:9-10).
-
-206
-00:28:39,791 --> 00:28:47,391
-Indeed, our Lord and God, Jesus Christ, the only Son of God, descended into hell with his soul and ascended to heaven with both his soul and body.
-
-207
-00:28:47,391 --> 00:28:53,065
-Now and forever, we venerate him as the perfect God and man, the same Son of God, true God, for all eternity.
-
-208
-00:28:53,065 --> 00:28:58,062
-Therefore, I believe and confess this, my Lord and God, according to the great mystery of piety.
-
-209
-00:28:58,062 --> 00:29:05,766
-He was born in the flesh, suffered in the flesh, died in the flesh, resurrected in the flesh, ascended in the flesh, and was glorified in the flesh.
-
-210
-00:29:05,766 --> 00:29:14,147
-I believe that he will come again in the same flesh to judge the living and the dead; and from him, each will receive an eternal reward according to their merit.
-
-211
-00:29:14,927 --> 00:29:23,994
-To ensure that I leave nothing open to suspicion, I once said, or rather responded to objections, that our Lord Jesus Christ, in his human nature, was ignorant of some things.
-
-212
-00:29:23,994 --> 00:29:29,175
-But now, not only do I not presume to say this, I also condemn my previous statement in this regard.
-
-213
-00:29:29,175 --> 00:29:34,252
-It is not permissible to say that the Lord of the prophets was ignorant, even in his human nature.
-
-214
-00:29:34,252 --> 00:29:40,418
-As for other issues and questions, I have raised them either with intention, encouragement, or in brotherly discussion.
-
-215
-00:29:40,418 --> 00:29:45,495
-If I have differed more in understanding than in faith, it is too long to address each point here.
-
-216
-00:29:45,495 --> 00:29:55,857
-According to the faith of this letter, we testify that we accept or reject all things as held by the order of the Catholic Church, professing Christ sincerely and having the same belief in our hearts.
-
-217
-00:29:55,857 --> 00:30:03,007
-To condemn the infamy of all heresies, because we know ourselves to be Catholics with a clear conscience, we say anathema to all heretics.
-
-218
-00:30:03,007 --> 00:30:09,379
-This includes Photinus, Arius, Sabellius, Eunomius, Valentinus, Apollinaris, Mani, and all who come against sound doctrine.
-
-219
-00:30:09,379 --> 00:30:13,420
-Even if we have erred in speech or understanding, it was not in will or heart.
-
-220
-00:30:13,420 --> 00:30:20,933
-As it is written: "He who slips with his tongue, but not in his heart: who is there who does not err with his tongue?" (Ecclesiasticus 19:16,17).
-
-221
-00:30:20,933 --> 00:30:35,750
-Indeed, my most revered and blessed priests, as a son of peace according to the Apostle's word: "Whoever keeps the whole law but fails in one point has become guilty of all" (James 2:10); I, having erred in significant matters, have made myself guilty in all things with my whole heart.
-
-222
-00:30:35,750 --> 00:30:46,630
-But in this, I have proven the perfect charity of those who have persecuted me, not without reason; for I was corrected and received with full love as quickly as they pursued me with perfect intention and zeal.
-
-223
-00:30:46,630 --> 00:30:51,863
-As for me, speaking with God as my witness, peace with all is my most desirable and wished-for state.
-
-224
-00:30:51,863 --> 00:30:57,769
-Finally, I once again beseech you: forgive us by pardoning us, and obtain for us forgiveness through your prayers.
-
-225
-00:30:57,769 --> 00:30:59,634
-I wish you, fathers, to live in God.
-
-226
-00:31:00,359 --> 00:31:05,395
-I, Leporius, have written this document according to my beliefs, and I will hold my faith, God willing, until the end.
-
-227
-00:31:05,395 --> 00:31:09,278
-I have signed it after it was read aloud before the holy bishops in the Church of Carthage.
-
-228
-00:31:09,278 --> 00:31:12,052
-I, Domninus, hold this faith, I confess it, and I have signed it.
-
-229
-00:31:12,052 --> 00:31:14,697
-I, Bonus, hold this faith, I confess it, and I have signed it.
-
-230
-00:31:14,697 --> 00:31:19,519
-I, Aurelius, bishop of the Church of Carthage, have signed after the document written by Leporius was read aloud.
-
-231
-00:31:19,519 --> 00:31:24,469
-I, Augustine, bishop of the region of Hippo, have signed after the document written by Leporius was presented to us.
-
-232
-00:31:24,469 --> 00:31:29,888
-I, Florentius, bishop of the Hipponiensium Diarritorum, have signed after the document written by Leporius was presented to us.
-
-233
-00:31:29,888 --> 00:31:35,436
-I, Secundus, bishop of the Church of Aque or Megarmitanae, have signed after the document written by Leporius was presented to us.
 

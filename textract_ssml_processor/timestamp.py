@@ -13,12 +13,42 @@ def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in {'mp3'}
 
 def clean_text(text: str) -> str:
+    # Remove HTML tags
     text = re.sub(r'<[^>]+>', '', text)
-    text = re.sub(r'\n{2,}', '\n', text)
-    return text.strip()
+    # Replace multiple spaces with a single space
+    text = re.sub(r' +', ' ', text)
+    # Split the text into lines, remove leading/trailing spaces, and filter out empty lines
+    lines = [line.strip() for line in text.split('\n') if line.strip()]
+    # Join the non-empty lines back together
+    return '\n'.join(lines)
 
 def split_into_subtitles(text: str, start_time: float, end_time: float, max_chars: int = 80, target_duration: float = 5.0) -> List[Dict]:
-    sentences = re.split(r'(?<=[.!?])\s+', text)
+    def split_sentences(text):
+        result = []
+        current_sentence = ""
+        in_special_block = False
+        special_block_char = None
+
+        for char in text:
+            current_sentence += char
+            if char in "([\"":
+                in_special_block = True
+                special_block_char = char
+            elif (char == ")" and special_block_char == "(") or \
+                 (char == "]" and special_block_char == "[") or \
+                 (char == "\"" and special_block_char == "\""):
+                in_special_block = False
+                special_block_char = None
+            elif char in ".!?" and not in_special_block and len(current_sentence.strip()) > 0:
+                result.append(current_sentence.strip())
+                current_sentence = ""
+
+        if current_sentence.strip():
+            result.append(current_sentence.strip())
+
+        return result
+
+    sentences = split_sentences(text)
     total_duration = end_time - start_time
     time_per_char = total_duration / len(text)
     
@@ -67,7 +97,7 @@ def generate_srt_content(all_chunks: List[Dict], language: str, use_shorter_subt
         if language == 'english':
             text = clean_text(chunk['cleaned_english_translation'])
         else:
-            text = chunk['original_latin']
+            text = clean_text(chunk['original_latin'])
         
         if use_shorter_subtitles:
             subtitles = split_into_subtitles(text, chunk['start_time'], chunk['end_time'])
@@ -79,10 +109,13 @@ def generate_srt_content(all_chunks: List[Dict], language: str, use_shorter_subt
         else:
             start = format_time(chunk['start_time'])
             end = format_time(chunk['end_time'])
-            srt_content += f"{subtitle_index}\n{start} --> {end}\n{text}\n\n"
+            paragraphs = text.split('\n')
+            formatted_text = '\n'.join(paragraphs)
+            srt_content += f"{subtitle_index}\n{start} --> {end}\n{formatted_text}\n\n"
             subtitle_index += 1
     
     return srt_content
+
 
 def save_srt_files(english_original, english_shorter, latin_original, latin_shorter):
     subtitle_folder = current_app.config['SUBTITLE_OUTPUT']
@@ -111,8 +144,14 @@ def create_timestamps():
         processed_folder = current_app.config['PROCESSED_FOLDER']
         audio_dir = current_app.config['AUDIO_OUTPUT_FOLDER']
         
+        print(f"Processed folder: {processed_folder}")
+        print(f"Audio directory: {audio_dir}")
+        
         json_files = sorted([f for f in os.listdir(processed_folder) if f.endswith('.json')])
         audio_files = sorted([f for f in os.listdir(audio_dir) if f.endswith('.mp3')])
+        
+        print(f"Number of JSON files: {len(json_files)}")
+        print(f"Number of audio files: {len(audio_files)}")
         
         all_chunks = []
         cumulative_time = 0.0
@@ -120,10 +159,12 @@ def create_timestamps():
         audio_file_index = 0
         for json_file in json_files:
             json_file_path = os.path.join(processed_folder, json_file)
+            print(f"Processing JSON file: {json_file}")
             
             with open(json_file_path, 'r', encoding='utf-8') as f:
                 json_data = json.load(f)
             chunks = json_data['chunks']
+            print(f"Number of chunks in {json_file}: {len(chunks)}")
             
             for chunk in chunks:
                 if audio_file_index >= len(audio_files):
@@ -132,6 +173,7 @@ def create_timestamps():
                 
                 audio_file = audio_files[audio_file_index]
                 file_path = os.path.join(audio_dir, audio_file)
+                print(f"Processing audio file: {audio_file}")
                 audio = MP3(file_path)
                 duration = audio.info.length
                 
@@ -145,10 +187,19 @@ def create_timestamps():
             with open(json_file_path, 'w', encoding='utf-8') as f:
                 json.dump(json_data, f, indent=2, ensure_ascii=False)
         
+        print(f"Total number of chunks processed: {len(all_chunks)}")
+        print(f"Total duration: {cumulative_time} seconds")
+        
         english_srt_original = generate_srt_content(all_chunks, 'english', use_shorter_subtitles=False)
         english_srt_shorter = generate_srt_content(all_chunks, 'english', use_shorter_subtitles=True)
         latin_srt_original = generate_srt_content(all_chunks, 'latin', use_shorter_subtitles=False)
         latin_srt_shorter = generate_srt_content(all_chunks, 'latin', use_shorter_subtitles=True)
+        
+        print(f"Length of english_srt_original: {len(english_srt_original)}")
+        print(f"Length of english_srt_shorter: {len(english_srt_shorter)}")
+        print(f"Length of latin_srt_original: {len(latin_srt_original)}")
+        print(f"Length of latin_srt_shorter: {len(latin_srt_shorter)}")
+        
         save_srt_files(english_srt_original, english_srt_shorter, latin_srt_original, latin_srt_shorter)
         return render_template('timestamp_result.html', 
                                english_srt_original=english_srt_original,
