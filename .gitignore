@@ -90,3 +90,6 @@ audio/
 uploads/
 *.ipynb
 translation_logs/
+subtitles/
+latin/
+audio/

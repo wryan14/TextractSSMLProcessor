@@ -75,14 +75,22 @@ def process_ssml_from_json_files(input_directory: str,
     os.makedirs(output_directory, exist_ok=True)
     output_files = []
 
-    json_files = sorted([f for f in os.listdir(input_directory) if f.endswith('.json')])
+    # Modified sorting logic
+    def sort_key(filename):
+        # Extract the number at the end of the filename
+        match = re.search(r'_part_(\d+)\.txt\.json$', filename)
+        if match:
+            return int(match.group(1))
+        return 0  # Default value for files that don't match the pattern
+
+    json_files = sorted([f for f in os.listdir(input_directory) if f.endswith('.json')], key=sort_key)
     
     if not json_files:
         raise ValueError(f"No JSON files found in directory: {input_directory}")
 
     print(f"Found {len(json_files)} input JSON files")
 
-    global_part_number = 1
+    global_part_number = start_part
 
     for json_file in json_files:
         print(f"Processing file: {json_file}")
