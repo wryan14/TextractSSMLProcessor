@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Timestamps</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="{{ url_for('app.index') }}">Text Processor</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+            <li class="nav-item active">
+                <a class="nav-link" href="{{ url_for('app.index') }}">Home</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+<body>
+    <div class="container mt-5">
+        <h1>Create Timestamps and Subtitles</h1>
+        <form action="{{ url_for('timestamp.create_timestamps') }}" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="audio_files">Upload Audio Files:</label>
+                <input type="file" class="form-control-file" id="audio_files" name="audio_files" multiple accept=".mp3" required>
+                <small class="form-text text-muted">Select all MP3 files for your content. Make sure they are named to match your JSON files (e.g., part1.mp3, part2.mp3, etc.)</small>
+            </div>
+            <button type="submit" class="btn btn-primary">Generate Subtitles</button>
+        </form>
+    </div>
+</body>
+</html>
