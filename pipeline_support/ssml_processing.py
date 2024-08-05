@@ -90,7 +90,7 @@ def process_ssml_from_json_files(input_directory: str,
 
     print(f"Found {len(json_files)} input JSON files")
 
-    global_part_number = start_part
+    global_part_number = 1  # Keeps track of the part number overall
 
     for json_file in json_files:
         print(f"Processing file: {json_file}")
@@ -102,16 +102,15 @@ def process_ssml_from_json_files(input_directory: str,
             raise ValueError(f"Error reading JSON file {json_file}: {str(e)}")
 
         for chunk_index, chunk in enumerate(data['chunks'], start=1):
+            if global_part_number < start_part:
+                # Skip parts until we reach the start_part
+                global_part_number += 1
+                continue
+
             ssml_text = chunk['cleaned_english_translation']
             
             # Use the voice from the JSON if available, otherwise use the default
-            voice_id = chunk.get('voice')
-            if voice_id is None:
-                voice_id = default_voice_id
-                print(f"Chunk {chunk_index} - No voice specified in JSON, using default: {voice_id}")
-            else:
-                print(f"Chunk {chunk_index} - Voice specified in JSON: {voice_id}")
-            
+            voice_id = chunk.get('voice', default_voice_id)
             if voice_id not in voice_engine_map:
                 print(f"Warning: Unsupported voice '{voice_id}' for chunk {chunk_index} in {json_file}. Using default voice.")
                 voice_id = default_voice_id

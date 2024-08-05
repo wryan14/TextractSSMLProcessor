@@ -275,6 +275,10 @@ def convert_html_to_ssml(html_content):
 
     return processed_content
 
+import time
+from typing import Dict, List
+from functools import partial
+
 def process_text_file(file_path: str, output_file_name: str, title: str, author: str, language: str) -> Dict[str, List[Dict[str, str]]]:
     logger.info(f"Starting to process file: {file_path}")
     
@@ -284,39 +288,37 @@ def process_text_file(file_path: str, output_file_name: str, title: str, author:
     if is_html(text):
         clean_text = convert_html_to_ssml(text)
     else:
-        # clean_text = remove_headers(text)
         clean_text = text
 
     latin_correlate_path = os.path.join(current_app.config['LATIN_FOLDER'], f"latin_{output_file_name}")
     with open(latin_correlate_path, 'w', encoding='utf-8') as latin_file:
         latin_file.write(clean_text)
 
-    # Process and translate the text
     chunks = chunk_text(clean_text)
     output_dict = {"chunks": []}
     
+    def translate_with_retry(chunk: str, max_retries: int = 5, delay: float = 1.0):
+        for attempt in range(max_retries):
+            try:
+                translated_chunk, _ = safe_format_text_with_gpt(chunk, language)
+                return clean_ssml_tags(preprocess_ssml_tags(translated_chunk))
+            except Exception as e:
+                logger.warning(f"Attempt {attempt + 1} failed: {str(e)}")
+                if attempt < max_retries - 1:
+                    time.sleep(delay)
+                else:
+                    logger.error(f"All {max_retries} attempts failed for chunk")
+                    return "Translation failed after multiple attempts"
+
     for i, chunk in enumerate(chunks, 1):
-        try:
-            # Translate
-            translated_chunk, _ = safe_format_text_with_gpt(chunk, language)
-            
-            # Clean and preprocess SSML tags
-            cleaned_chunk = clean_ssml_tags(preprocess_ssml_tags(translated_chunk))
-            
-            chunk_dict = {
-                "chunk_number": i,
-                "original_latin": chunk,
-                "cleaned_english_translation": cleaned_chunk
-            }
-            output_dict["chunks"].append(chunk_dict)
-        except Exception as e:
-            logger.error(f"Error processing chunk {i}: {str(e)}")
-            chunk_dict = {
-                "chunk_number": i,
-                "original_latin": chunk,
-                "cleaned_english_translation": "Translation failed"
-            }
-            output_dict["chunks"].append(chunk_dict)
+        cleaned_chunk = translate_with_retry(chunk)
+        
+        chunk_dict = {
+            "chunk_number": i,
+            "original_latin": chunk,
+            "cleaned_english_translation": cleaned_chunk
+        }
+        output_dict["chunks"].append(chunk_dict)
     
     return output_dict
 

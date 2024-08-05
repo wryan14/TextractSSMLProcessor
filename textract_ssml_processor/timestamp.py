@@ -89,6 +89,96 @@ def split_into_subtitles(text: str, start_time: float, end_time: float, max_char
     
     return subtitles
 
+def split_latin_subtitles(text: str, start_time: float, end_time: float, max_chars: int = 300) -> List[Dict]:
+    def split_sentences(text):
+        sentences = []
+        current_sentence = ""
+        parenthesis_level = 0
+        
+        for char in text:
+            current_sentence += char
+            if char == '(':
+                parenthesis_level += 1
+            elif char == ')':
+                parenthesis_level -= 1
+            elif char == '.' and parenthesis_level == 0 and len(current_sentence.strip()) > 0:
+                sentences.append(current_sentence.strip())
+                current_sentence = ""
+        
+        if current_sentence.strip():
+            sentences.append(current_sentence.strip())
+        
+        return sentences
+
+    def split_long_sentence(sentence, max_chars):
+        words = sentence.split()
+        chunks = []
+        current_chunk = ""
+        for word in words:
+            if len(current_chunk) + len(word) + 1 <= max_chars:
+                current_chunk += (" " if current_chunk else "") + word
+            else:
+                if current_chunk:
+                    chunks.append(current_chunk)
+                current_chunk = word
+        if current_chunk:
+            chunks.append(current_chunk)
+        return chunks
+
+    sentences = split_sentences(text)
+    total_duration = end_time - start_time
+    time_per_char = total_duration / len(text)
+    
+    subtitles = []
+    current_subtitle = ""
+    current_start = start_time
+
+    for sentence in sentences:
+        if len(sentence) > max_chars:
+            # If the current subtitle is not empty, add it to subtitles
+            if current_subtitle:
+                subtitle_duration = len(current_subtitle) * time_per_char
+                subtitles.append({
+                    "text": current_subtitle,
+                    "start": current_start,
+                    "end": min(current_start + subtitle_duration, end_time)
+                })
+                current_start += subtitle_duration
+                current_subtitle = ""
+            
+            # Split the long sentence
+            chunks = split_long_sentence(sentence, max_chars)
+            for chunk in chunks:
+                chunk_duration = len(chunk) * time_per_char
+                subtitles.append({
+                    "text": chunk,
+                    "start": current_start,
+                    "end": min(current_start + chunk_duration, end_time)
+                })
+                current_start += chunk_duration
+        elif len(current_subtitle) + len(sentence) <= max_chars:
+            current_subtitle += (" " if current_subtitle else "") + sentence
+        else:
+            # Add the current subtitle to subtitles
+            subtitle_duration = len(current_subtitle) * time_per_char
+            subtitles.append({
+                "text": current_subtitle,
+                "start": current_start,
+                "end": min(current_start + subtitle_duration, end_time)
+            })
+            current_start += subtitle_duration
+            current_subtitle = sentence
+
+    # Add any remaining content
+    if current_subtitle:
+        subtitles.append({
+            "text": current_subtitle,
+            "start": current_start,
+            "end": end_time
+        })
+
+    return subtitles
+
 def generate_srt_content(all_chunks: List[Dict], language: str, use_shorter_subtitles: bool = False) -> str:
     srt_content = ""
     subtitle_index = 1
@@ -96,22 +186,21 @@ def generate_srt_content(all_chunks: List[Dict], language: str, use_shorter_subt
     for chunk in all_chunks:
         if language == 'english':
             text = clean_text(chunk['cleaned_english_translation'])
-        else:
+            if use_shorter_subtitles:
+                subtitles = split_into_subtitles(text, chunk['start_time'], chunk['end_time'])
+            else:
+                subtitles = [{"text": text, "start": chunk['start_time'], "end": chunk['end_time']}]
+        else:  # Latin
             text = clean_text(chunk['original_latin'])
+            if use_shorter_subtitles:
+                subtitles = split_latin_subtitles(text, chunk['start_time'], chunk['end_time'])
+            else:
+                subtitles = [{"text": text, "start": chunk['start_time'], "end": chunk['end_time']}]
         
-        if use_shorter_subtitles:
-            subtitles = split_into_subtitles(text, chunk['start_time'], chunk['end_time'])
-            for subtitle in subtitles:
-                start = format_time(subtitle['start'])
-                end = format_time(subtitle['end'])
-                srt_content += f"{subtitle_index}\n{start} --> {end}\n{subtitle['text']}\n\n"
-                subtitle_index += 1
-        else:
-            start = format_time(chunk['start_time'])
-            end = format_time(chunk['end_time'])
-            paragraphs = text.split('\n')
-            formatted_text = '\n'.join(paragraphs)
-            srt_content += f"{subtitle_index}\n{start} --> {end}\n{formatted_text}\n\n"
+        for subtitle in subtitles:
+            start = format_time(subtitle['start'])
+            end = format_time(subtitle['end'])
+            srt_content += f"{subtitle_index}\n{start} --> {end}\n{subtitle['text']}\n\n"
             subtitle_index += 1
     
     return srt_content
@@ -183,9 +272,6 @@ def create_timestamps():
                 all_chunks.append(chunk)
                 
                 audio_file_index += 1
-            
-            with open(json_file_path, 'w', encoding='utf-8') as f:
-                json.dump(json_data, f, indent=2, ensure_ascii=False)
         
         print(f"Total number of chunks processed: {len(all_chunks)}")
         print(f"Total duration: {cumulative_time} seconds")

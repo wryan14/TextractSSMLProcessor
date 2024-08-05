@@ -148,16 +148,20 @@ def create_optimized_video(audio, subtitles, book_title, logo_path, main_font):
                   .set_position(('center', 50))
                   .set_duration(audio.duration))
 
-    subtitle_clips = []
-    for i, sub in enumerate(subtitles):
-        logging.info(f"Processing subtitle {i+1}: Start: {sub['start']}, End: {sub['end']}, Text: {sub['text'][:30]}...")
-        clip = (TextClip(sub['text'], fontsize=40, color=rgb_to_string(TEXT_COLOR), font=main_font, size=(1720, None), method='caption')
-                .set_position(('center', 'center'))
-                .set_start(sub['start'])
-                .set_duration(sub['end'] - sub['start']))
-        subtitle_clips.append(clip)
+    # Sort subtitles by start time
+    subtitles.sort(key=lambda x: x['start'])
 
-    video = CompositeVideoClip([bg_clip, title_clip, logo] + subtitle_clips)
+    # Prepare subtitles in the format expected by SubtitlesClip
+    subtitle_clips = [((sub['start'], sub['end']), sub['text']) for sub in subtitles]
+
+    # Create a SubtitlesClip with a custom text clip generator
+    def make_textclip(txt):
+        return TextClip(txt, fontsize=40, color=rgb_to_string(TEXT_COLOR), font=main_font, size=(1720, None), method='caption')
+
+    subtitles_clip = SubtitlesClip(subtitle_clips, make_textclip)
+    subtitles_clip = subtitles_clip.set_position(('center', 'center'))
+
+    video = CompositeVideoClip([bg_clip, title_clip, logo, subtitles_clip])
     video = video.set_audio(audio)
     
     return video
@@ -208,6 +212,33 @@ def prompt_user_to_load_files(directory):
     print(f"Please load your audio files into the directory: {directory}")
     subprocess.run(f'explorer {os.path.realpath(directory)}')
     input("Press Enter to continue once the files are loaded...")
+
+# Store mp4 parts for later batch mp4 creation
+import json
+def store_mp4_components(combined_mp3_file_path, srt_path, logo_path, output_path, book_title, main_font):
+    # Create a subdirectory for MP4 components
+    mp4_components_dir = os.path.join(os.path.dirname(combined_mp3_file_path), "mp4_components")
+    os.makedirs(mp4_components_dir, exist_ok=True)
+
+    # Copy necessary files
+    shutil.copy(combined_mp3_file_path, mp4_components_dir)
+    shutil.copy(srt_path, mp4_components_dir)
+    shutil.copy(logo_path, mp4_components_dir)
+
+    # Create a JSON file with component information
+    component_info = {
+        "mp3_file": os.path.basename(combined_mp3_file_path),
+        "srt_file": os.path.basename(srt_path),
+        "logo_file": os.path.basename(logo_path),
+        "output_path": output_path,
+        "book_title": book_title,
+        "main_font": main_font
+    }
+
+    with open(os.path.join(mp4_components_dir, "mp4_info.json"), "w") as f:
+        json.dump(component_info, f, indent=4)
+
+    print(f"MP4 components stored in: {mp4_components_dir}")
 
 if __name__ == "__main__":
     # Usage example
