@@ -227,6 +227,10 @@ def format_time(seconds: float) -> str:
     milliseconds = int((seconds % 1) * 1000)
     return f"{int(hours):02d}:{int(minutes):02d}:{int(seconds):02d},{milliseconds:03d}"
 
+def natural_sort_key(s):
+    return [int(c) if c.isdigit() else c.lower() for c in re.split(r'(\d+)', s)]
+
+
 @bp.route('/create_timestamps', methods=['GET', 'POST'])
 def create_timestamps():
     if request.method == 'POST':
@@ -236,8 +240,8 @@ def create_timestamps():
         print(f"Processed folder: {processed_folder}")
         print(f"Audio directory: {audio_dir}")
         
-        json_files = sorted([f for f in os.listdir(processed_folder) if f.endswith('.json')])
-        audio_files = sorted([f for f in os.listdir(audio_dir) if f.endswith('.mp3')])
+        json_files = sorted([f for f in os.listdir(processed_folder) if f.endswith('.json')], key=natural_sort_key)
+        audio_files = sorted([f for f in os.listdir(audio_dir) if f.endswith('.mp3')], key=natural_sort_key)
         
         print(f"Number of JSON files: {len(json_files)}")
         print(f"Number of audio files: {len(audio_files)}")

@@ -1,1306 +1,1629 @@
 1
-00:00:00,000 --> 00:00:07,727
-SANCTI EUCHERII
-LUGDUNENSIS EPISCOPI
-EPISTOLA PARAENETICA
-AD VALERIANUM COGNATUM
-DE CONTEMPTU MUNDI ET SAECULARIS PHILOSOPHIAE
+00:00:00,000 --> 00:00:03,887
+SERMO
+DE VITA S. HONORATI
+EPISCOPI ARELATENSIS.
 
 2
-00:00:07,727 --> 00:00:11,002
-Bene alligantur vinculo sanguinis, qui vinculo
-consociantur amoris.
+00:00:03,887 --> 00:00:05,232
+Praefatio.
 
 3
-00:00:11,002 --> 00:00:23,024
-Sic et nobis quoque admodum
-gloriari, pro hoc ipso Dei munere licet, quos perinde
-charitas ut propinquitas nectit, coarctantque in
-unum affectum duae necessitudines, quarum alteram
-a parentibus carnis nostrae accepimus, alteram a nobis
-sumpsimus.
+00:00:05,232 --> 00:00:15,901
+1. Agnoscitis, dilectissimi, diem publicis fidelium
+moeroribus consecratum, qui mihi quamdiu hos
+caducos vitae hujus dies Dominus indulserit, semper
+quidem acerbitatibus gravis, plenus tamen dignitatis
+adveniet.
 
 4
-00:00:23,024 --> 00:00:36,463
-Geminum hoc vinculum, quo (confoederantibus
-nos hinc genere, hinc dilectione) connectimur,
-haec me paulo latius ad te exarare compulit,
-ut commendarem animo tuo causam animae
-tuae, veramque illam beatitudinem, et aeternarum
-rerum capacem, opus nostrae professionis assererem.
+00:00:15,901 --> 00:00:25,611
+Hodie enim ille sanctae recordationis
+Ecclesiae hujus antistes virtute, sacerdotio, nomine
+Honoratus, corpore exutus est. Quidquid ad clausulam
+elocutionis adjecero, absurdum poterit judicari.
 
 5
-00:00:36,463 --> 00:00:41,302
-Nam cum te aeque ac me diligam, necesse est
-ut summum bonum assequi te, tamquam me alterum,
-cupiam.
+00:00:25,611 --> 00:00:39,719
+Si enim dixero: Ad astra migravit, ille, etiam
+dum in terris moraretur, inter illa splendidissima
+astra Dei numeratus est. Addam: Christo astat? Quando autem ei in vita sua non astitit? Cujus omnis
+vita illam Eliae vocem habuit: Vivit Dominus cui asto
+hodie (III Reg. XVIII, 15).
 
 6
-00:00:41,302 --> 00:00:55,816
-Et quidem a professione vitae sanctae, pio etiam non abhorres ingenio, qui ea quae sacrae institutiones docent praevenisti in plurimis praecoqua morum felicitate, ut mihi videaris quaedam religionis officia quasi per providam occupasse naturam, Domini ac Dei nostri jam in hoc erga te indulgentia:
+00:00:39,719 --> 00:00:52,968
+Dicam: Terrena deseruit,
+cujus, ut Apostolus ait, conversatio semper in coelis
+fuit (Philip. III, 20)? Similiter itaque, quantum animus
+meus habet, quidquid de tali viro dicendum
+occurrerit, ipsa sui magnitudine congruo exitu caret. Compugnant moeroribus gaudia.
 
 7
-00:00:55,816 --> 00:01:00,654
-cujus gratia est quod divina in te doctrina bona sua pro parte invenire potest, pro parte conferre.
+00:00:52,968 --> 00:01:02,222
+Talem reminisci
+dulce est; tali carere supplicium. 2. Duplex itaque materia me provocat. Illinc me
+laudum suarum gratia ad sermonem trahit; hinc ad
+singultus retrahunt damna communia.
 
 8
-00:01:00,654 --> 00:01:13,459
-Quamvis
-autem in maximos saeculi apices patre soceroque
-elatus, illustribus ex utroque titulis ambiaris; ego
-tamen longe superioris in te honoris fastigia concupisco;
-teque non ad terrenarum, sed ad coelestium;
-nec ad saeculi, sed ad saeculorum dignitatem, voco.
+00:01:02,222 --> 00:01:14,460
+Ignoscite
+itaque, si diripientibus sibi duobus his affectibus
+mentem meam, oris mei officium tamquam duobus
+dominis famulatum congruum negat. Quidquid recordatio
+in laudis partibus suggerit, totum hoc sibi
+inter damna numerans dolor vindicat.
 
 9
-00:01:13,459 --> 00:01:24,894
-Certa quippe et inoblitterabilis haec gloria est, aeternitate
-gloriari. Loquar ergo apud te non sapientiam
-hujus saeculi, sed illam sapientiam arcanam, absconditam,
-quam praedestinavit Deus ante saecula in gloriam
-nostram (I Cor. II).
+00:01:14,460 --> 00:01:29,428
+Quamquam
+etsi adesset mihi serenitas mentis, et famulatu idoneo
+menti lingua serviret, num abundantius laus
+ejus proferri sermonibus meis poterit, quam in vestris
+sensibus manet? Nemo est, ut puto, cui non
+illius viri gratia major occurrat, quam possit opulentissima
+cujuslibet proferre facundia.
 
 10
-00:01:24,894 --> 00:01:31,247
-Loquar tecum multo studio
-lui, mei admodum parum providus, qui plus in te
-quid velim, quam in me quid possim, consideravi.
+00:01:29,428 --> 00:01:42,575
+Quia ergo,
+ut Scriptura loquitur, memoria justorum cum laudibus
+semper est (Prov. X, 7), nec potest quisquam
+meritorum illustrium viros non cum laude memorare,
+proferam, ut facultas datur, aliqua ex his quae
+de illo dilectionis vestrae corda meditantur.
 
 11
-00:01:31,247 --> 00:01:43,699
-Primum instituti atque in lucem editi hominis officium
-est, mi Valeriane charissime, proprium cognoscere
-auctorem, cognitumque suscipere; vitamque,
-id est, divinum donum, in divinum officium
-cultumque conferre.
+00:01:42,575 --> 00:01:57,945
+Adjuvabunt
+utique sensus vestri conatus meos; et
+quidquid sermoni meo expedire difficile est, vestra
+sibi pectora propriis cogitationibus eloquentur. 3. Scriptum est: Sapientia in exitu canitur; hoc
+est dicere: Sapientis conversatio in conversationis
+fine laudatur.
 
 12
-00:01:43,699 --> 00:01:55,499
-Ut quod Dei munere sumpsit, Dei
-devotione consummetur, atque id quod ab eodem indignus
-cepit, eidem subjectus impendat. Sana quippe
-opinione agimur, ut eductos nos sicut ab ipso, ita
-ipsi arbitremur.
+00:01:57,945 --> 00:02:12,967
+Unde et in alio loco: Ne laudes
+hominem in vita sua. Et iterum: Ante mortem ne
+laudes quemquam (Eccli. XI, 30); ac si dicat:
+Lauda post mortem; in viventis enim laudibus et
+laudato locus vanae exsultationis offertur, et laudatori
+nota assentationis affigitur.
 
 13
-00:01:55,499 --> 00:02:11,034
-Unde ille plane magnificeque perspicit
-Creatoris nostri in effingendo homine sententiam,
-quisquis ita intelligit, quod nos et ipse et sibi
-fecit. Optimum deinde est curam principalem animae
-impendere ut quae utilitate prior est, non sit consideratione
-posterior.
+00:02:12,967 --> 00:02:27,293
+Multis modis autem
+utile est laudare defunctum: primum quia dum
+abest cui gratificari laudatione possimus, necesse
+est ut ad largitorem gratiae laus tota referatur;
+deinde, quia sola virtutis admiratio residet, ubi
+suspicio assentationis aufertur.
 
 14
-00:02:11,034 --> 00:02:25,680
-Primas apud nos curas, quae prima
-habentur, obtineant, summasque sibi sollicitudinis
-partes salus, quae summa est, vendicet. Haec nos occupet
-in praesidium ac tutelam sui, jam non plane
-prima, sed sola. Omnia vincat eo studio, quo praecedit
-omnia.
+00:02:27,293 --> 00:02:38,313
+Defuncti itaque
+laus in sancta fidelium congregatione prolata plena
+est aedificationis, vacua jactantiae. Merita quoque
+in hoc ejus qui laudatur accrescunt, quod plures
+sua laude proficiunt.
 
 15
-00:02:25,680 --> 00:02:35,760
-Summam debemus observantiam Deo,
-animae deinde maximam: atque ita tamen istud est,
-ut cum utrumque praecipuum sit, observari alterum
-sine altero nequaquam posse videatur.
+00:02:38,313 --> 00:02:50,087
+Nec verebor ne nimis forsitan
+favorabiliter de meo loqui credar, quia praeter
+quam nihil non inferius dici suis virtutibus potest,
+nemo est qui illum non suum computet, suum senserit,
+suumque crediderit.
 
 16
-00:02:35,760 --> 00:02:43,765
-Ita quisquis
-Deo satisfecerit, animae necesse est jam consuluerit;
-et rursus, qui animae consuluerit, necesse est Deo
-jam satisfecerit.
+00:02:50,087 --> 00:03:02,731
+Non tamen ego ingenii
+fiducia, neque fretus eloquio ad attingendam tanti
+viri vitam manum mitto: quam si quis priscae eloquentiae
+auctor attingeret, non solum facundia non
+ornaret, sed victus materiae mole succumberet.
 
 17
-00:02:43,765 --> 00:03:00,427
-Sic de summo apud nos utroque res
-transigitur utili coacta compendio; ut si quis unum
-sedulo impleverit, utrumque contulerit, quia ineffabili
-benignitate divina, ipsa utilitas fit Dei sacrificium. Multus corpori curationum usus impenditur; multum
-huic operae in spem medelae
-datur.
+00:03:02,731 --> 00:03:18,623
+Vester me amor provocat, vester affectus de illo
+aliquid loquendi fiduciam subministrat. Animabitur,
+ut credimus, ipsius meritis sermo quamvis tepentis
+ingenii; et quod jacet verbis elevabitur rebus;
+et effusa in illum charitate vestrorum pectorum domicilio
+condietur.
 
 18
-00:03:00,427 --> 00:03:17,682
-Numquid medicinam anima non meretur? Et si varia corpori auxilia studio tuendae sanitatis adhibentur, fas non est tamen animam velut exclusam jacere, et quasi neglectam morbis suis intabescere, atque unam a propriis remediis exsulare, immo vere plura animae conferenda sunt, si corpori tanta
+00:03:18,623 --> 00:03:24,311
+CAPUT PRIMUM. Consularis Honorati nobilitas. Baptizatur adolescens.
 
 19
-00:03:17,682 --> 00:03:18,393
-praestantur.
+00:03:24,311 --> 00:03:34,946
+4. Est illud notum omnibus oratoriae disciplinae,
+quorum laudandam receperint vitam, patriam prius
+et originem praedicare; ut quod in propriis virtutibus
+deest, in patrum gloria praecessisse videatur.
 
 20
-00:03:18,393 --> 00:03:28,295
-Nam, si recte quidam carnem hanc famulam, animam
-vero dominam esse dixerunt; non oportet posteriore
-loco nos dominam ponere, ac famulam iniquo
-jure praeferre.
+00:03:34,946 --> 00:03:50,791
+Nos
+autem omnes in Christo unum sumus; et fastigium
+nobilitatis est inter Dei filios computari, nec addere
+nobis quidquam ad dignitatem terrenae originis decus,
+nisi contemptu suo, potest. Nemo est in coelestibus
+gloriosior, quam qui repulso patrum stemmate
+elegit sola Christi paternitate censeri.
 
 21
-00:03:28,295 --> 00:03:39,238
-Merito poscit studia majora pars
-melior, quia omni nobis cura illuc respiciendum est,
-ubi substantiae nostrae abundantior dignitas constitit. Congruum non est, in hoc honore nostrae sollicitudinis
-eam nos subjicere pejori.
+00:03:50,791 --> 00:04:02,702
+Praetermitto
+itaque commemorare avita illius saecularium honorum
+insignia, et quod concupiscibile ac pene summum
+habet mundus, usque ad consulatus provectam
+familiae suae nobilitatem, majore generositate pectoris
+fastiditam.
 
 22
-00:03:39,238 --> 00:03:51,413
-Caro siquidem proclivis in
-vitia, ad terram nos, tamquam in originem suam, revocat
-(Gen. VIII): haec vero veniens a patre luminum,
-sicut ferri ignibus mos est, in superiora nititur. Haec
-in nobis imago Dei, hoc pretiosum est divini muneris
-pignus.
+00:04:02,702 --> 00:04:08,391
+Nec placuisse illum sibi de supervacuis
+suorum honoribus, qui per amorem veritatis
+jam suos non optabat. 5.
 
 23
-00:03:51,413 --> 00:04:03,096
-Hanc omni ope, hanc summis viribus
-tueamur; hanc si regimus, et conservamus, Dei depositum
-tuemur (II Tim. I). Quis exstruendi, nisi
-cum fundamenta jeceris, locus est? Superaedificare
-caeteras utilitates destinanti salus fundamentum est.
+00:04:08,391 --> 00:04:24,130
+Ad illud potius meus sermo festinat, qua fide baptismum in adolescentiae annis proprio concupierit arbitratu, quam maturo consilio sanus mortem expaverit; qualiter ante baptismum vita cariturum se esse prospexerit; qua siti vitam suam desideraverit renovari; quam dulcis ei infantia; quam modesta
 
 24
-00:04:03,096 --> 00:04:17,637
-Caeterum quomodo quispiam sequentia addat, si nec prima possederit? Unde succedentium augebitur incrementis, si anteriorum deficiatur exordiis? Quomodo interesse putet beatitudini, cum desit etiam saluti? Indigens vitae, unde abundare felici vita potest? Aut quid prodest, si adjiciat cibis, non
+00:04:24,130 --> 00:04:34,711
+pueritia; quam gravis adolescentia fuerit; quam omnes etiam aetatum gradus gratia semper et virtute transcenderit, majorque se semper inventus sit, ut prorsus divino quodam paedagogio educatum putes.
 
 25
-00:04:17,637 --> 00:04:31,537
-habens unde consulendum est animae? De qua et Dominus noster Jesus Christus ait: Quid enim prodest homini, si mundum universum lucretur, animae vero suae detrimentum patiatur (Matth. XVI)? Proinde non potest ulla compendii causa consistere, si constet animae intervenire dispendium.
+00:04:34,711 --> 00:04:45,346
+Eruditur sine aliqua suorum instantia. Servat, juvante
+Deo, baptismum praeter ullam hominum sollicitudinem;
+et, quod his majus est, recenti adhuc et
+illibato nitore fontis sine admonitore convertitur.
 
 26
-00:04:31,537 --> 00:04:43,565
-Ubi salutis damnum est, illic utique
-jam lucrum nullum est; quo enim lucrum capiatur,
-nisi capiendi sedes inconcussa servetur? Atque
-idcirco ad illud lucrum verum, ad illud sanctum expetendumque
-commercium dum, tempus est, properemus
-(Gal. VI).
+00:04:45,346 --> 00:04:58,319
+Sine admonitore, dixi; et ubi illud quod patria obstabat,
+quod obluctabatur pater, quod propinquitas
+tota renitebatur? Intraverat enim gratia sua omnium
+sensus; et cum eum sibi Christus assumeret,
+certatim in suis omnibus mundus tenebat.
 
 27
-00:04:43,565 --> 00:04:57,711
-Parere possunt aeternam vitam pauci dies; qui tamen
-dies, etiamsi illaesam atque incontaminatam vitae
-beatitudinem possiderent; tamen, quia pauci essent,
-parvo aestimandi erant. Nihil enim est magnum re,
-quod parvum tempore; nec longis dilatatur gaudiis,
-quidquid arcto fine concluditur.
+00:04:58,319 --> 00:05:13,395
+Alios dulcedo
+ipsius obligaverat; alios collegii blandimenta
+devinxerant; alios in variis juvenum exercitiis admiratio
+saecularium virtutum tenebat. Quot illi vitae
+prioris gratiae fuerant, tot a conversione vinculis retrahebatur. Commune quoddam familiae decus proripi
+omnes timebant.
 
 28
-00:04:57,711 --> 00:05:00,767
-Brevem utilitatem
-saeculi istius brevia habent commoda.
+00:05:13,395 --> 00:05:29,157
+Et vere quis umquam illum habitus non quasi proprium accepit? Quos aliquando amictus non ornavit? Itaque velut splendidissimam gemmam et commune omnium decus eripi sibi simul patria, simul familiares, simul parentes putabant; neque enim immutanda haec omnia et reformanda in melius, ut vidimus, sed
 
 29
-00:05:00,767 --> 00:05:12,494
-Recte ergo
-etiam bono brevis vitae perpetuae vitae commodum
-praeponendum videretur; quia illa esset temporalis,
-haec aeterna felicitas; quia fragile esset brevibus bonis
-perfrui, tutum gaudere perpetuis. Nunc vero
-aeterna vita beatissima est.
+00:05:29,157 --> 00:05:30,744
+quasi moritura esse credebant.
 
 30
-00:05:12,494 --> 00:05:23,202
-Nam quid felicius aeterna
-vita dici potest? Haec vero brevis, ita brevissima, ut
-aerumnosissima; quae undique circumstantium dolorum
-urgetur incommodis; et deficientibus fatigatur
-malis, dum accidentium jactatur injuriis.
+00:05:30,744 --> 00:05:41,112
+Et inde illud erat quod quia omnia,
+quae adorsus erat, strenue eum pater agere perspexerat,
+a baptismate quamdiu potuit, avertit, timens
+ne totus, sicut consecutum est, religionis amore raperetur.
 
 31
-00:05:23,202 --> 00:05:37,351
-Quid enim tam infidum, tam varium, tam calamitosum, quam vitae istius cursus est? Quae plena laboris est, plena sollicitudinis, plena curarum, ipsorum quoque plena discriminum; et per ancipites distracta casus, fit corporis vexationibus inquieta, animi angoribus anxia, periculorum turbinibus
+00:05:41,112 --> 00:05:47,300
+Invaluit tamen desiderium et amor Christi,
+et baptismum discussis patris dissimulationibus, pueritia
+fidelis invasit.
 
 32
-00:05:37,351 --> 00:05:37,739
-incerta.
+00:05:47,300 --> 00:05:58,408
+Ita enim se adhuc catechumenus
+inter prima fidei rudimenta formaverat, lasciviam
+pro reverentia accipiendi quandoque baptismatis
+respuens, clericos ut patres honorans, et puerili interdum
+censu pauperem juvans.
 
 33
-00:05:37,739 --> 00:05:52,178
-Quae utique utilitas, quae ratio, non expeti bona aeterna, sequi temporalia, etiam mala? Nonne vides, ut etiam in hac vita quisque providus, locum aut agrum, in quo diutius se commoraturum putat, copiosis in usum sarciat impendiis? et ubi parvo quis erit tempore, parva providet; ubi majore, majora
+00:05:58,408 --> 00:06:13,537
+Quidquid habere adhuc
+illa aetas, et plus utique pro novitate habendi
+amare poterat, miseratione prodigus offerebat: jam
+tunc in parvo praemeditans cuncta contemnere, et
+sua simul universa largiri. 6. His itaque et talibus exercitiis ad baptismum
+se catechumeni fides robusta proripuit.
 
 34
-00:05:52,178 --> 00:06:06,521
-procurat? Nobis quoque, quia in praesentiarum brevissimum angustiis coarctantibus tempus est, in futuro saecula erunt, competentibus copiis vitam exaugeamus aeternam, competentibus instruamus exiguam, ne provisione perversa, impendamus brevi tempori curam maximam, et maximo tempori curam brevem.
+00:06:13,537 --> 00:06:29,246
+Hinc jam providus pater, et terrenae pietatis suspicione sollicitus, variis eum oblectationibus provocare, studiis juventutis illicere, diversis mundi vanitatibus irretire, et quasi in collegium cum filio adolescente juvenescere; venatibus et ludorum varietatibus occupare, et tota, ad subjugandam
 
 35
-00:06:06,521 --> 00:06:18,926
-Atque haud scio ad hanc beatissimam vitam quod
-compellere nos ocius aut efficacius debeat; an ipsa
-futurae vitae commoda, quae promittuntur; an praesentis
-vitae incommoda, quae videantur. Inde nos illa
-blandissime provocant, hinc ista vehementer exturbant.
+00:06:29,246 --> 00:06:31,680
+illam aetatem, saeculi hujus dulcedine armari.
 
 36
-00:06:18,926 --> 00:06:32,735
-Proinde, cum in meliorem partem etiam pessima
-suffragentur, si bonis non illicimur, malis extrudamur. Ad incitamentum meliorum, optima deterioribus
-concinunt, et in eamdem utilitatem diversa
-concurrunt. Nam, dum alia nos invitant, alia fugant,
-in melius utraque nos sollicitant.
+00:06:31,680 --> 00:06:42,312
+Nec immerito eum saecularis
+pater proripi timebat, quem inter reliquos ornatissimos
+juvenes velut unicum complectebatur. 7. Verum illi major inter haec omnia erat custodiendi
+baptismatis cura.
 
 37
-00:06:32,735 --> 00:06:49,776
-Nam si hominum quispiam clarus ac locuples in locum liberorum te adoptaturus acciret, ires per oppositas rerum difficultates, et per quamvis longi recessus iter vectatus accurreres? Deus universitatis rerumque Dominus, te in adoptionem vocat, illud (si velis) tibi blandum filii nomen impartiens, quo
+00:06:42,312 --> 00:06:50,072
+Fastidiebat adolescens, quo
+grandaevus oblectabatur pater, tali se semper adhortatione
+compellans: Delectat haec vita, sed decipit.
 
 38
-00:06:49,776 --> 00:07:06,817
-Deum nostrum, unicum suum nuncupat (Rom. VIII, Gal. IV, Eph. I), et non accensus raperis, non properus urgeris, ne conditionem tantam celeri occursu mors festina praeripiat? Atque ad hanc obtinendam, tu non invias terrae solitudines, nec longinqui maris incerta penetrabis? Cum volueris, haec adoptio
+00:06:50,072 --> 00:07:07,783
+Alia in ecclesiis praecepta recitantur; alia in auribus
+meis mandata sonuerunt: illic modestia, et continentia,
+et quies, et pudor traditur; hic effrenata
+luxuria nutritur. Ibi pietas viget; hic exercitatio corporalis. Illic ad aeternum regnum Christus invitat;
+hic diabolus ad temporale sollicitat.
 
 39
-00:07:06,817 --> 00:07:07,612
-tui tecum est.
+00:07:07,783 --> 00:07:24,607
+Omne quod in
+mundo est, vanitas est et concupiscentia oculorum,
+et mundus transit et concupiscentia ejus; qui autem
+fecerit voluntatem Dei manet in aeternum, sicut et ille
+manet in aeternum. Festinemus ergo erui ab his laqueis,
+dum adhuc minus tenemur. Difficile diu ligata
+solvuntur.
 
 40
-00:07:07,612 --> 00:07:24,256
-Numquidnam
-segnes ac desides nos res ista habebit, idcirco,
-quia tam prompta quam maxima? quo durius conditionem
-hanc dissimulatores experientur. Tanto enim nolentibus
-perniciosior, quanto est volentibus promptior. Certe cupiditas vitae est istud quod nos delectatione
-rei praesentis innexuit.
+00:07:24,607 --> 00:07:42,022
+Facilius est tenera evellere quam
+robusta succidere. In monte salvam fac animam tuam,
+ne forte apprehendant te malae cogitationes. Cito
+serpit voluptatis venenum, servanda est Christo per
+ejus gratiam sumpta libertas. Alii aurum argentumque
+mirentur. Dominentur, ut video, metalla dominantibus.
 
 41
-00:07:24,256 --> 00:07:39,933
-Ergo amantes vitam,
-hortamur ad vitam. Vera ratio est persuadendi, cum
-id poscitur, ut impetremus a vobis quod concupiscitis. Pro vita, quam diligitis, legatione apud vos fungimur
-(II Cor. V, 20; Eph. VI, 20); et hanc, quam
-omnes exiguam amatis insinuamus, ut ametis aeternam.
+00:07:42,022 --> 00:07:46,169
+Alii praedia atque mancipia non sine animi
+sui captivitate possideant.
 
 42
-00:07:39,933 --> 00:07:55,611
-Quam quo pacto amemus nescio, si non hanc,
-quam amamus, esse quam speciosissimam cupimus. Itaque istud, quod et cum arctum sit placet; placeat
-magis, si potest esse perpetuum; et quod apud nos
-pretium habet, cum finem habeat, sit nobis supra
-pretium, si potest esse sine fine.
+00:07:46,169 --> 00:08:03,881
+Alii honoribus gaudeant, et honorem divinae in se imaginis premant: mihi satis est mancipium non esse vitiorum; mihi salus, gaudium; mihi conjux, sapientia; mihi in virtutibus voluptas; mihi Christus thesaurus sit, qui pensabit mihi gaudia caduca melioribus, dabit et in hac vita studiis disciplinae
 
 43
-00:07:55,611 --> 00:08:12,538
-Rectum sit proinde
-minorem vitam prospexisse majori, ut ad alteram
-nobis, sed per hanc, transitus construatur: quam
-utique non convenit sociae commodis obliquis intervenire
-consiliis. Non se opponat, ut obsit, ut noceat. Absurdum quippe atque contrarium est ut vitae detrimentum
-afferat amor vitae.
+00:08:03,881 --> 00:08:08,027
+et oblectari et ornari, et inter haec dignum fieri coelestibus regnis.
 
 44
-00:08:12,538 --> 00:08:25,943
-Igitur sive vitam hanc
-contemnendam putas, sive complectendam, in utroque
-facilis negotii mea causa est. Nam, si spernitur,
-una est spernendi ratio, ut melior appetatur. Et si
-diligitur, tanto magis est diligenda, quae major est.
+00:08:08,027 --> 00:08:24,317
+8. Nec longas talis meditatio moras protulit; sed
+illico in flammam conversionis nutrita hujusmodi fomentis
+scintilla prorupit. Jugum Dominicae servitutis
+subdita cervice suscipiens, jugum libertatis excussit,
+intelligens summum esse captivitatis genus,
+licentiam juventutis.
 
 45
-00:08:25,943 --> 00:08:36,300
-Ego tamen desideraverim ut hanc pro experimentis
-sui habeas, ut molestissimam atque incertis fatigationibus
-inquietam (sicuti est) judices, eamque cum
-occupationibus spernas ac respuas.
+00:08:24,317 --> 00:08:37,824
+Rediguntur ad breves capillos
+luxuriantes comae. Transfertur ad nitorem mentis
+vestium splendor. Cervicis lacteae decus palliis rigentibus
+occupatur. Transit laetitia in serenitatem,
+membrorum vigor animi vigore mutatur.
 
 46
-00:08:36,300 --> 00:08:50,520
-Abrumpatur illa interminabilis saecularium negotiorum
-catena, et ille de necessitatibus multis unus
-per totam vitam labor. Disrumpamus inanium curarum
-vincula, quorum succedentibus sibi nexibus implicatis,
-in quibus semper occupatio nostra quasi incipit.
+00:08:37,824 --> 00:08:53,115
+Virtus corporis
+in virtutem spiritus migrat. Pallescit jejunio
+speciosa facies, et prius succi plena, fit plena gravitatis. Et quid plura? ita repente totus alius ex alio
+ostenditur, ut non aliter genitor ipsius, quam orbatus
+filio pater lamentaretur.
 
 47
-00:08:50,520 --> 00:09:04,852
-Removeantur illae tam vacuae quam cohaerentes
-sibi causae, in quibus, quoad vivitur, studium
-mortalium, dum subinde negotiis inchoatur, numquam
-finitur. Quarum rerum infatigabilis intentio
-jam brevem et arctam per se vitam, hanc etiam arctissimam
-reddidit.
+00:08:53,115 --> 00:09:08,224
+Et vere plena mortificatio
+corporis; sed vita illi spiritus erat. Tota hinc parentum
+persecutio suscitatur. Tunc solum et primum
+patri contumax fuit, cum Dei Patris filius esse contendit,
+ordinata jam tunc in eo, sicut Salomon praecepit,
+charitate.
 
 48
-00:09:04,852 --> 00:09:16,217
-Per quae etiam nunc vana gaudia,
-nunc acerbi moerores, nunc anxia vota, nunc suspecti
-metus veniunt. Abjiciantur postremo illa omnia,
-quae praesentem hanc vitam faciunt brevem occupationi,
-longam dolori.
+00:09:08,224 --> 00:09:24,795
+Ita enim propheta memoratus sub
+Dei voce pronuntiat: Ordinate in me charitatem
+(Cant. II, 4). Ordinavit plane eam ille, et sub charitatis
+dispositione prospexit primo Deum, tum proximum
+diligendum. Condemnari itaque se senectus patris,
+aetatis illius conversione credebat.
 
 49
-00:09:16,217 --> 00:09:32,732
-Repudiemus mundi parum fidi
-vitam utrobique suspectam, apud quam perinde alta
-atque humilia parum tuta sunt. Obteruntur humilitate
-depressa, nutant celsa fastigio. Pone quem volueris
-statum, non apud infima istic, non apud summa
-requiescitur: gravem turbinis sortem utraque
-conditio non effugit.
+00:09:24,795 --> 00:09:30,096
+Occurrit,
+renititur, comminatur; nec tamen ullo horum pueritia
+Deo freta concutitur.
 
 50
-00:09:32,732 --> 00:09:46,000
-Subjacet contumeliae minor,
-major invidiae. Duae res praecipuae sunt, ut arbitror, quae maxime
-homines in negotiis saeculi vinctos tenent, et eblanditis
-sensibus captos, illecebroso amore constringunt:
-opum voluptas, et honorum dignitas.
+00:09:30,096 --> 00:09:39,624
+CAPUT II. Cum Venantio fratre peregrinatur. ---Hujus obitus. ---Honoratus
+et Venantius patria abscedunt. ---Peregrinationes
+ad loca sacra.
 
 51
-00:09:46,000 --> 00:09:55,741
-Quarum
-prior, non voluptas, sed egestas: sequens, non dignitas,
-sed vanitas nuncupanda est. Haec utraque,
-alternis nodis irretitis, gressu impedit, fallax complexa
-collegium.
+00:09:39,624 --> 00:09:53,628
+9. Assistit tironi suo Dominus consolator, nec dissimulat
+unum ei ex germanis suis in collegium suscitare,
+qui exemplo ipsius ad conversionem vocatus, et
+senior juniorem secutus, in ipso brevi quo vixit tempore,
+sicut collegio illum, ita etiam virtute comitatus
+est.
 
 52
-00:09:55,741 --> 00:10:12,481
-Haec pestifere pectoribus humanis,
-blanda desideriis vitia inspirant; defatigatasque mentes
-mortalium, facili jucunditate sollicitant. Nam,
-quid istis opibus (ut de his primum dicam) perniciosius,
-quae raro, nisi cum justitia congeruntur? Tali
-administratore res ista capitur, tali custode servatur.
+00:09:53,628 --> 00:10:09,265
+Hinc jam inter illos certamina grata propositi, cujus mens ad pietatem mollior, cujus cibus durior, cujus sermo blandior, cujus amictus asperior; quis loqui rarius, quis orare crebrius; quem minus detineret lectus, quem magis lectio; quem minus moveret injuria, quem magis misericordia; quis daret
 
 53
-00:10:12,481 --> 00:10:16,343
-Radix enim, inquit, omnium malorum cupiditas
-(I Tim. VI, 10).
+00:10:09,265 --> 00:10:24,638
+promptius quod sibi detraxisset; quis libentius hospiti stratum cilicii et cervical illud consueti lapidis offerret; quis peregrinum promptius ante eleemosynae dispensationem lacrymis foveret, et affectu prius Christum quam advenam convivio pasceret; cui in ore rarior mundus, cui frequentior
 
 54
-00:10:16,343 --> 00:10:21,059
-Adeo quaedam societas est pene etiam
-nominis, duabus his rebus, vitiis et divitiis.
+00:10:24,638 --> 00:10:32,009
+Christus; quis in illa sublimitate virtutum sibimet ipsi minor videretur, et quo magis merito ascenderet, eo magis compunctione decresceret.
 
 55
-00:10:21,059 --> 00:10:37,990
-Numquidnam non opes istae, quaedam materia contumeliarum sunt? Unde etiam quidam nostrorum ait: Quid enim aliud sunt divitiae, nisi pignora injuriae? Numquid non, velut exposita improbis praemia, factiosorum oculos animosque provocant, proscriptionesque ipsas quodammodo ostentant, et invitant? Sed
+00:10:32,009 --> 00:10:46,435
+Privatus quidam tunc in
+conversatione eorum episcopatus gerebatur. Mentior,
+nisi plurimi episcoporum didicere ab illis, dum excipiuntur,
+excipere: nam si qui rigorem illum propositi
+non expaverunt, plus illinc humanitatis in
+animo quam refectionis in corpore secum tulerunt.
 
 56
-00:10:37,990 --> 00:10:47,706
-fac, ut ista non accidant, numquid quo post nos errantes, fugientesque commigrent, certi esse possumus? Thesaurizat, inquit, et ignorat, cui congreget ea (Ps. XXXVIII, 7).
+00:10:46,435 --> 00:10:59,808
+Ornabant itaque omnem simul patriam, et quantum
+apud animos multorum manet, custodiebantur aliorum
+ab illis corpora, aliorum spiritus, prout quisque
+indigens erat, aut vestimentis, aut doctrina, aut sumptibus,
+vestiebantur, alebantur, instruebantur.
 
 57
-00:10:47,706 --> 00:11:04,694
-Sed fac ut veniat haeres ex voto, numquid non saepe censum haeres intercipit, opesque congestas aut filius male educatus, aut gener male electus absumit? Quid divitiae istae in se voluptatis habent, quarum est et misera possessio, et incerta transmissio? Quo devius ac praeceps hominum amor raperis?
+00:10:59,808 --> 00:11:13,163
+Nullus
+illuc peregrinationis labore defessus, non tamquam
+ad patriam et patrimonii sui rura pervenit;
+nullus illinc ad ulteriora discedens, non tamquam iterum
+a domo sua pedem movit, et iterum sibi relinquere
+cives suos visus est, iterum propinquos. 10.
 
 58
-00:11:04,694 --> 00:11:11,568
-Scis ea, quae tibi obveniunt diligere, et ipsum te diligere nescis? Foris est, quod amas: extra te est, quod concupiscis.
+00:11:13,163 --> 00:11:22,717
+Interea amor in illos omnium crescebat, multiplicabatur,
+disseminabatur, et fama in ulteriora
+quaeque ferebatur, totaque jam erga illos patria obsequiis
+et amore et honore certabat.
 
 59
-00:11:11,568 --> 00:11:27,590
-Revertere potius in te, ut sis tibi tu charior
-quam tua. Certe, si ad te quispiam rerum haud
-ignarus accedat, malis ipsum te amet, quam ista,
-quae tecum sunt: idque eliges, ut ille vitae tuae potius,
-quam opibus tuis affectum suum conferat. Vis
-hunc homini fidem servare, non rebus.
+00:11:22,717 --> 00:11:34,172
+Pervenire illis
+ad ignobilitatem et paupertatem non licebat: quanto
+magis eorum vita abscondebatur, tanto magis fama
+emicabat, et alter alterum laudi objicere et gloriae
+exponere, et ad unum communem virtutem referre.
 
 60
-00:11:27,590 --> 00:11:36,681
-Quod tibi tribuere
-velis alium, ipse hoc tibi, qui es tibi fidissimus,
-tribue. Nos potius nos amemus quam nostra. Et haec quidem adversus facultates dicta sint.
+00:11:34,172 --> 00:11:39,768
+Sed dum unusquisque sub umbra alterius obscurari
+volebat, tamquam repercussa claritas utrumque irradiabat.
 
 61
-00:11:36,681 --> 00:11:53,669
-In honoribus vero hujus mundi, ut caetera taceam, quae aestimari dignitas potest rerum, cum ad hanc promiscue cum bonis mali ambitione conscendant, et non unius meriti viros unus honor ambiat, dignosque et indignos non jam discernat dignitas, sed confundat? Ita, quae meliores deterioribus praeferre
+00:11:39,768 --> 00:11:55,551
+Jam quae illorum gravitas, quam senilis maturitas, quam rara feminarum visitatio etiam proximarum, et quae inter tot virtutes totius vanitatis fuga; quam blanda consolatio, et quam sollicita custodia erga eorum salutem qui se doctrinae eorum mancipaverant! Angelica ab illis vita in terra ducebatur,
 
 62
-00:11:53,669 --> 00:11:59,918
-debebat, aequare coepit: novoque modo optimi ac pessimi viri nusquam fere minus discrimen est, quam in honore.
+00:11:55,551 --> 00:12:05,212
+in multa patientia, in vigiliis, in jejuniis, in castitate, in scientia, in longanimitate, in suavitate, in Spiritu sancto, in charitate non ficta, in verbo veritatis, in virtute Dei.
 
 63
-00:11:59,918 --> 00:12:07,247
-Nonne honor major est, hujusmodi
-honore inhonorum esse malle; ac suis magis moribus
-quam promiscuis honoribus aestimari?
+00:12:05,212 --> 00:12:20,942
+Pavebant interea illi gloriam suam, et
+odorem bonae conversationis longe lateque diffusum,
+licet ad Dei laudem referrent, sibi tamen vanitatis
+periculum inferre metuebant; percepisse se in vita
+sua mercedem suam reputabant, humanam conversationem
+et gratiam fastidientes eremi amore flagrabant. 11.
 
 64
-00:12:07,247 --> 00:12:22,973
-Atque
-haec ipsa (utcumque se habent) quam transvolantia,
-quam caduca sunt? Vidimus nuper viros honore conspicuos,
-celsarum dignitatum insedisse fastigiis, et
-diffuso usquequaque censu per orbem patrimonia
-tetendisse. Cupiditates successibus vicerant, rebus
-vota transcenderant.
+00:12:20,942 --> 00:12:31,447
+Inito itaque consilio, et quodammodo passi
+honoris sui persecutionem, ad peregrina contendunt. Iterum patria consurgit, iterum propinqui reluctantur. Spoliari se, sed nunc sanius, lumine suo metuunt.
 
 65
-00:12:22,973 --> 00:12:25,244
-Sed privatas tantum felicitates
-revolvo.
+00:12:31,447 --> 00:12:43,536
+Quod illic, Jesu bone, certamen fidei atque
+amoris fuit? Qui tunc consiliorum, qui precum, qui
+lacrymarum ambitus? Quis non illic sibi officium
+propinqui vindicavit, aut cujus lacrymae non cum
+lacrymis patris certaverunt?
 
 66
-00:12:25,244 --> 00:12:41,651
-Reges ipsi magno sublimes imperio, gemmisque fulserunt horum tegmina; mirum dictu, textis irradiabant metallis, diadema distinctis intermicabant arboribus , splendebat instructa palatinis aula cultibus, auratisque trabibus tecta rutilabant: eorum voluntates jura hominum, eorum verba leges
+00:12:43,536 --> 00:12:52,402
+Amittere enim se omnis
+patria in juvenibus illis patres sentiebat. Et vere
+erat illis senectus non annis cana, sed gratiis; non
+cariosa artubus, sed moribus venusta.
 
 67
-00:12:41,651 --> 00:12:42,446
-appellabantur.
+00:12:52,402 --> 00:13:08,362
+O quanta, Domine, dispensatio procurationis tuae! qui lampades tuas fidei igne fulgentes, non loco fixas stare pateris, sed praefers eas illuminationi diversorum locorum, inspirans migrandi voluntatem et fugiendi gloriam; quae utique multiplicanda erat, ipso per susceptam peregrinationem virtutis
 
 68
-00:12:42,446 --> 00:12:57,547
-Quis supra hominum verticem
-potest temporaria felicitate confugere? Ecce
-eorum ille ambitus nusquam est, affluentissimae quoque
-opes abierunt, transierunt ipsi tantarum opum
-domini (Job. XIV, Sap. V). Recentium inclytorumque regnorum apud nos jam
-quaedam fabula est.
+00:13:08,362 --> 00:13:08,846
+augmento.
 
 69
-00:12:57,547 --> 00:13:09,071
-Omnia illa, quae hic erant magna,
-modo jam nulla sunt. Nihil, ut puto, immo, ut certo
-scio, ex illis opibus, honoribus, regnis, secum abstulerunt,
-nisi (si qua in his fuit) fidei pietatisque substantiam.
+00:13:08,846 --> 00:13:22,172
+Diripitur
+dudum quidem vario misericordiam opere
+vexata, adhuc tamen larga substantia; et aequaliter
+ad patrimonium propinquus atque extraneus auctionator
+admittitur. Ita nullus in lucris dumtaxat
+parentum respectus est, ac si rem non suam vendant.
 
 70
-00:13:09,071 --> 00:13:22,412
-Sola haec illos, caeterarum rerum egenos,
-sola prosequitur: haec abeuntes inseparabilis et
-quasi fida comitatur. Illa nunc ope aluntur, in illis
-nunc divitiis, in illis tantum honoribus acquiescunt. Haec bona nunc in beneficiis habent.
+00:13:22,172 --> 00:13:37,595
+Possessio quae pauperibus, ex quo ab ipsis
+fuerat possessa, servierat, pauperibus nunc distribuenda
+distrahitur. Excipit patria effusam misericordiam,
+et fletibus effusis repensat. 12. Exeunt de terra sua et de domo et de cognatione
+sua, et exemplo pari veri Abrahae filii demonstrantur.
 
 71
-00:13:22,412 --> 00:13:27,181
-Quapropter, si
-honoribus opibusque capimur, veris opibus, veris
-honoribus excitemur.
+00:13:37,595 --> 00:13:53,447
+Ne quid tamen juvenili ausu temere ab ipsis incoeptum putaretur, assumunt senem perfectae consummataeque gravitatis, quem semper in Christo patrem nominarunt, sanctum Caprasium, angelica adhuc in insulis conversatione degentem: cujus quamquam dilectio vestra nomen hactenus ignoraverit, et adhuc
 
 72
-00:13:27,181 --> 00:13:42,793
-Optimus quisque in coelestes
-honores, in coelestes opes, terrenos honores, terrenas
-opes transfert: illuc utique, ubi bonorum ac malorum
-summa et inconfusa discretio est: ubi, quod
-semel adipiscimur, semper tenemus: ubi si locus
-obtinendi ullus fuerit, amittendi nullus erit.
+00:13:53,447 --> 00:13:56,134
+nesciat vitam, amicis eum suis Christus annumerat.
 
 73
-00:13:42,793 --> 00:13:57,383
-Sed quando, de fragili temporalium bonorum possessione
-diximus, aliquid etiam nobis de ipsius brevis
-vitae conditione dicendum est. Quid istud quaeso,
-quid istud est? Nihil ita quotidie homines, ut mortem
-vident: nihil ita obliviscuntur, ut mortem.
+00:13:56,134 --> 00:14:09,353
+Hunc tamquam ordinatorem in Domino
+atque custodem suae aetatis assumunt, quos jam
+custodes sibi plurima juventus elegerat. Quaeritur
+ergo peregrinationis latebra, fama fugitur virtutis;
+at ubicumque itur, ibi alia, velint nolint, fama pariebatur.
 
 74
-00:13:57,383 --> 00:14:02,748
-Agitur
-humanum genus rapida in occasu mortalitate,
-omnisque posteritas succedentium saeculorum lege
-decurrit.
+00:14:09,353 --> 00:14:21,444
+Felices terrae, et portus beati, quos coelestem
+patriam sitiens peregrinus illustrat! Alii Orientis
+oras, et quaecumque alia plena sanctis loca accipiendi
+exempli gratia, accedunt; hi quidquid adeunt exemplis
+bonis suscitant.
 
 75
-00:14:02,748 --> 00:14:13,181
-Patres nostri praeterierunt, nos abibimus,
-posteri sequentur: velut ex alto undarum jactus,
-aliis atque aliis supervenientibus, in littoris extrema
-franguntur; ita in terminum mortis succiduae alliduntur
-aetates.
+00:14:21,444 --> 00:14:26,496
+Spargitur ubique substantia, et
+in omni accessu eorum bonus Christi odor flagrat. 13.
 
 76
-00:14:13,181 --> 00:14:25,632
-Haec nos consideratio diebus ac noctibus,
-haec nos conditionis nostrae memoria circumstrepat. Debitum vitae finem jam jamque affuturum
-putemus; qui nobis tanto magis appropinquabit,
-quanto magis distulit. Vicinum speremus diem, longinquum
-esse nescimus.
+00:14:26,496 --> 00:14:35,146
+Hunc ipsum jam tunc cujus hodie memoria
+pascimur, urbi huic Massiliensis Ecclesia pene praeripuit,
+hortante illius urbis antistite, et tali eo gaudente
+collegio.
 
 77
-00:14:25,632 --> 00:14:34,441
-Praeparemus, ut scriptum
-est, ad exitum vias nostras (Mal. III, 1). Si cogitamus
-ista, si ista meditamur, non timebimus mortem,
-timendo. Beati, qui vos jam reconciliastis Christo.
+00:14:35,146 --> 00:14:47,719
+Sed quid non ille fervor lacrymarum
+certamine et blandimentorum ambitione evinceret? Alacrius ergo, novo admoniti periculo, maria
+transmittunt, expetunt littora quibus barbara esset
+illa, quae plurima in ipsis erat, Romana eloquentia.
 
 78
-00:14:34,441 --> 00:14:46,893
-Non magnus mortis istos timor infestat, qui jam
-dissolvi optant, et esse cum Christo (Phil., I); qui
-summum vitae istius diem, jam parati, jam quieti,
-in silentio exspectant. Non enim multum refert,
-quando finiant temporariam, qui transeunt in aeternam.
+00:14:47,719 --> 00:14:58,250
+Longum est percurrere quem ab illis profectum unusquisque
+quisque locus traxerit, quam salubritatem Ecclesiis
+sine ullo clericatus actu invexerint, quot magistris
+magistri in silentio fuerint. 14.
 
 79
-00:14:46,893 --> 00:14:52,798
-Ad negligentiam vitae, non nos negligentium turba
-persuadeat, nec ad damnum propriae salutis, alienis
-ducamur erroribus.
+00:14:58,250 --> 00:15:14,154
+Illud commemorasse sufficiat, intrepide ab illis pro Christi desiderio maris rheuma toleratum, squalorem ac sterilitatem Achaici littoris expetitam; et tam delicate, tam molliter educatos contra tantas aquarum et aurarum varietates decertasse: quod quam grave, quam intolerabile illi teneritudini
 
 80
-00:14:52,798 --> 00:15:06,234
-Quid nobis in illo Dei judicio
-proderit multitudo; ubi singuli judicabuntur, ubi sola
-examinatio meritorum, actus quemque, non populus
-absolvent? Cessent, cessent solatia malesuada discriminis. Nimirum praestat vitam propagasse cum paucioribus
-quam perdidisse cum pluribus.
+00:15:14,154 --> 00:15:20,494
+fuerit, excessus illic Germani sui beatissimi in Christo viri Venantii, et infirmitates suae ac suorum protestabantur.
 
 81
-00:15:06,234 --> 00:15:18,143
-Atque adeo,
-non nos ad incuriam peccatorum, sola peccantium
-numerositas pertrahat, neque hoc, quod sibi alii
-parum consulunt, quaedam nobis efficiatur auctoritas. Obsecro te, delictum alienum semper ut opprobrium
-respice, numquam ut exemplum.
+00:15:20,494 --> 00:15:33,389
+Jam quid in illo funere Methona aut extulisse
+se, aut percepisse crediderit, multiplicibus psallentium
+indicavit agminibus. Hinc Hebraeus, hinc Graecus,
+hinc Latinus exsultat, Judaeus ipse Christum
+respuens fidelem Christi servum admiratur.
 
 82
-00:15:18,143 --> 00:15:31,775
-Quod si libet oculos
-ad exempla conferre, in illam potius intende partem
-qua, licet pauciores sint, tamen sunt in sua parte
-copiosi. Illam, inquam, respice, in qua sunt, qui sapienter
-intelligunt, quapropter nati sint? et utique,
-dum ad vivunt, vitae suae causam agunt.
+00:15:33,389 --> 00:15:48,595
+Astra
+ipsa ferventes chori pulsant, et ut credimus cum humanis
+vocibus angelici chori concinunt, fideli famulo
+suo Christus occurrit. Euge, Venanti, serve bone et
+fidelis; et dum audis, Intra in gaudium Domini tui
+(Matth. XXV, 21), memento nostri quos adhuc saeculi
+gaudia impugnant.
 
 83
-00:15:31,775 --> 00:15:40,330
-Qui utili opere insignes, atque egregia virtute praestantes,
-praesentem vitam excolunt, futuram serunt. Nec solum copiosa horum exempla, verumetiam
-magna non desunt.
+00:15:48,595 --> 00:15:53,592
+Accipiunt finem carnis animaeque
+certamina; sumit principium vita perennis et
+gloria .
 
 84
-00:15:40,330 --> 00:15:55,883
-Nam quae mundi nobilitas, qui honores, quae dignitas, quae sapientia, quae facundia, quae litterae non se jam ad hanc coelestis regni militiam contulerunt (Matth. XI, 30)? Quae sublimitas, non jam se ad istud leve coeleste jugum, cum deditione submittit? Et sane supra omnem errorem atque ignorantiam
+00:15:53,592 --> 00:16:04,920
+CAPUT III. Honoratus, fratre mortuo, venit in Italiam, et apud
+episcopos hospitatur. ---Leontius episcopus Forojuliensis. ---Lirinam
+insulam ingreditur.
 
 85
-00:15:55,883 --> 00:15:58,320
-est, dissimulare quemque negotium salutis suae.
+00:16:04,920 --> 00:16:20,263
+15. Hinc jam vobis Honoratum vestrum Christus
+reducit, et occulta manu salubritatem regressu sui
+temperat. Nam quidquid praeterfluens tangit, illuminat. Hujus Italia benedici gaudet introitu. Hunc Tuscia
+venerata complectitur, et blandissimas per sacerdotes
+suos moras nectit.
 
 86
-00:15:58,320 --> 00:16:11,177
-Possem etiam, nisi longum esset, multos
-ex innumeris nominatim retexere, quanti in saeculo
-illustrium virorum hanc arctiorem divini cultus observantiam,
-vitamque sectati sunt: quorum tamen
-exempla, ne cuncta penitus omittam, cursim pauca
-subnectam.
+00:16:20,263 --> 00:16:36,162
+Porro Dei providentia nobis
+prospiciens cuncta disrupit, et quem e patria eremi
+desideria provocarant, hunc in eremum huic urbi
+propinquam Christus invitat. Vacantem itaque insulam
+ob nimietatem squaloris, et inaccessam venenatorum
+animalium metu, Alpino haud longe jugo subdit
+m petit.
 
 87
-00:16:11,177 --> 00:16:24,657
-Clemens vetusta prosapia senatorum, atque etiam
-ex stirpe Caesarum, omni scientia refertus, omniumque
-liberalium artium peritissimus, ad hanc justorum
-viam transiit; itaque etiam in ea excellenter
-effloruit, ut principi quoque apostolorum successor
-exstiterit.
+00:16:36,162 --> 00:16:46,335
+Praeter secreti opportunitatem, sancti
+ac beatissimi in Christo viri Leontii episcopi oblectatus
+vicinia et charitate constrictus, plurimus etiam
+novo ausu retrahere illum conantibus.
 
 88
-00:16:24,657 --> 00:16:39,899
-Gregorius e Ponto sacerdos, philosophia primus apud mundum et eloquentia praestans; sed postea major praestantiorque virtutibus, adeo ut (sicut de hoc historiae nostrae fides loquitur) inter reliqua admirabilium signa meritorum, precibus hujus atque orationibus mons referatur secessisse, lacus
+00:16:46,335 --> 00:16:52,951
+Nam circumjecti
+accolae terribilem illam vastitatem ferebant, et
+suis occupare illum finibus fidei ambitione certabant.
 
 89
-00:16:39,899 --> 00:16:40,417
-exaruisse.
+00:16:52,951 --> 00:17:09,462
+Verum ille humanae conversationis impatiens, et circumcidi a mundo vel objectu freti concupiscens, illud corde et ore gestabat, nunc sibi, nunc suis proferens: Super aspidem et basiliscum ambulabis, et conculcabis leonem et draconem (Ps. XC, 13); et in Evangeliis Christi ad discipulos suos factam
 
 90
-00:16:40,417 --> 00:16:47,261
-Alius item sanctus, atque ejusdem nominis
-Gregorius, aeque litteris ac philosophiae deditus,
-coelestem hanc philosophiam concupivit.
+00:17:09,462 --> 00:17:14,632
+promissionem: Ecce dedi vobis potestatem calcandi supra serpentes et scorpiones (Luc. X, 19).
 
 91
-00:16:47,261 --> 00:17:01,155
-Cujus
-etiam, quod ad rem pertinet, nequaquam silendum
-videtur; quod Basilium studiis prius saecularibus familiarem
-sibi, et rhetorices adhuc professioni vacantem,
-auditorium ejus ingressus, manu hunc apprehensum
-schola abduxit, dicens: Omitte ista et da
-saluti operam.
+00:17:14,632 --> 00:17:26,640
+Ingreditur itaque
+impavidus, et pavorem suorum securitate sua discutit. Fugit horror solitudinis, cedit turba serpentium. At quae non tenebrae illud lumen refugerunt? Quae
+non illi medicamento venena cesserunt?
 
 92
-00:17:01,155 --> 00:17:07,583
-Et postea uterque memorabilis sacerdos
-reliquit utique in Ecclesiae nostrae libris ingenii
-sui praeclara monimenta.
+00:17:26,640 --> 00:17:39,358
+Inauditum
+vere illud et plane inter miracula ac merita illius
+deputandum reor, quod tam frequens, ut vidimus, in
+illis ariditatibus serpentium occursus, marinis praesertim
+aestibus excitatus, nulli umquam non solum
+periculo, sed nec pavori fuit. 16.
 
 93
-00:17:07,583 --> 00:17:21,524
-Paulinus quoque, Nolanus
-episcopus, peculiare et beatum Galliae nostrae exemplum,
-ingenti quondam divitiarum censu uberrimo
-eloquentiae fonte; ita in sententiam nostram propositumque
-migravit, ut etiam cunctas admodum
-mundi partes eloquio operibusque resperserit.
+00:17:39,358 --> 00:17:54,221
+Quid longius morer, cooperante, ut ita dicam,
+Christo, omni, quae prius deterruerat, adversitate
+superata, Honoratus vester castra illic quaedam Dei
+collocat; et qui locus dudum homines a sua commoratione
+repulerat, angelicis illustratur officiis. Illuminatur
+latibulum, dum lumen occulitur.
 
 94
-00:17:21,524 --> 00:17:30,535
-Hilarius
-nuper, et in Italia nunc antistes Petronius,
-ambo ex illa plenissima, ut aiunt, mundanae potestatis
-sede, unus in religionis, alius in sacerdotii nomen
-ascendit.
+00:17:54,221 --> 00:18:03,568
+Cedit ignoti
+prius exsilii obscuritas voluntarii exsulis claritati. Quid ergo accessio, quid emendatio illa conferat? Quocumque Honoratus accesserit, adesse illic honorem
+necesse est.
 
 95
-00:17:30,535 --> 00:17:46,330
-Et quando clarissimos facundia, Firmianum, Minutium, Cyprianum, Hilarium Joannem , Ambrosium, ex illo volumine numerositatis evolvam? Dixerant, credo, et hi sibi, quod quidam nostrum ait, cum se a saeculo in hanc beatiorem vitam, hoc velut stimulo concitaret: dixerant, credo, Quid hoc est? Surgunt
+00:18:03,568 --> 00:18:11,945
+Hic primum illigatur diu evitati
+clericatus officio; hic refugam suum sacerdotalis infula
+innectit; et qui ire ad dignitatem detrectaverat,
+ad ipsum dignitas venit.
 
 96
-00:17:46,330 --> 00:17:55,394
-indocti, et coelum rapiunt, et nos cum doctrinis nostris, ecce ubi in carne volutamur et sanguine (Matth. XI)? Dixerant istud? et idcirco ipsi postea vim intulerunt regno.
+00:18:11,945 --> 00:18:25,327
+Apparuit illic presbyter
+non duplici tantum, sed multiplici honore dignissimus,
+coram quo nullam sacerdotii distantiam, nullum
+nominis privilegium episcopatus agnosceret. Nemo
+umquam episcoporum sibi tantum usurpavit, ut se
+presbyteri illius collegam computaret.
 
 97
-00:17:55,394 --> 00:18:04,087
-Prolatis ex parte, quos major fidei nostrae fervor
-habuit, saeculi philosophia, eloquentia, honoribusque
-perfunctos, ad ipsos jam reges et illud caput mundi
-veniam.
+00:18:25,327 --> 00:18:31,660
+Verum ille
+tam integram in sacerdotio monachi humilitatem conservabat,
+quam plene monachus sacerdotii merita
+possederat. 17.
 
 98
-00:18:04,087 --> 00:18:15,483
-Neque nunc commemorandos putabo omnes
-superiores illos religioni devotos, et regiae dignitatis
-viros: solum mihi insignes, David pietate, Josias
-fide, Ezechias humilitate, ex memoria venerandorum
-promentur annalium.
+00:18:31,660 --> 00:18:46,728
+Industria illic sua sufficiens electis Dei Ecclesiae
+templum excitatur, apta monachorum habitaculis
+tecta consurgunt: negatae a saeculis aquae largiter
+fluunt, in uno ortu suo duo veteris Testamenti
+miracula proferentes. Nam cum de saxo erumperent,
+in media maris amaritudine dulces profluebant.
 
 99
-00:18:15,483 --> 00:18:30,642
-Nonnulli quoque ex
-recentioribus exstiterunt, atque hac nostra tempestate
-principes, qui ad agnitionem veri regis propius
-accesserunt, summumque illum dominorum Dominum
-summa cordis contritione confessi sunt; attentam
-divinae majestati reverentiam, etiam uterque
-sexus ex aula exhibuit.
+00:18:46,728 --> 00:19:00,468
+Certatim jam illuc omnis regio quaerentes Deum
+dirigebat. Honoratum expetiit, quisquis Christum
+desideravit; et plane Christum, quisquis Honoratum
+expetiit, invenit. Illic enim ille totus vigebat,
+pectus ejus quasi praecelsam arcem et splendidissimum
+templum insederat.
 
 100
-00:18:30,642 --> 00:18:38,116
-Hi potius idonei, ut arbitror,
-ad aemulandum proponantur, quorum exempla cum
-habeant de futuris salutem, habent de praesentibus
-auctoritatem.
+00:19:00,468 --> 00:19:06,240
+Illic castitas, quae est
+sanctitas, fides, sapientia et virtus habitavit; ibi
+justitia fulsit et veritas.
 
 101
-00:18:38,116 --> 00:18:48,239
-Cernis ut etiam dies atque anni, et cuncta haec
-ornamenta coeli, Dei verbum mandatumque infatigabili
-observatione conservent, praeceptorumque ejus
-custodiant irremissa lege famulatum.
+00:19:06,240 --> 00:19:14,690
+Itaque velut ulnis effusis
+patentibusque brachiis in amplexum suum, hoc est
+in amorem Christi, invitabat; omnes undique ad illum
+certatim confluebant.
 
 102
-00:18:48,239 --> 00:19:05,340
-Numquid nos, quorum ista usibus fabricata sunt, quorum luminibus ingesta sunt, coelestium mandatorum non nescii, nec divinae voluntatis ignari, praeceptum Dei surda aure transibimus? Et his quidem praedictis mundi adminiculis, quid in saecula observarent, semel jussum est: nobis vero tot voluminibus
+00:19:14,690 --> 00:19:31,364
+Etenim quae adhuc terra, quae natio in monasterio illius cives suos non habet? Quam ille barbariem non mitigavit? Quoties de immanibus belluis quasi mites fecit columbas? Quam amaros interdum mores Christi dulcedine aspersit? Et quorum pravitas sibimetipsis prius poenalis fuerat, eorum postmodum
 
 103
-00:19:05,340 --> 00:19:16,912
-divinae legis iterantur imperia, ad haec saltem, quod homini ipsi attributum est, voluntati auctoris parere, praeceptisque ejus vacare discat: quia omne istud, cum praebet ministerium, praestat exemplum.
+00:19:31,364 --> 00:19:38,068
+gratia oblectamento omnibus erat; degustata deinde boni suavitate, non poterant non magis et magis odisse quod fuerant.
 
 104
-00:19:16,912 --> 00:19:34,013
-Et tamen, si qui ad auctorem suum redire nolunt, num idcirco Dominum suum vitare possint? Aut quo suppetit, ut fugiant, qui a Deo se avertunt? Audiant, sancte David, audiant te dicentem: Quo ibo a Spiritu tuo, et a facie tua quo fugiam? Si ascendero in coelum, tu illic es: si descendero in infernum,
+00:19:38,068 --> 00:19:46,744
+Nam velut adducti
+in novam lucem, antiquum illum diu insidentium
+errorum carcerem detestabantur. Pulsa per exhortationem
+illius est varia pestis animorum.
 
 105
-00:19:34,013 --> 00:19:42,449
-ades; si sumpsero pennas meas diluculo, et inhabitavero in extremis maris, etiam ibi manus tua deducet me, et tenebit me dextera tua (Ps. CXXXVIII).
+00:19:46,744 --> 00:19:55,081
+Amaritudo,
+asperitas, et rabies locum dabant libertati, quam
+Christus obtulerat, et delectabat requies post longam
+et gravem Pharaonicam servitutem.
 
 106
-00:19:42,449 --> 00:19:57,783
-Ergo illi velint nolint, se Domino
-universitatis, et si voluntate auferunt, jure non subtrahunt. Illi quidem affectu absunt, sed ille dominatu
-adest: Ita quod improvidum et inconsultissimum
-est, errantes clausi, vivunt extra considerationem
-Domini, et intra potestatem.
+00:19:55,081 --> 00:20:05,278
+Stupenda et
+admirabilis permutatio, non Circeo, ut aiunt, poculo
+ex hominibus feras, sed ex feris homines Christi
+verbum tamquam dulcissimum poculum, Honorato
+ministrante, faciebat.
 
 107
-00:19:57,783 --> 00:20:14,314
-Et si unusquisque de fuga famulum minaci indagine sectatur, eumque declinantem se juris sui assertor insequitur; cur non de semetipso coelesti Domino jus suum reddit, servitutique quamprimum se in famulatum ejus voluntaria oblatione dedit, aequus utique tam sibi, quam in se arbiter? Cur in
+00:20:05,278 --> 00:20:20,657
+Quid enim non extunderet
+illa instantia cum alacritate conjuncta? aut qui lapides
+non in Abrahae filios verterentur? ubi tanta in
+expoliendis mentibus erat officina virtutum, ut si
+minus hominem ad salutem suam vivis exhortationibus
+promoveret, Deum oratione constringeret.
 
 108
-00:20:14,314 --> 00:20:27,197
-praesentium rerum oblectabili defigimur aspectu? Cur iis tantumlibet incubare, quae cernimus? Numquid luminibus istis tantum vivimus, aut solos in usum gestamus oculos? Vivimus quoque et auribus, ut possimus inhiare promissis.
+00:20:20,657 --> 00:20:33,445
+Omnium
+ille passiones suas credidit et tamquam suas
+flevit; profectus laboresque omnium suos computavit;
+sciens gaudere cum gaudentibus, flere cum flentibus,
+simul et vitia et virtutes omnium in meriti sui
+cumulum transferebat.
 
 109
-00:20:27,197 --> 00:20:41,447
-Magni nos, per hanc quoque corporis partem,
-affectus trahunt. Quae spondentur, quae praedicantur,
-ferventibus votis, instantibus desideriis exspectemus. Fidem promissorum fidelis ille, ille auctor
-inculcat. Ambiamus ad optima quae pollicentur.
+00:20:33,445 --> 00:20:48,317
+Sicut enim virtus ad virtutem
+excitat, ita miseratio miseris impensa fructificat. Metet enim singulis plusquam sibi singuli. Singulorum
+enim salus unam illi gloriam instruit. Impiger,
+festinus, infatigabilis perseverat, prout cujusque
+naturam moresque perspexerat.
 
 110
-00:20:41,447 --> 00:20:53,937
-Quamquam si ipsi quoque oculis, bene et utiliter uti
-volumus, per istos etiam in futurum cupiditate magna
-ex parte raptamur: si admirationem, quam ex
-mundi contemplatione capimus, retorqueamus in
-ipsum tantae machinae auctorem.
+00:20:48,317 --> 00:20:56,880
+Hunc secreto,
+illum palam; hunc severus, illum blandus aggreditur;
+et ad castigandi immutationem, ipsam plerumque
+faciem castigationis immutat.
 
 111
-00:20:53,937 --> 00:21:04,611
-Aut si cogitemus,
-quantus in posterum splendor lucis, possit luminibus
-occurrere; cum se nunc tantus insinuet: Quam
-magnifica fulgebit perpetuis forma rebus, cum sit
-nunc tam speciosa perituris.
+00:20:56,880 --> 00:21:09,216
+Inde illud erat quod
+non facile quemquam tantum vel amari vidimus vel
+timeri: ita enim duos hos affectus sui in unoquoque
+suorum collocabat, ut et amor suus delicti metum, et
+timor disciplinae amorem introduceret.
 
 112
-00:21:04,611 --> 00:21:15,285
-Non ergo oportet in
-deteriorem nos partem, officia sollicitare membrorum,
-commode potius in utramque temperentur vitam;
-sicque custodiant temporariae usum, ut aeternae
-non abjiciant ministerium.
+00:21:09,216 --> 00:21:19,752
+CAPUT IV. Praeclara Lirinensium institutio. ---Honorati virtutes. ---Honoratus
+benignus et liberalis in hospites. ---Honorato
+scripsit Eucherius.
 
 113
-00:21:15,285 --> 00:21:28,490
-Quod si nos ista avocatio
-atque amor juvat, et ipsum sensum oblectatio sollicitat,
-est plane hic amor summae voluptatis; est non
-solum, quod amari effusissime possit, sed et quod
-maxime, debeat, jucundum, praeclarum, unicum,
-aeternum bonum.
+00:21:19,752 --> 00:21:30,229
+18. Incredibile est quantae illi curae fuerit ne quem
+tristitia affligeret, ne cogitatio saecularis urgeret. Quam
+facile perspexerit quid quemque vexaret, tamquam
+singulorum mentes mente gestaret.
 
 114
-00:21:28,490 --> 00:21:40,595
-Deus, inquam, noster, cui possis tam magno quam
-pio igne flagrare; si in locum anteriorum cupiditatum,
-pretiosa rursum desideria succedunt. Si te in
-aliquo capiebat tam magnificae rei dignitas, nihil illo
-magnificentius.
+00:21:30,229 --> 00:21:44,555
+Quanta
+praeterea pietatis dispensatione providit, ne quem
+nimius labor gravaret, ne quis nimia quiete torpesceret. Ipsos, si dici potest, singulorum fratrum
+somnos pio pensavit affectu. Valentes corpore a desidia
+semper excutiens, ferventes spiritu cogebat ad
+requiem.
 
 115
-00:21:40,595 --> 00:21:55,506
-Si te aliquid velut aptum gloriae accommodatumque
-rapiebat, nihil illo gloriosius. Si ad
-splendida fulgentium rerum ducebaris visu, illo nihil
-clarius. Si ad speciosa trahebaris intuitu, illo nihil
-pulchrius. Si in aliquo te amplecti putabas veritatem,
-illo nihil verius.
+00:21:44,555 --> 00:21:56,582
+Omnium vires, omnium animos, omnium
+stomachos instinctu, credo, Dei noverat, vere servus
+omnium factus propter Jesum Christum. Mirandum
+est quomodo unus tot simul officia compleverit, tam
+varia praesertim infirmitate vexatus.
 
 116
-00:21:55,506 --> 00:22:10,636
-Si in quoquam suspiciendam
-largitatem credebas, illo nihil munificentius. Miraris,
-quod purum est atque simplex? nihil illa bonitate
-sincerius. Sollicitaris affluentium rerum copia? nihil
-illa abundantia copiosius. Diligis aliquid tamquam
-fidum? nihil hujus firmius est fide.
+00:21:56,582 --> 00:22:03,424
+Fortissimos
+quosque, et recenti adhuc conversatione praevalidos
+in jejuniis vigiliisque, impar viribus, pari lege comitatus
+est.
 
 117
-00:22:10,636 --> 00:22:22,521
-Amas aliquid ut
-commodum? nihil commodius est hujus ipsius amore. Est aliquid, quod te vel severitatis vel jucunditatis
-specie trahat? non est magnitudine illa, dignatione
-illa, quidquam aut terribilius aut blandius.
+00:22:03,424 --> 00:22:19,461
+Infirmos ipse infirmior visitavit; refrigeria animarum simul providit et corporum; et ne quid cuiquam minus fuisset impensum, animo semper recurrebat: hic alget, hic cogitat: illi labor gravis est; huic haec esca non convenit: ille ab alio laesus est; grave est quod hic intulit, nec minus grave quod
 
 118
-00:22:22,521 --> 00:22:29,783
-Requiritur
-in adversis benignitas, in prosperis suavitas:
-unicum est ex illo, aut in laetis gaudium, aut in moestis
-solamen.
+00:22:19,461 --> 00:22:20,156
+iste sensit .
 
 119
-00:22:29,783 --> 00:22:44,763
-Itaque ratione plenissimum est, te
-illum in quo habeas omnia, amare prae omnibus. Divitiae,
-et quaecumque illa sunt, quae te nunc amoenitatibus
-suis obtinent, non solum intra ipsum, sed
-etiam ab ipso habentur. Malle hactenus amor sparsus,
-divinis deinceps reddatur excubiis.
+00:22:20,156 --> 00:22:28,976
+Grandi instantia opus est ut offensa gratiam
+consequatur, et hic sibi illatas contumelias aut leves
+aut nullas computet; hic autem se gravissimas intulisse
+suspiret.
 
 120
-00:22:44,763 --> 00:22:57,774
-Vaga adhuc
-affectibus suis, in sacros reducatur usus jam casta
-charitas: dilectionemque opinionibus deviam, cohibito
-errore, castigans dirige, atque in Deum amorem
-confer tuum: quia et quidquid nunc amas, suum
-est; suum, inquam, suum est.
+00:22:28,976 --> 00:22:44,745
+Haec illi jugis opera, jugis intentio erat, levigare omnibus jugum Christi, et quidquid diabolus injecisset, avertere, discusso culparum nubilo, gratiarum serena revocare, amorem Christi et proximorum amando inserere, et mentes omnium tamquam suum pectus excolere; innovare gaudia, et ad Christi
 
 121
-00:22:57,774 --> 00:23:03,569
-Est enim tantus ille,
-ut qui non amant eum, inique quidem, sed tamen
-non nisi ejus quidquam amare possint.
+00:22:44,745 --> 00:22:48,006
+semper desiderium tamquam primo conversionis die inardescere.
 
 122
-00:23:03,569 --> 00:23:19,313
-Sed tamen consideret velim arbiter justus, aequumne
-sit diligere opus, opifice neglecto derelictoque omnium
-creatore rerum; in rem hujus cupiditatibus
-suis passim atque indifferenter incurrere: cum utique
-Deum oportuisset illicere ad amorem sui, vel
-per hunc ipsum affectum suorum operum.
+00:22:48,006 --> 00:22:48,648
+19.
 
 123
-00:23:19,313 --> 00:23:31,067
-Et nunc
-homo adversus in indignorum tantum figmentorum
-desideria atque officia convertitur, animisque incongrue
-dissidentibus appetitor artis, desertor artificis,
-complectiturque speciem, cujus non miratur auctorem.
+00:22:48,648 --> 00:23:05,118
+Hinc illud erat quod omnis congregatio illa
+divinae cupida servitutis, ad nomen ipsius ex diversa
+terrarum parte collecta, tam moribus quam linguis
+dissona, in illius amorem conspirabat. Omnes dominum,
+omnes patrem vocabant, in illo sibi patriam,
+propinquos, et omnia simul reddita computantes.
 
 124
-00:23:31,067 --> 00:23:47,140
-Et quid de illa tam magna multitudine dulcedinis suae diximus? Aut quid de tanta et tam ineffabilis boni suavitate, sancto et profundo charitatis ejus thesauro, elocuti sumus? Aut quando in quoquam de illo, quisquam valet rei ipsius fando consequi dignitatem? Amare ergo eum jam non voluptarium
+00:23:05,118 --> 00:23:21,812
+Didicerant omnes, ipso sibi compatiente, dolores illius suos computare, ut non immerito egregius et in Christo beatissimus vir Salvianus presbyter charorum suorum unus in scriptis suis dixerit, quod sicut coeli faciem pro sua sol aut obscuritate, aut serenitate mutaret, ita congregatio illa coelum
 
 125
-00:23:47,140 --> 00:23:49,491
-tantum, sed etiam necessarium esse ducamus.
+00:23:21,812 --> 00:23:32,624
+sitiens et coelestibus studiis mancipata ab ipso vel nubila, vel serenitatem mentium, quasi peculiari in Christo Sole, susciperet, ipsoque et afflicto afflictaretur, et respirante revalesceret.
 
 126
-00:23:49,491 --> 00:23:59,167
-Impium quippe est hunc non diligere, cui rependere
-non queas etiam cum dilexeris. Injustissimum est
-ut ei, quae possis tribuere, nolis, cui etiam si velis,
-repensare non possis.
+00:23:32,624 --> 00:23:48,590
+Hinc illa erat, et adhuc orationibus
+suis permanet diffusa in monasterio suo sancti
+Spiritus gratia, tanti doctoris et exemplo et admonitione
+firmata in variis charismatum donis, in
+humilitate et mansuetudine, in charitate non ficta,
+et una capitis gloria in diversitate membrorum. 20.
 
 127
-00:23:59,167 --> 00:24:13,271
-Quid enim retribuemus Domino,
-pro omnibus quae retribuit nobis (Ps. CXV)? Quid retribuemus,
-vel pro hoc tantum, quod per fidem homini
-salutem dedit, statuitque, ut quam facillimum factu
-esset, per quod spem orbi terrae ac vitam mortalibus
-propagaret.
+00:23:48,590 --> 00:23:51,391
+Magna illi inter haec in advenas et hospites
+cura.
 
 128
-00:24:13,271 --> 00:24:28,670
-Et ut ad ista descendam, illa aliquando externa omnia, id est nationes et regna, putasne ob aliud in ditionem ac jus cessisse Romanum, et ob aliud magnam partem generis humani, in unum transisse populum; nisi ut facilius tamquam medicamentum per corpus unum, ita per unam gentem fides infusa
+00:23:51,391 --> 00:24:07,189
+Quis enim illum aliquando praeteriret? Quis non
+quamlibet prosperam navigationem, quoslibet suaves
+ventos mox per tanti viri desiderium, commodi sui
+contemptor abrupit? aut si insulam tenere non licuit,
+violentum secundae navigationis obsequium, acerbissimam
+tempestatem computavit.
 
 129
-00:24:28,670 --> 00:24:40,154
-penetraret, et ut capiti ingesta velociter se per membra diffunderet? Alioqui, non ita concurrisset inter crebras et discrepantes ritibus linguisque gentes, nec tam longe per novorum semper graduum objecta transisset.
+00:24:07,189 --> 00:24:18,113
+Nemo illuc non festinus
+accessit; nemo illic moras suas sensit; nemo
+illinc non securissimus solvit, prosequente ipso amore,
+sumptibus, votis, et tunc primum agnitos tamquam
+dudum suos emittente.
 
 130
-00:24:40,154 --> 00:24:48,515
-Denique B. Paulus, per hunc eumdem populum disterminans
-fidem, scribit se ab Hierosolymis usque
-ad Illyricum, Evangelio Christi cuncta replesse (Rom. XV, 19).
+00:24:18,113 --> 00:24:34,416
+In squalore eremi delicias
+conspectu suo ministrabat, cum tanto omnes
+gaudio et amore suscipiens, tamquam exspectasset:
+aderat praeterea munificentiae animo par substantia,
+pari fide ministrata. Nam qui libenter audierat: Vende
+omnia tua, et da pauperibus, et veni, sequere me
+(Matth.
 
 131
-00:24:48,515 --> 00:25:04,072
-Quando autem istud inter nationes, aut multitudine innumeras (Cicer. pro M. Marcello), aut immanitate barbaras exstitisset? Inde est, quod nunc terra, a solis ortu et occasu, ab aquilone et mari, Christum resonat; quod ad vitam omnia mundi latera concurrunt; dum fidem Thrax, fidem Libys, fidem
+00:24:34,416 --> 00:24:49,415
+XIX, 21); huic libentissime unusquisque, si quid misericordiae animo devoverat, dispensandum ingerebat; securus illi sua cuncta committens, cujus in relinquendis omnibus secutus fuerat exemplum. Hinc ad eum frequens ille ex diversarum regionum vastitate concursus. Et vere is ille erat qui, non ut
 
 132
-00:25:04,072 --> 00:25:05,713
-Syrus, fidem receptat Hispanus.
+00:24:49,415 --> 00:25:04,414
+parcus dispensator aut timidus, respectu sibi creditae et crescentis quotidie congregationis aliqua tribueret, plura servaret. Sed quid quotidie in alieno non faceret, quod in suo semel fecerat? Hoc est, nihil sibi, nihil suis praeter praesentium dierum victum et vestitum reservabat. 21. Exhausta
 
 133
-00:25:05,713 --> 00:25:13,597
-Magnum ergo
-ex hoc divinae pietatis argumentum est, quod sub
-Caesare Octavio, cum utique Romana possessio verticem
-tenuit, tunc se Deus terris dedit.
+00:25:04,414 --> 00:25:19,464
+est aliquando dispensationis substantia, fides numquam. Quadam enim vice cum unum jam ex multis millibus aureum nummum proflua ad munificentiam arca retineret, hunc ipsum, etiam in multarum rerum defectu, constantissime praetereunti pauperi dedit, et me atque aliis astantibus dixit: Certum est jam
 
 134
-00:25:13,597 --> 00:25:28,944
-Itaque ut tua apud te proferam, cum ab ortu regni hujus centesimus et octogesimus quintus fere supra millesimum vertatur annus; quidquid vel sub illa dominatione regum vetusta; vel sub illa deinde gemina administratione consulum Romano accessit imperio, omnia Christi adventui praeparata et
+00:25:19,464 --> 00:25:34,464
+appropinquare qui deferat, si non habet munificentia nostra quod proferat. Vix trium aut quatuor horarum spatium, die fluente, transierat, et continuo qui verbis suis fidem faceret, occurrit. O felix munificentia, cui fides ministravit! O felix fides, cui munificentia numquam moram fecit! Et vere
 
 135
-00:25:28,944 --> 00:25:32,912
-diffundendae fidei provisa potest, si quis idoneus est assertor, ostendere.
+00:25:34,464 --> 00:25:49,564
+quantum fides sua suppeditabat, dispensare sua tantum manu non occurrit. Plurimos multis locis probatissimos viros habuit, quorum semper manibus, quod sibi deferebatur, expenderet. Sic unius dispensatoris gratia, dispensatores multos habebat, et fides sua, quasi communis quidam fons, et dantibus et
 
 136
-00:25:32,912 --> 00:25:48,153
-Nos ad propositum revertemur. Nolite, inquit,
-diligere mundum, neque ea quae in mundo sunt (I Joan. II), quia omnia haec conspectui nostro insidiosis
-coloribus lenocinantur. Vis illa oculorum attributa
-lumini, non applicetur errori: et cum vitae usibus
-pateat, non admittat causas mortis.
+00:25:49,564 --> 00:26:04,664
+accipientibus plurimis profluebat. Nullius angustiae ad ipsum pervenerunt, quae ultra ipsum protenderentur, aut non in ipso metam reperirent. 22. Hinc jam ad illum certatim, ut putabat, aut certe ut optabat, latentem undique litterarum officia perlata sunt, quibus ille quam novis affectibus variata
 
 137
-00:25:48,153 --> 00:25:52,703
-Carnis desideria,
-ut egregie Apostolus ait, militant adversus animam
-(I Petr.
+00:26:04,664 --> 00:26:07,088
+reddebat, quam gravia, quam blanda, quam dulcia!
 
 138
-00:25:52,703 --> 00:26:08,547
-II, 11); omnisque illis in perniciem nostram clademque procinctus est, pervigilem cum insurgunt adversus nos stationem tenent, externorum plane hostium more; dum sibi tantum virium acquirunt, quantum nobis subtrahunt. Ita ego hactenus de inextricabilibus saeculi insidiantis illecebris, de honoribus
+00:26:07,392 --> 00:26:20,010
+Unde pulcherrime splendidus mundo, splendidior
+Christo aemulus virtutis suae beatus Eucherius
+cum ab eremo in tabulis, ut assolet, cera illitis,
+in proxima ab ipso degens insula, litteras ejus suscepisset:
+Mel, inquit, suum ceris reddidisti.
 
 139
-00:26:08,547 --> 00:26:24,391
-opibusque sermocinatus sum, tamquam si jucundus blandimentis suis mundus vigeret. Quidquid est illarum rerum facies, adumbratis quondam nitoribus expolita, jam obsolevit, omnisque fucatus splendor intercidit. Vix jam hoc habet mundus, ut fallat. Periit imago illa rerum, ad decipiendum usque decora.
+00:26:20,010 --> 00:26:33,467
+Quis itaque
+non beatum se, beatam domum, beata scrinia sua
+credidit, in parvo ex ore ipsius munere magna benedictione
+ditatus? Et sane tantum in scriptis illius
+salis, tantum dulcedinis erat, ut non scriniis aut armariis,
+sed arca pectoris condi mererentur.
 
 140
-00:26:24,391 --> 00:26:40,182
-Prius nos seducere vero cogitabat fulgore, non poterat, prope jam non valet et ipsa nos falsa ostentatione corrumpere. Solidis bonis carebat, ecce deficit etiam caducis. Non hunc, aut ad tempus speciosa ornant, aut in posterum mansura confirmant; nisi nosmetipsi decipimus, pene mundus decipere nos
+00:26:33,467 --> 00:26:46,872
+Inde est
+quod plurimi ea inscripta sensibus ferunt, et libentissime
+ad testimonium amoris sui proferunt. Denique
+quis umquam tantum sibi amicorum praesentibus
+illigavit officiis, quantos ille, qui se diligerent
+et avidissime desiderarent, habuit ignotos?
 
 141
-00:26:40,182 --> 00:26:55,655
-non potest. Sed quid dissimulamus ea expromere quae fortiora sunt? Dissipatas loquimur opes mundi, cum jam ipse mundus in finem suum vergens spatiis agatur extremis. Quanto istud majus et gravius est, quod jam ipse non in longum erit? Quid commemoramus attritam ejus rem ac supellectilem? Nec
+00:26:46,872 --> 00:26:54,600
+CAPUT V. S. Hilarius Honorati adhortationibus convertitur
+Gratiae Christi efficacia in Hilario.
 
 142
-00:26:55,655 --> 00:27:11,499
-immerito in defectum viribus aevo consumptis urgetur, adminiculisque suis destituitur, cum jam in senium nutanti onere succumbat. Postrema mundi aetas referta est malis tamquam morbis senectus. Visa sunt, videnturque jamdudum ista cano saeculo, fames, pestilentia, vastitas, bella, terrores. Hi sunt
+00:26:54,600 --> 00:27:05,669
+23. Interea ego dum multam ejus in omnes gratiam
+memoro, in me infinitam curam praetermitto:
+cum ipsius utique mihi cura non minus in Christo
+salutis attulerit, quam amor inter vos ornamenti et
+amoris reliquit.
 
 143
-00:27:11,499 --> 00:27:27,130
-in ultimis jam annis languores sui. Hinc saepe illa coeli cernuntur signa, motusque terrarum, permutatae temporum vices, monstrosae animantium fecunditates: quae omnia adhuc procedentis prodigia sunt temporis, sed jam deficientis. Atque hoc non infirmitatis nostrae verbis, sed etiam apostolicae
+00:27:05,669 --> 00:27:21,483
+Mei enim gratia, quod ad meritum suum et judicium meum pertinet, patriam quam fastidierat non dedignatur accedere; nec refugit laborem tam longi itineris, suis praecipue multis jamdudum infirmitatibus gravem; meque illic jam in illis annis nimis amicum saeculo et contumacem Deo, ut seductor et verax
 
 144
-00:27:27,130 --> 00:27:32,270
-auctoritatis confirmatur eloquiis. Illic enim legitur: In nos fines saeculorum devenerunt (I Cor.
+00:27:21,483 --> 00:27:23,433
+ad amorem Christi blanda manu tentat.
 
 145
-00:27:32,270 --> 00:27:36,192
-X). Quod cum jamdudum dictum
-sit, quid cunctamur, quid exspectamus?
+00:27:23,433 --> 00:27:35,768
+Longum est intromittere illam in exhortationibus
+ingenii sui violentiam, in quibus cum jam
+ante propositum acerrimos sibimetipsi ad conversionem
+stimulos admovere potuisset, haustis diu sapientiae
+fontibus multipliciter diffundebatur.
 
 146
-00:27:36,192 --> 00:27:50,457
-Urget nos
-dies ille, jam non noster tantum, sed et saeculi. Omnis
-hora illud debitae resolutionis admonet tempus
-instare, cum ancipiti periculo finis alternus, et discrimen
-geminum unam omnibus mortem minatur. Incumbit mihi misero jam mundi mortalitas, tamquam
-mihi non sufficiat ad terrorem mea.
+00:27:35,768 --> 00:27:47,154
+Sed cum
+parum in aures meas pietatis illius verba descenderent,
+ad solita orationis praesidia convertitur et
+affectus sui clamor repulsus duritia mea piissimas
+Dei usque ad misericordiam pulsavit ac penetravit
+aures.
 
 147
-00:27:50,457 --> 00:27:56,481
-Quid palpamus
-metus nostros? Securitati locus non est,
-quando terminus in nos impendet indifferenter,
-singulorum hinc omnium.
+00:27:47,154 --> 00:27:59,857
+Et vere obluctanti mihi, et per saecularem
+illam nimis periculosam consuetudinem obstinationem
+interdum meam sacramento obstringenti, prophetico,
+ut ita dicam, spiritu ante promiserat: Hoc,
+inquiens, quod mihi tu non praestas, Deus praestat.
 
 148
-00:27:56,481 --> 00:28:09,685
-Quo magis est in hoc,
-non jam dicam saeculi exitu, sed vel in hoc rerum
-ejus defectu, hominum miseranda conditio; qui sibi
-nec futurorum spem gaudiorum reponunt, cum jucunditate
-praesentium non fruantur. Voluptatem
-vitae brevioris non capiunt, perpetuae sperare non
-possunt.
+00:27:59,857 --> 00:28:14,195
+Et o quamdiu emollire duritiam meam nisus est imbre
+lacrymarum! quam piis mecum pro salute mea
+osculis amplexibusque certavit! ad praesens tamen,
+ut ille ait, vici pessima victoria. Exagitandum me
+illinc et edomandum dextera Dei suscepit; illi enim me
+oratione tradiderat.
 
 149
-00:28:09,685 --> 00:28:14,071
-Bonis temporalibus non utuntur, non, non
-utentur aeternis. Hic rei parum, illic spei nihil.
+00:28:14,195 --> 00:28:24,000
+Qui tunc in corde meo fluctus! Quae
+tempestates diversarum et inter se compugnantium
+voluntatum excitatae sunt! Quotiens sibi in animo meo
+velle et nolle successit! Et quid plura?
 
 150
-00:28:14,071 --> 00:28:28,529
-Dolendus prorsus atque miserandus hominis status iste est; nisi forte faciat de acerbissima conditione congruam necessitatem; nisi ob hoc ipsum, ad potiora utilitatis suae remedia se corrigat, contendatque ad illa salubrioris vota consilii; praesertim, cum ita dilacerata praesentis temporis res sit,
+00:28:24,000 --> 00:28:37,915
+Absente illo
+partes in me suas Christus exsequitur: post biduum
+orationibus suis per miserationem Dei mea contumacia
+subjugatur. Fugaverat enim somnum cogitatio,
+et invitante me pio Domino, totus eminus cum
+voluptatibus suis mundus astabat.
 
 151
-00:28:28,529 --> 00:28:31,709
-ut qui unius futuri saeculi commodum perdit, utriusque perdiderit.
+00:28:37,915 --> 00:28:44,815
+Quid expetendum,
+quid relinquendum suaderetur, animus mecum
+meus, tamquam collatis apud amicum tractatibus,
+ventilabat.
 
 152
-00:28:31,709 --> 00:28:39,468
-Dirigenda est omnis animi intentio in spem futuri:
-quam spem ut plenius ac manifestius consequaris,
-aperire eam etiam sub alicujus exempli conditione
-non abnuam.
+00:28:44,815 --> 00:28:56,470
+Gratias tibi, Jesu bone, gratias, qui dirupisti
+vincula mea, famuli tui Honorati pia supplicatione
+permotus, et injecisti mihi vincula amoris tui,
+quibus si tenear, numquam peccati vincula revalescent.
 
 153
-00:28:39,468 --> 00:28:53,926
-Si cui aliquis quinque hodie ex aere denarios offerat, quingentos vero aureos in crastinum spondeat, optionemque offerat utrum aes ad praesens sumere, an aurum mallet in posterum: dubiumne est, quin praeoptet grandia illa munera, cum parva mora? Tu quoque brevis hujus atque aeternae vitae conditione
+00:28:56,470 --> 00:29:08,357
+Occurro itaque subditus, qui superbus abscesseram,
+et omni contradictione deposita novus precator
+accedo. Sic, sic sancti oratio fugitivos suos
+reducit, sic contumaces subjugat, sic expugnat rebelles. 24 .
 
 154
-00:28:53,926 --> 00:28:57,011
-perspecta, non eligas capere vilia, cum sperare possis pretiosa.
+00:29:08,357 --> 00:29:24,708
+Jam quibus ille tunc lacrymis ariditatem
+meam irroravit, quam pio fletu me quoque traxit
+in lacrymas! Tali me humilitate et blandimento,
+tamquam si ipse a me exiperetur, excepit. Ablata
+est illico causa remorandi. Tunc primum illam
+patriam, quam fugiendam dudum crediderat, agnovit.
 
 155
-00:28:57,011 --> 00:29:10,023
-Non est tanti
-sumpsisse parva, quanti est exspectare, quae magna
-sunt. Quod si omne hoc fragile, quod in mundo est,
-et videmus, et capimus (spei vero a sperando inditum
-nomen est), manifestum est nequaquam in hoc
-saeculo spem possideri, in quo his quae intuemur
-fruimur.
+00:29:24,708 --> 00:29:38,276
+Educit me secum, suam praedam; gaudet, triumphat,
+exsultat. Eremo me jam tamen exemplo suo
+secreti cupidum festinat includere. Alit primum
+lacte, et postmodum cibo. Potat etiam profluo illo,
+qui in se erat, coelestis fonte sapientiae.
 
 156
-00:29:10,023 --> 00:29:12,240
-Spes enim quae videtur non est spes.
+00:29:38,276 --> 00:29:50,105
+Atque utinam
+tantum angustiae spiritus mei recepissent, quantum
+ille studuit infundere! Praeparasset me profecto
+vobis, et desiderio vestro dignum dedisset; et
+successorem sibi idoneum nesciens erudisset.
 
 157
-00:29:12,240 --> 00:29:27,740
-Nam
-quis quod videt quid sperat (Rom. VIII, 24)? Ergo
-quaecumque illa spes rebus miscetur humanis, quaerenda
-est in futurum: alioquin, nec spes appellari
-potest, si non speratur. Itaque manifestiorem in futurum rem spei sequimur,
-quam spem rei in praesentibus experimur.
+00:29:50,105 --> 00:30:07,384
+Jam vero illam sui in omnes profluam charitatem, quod sine invidia dixerim, quantum in me adjecerat, et leve illud Christi jugum quantum mihi levius blandimentis suis fecerat! Quoties me mentem suam, quoties animam, quoties linguam suam nominabat! Quam impatiens absentiae, quam semper indignissimi
 
 158
-00:29:27,740 --> 00:29:42,379
-Ecce
-ea quae nobis in ipsos oculorum admoventur obtutus,
-non absolute quasi oppressis visibus intuemur;
-multo vero certius in ea quae eminus offeruntur,
-velut expeditis luminibus intendimus: ita fere evenisse
-de praesentibus futurisque non est ambigendum.
+00:30:07,384 --> 00:30:13,936
+conspectus mei cupidus erat! Quid de his omnibus dicam, nisi illud propheticum, quod Dominus ei retribuit pro me?
 
 159
-00:29:42,379 --> 00:29:49,612
-Nam praesentia tamquam in oculos ingesta,
-non recte cernuntur; futura tamquam ab oculis reducta,
-manifestissime perspiciuntur.
+00:30:14,400 --> 00:30:21,864
+CAPUT VI. Honoratus fit episcopus et episcopaliter vivit. ---Eleemosynae
+mortuorum refrigeria.
 
 160
-00:29:49,612 --> 00:30:06,547
-Neque hanc fiduciam futurorum, incerto auctore praesumimus, sed Domino nostro Jesu Christo, verissimo sponsore veritatis, qui justis interminabile regnum et ampla beatissimae aeternitatis praemia pollicetur; qui etiam per ineffabile sacramentum assumptae carnis, idem homo et Deus, reconciliavit
+00:30:21,864 --> 00:30:35,797
+25. Interea, dilectissimi, strictim contingens potius
+cuncta quam referens, de solertissimo pastore vestro
+ea quae aliis potius quam vobis erant nota replicavi. Sacerdotium quippe suum in Ecclesia hac
+nomine auctum vidimus; sanctimonia vero et actibus
+jam prius summum.
 
 161
-00:30:06,547 --> 00:30:11,082
-hominem Deo; ac magno absconditoque mysterio passionis mundum crimine absolvit.
+00:30:35,797 --> 00:30:51,233
+Sed unde illud, quaeso, quod tam e longinquo tam ignotus expetatur? Quis illam absentis nec prius visi gratiam vestris pectoribus affixit? Quis illud desiderium suscitavit, ut orbatis his quibus a Domino apud eremum indultus erat, vobis nasceretur? Ille utique qui cuncta dispensat; ille qui eum et
 
 162
-00:30:11,082 --> 00:30:28,305
-Itaque manifestatus est in carne, justificatus est spiritu, apparuit angelis, praedicatus est gentibus, creditus est mundo, assumptus est in gloria: propter quod Deus eum exaltavit, ut omnia confiteantur nunc in coelo, et in terra, in mari et in abyssis, quia Dominus Jesus in gloria est, Rex et Deus
+00:30:51,233 --> 00:30:58,743
+patriae suae, quamdiu congruum videbat, indulsit, et per maria et per terras ad utilitatem videntium hanc tantam cultoris sui gratiam circumegit.
 
 163
-00:30:28,305 --> 00:30:29,682
-ante saecula (Phil. II).
+00:30:58,743 --> 00:31:05,166
+26. In summa ex illo brevi quo vobis inductus est
+tempore, facile metiri datur, quid plus de illo in his,
+quid minus dixero.
 
 164
-00:30:29,682 --> 00:30:38,408
-Quin tu repudiatis illis philosophorum praeceptis
-quorum lectioni operam ac ingenium accommodas,
-ad imbibenda Christiani dogmatis studia animum
-adjicis.
+00:31:05,166 --> 00:31:15,629
+Vidistis enim, dilectissimi, illam
+sollicitudinis vigilantiam, illud disciplinae studium,
+illas pietatis lacrymas, illam jugem ac perpetuam
+mentis serenitatem, cujus testimonium vultus immutabilis
+erat.
 
 165
-00:30:38,408 --> 00:30:49,373
-Illic quoque, quo facundia tua atque ingenium
-exerceatur, invenies; brevique tibi liquebit
-quanto haec nostra, id est,
-pietatis veritatisque praecepta, illis philosophorum
-praeceptis debeant.
+00:31:15,629 --> 00:31:21,016
+Audistis quoque os illud congruens
+vitae, in quo erat consentanea puritas pectoris,
+sermonis luculentia.
 
 166
-00:30:49,373 --> 00:31:05,448
-In illis namque eorum praeceptis,
-vel adumbrata virtus, vel falsa sapientia; in his vero
-consummata justitia, solida veritas continetur. Unde licet dicere philosophiae alios nomen usurpasse,
-nos vitam. Etenim qualia ab his dari possunt
-praecepta vivendi? Causam nesciunt.
+00:31:21,016 --> 00:31:34,069
+Vidistis illam latitudinem charitatis,
+quae tanta in illo fuit, ut non immerito de illo
+sanctus idem, cujus proximam sententiam protuli,
+dixerit: quod si arbitrio suo charitas ipsa exprimenda
+esset, in vultum Honorati potissimum pingi
+debere videretur.
 
 167
-00:31:05,448 --> 00:31:23,194
-Ignorantes
-enim Deum, et statim ab exordio justitiae declinantes,
-consequenti in caetera feruntur errore. Sic fit
-postea ut studiorum talium finis sit vanitas. Si qui
-apud illos honestiora definiunt, huic jactantiae deserviunt,
-huic laborant: ita apud eos non est vacua
-vitiis abstinentia vitiorum.
+00:31:34,069 --> 00:31:49,297
+Quis itaque illum umquam sufficienter vidisse sibi visus est? Cui non loco omnium affectuum fuit? Quis ita blandimentum cum severitate conjunxit? Quis ita mixtam hilaritate disciplinam propinavit? Quem non cum ipsius gaudio, qui corrigebatur, correxit? Quando laetitia illius quidquam lasciviae
 
 168
-00:31:23,194 --> 00:31:32,008
-Hi itaque sunt, sicut
-scriptum est, qui terrena sapiunt (Phil. III, 19). Unde
-manifeste ostenditur veram eos justitiam, veram sapientiam
-non videre.
+00:31:49,297 --> 00:31:54,425
+redolens? Quando tristitia non salubris? Quando gemitus, nisi de peccati alieni moerore descendens?
 
 169
-00:31:32,008 --> 00:31:49,218
-Anne aliquis ex illa Aristippi schola veritatem videbit, qui ingenio suo a suibus aut pecore nihil differt, cum beatitudinem in corporis voluptate constituat: cui Deus venter est, et gloria (Ibid.) in pudendis ejus? Hic honestum justumque praecipiet, apud quem prodigus, impudicus, adulter
+00:31:54,840 --> 00:32:01,790
+Quis eum non auctiorem invenit quam prius
+viderat? Semper in summitate virtutum positus,
+semper quo crescere posset invenit. 27.
 
 170
-00:31:49,218 --> 00:31:56,186
-philosophatur? Sed alius adversus philosophos dicendi locus reservetur; ego ad haec veniam propter quae tecum loquor.
+00:32:01,790 --> 00:32:18,025
+Jam vero sub exhortatione ipsius, quis anxius non dolorem suum sprevit? Quis feris moribus non insaniam suam exsecratus est? Quis arrogans non plusquam omnes superbiam ipse suam abominatus est? Quis lascivus luxuriam non detestatus est? Et quid plura? Omnibus omnia, ut Apostolus ait, factus (I Cor.
 
 171
-00:31:56,186 --> 00:32:10,062
-Omitte jam illas, quibus oblectaris, maxime generales
-eorum sententias, breviter ex omni disputationis
-genere collectas, atque ad studia te nostrorum
-et scripta converte. Ibi, tu optime, pectus tuum,
-multifaria instructione satiabis.
+00:32:18,025 --> 00:32:20,143
+II, 22), communis omnium medicina erat.
 
 172
-00:32:10,062 --> 00:32:27,928
-Ibi, ad inculcandam
-fidem, non his quidem verbis, sed tamen ista dicentur
-tibi: Verbum Dei, qui non credit, non intelligit. Ibi, tu admonebere: Dominum, quia Dominum vocas,
-metue; quia patrem, dilige. Ibi, tu veras hostias
-disces, audiendo: Acceptissima Deo sacrificia
-sunt, justitia et misericordia.
+00:32:20,143 --> 00:32:30,786
+Nullam pene gratiam non in se tam plenam habuit,
+ut ipsam specialiter excolere et possidere tamquam
+unicam putaretur. In nullo vitae ordine non ita viguit,
+ut ipsi specialiter aptus videretur. 28.
 
 173
-00:32:27,928 --> 00:32:41,029
-Ibi, tibi istud insinuabitur:
-Si amas te, proximum dilige; qui nihil magis
-commodis tuis dabis, quam quod contuleris alienis. Ibi, tibi praecipietur, nullam esse causam tam dignam
-putes, qua tibi justa fiat mors hominis.
+00:32:30,786 --> 00:32:42,189
+Denique ut primum Ecclesiae hujus Arelatensis
+regimen accepit, prima ei cura concordiae fuit,
+et praecipuus labor fraternitatem calentibus adhuc
+de assumendo episcopo studiis dissidentem mutuo
+amore connectere.
 
 174
-00:32:41,029 --> 00:32:55,143
-Illic,
-adversus illicita moneberis: Libidini resiste, tamquam
-hosti acerbissimo, qui insultare victis, etiam
-contumelia corporis, gaudeat. Illic, ne concupiscas,
-istud edoceberis: Melius est nolle quae non habeas,
-quam habere quae velis.
+00:32:42,189 --> 00:32:57,338
+Tamquam probatus Israelis agitator,
+probe noverat non facile quidquam discordantibus
+imperari. Studebat praeterea amore potius regere
+quam terrore dominari: ut voluntaria magis
+quam coacta correctio hunc quoque subditis adjiceret
+ornatum, ne ad officium suum compulsi viderentur.
 
 175
-00:32:55,143 --> 00:33:01,992
-Illic, ne irascaris, hoc ingeintur:
-Qui provocatus irascitur, tunc solum non
-irascitur, cum non provocatur.
+00:32:57,338 --> 00:33:06,841
+Confestim itaque exclusa discordia illi, quae est omnium
+virtutum mater, charitati locum praebuit. Floruit
+igitur sub ipso Christi Ecclesia, sicuti monasterium
+ante floruerat.
 
 176
-00:33:01,992 --> 00:33:15,535
-Ibi etiam, de inimicis
-audies: Amato non amantem, quia amantem
-vix ullus non amat. Illic, saepius id tibi iterabitur:
-Thesaurum is bene recondit, qui indigentibus dividit. Perdere enim jam non poterit, quod largiendo
-collocavit.
+00:33:06,841 --> 00:33:22,642
+Crevit gratiis, decrevit metallis; ingressa videlicet disciplina, domo sua tamquam domo Dominica mammona iniquitatis exclusit; et quae otiosae diu congestae fuerant, dignis tandem usibus deputavit; dudum defunctis thesauros suos misit: iterumque, qui obtulerant, oblationum suarum refrigeria
 
 177
-00:33:15,535 --> 00:33:32,703
-Illic etiam feliciora suadeberis, cum dicetur:
-Fidelium conjugiorum fructus est continentia. Ibi, tu discernenda cognosces, cum audies:
-Mala saeculi hujus justis injustisque communia sunt. Ibi, tibi istud audiendum offeretur: Major aegritudo
-est languere animam vitiis, quam corpus morbis.
+00:33:22,642 --> 00:33:23,185
+senserunt.
 
 178
-00:33:32,703 --> 00:33:46,662
-Ibi, tibi ad commendandam pacem istud pronuntiabitur:
-Impatientibus similitudo morum, causa discordiae. Ibi, ne sequaris malos, istud audies: Prudentem
-et sapiens informat, et stultus; ille quid
-imitandum sit docet; iste quid vitandum.
+00:33:23,185 --> 00:33:32,688
+Hoc solum quod ministerio suo sufficiens
+erat reservavit. Sed si exegisset usus, nec
+ministerio, ut reor, pepercisset. Alieni temporis vota
+dispensationem suam fecit.
 
 179
-00:33:46,662 --> 00:34:00,860
-Illic et
-ista proferuntur: Multa prosunt nescientibus; ideo
-non minor est Dei in operto quam in aperto benignitas. Illic admoneberis: Gratias Deo non magis
-in prosperis agas quam in adversis; et cum prospera
-sint, te non meruisse fatearis.
+00:33:32,688 --> 00:33:40,680
+CAPUT VII. Honorati morbus obitus, sepultura. ---Sancti in coelo
+pro mortalibus orant.
 
 180
-00:34:00,860 --> 00:34:18,740
-Illic, tibi etiam remotiora
-patefient, cum ista praedicabuntur: Fatum non
-esse, interrogent gentes vel leges suas; quae utique
-non puniunt, nisi factorum voluntatem. Illic audies
-ad custodiendam puritatem et ista praecipi: Si vis
-esse verax, suspicax non eris. Non enim suspicamur,
-nisi quod nescimus.
+00:33:40,680 --> 00:33:45,246
+29. Operari etiam inter extrema non destitit. Multos
+in lectulo suo verbi dispensatione ditavit.
 
 181
-00:34:18,740 --> 00:34:35,788
-Ibi, de sublimioribus quoque
-istud audies: Deo mente defixus, a passionibus cum
-titillatur, a coelo in terram devolvitur. Ibi tibi et
-haec memorabuntur: Cum hic mali interdum bona
-capiant, boni malis afflictentur; qui futurum Dei
-judicium non credunt, iniquum (quod absit) Deum
-judicant.
+00:33:45,246 --> 00:33:58,992
+Sed quamdiu illum lectus tenuit, cui superare etiam vicinas morti lassitudines jam in consuetudinem venerat? Ultimum, doloribus jam reluctantibus, Epiphaniorum die in ecclesia sermonem habuit: nesciens umquam colluctante cum infirmitatibus fide, dolori magis corporis quam spiritus fervori
 
 182
-00:34:35,788 --> 00:34:46,897
-Illic tibi suggeretur: Etiam in secretis
-tuis quod velis homines nescire ne feceris; quod
-Deum, ne cogitaveris. Ibi tibi contra omnem fraudem
-dicetur; Infelicius est decipere quam decipi.
+00:33:58,992 --> 00:34:01,750
+acquiescere, servivit desideriis vestris supra suas vires.
 
 183
-00:34:46,897 --> 00:34:57,768
-Illic et adversus jactantiam consummantia tibi haec
-praecipientur: Vanitatem tanto magis fuge, quanto
-melior efficieris. Caetera enim vitia crescunt vitiis,
-vanitas virtutibus.
+00:34:01,750 --> 00:34:15,924
+Non
+illum siquidem aliqua extrinsecus superveniens aegritudo,
+non subitus febrium aestus absorbuit; sed diu
+dilata infirmitas, nimio dudum propositi rigore contracta,
+et adhuc remissioni parum acquiescendo ingravescens,
+octavo eum vel nono die a solemnitate
+praedicta, paulatim attenuando confecit.
 
 184
-00:34:57,768 --> 00:35:07,893
-Et ista quidem pauca de studiis,
-carptim ac breviter praelibata sunt. Quod si ad fontes ipsos sacri eloquii scrutator accesseris,
-ibi tu non exteriora magis quam interiora
-mirabere.
+00:34:15,924 --> 00:34:28,434
+Vix quatriduo
+tamen nobis suam in officiis charitatis deditis
+praesentiam denegavit, timens utique ne suos vicinia
+transitus sui contristaret. Nulli umquam gravis inter
+gravissimas aegritudines fuit. Nulli, ut assolet, ullum
+infirmitates suae horrorem intulerunt.
 
 185
-00:35:07,893 --> 00:35:21,431
-Ita Scriptura, dum intrinsecus radiat, velut
-pretiosis ima quaeque gemma, in profundum
-fulgorem considerantium demittit oculos. Hoc tu
-caligantem mentis aciem nequaquam refugus insuesce;
-hoc interno ac salubri cibo disce animae
-famem pascere.
+00:34:28,434 --> 00:34:36,567
+Et quidem hoc
+ordine illud sancti Spiritus habitaculum conquievit. 30. Caeterum impollutae illius mentis vigorem incredibile
+est quam integrum usque in extrema servaverit.
 
 186
-00:35:21,431 --> 00:35:29,152
-Per opus miserantis Domini id fore
-non diffidimus, ut nostrorum appetens, et dissimulator
-tuorum, inania fastidias, et solida concupiscas.
+00:34:36,567 --> 00:34:49,124
+Ac primum semper uberrime consolatus
+est suos, ac nihil magis timuit quam ne diutina desperatione
+conficerentur; intelligens pene facilius
+ferri extrema quam dubia. Abstersit semper sermone
+condito circumstantium lacrymas, quas tamen quo
+magis abstersit irritavit.
 
 187
-00:35:29,152 --> 00:35:43,137
-Imprudentissimum est, cum pro nobis fere tam
-multa Deus fecerit, nihil nosmetipsos fecisse pro
-nobis; cumque ille in operibus suis ad commoda
-humana respexerit, hominem nolle sibi consulere. Consulimus vero, si nos in Dei cultum affectumque
-reddimus.
+00:34:49,124 --> 00:34:57,020
+Inde graviorem suo dolore
+nostrum computabat. Non facile quisquam tam forti
+pectore inter quaelibet aspera et dura toleratu, nec
+optavit aliquando mortem nec expavit.
 
 188
-00:35:43,137 --> 00:35:57,626
-Vera quippe beatitudo est, saeculi beatitudinem
-spernere, neglectisque terrenis in divina
-flagrare. Proinde, jam nunc omnia dicta factaque
-tua ad Deum vel propter Deum dirige. Obtine ut tibi
-comes semper sit illa, et tibi custos erit. Jam fida
-est innocentia.
+00:34:57,020 --> 00:35:04,440
+Nam is quem
+vivere inter quaelibet gravia in Christi servitute non
+piguit, ad novam vitam per communem illam novae
+vitae januam transire non timuit.
 
 189
-00:35:57,626 --> 00:36:11,500
-Magnum est virtutem sequi, nosque
-ei aliquid pro virili portione conferre. Nec pavendum
-est ne se ab his quae usu inoleverunt animus
-per meliorem vitam non valeat absolvere. Idem ille,
-cui sanandos nos tuendosque offerimus, vires praestat
-affectui.
+00:35:04,440 --> 00:35:08,185
+Praemeditata enim
+illi ultima hominum necessitas, non repentina advenerat.
 
 190
-00:36:11,500 --> 00:36:21,962
-Unde autem? ut vel aestimatione comprehendere
-valeat quisquam futurorum remunerationem
-bonorum. Ecce divina, ut cernimus, munificentia,
-cunctis promiscuum usum charissimae lucis
-indulsit.
+00:35:08,185 --> 00:35:20,991
+Itaque sub ipso jam finis aspectu, tamquam
+emigraret, tamquam valediceret, ne quid imperfectum
+derelinqueret, ne quid minus plene quam
+proposuerat ordinaret, interrogare singulos nostrum,
+et ad suggerendum, si quid memoriam suam subterfugisset,
+hortari.
 
 191
-00:36:21,962 --> 00:36:30,857
-Datur pio et impio communem spectare
-solem; omnibus creatura famulatum suum benignis
-servat officiis, bonorum malorumque totius mundi
-indiscreta possessio est.
+00:35:20,991 --> 00:35:28,989
+Omnia interim subscriptione firmare,
+et parcentes nos fatigationi suae ad omnia quae
+agenda erant cogere; cogere autem blando illo, sicut
+semper, imperio. 31.
 
 192
-00:36:30,857 --> 00:36:47,639
-Cum hic igitur tam praeclara Deus justis pariter et
-injustis tribuat, qualia sunt putanda quae justis reservat? Consideremus, qui tanta dedit, quanta restituet;
-qui tam magnus est in donis, quam magnus
-erit in praemiis. Si tam inaestimabilis est munerantis
-benignitas, quae illa remunerantis?
+00:35:28,989 --> 00:35:44,173
+Quadam autem vice cum comprimere lacrymarum mearum tempestatem et abrumpere rivos fletuum laborarem: Quid, inquit, fles? inevitabilem humani generis necessitatem? Imparatum ergo te invenire meus transitus debuit, cum me non invenerit imparatum? Cumque ego impedita singultibus utcumque poteram verbis
 
 193
-00:36:47,639 --> 00:37:04,104
-Ineffabilia sunt
-quae praeparavit Deus his qui diligunt eum, recte
-plane atque manifeste, quia vere immensum est,
-quam magna rependet bonis qui tam magna largitur
-ingratis. Circumfer oculos, et de pelago negotiorum
-tuorum, velut in quemdam professionis nostrae portum
-prospice, proramque converte.
+00:35:44,173 --> 00:35:58,245
+ipsius verba subnecterem, quod jam non destitutionem meam dolerem, quippe qui mihi orationum suarum patrocinia numquam defutura confiderem, quin et post transitum suum validiora praesumerem, uno me dolorum suorum vulnere et difficilium inter extrema luctaminum graviter affligi.
 
 194
-00:37:04,104 --> 00:37:20,069
-Unus hic portus
-est, in quem nos ab omni fluctuantis saeculi jactatione
-referamur, quem inter irruentes mundi turbines
-fessi petamus; huc cunctis confugiendum est, qui
-frementis saeculi tempestate vexantur. Hic statio fidissima,
-et quies certa. Hic late recessus exclusus
-fluctibus silet.
+00:35:58,245 --> 00:36:11,557
+Et quid ego, inquit, minimus omnium fero ad ea
+quae sanctorum plurimi in supremis suis acerbissima
+pertulerunt? Et commemoratis aliquot, adjecit, quod
+credo alicubi legerat: Magni, inquit, viri multa patiuntur,
+et ut alios pati doceant, nati sunt in exemplum. 32.
 
 195
-00:37:20,069 --> 00:37:35,812
-Hic blanda tranquillitas, serenum renidet. Huc cum fueris delatus, tuto navis tua post
-inanes labores hic ad crucis anchoram fundata retinebitur. Sed jam prolixior scriptorum pagina modum
-poscit. Vim coelestium praeceptorum arcte breviterque
-collectam in summam accipe ad Dei honorem.
+00:36:11,557 --> 00:36:26,388
+Confluentibus autem ad se potestatibus, praefecto
+et praefectoriis viris, quam ferventia sub mortali
+jam frigore mandata deprompsit, ab ipso exitu
+suo sumens acerrimum exhortationis exordium. Et
+dignum plane erat ut qui vitae semper exempla praebuerat,
+etiam mortem suam in exemplum advocaret.
 
 196
-00:37:35,812 --> 00:37:38,639
-Haec sunt mandata omnia, ignosce, meque agnosce.
+00:36:26,388 --> 00:36:38,688
+Videtis, inquit, quam fragile habitemus hospitium. Quolibet vivendo ascenderimus, illinc morte detrahemur. Ab hac necessitate neminem honores, nullum
+thesauri redimunt. Haec justis et injustis, haec potentibus
+et humilibus communis est.
+
+197
+00:36:38,688 --> 00:36:54,513
+Magnas Christo debemus
+gratias, qui morte et resurrectione propria mortem
+nostram spe resurrectionis animavit, aeternam
+vitam offerens, discusso aeternae mortis horrore. Sic
+ergo vitam agite, ne vitae extrema timeatis; et hoc quod
+mortem appellamus, quasi commigrationem exspectate.
+
+198
+00:36:54,513 --> 00:36:57,207
+Mors poena non est, si non ad supplicia deducit.
+
+199
+00:36:57,207 --> 00:37:13,818
+Dura quidem est carnis animaeque divulsio; sed multo durius in gehennae flammis erit carnis animaeque consortium; nisi in omni vita generositatem suam spiritus recognoscens, bellum corpori, et corporalibus vitiis certamen indixerit, et felici discretus a carnis colluvione divortio, aeternae paci
+
+200
+00:37:13,818 --> 00:37:29,363
+impollutam servet utramque substantiam, illic feliciter copulandam, ubi exultabunt sancti in gloria et laetabuntur in cubilibus suis, hoc est in corporibus tamquam in receptaculis suis; cum ea quae justitiae dedicaverant membra socialia, tamquam consueta hospitia recognoscent.
+
+201
+00:37:29,363 --> 00:37:43,225
+Hoc itaque
+agite: hanc vobis Honoratus vester haereditatem relinquit:
+supremo halitu suo ad haereditatem vos regni coelestis
+invitat: Nullus nimium mundi hujus amore teneatur. Optimum est ut voluntate fastidias, quo te vides
+necessitate cariturum.
+
+202
+00:37:43,225 --> 00:37:58,040
+Nemo opibus diffluat, nullus pecuniae
+inserviat, neminem vana divitiarum pompa corrumpat. Scelus est pretium salutis in materiam perditionis
+assumere, et illo capi quemquam, quo redimi
+potest. Plus interea vultu, plus oculis, plus emicante
+in coelum sensu monebat.
+
+203
+00:37:58,040 --> 00:38:14,932
+Impar est quidem ignito
+sermoni suo sermo referentis; sed non minus imparia
+spiritui suo verba erant monentis. Tali itaque
+exhortatione et insolito quodam motu oratione
+profusa, inusitatum quoddam munus benedictionis
+impendit. 33. Deficiente membrorum ministerio, nova semper
+mentis gratia pullulabat.
+
+204
+00:38:14,932 --> 00:38:27,672
+Ordinatis itaque omnibus
+(neque enim multa in actibus suis minus plena
+restabant), cum omnes charos suos mente percurreret,
+quantos nominatim proferre lassitudo non vetuit,
+missa per eos qui astabant salutatione ditavit.
+
+205
+00:38:27,672 --> 00:38:41,330
+Mihi vero in aurem, Excusa, inquit, sancto illi
+fieri non potuisse quod voluit. Magna et admiranda
+solertia, inter graves illas mortis angustias providisse,
+ne cujus tristitiam non, quantum in se erat,
+abstergeret: ne quid certe inexcusatum relinqueret.
+
+206
+00:38:41,330 --> 00:38:57,525
+Quid illud, quaeso, quod cum omnes suos quos ad hanc urbem amor suus traxerat, utique inter peregrina desereret, nullum ulli reditum, nullam societatem commendavit, non loca vivendi certa distribuit: tamquam vere praescius nullam suorum dispersionem futuram, nisi eorum qui jam et se superstite animi
+
+207
+00:38:57,525 --> 00:39:08,322
+definitione migrassent? et vere non facile quemquam a societate nostra abesse novimus, nisi quem abfuturum ipse praemonuit, qui aut chariorem conspectu suo patriam, aut graviorem senserat disciplinam.
+
+208
+00:39:08,322 --> 00:39:19,173
+Interea gravior illum somnus urgebat;
+quem cum interdum pavidi interpellaremus: Miror,
+inquit, in tam gravi mea lassitudine, post tam longa
+insomnia quae praecesserunt, gravem vobis meum
+somnum videri.
+
+209
+00:39:19,173 --> 00:39:33,694
+Et cum, suspectis omnibus, sedere
+eum in ultimo diutius perhiberemus, joculari, ut
+erat solitus, blandimento et consuetudinaria mentis
+serenitate respondit: quod molestos nos in hac sollicitudinis
+parte pateretur. Ita pene ante vita ejus
+quam dulcedo consumpta est. 34.
+
+210
+00:39:33,694 --> 00:39:47,460
+Somno deinde ultimo exceptus, in mortis quietem
+dormiens transiit sine ullo, ut se habent suprema,
+luctamine. Nullas difficiles obitus moras sensit. Angelicis choris anima illa sancta, generosa,
+sincera, et ab omni contactu mundi incontaminata
+suscipitur.
+
+211
+00:39:47,460 --> 00:40:03,656
+Multorum interea variis visionibus somnus
+incutitur, quarum tamen una omnium facies erat,
+quod scilicet sancto illi occurrerent officia sanctorum. Et vere illico in eodem mediae noctis puncto
+ecclesiam in occursum sancti corporis conventus implevit,
+ut nonnisi angelicis nuntiis suscitatus putaretur.
+
+212
+00:40:03,656 --> 00:40:11,160
+Relinquitur vegetatum semper spiritu, plenum
+gratiae corpus exanime: integrum siquidem vultus
+decorem facies omnibus grata servabat.
+
+213
+00:40:11,160 --> 00:40:16,008
+Probe vos
+ista nostis, et multo plenius vobis quam sermo sufficit
+animorum meditatione describitis. 35.
+
+214
+00:40:16,008 --> 00:40:29,940
+Neque ullus non magno sibi damno affici visus est, si conspectu corporis ejus caruit, si non, ut quemque aut reverentia aut amor suaserat, osculum aut ori aut quibuscumque membris ipsius impressit, aut feretro in quo sanctum illud corpus magna fidei ambitione vestitum erat, majore postmodum, dum
+
+215
+00:40:29,940 --> 00:40:31,588
+sepulcro admoveretur, pene nudatum.
+
+216
+00:40:31,588 --> 00:40:43,873
+Nec
+enim pepercit sanctificatis amictu suo palliis fides,
+quae pretiosissimi muneris loco habuit aliquam velaminum
+illius fimbriam decerpsisse. Certavit in
+exsequiis illius vester affectus. Refecistis in funere
+suo latentem adhuc inter vos peregrinationem
+meam.
+
+217
+00:40:43,873 --> 00:40:55,970
+Pavistis me tam effusa in ipsum animi charitate. Quem enim illo die sua tecta tenuerunt? Aut
+quem non tamquam peculiari luctu obrutum basilicae
+huic moenia hujus urbis dederunt? Pro magno
+munere habitum est lecticae manum admovisse, aut
+cervicem subjecisse.
+
+218
+00:40:55,970 --> 00:41:08,915
+Vidistis non sine vestra gloria
+gloriam suam: nam et illa exsequiarum religio, fidei
+devotio erat, et tam laetum erat habuisse talem, quam
+grave talem amisisse. Nec parum fiduciae dat sepulcri
+sui gratia: nam cujus hic ossa condidimus, in
+coelo utique patrocinia praesumimus.
+
+219
+00:41:08,915 --> 00:41:21,624
+Praelata tunc
+ante feretrum ipsius aromata et incensum vidimus;
+sed majora de vestris mentibus Deus, in tanto erga
+tantum pastorem affectu vestro, odoramenta suscepit. Praesultavit in gloria sua Dei gloria, et in dissonis
+diversarum linguarum choris amor consonus.
+
+220
+00:41:21,624 --> 00:41:29,880
+CAPUT VIII. Hilarius successor Honorati, ejus consanguineus. ---Invocatur
+Honoratus uti patronus.
+
+221
+00:41:29,880 --> 00:41:44,712
+36. Pius Dominus, qui stimulando animos vestros
+ad electionem parvitatis meae, dedit ne a sepulcro
+illius longius abessem, illud etiam vobis orantibus
+dabit ne a viis ejus longe recedam: sed ut quidquid
+illum egisse cognovero, id sine exploratione
+aliqua, aut disceptatione factorum agere festinem.
+
+222
+00:41:44,712 --> 00:41:56,956
+Vobis enim me, ut video, jam tunc per illum Deus
+genuit. Vobis licet indignum praeparavit. Vobis ille
+me nesciens tanto labore quaesivit. Vobis tam propensa
+sollicitudine et cura utcumque erudivit, quaerens
+in me fidei, sicut sanguinis sui venam.
+
+223
+00:41:56,956 --> 00:42:10,942
+Vobis
+me tanto labore per litteras, tanto per excursum
+suum ambitu, ab insula, cui me derelictis episcopatus
+sui principiis secreti amore reddideram (non
+audeo dicere, nesciens) fortasse praescius, amovere
+satagebat, uti juxta sepulcri sui sedem in amore vestro
+patriam collocaret.
+
+224
+00:42:10,942 --> 00:42:22,440
+Sed quid agimus, quod immaturum
+me maturo excessu tradidit? Non est
+nostrum secretum aeterni Regis in ullo vel leviter
+culpare judicium: non facile senseratis quid amisissetis
+boni, si redintegratum vobis bonum vestrum
+fuisset. 37.
+
+225
+00:42:22,440 --> 00:42:32,395
+O magna et inclyta, Honorate, tua gloria! Non indiguit meritum tuum signis probari; ipsa enim
+conversatio tua plena virtutibus et admirationis novitate
+praecelsa, perpetuum quoddam signum ministravit.
+
+226
+00:42:32,395 --> 00:42:43,643
+Multa quidem tibi divinitus indulta novimus
+quicumque propius assistebamus; sed in his tu
+minimam partem computabas, majusque tibi gaudium
+erat quod merita et virtutes tuas Christus scriberet,
+quam quod signa homines notarent.
+
+227
+00:42:43,643 --> 00:42:55,440
+Et tamen
+quod esse majus signum virtutis potest, quam signa
+fugere et occultare virtutes? Et vere tam familiaris
+quodammodo oratio tua Christi auribus erat, ut
+enixissimis precibus impetratum putem ne virtutem
+tuam signa clamarent.
+
+228
+00:42:55,440 --> 00:43:00,779
+Habet et pax martyres suos;
+Christi enim tu perpetuus, quamdiu in corpore moratus
+es, testis fuisti.
+
+229
+00:43:00,779 --> 00:43:16,796
+Illud etiam stupendum quod adolescentiae tuae robur perpetuo abstinentiae rigore tenuatum, et in illam quam vidimus aspectus, licet decore servato, exilitatem redactum crux utique quotidiana consumpsit: quam tamen semper sine ulla notabili superstitione servasti, omnes semper nimietates, et cognatum
+
+230
+00:43:16,796 --> 00:43:18,878
+nimietatibus gloriae fugiens appetitum.
+
+231
+00:43:18,878 --> 00:43:22,669
+Numquam in tuo ore nisi pax, nisi castitas,
+nisi pietas, nisi charitas.
+
+232
+00:43:22,669 --> 00:43:38,312
+Numquam in corde nisi horum omnium fons Christus habitavit, qui tibi et per te plurimis charitatis, gaudii, pacis, longanimitatis, bonitatis, benignitatis, fidei, modestiae, continentiae fructus ministravit, exuberantes in multiplicem copiam in multorum salutem et gaudia, ut non immerito illi
+
+233
+00:43:38,312 --> 00:43:54,170
+cantaveris: Qui timent te, videbunt me, et laetabuntur (Psal. CXVIII, 74); cui omne semper conversationis tuae bonum ascripsisti: illud assidue tibi ac tuis ingerens: Quid enim habes quod non accepisti? aut, si accepisti, quid gloriaris, quasi non acceperis (II Cor. IV, 7)? Sed eo magis tuum erat
+
+234
+00:43:54,170 --> 00:43:56,359
+vitae tuae bonum, quo magis tuum negabas.
+
+235
+00:43:56,359 --> 00:44:09,866
+38. In te commune omnium Dominum desiderantium
+solamen fuit. Quidam gloriantur in hujus vitae
+prosperis; tu e contra in Deo exsultare suadebas,
+resonante affectum tuum voce blandae modulationis
+immurmurans: Laetetur cor quaerentium Dominum
+(Ps. CIV, 3).
+
+236
+00:44:09,866 --> 00:44:22,734
+Nulla tibi umquam major quam in orationibus
+et psalmis voluptas. Tuis in tantum medullis
+Christus insederat, ut interdum, quod expertus
+loquor, membris tuis placido sopore devinctis,
+illum etiam in somnis officio solito tua lingua resonaret.
+
+237
+00:44:22,734 --> 00:44:34,320
+Saepe dormiens sanissimae exhortationis, saepe
+orationis affectuosissimae verba refudisti. Agebatur
+quippe in lectulo corporis requies, mentis in Christo. Et quidem haec, prout quique adfuimus, experti
+sumus.
+
+238
+00:44:34,320 --> 00:44:50,052
+Tu vero unica semper omnium requies, quam alacer, quam saepe referebas somnia, non aliquid praesagientia, neque aliqua in futurum anxietate sollicita, sed irrequietis animae desideriis excitata; martyrium scilicet, quod semper meditatione gestabas, credo, alludente interdum, et provocante
+
+239
+00:44:50,052 --> 00:44:54,353
+cupiditatem tuam Domino, tamquam excitata in fidem tuam persecutione peragebas.
+
+240
+00:44:54,353 --> 00:45:05,077
+Et vere puto neminem
+diffiteri, tibi ad martyrium tortores, non animum,
+defuisse. Quotidianus siquidem in sincerissimis tractatibus,
+confessionis Patris, ac Filii, ac Spiritus
+sancti testis fuisti.
+
+241
+00:45:05,077 --> 00:45:13,733
+Nec facile tam exerte, tam lucide
+quisquam de Divinitatis Trinitate disseruit, cum eam
+personis distingueres, et gloriae aeternitate ac majestate
+sociares. 39.
+
+242
+00:45:13,733 --> 00:45:21,518
+Memento itaque, amice Dei, memento jugiter
+nostri, Deo incoinquinatus assistens, canens illud
+canticum novum, et sequens Agnum quocumque vadit.
+
+243
+00:45:21,518 --> 00:45:37,087
+Tu illi pedissequus; tu nobis patronus, orationum
+nostrarum interpres acceptabilis, et fortis assertor,
+perfusas ad sepulcrum tuum alumni gregis
+preces perfer; impetra ut conspiratione communi
+omnes simul sacerdos et populus, quae jussisti, quae
+docuisti, aliquatenus obtinere mereamur.
+
+244
+00:45:37,087 --> 00:45:46,559
+Per Dominum
+nostrum Jesum Christum, qui te in gloriam
+suam assumpsit, atque cum Patre suo et cum Spiritu
+sancto vivit et regnat Deus per omnia saecula saeculorum. Amen.
 

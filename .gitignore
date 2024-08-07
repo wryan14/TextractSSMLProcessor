@@ -93,3 +93,4 @@ translation_logs/
 subtitles/
 latin/
 audio/
+app.log*
