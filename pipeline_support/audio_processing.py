@@ -138,13 +138,20 @@ def add_metadata_to_mp3(mp3_file_path, cover_image_path, title, author, year, ge
 def create_optimized_video(audio, subtitles, book_title, logo_path, main_font):
     bg_clip = ColorClip(size=(1920, 1080), color=BACKGROUND_COLOR).set_duration(audio.duration)
 
-    logo = (ImageClip(logo_path)
-            .resize(height=120)
-            .set_opacity(0.3)
-            .set_position(('right', 'bottom'))
-            .set_duration(audio.duration))
+    # Logo creation is commented out, but let's keep it as an option
+    # remove this if you want the logo back -
+    logo_path = None
+    if logo_path:
+        logo = (ImageClip(logo_path)
+                .resize(height=120)
+                .set_opacity(0.3)
+                .set_position(('right', 'bottom'))
+                .set_duration(audio.duration))
+    else:
+        logo = None
 
-    title_clip = (TextClip(book_title, fontsize=60, color=rgb_to_string(TEXT_COLOR), font=LUXURIOUS_ROMAN, size=(1920, 100))
+    title_clip = (TextClip(book_title, fontsize=60, color=rgb_to_string(TEXT_COLOR), 
+                           font=LUXURIOUS_ROMAN, size=(1920, 100))
                   .set_position(('center', 50))
                   .set_duration(audio.duration))
 
@@ -156,12 +163,18 @@ def create_optimized_video(audio, subtitles, book_title, logo_path, main_font):
 
     # Create a SubtitlesClip with a custom text clip generator
     def make_textclip(txt):
-        return TextClip(txt, fontsize=40, color=rgb_to_string(TEXT_COLOR), font=main_font, size=(1720, None), method='caption')
+        return TextClip(txt, fontsize=40, color=rgb_to_string(TEXT_COLOR), 
+                        font=main_font, size=(1720, None), method='caption')
 
     subtitles_clip = SubtitlesClip(subtitle_clips, make_textclip)
     subtitles_clip = subtitles_clip.set_position(('center', 'center'))
 
-    video = CompositeVideoClip([bg_clip, title_clip, logo, subtitles_clip])
+    # Create the composite video clip
+    video_elements = [bg_clip, title_clip, subtitles_clip]
+    if logo:
+        video_elements.append(logo)
+    
+    video = CompositeVideoClip(video_elements)
     video = video.set_audio(audio)
     
     return video

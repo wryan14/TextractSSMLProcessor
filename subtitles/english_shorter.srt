@@ -1,1475 +1,1927 @@
 1
-00:00:00,000 --> 00:00:07,727
-Letter to His Relative Valerian on the Contempt of the World and Secular Philosophy
-by Eucherius of Lyons
+00:00:00,000 --> 00:00:04,416
+On the Order of Created Things
+by Isidore of Seville
 
 2
-00:00:07,727 --> 00:00:10,377
-Those who are bound by love are also united by blood.
+00:00:04,416 --> 00:00:08,304
+Chapter One Concerning the Faith of the Trinity.
 
 3
-00:00:10,377 --> 00:00:16,374
-So, it is fitting for us to take great pride in this gift from God, that we are connected by both affection and kinship.
+00:00:08,304 --> 00:00:14,896
+The structure of the universe can be understood in two ways: in God, and in things, meaning the Creator and creatures.
 
 4
-00:00:16,374 --> 00:00:21,573
-Two relationships unite us into one feeling: one from our fleshly parents, the other we chose ourselves.
+00:00:14,896 --> 00:00:28,192
+This doesn't mean we consider God a part of creation or that the Creator can be equated with the creature, but because everything that exists is understood as either made or unmade, either powerful or subject, either eternal or temporary.
 
 5
-00:00:21,573 --> 00:00:33,018
-This dual bond of lineage and love has compelled me to write to you at length, to commend to your mind the cause of your soul, and to assert the true happiness and capacity for eternal things, which is the work of our profession.
+00:00:28,192 --> 00:00:31,377
+So, what is made, subject, and temporary is the creature.
 
 6
-00:00:33,018 --> 00:00:38,966
-Since I love you as much as myself, it is necessary for me to desire the highest good for you, just as I do for myself.
+00:00:31,377 --> 00:00:34,114
+But what is unmade, powerful, and eternal is God.
 
 7
-00:00:38,966 --> 00:00:47,113
-Indeed, you are not averse to the profession of a holy life, having a devout nature that has anticipated many teachings of sacred institutions with early maturity.
+00:00:34,114 --> 00:00:39,478
+The Holy Trinity—Father, Son, and Holy Spirit—is inseparable in substance, meaning one divinity.
 
 8
-00:00:47,113 --> 00:00:54,311
-You seem to have embraced certain duties of religion almost by providential nature, already with the indulgence of our Lord and God towards you.
+00:00:39,478 --> 00:00:48,584
+And in the subsistence of persons, an undivided Trinity, where nothing is inferior, nothing superior, nothing before, and nothing after, in the nature of divinity.
 
 9
-00:00:54,311 --> 00:00:57,859
-By His grace, divine teaching can find and contribute some good in you.
+00:00:48,584 --> 00:00:59,199
+Nothing is servile, nothing subject, nothing confined to a place, nothing temporary, nothing weak, nothing growing, nothing related to sex or appearance, and nothing corporeal can be sensed.
 
 10
-00:00:57,859 --> 00:01:07,056
-Although you have been elevated to the highest peaks of the world by your father and father-in-law, surrounded by illustrious titles from both, I long for a far superior honor for you.
+00:00:59,199 --> 00:01:07,691
+But there is one God without beginning, eternal without place, wholly everywhere, arranging all changeable things of creatures without changing Himself.
 
 11
-00:01:07,056 --> 00:01:12,054
-I call you not to earthly, but to heavenly dignity; not to the dignity of this age, but of the ages.
+00:01:07,691 --> 00:01:13,892
+He sees past, present, and future times equally; for Him, nothing is past, nothing remains, but all is present.
 
 12
-00:01:12,054 --> 00:01:15,153
-For this glory is certain and indelible, to glory in eternity.
+00:01:13,892 --> 00:01:22,496
+Nothing good displeases Him, nothing evil pleases Him; nothing naturally evil is created by Him, which by itself is nothing but the fault of created good.
 
 13
-00:01:15,153 --> 00:01:22,751
-Therefore, I will speak to you not of the wisdom of this age, but of that hidden and secret wisdom, which God predestined before the ages for our glory.
+00:01:22,496 --> 00:01:35,289
+Therefore, He is good without quality, great without quantity, eternal without time, principal without position, infused into all creatures, though He has no place; no creature can contain Him, no intelligence can comprehend Him.
 
 14
-00:01:22,751 --> 00:01:23,750
-First Corinthians 2.
+00:01:35,289 --> 00:01:38,865
+One Almighty God, the Holy Trinity—Father, Son, and Holy Spirit.
 
 15
-00:01:23,750 --> 00:01:30,598
-I will speak to you with great effort, caring little for myself, considering more what I wish for you than what I can achieve for myself.
+00:01:39,480 --> 00:01:42,783
+Therefore, God the Father Almighty has no origin from anything.
 
 16
-00:01:31,247 --> 00:01:43,658
-This is the first duty of a person who has been created and brought into the light, my dearest Valerian: to know their Creator, and having known Him, to embrace Him; and to dedicate their life, which is a divine gift, to divine service and worship.
+00:01:42,783 --> 00:01:47,399
+He is the source of divinity, from whom the Son, God Almighty, is begotten without time.
 
 17
-00:01:43,658 --> 00:01:52,265
-So that what they received as a gift from God, they may complete with devotion to God, and what they unworthily received from Him, they may offer back to Him in submission.
+00:01:47,399 --> 00:01:49,549
+The Son is not created because He is God.
 
 18
-00:01:52,265 --> 00:01:56,769
-We are guided by a sound belief that since we were brought forth by Him, we belong to Him.
+00:01:49,549 --> 00:01:55,947
+Aside from being the Son, He shares everything with the Father in divinity: in eternity, in will, in power, and in wisdom.
 
 19
-00:01:56,769 --> 00:02:05,326
-Therefore, whoever understands this clearly and magnificently perceives the intention of our Creator in forming humans, knows that both we and He were made for each other.
+00:01:55,947 --> 00:02:00,247
+Likewise, the Father, aside from being the Father, shares everything with the Son.
 
 20
-00:02:05,326 --> 00:02:11,081
-It is then best to give primary care to the soul, so that what is more important in benefit is not less considered.
+00:02:00,247 --> 00:02:08,533
+The Holy Spirit is God Almighty, not begotten because He is not the Son, not created because He is not a creature, but proceeding from the Father and the Son.
 
 21
-00:02:11,081 --> 00:02:19,138
-The primary concerns should take the first place in our lives, and the highest parts of our worries should be claimed by salvation, which is the highest concern.
+00:02:08,533 --> 00:02:12,886
+Aside from being the Holy Spirit, He shares everything with the Father and the Son.
 
 22
-00:02:19,138 --> 00:02:23,842
-This should occupy us for its own protection and guardianship, not just primarily, but solely.
+00:02:12,886 --> 00:02:22,169
+He who is the Father is not the Son or the Holy Spirit in person; nor is He who is the Son the Father or the Holy Spirit; nor is He who is the Holy Spirit the Father or the Son.
 
 23
-00:02:23,842 --> 00:02:26,994
-It should surpass everything with the effort that precedes all.
+00:02:22,169 --> 00:02:31,714
+But in essence, what the Father is, the Son and the Holy Spirit are; and what the Son is, the Father and the Holy Spirit are; and what the Holy Spirit is, the Father and the Son are.
 
 24
-00:02:26,994 --> 00:02:35,902
-We owe the highest observance to God, and the greatest to the soul; and yet, this is so that, since both are paramount, it appears that neither can be observed without the other.
+00:02:31,714 --> 00:02:38,164
+There is not a triple number of gods in that Trinity; for while the persons are distinct, everything of divinity is shared.
 
 25
-00:02:35,902 --> 00:02:44,559
-Thus, whoever satisfies God must necessarily have already taken care of the soul; and conversely, whoever takes care of the soul must necessarily have already satisfied God.
+00:02:38,164 --> 00:02:41,416
+The Son, in time, took on human flesh, which is without fault.
 
 26
-00:02:44,559 --> 00:02:58,220
-In this way, the matter concerning both the highest and most beneficial in us is resolved in a forced yet beneficial summary; so that if someone diligently fulfills one, they achieve both, because by the ineffable divine kindness, utility itself becomes a sacrifice to God.
+00:02:41,416 --> 00:02:49,125
+He had the nature of humanity, a prudent, intellectual, and wise soul, except for the divine nature, having it so that humanity might become whole.
 
 27
-00:02:58,220 --> 00:03:02,474
-Much effort is spent on bodily treatments; much work is given to the hope of healing.
+00:02:49,125 --> 00:02:57,044
+This is why the Son, who is eternal with God the Father, assumed it, so that He who was the Son of God in divinity would be the Son of Man in humanity.
 
 28
-00:03:02,474 --> 00:03:04,225
-Does the soul not deserve medicine?
+00:02:57,044 --> 00:03:09,998
+In this humanity, He was born of the Holy Spirit and Mary, ever Virgin; not because He is to be believed to be the Son of both the Holy Spirit and Mary, but because He was conceived by the power and work of the Holy Spirit, and born of the Virgin.
 
 29
-00:03:04,225 --> 00:03:14,684
-And if various aids are applied to the body in the pursuit of health, it is not right for the soul to be left lying as if excluded and neglected, wasting away in its diseases, and exiled from its own remedies.
+00:03:10,680 --> 00:03:14,195
+The suffering of the cross was endured in the flesh, not in divinity.
 
 30
-00:03:14,684 --> 00:03:18,537
-Indeed, more should be provided for the soul if so much is given to the body.
+00:03:14,195 --> 00:03:16,793
+He suffered death for our redemption and salvation.
 
 31
-00:03:18,537 --> 00:03:27,545
-For, if some have rightly said that the flesh is a servant and the soul a master; it is not fitting for us to place the master in a lesser position and unjustly prefer the servant.
+00:03:16,793 --> 00:03:21,073
+After being buried for three days, by divine power, He rose again in the same flesh.
 
 32
-00:03:28,295 --> 00:03:33,821
-Deservingly, a better part of us seeks higher pursuits, as we should aim for the greater dignity of our being.
+00:03:21,073 --> 00:03:35,338
+After instructing the one, holy, catholic Church with His word, strengthening it by example, firming it with grace, and securing it with peace, He ascended with all human nature, except for that which is subject to corruption, returning to the Father, from whom He never departed.
 
 33
-00:03:33,821 --> 00:03:38,040
-It is not fitting, in this noble endeavor, to subject ourselves to something lesser.
+00:03:35,338 --> 00:03:46,190
+He sits at the right hand of the Father, from where He will come again to judge the living and the dead, to reward the just with eternal rewards and the wicked with eternal punishments, in the glory of the Father.
 
 34
-00:03:38,040 --> 00:03:42,661
-The flesh, inclined towards vice, pulls us back to the earth, as if to its origin Genesis 8.
+00:03:46,190 --> 00:03:47,565
+This is the catholic faith.
 
 35
-00:03:42,661 --> 00:03:47,734
-But the spirit, coming from the Father of lights, strives for higher things, like iron drawn to fire.
+00:03:47,565 --> 00:03:51,030
+Believing and confessing this is more beneficial than discussing it.
 
 36
-00:03:47,734 --> 00:03:51,753
-This is the image of God within us, this is the precious pledge of divine grace.
+00:03:51,030 --> 00:03:58,264
+Neither secular wisdom nor worldly philosophy, which follow the images of things rather than the understanding of truth, could recognize this.
 
 37
-00:03:51,753 --> 00:03:57,830
-We must protect it with all our strength; if we govern and preserve it, we are safeguarding God's trust Second Timothy 1.
+00:03:58,264 --> 00:04:02,544
+But apostolic faith has handed it down, and the vigilance of the Church protects it.
 
 38
-00:03:57,830 --> 00:04:00,392
-Who can build without first laying the foundations?
+00:04:02,951 --> 00:04:06,575
+Chapter Two On Spiritual Creatures
 
 39
-00:04:00,392 --> 00:04:03,908
-For anyone seeking to build other benefits, health is the cornerstone.
+00:04:06,575 --> 00:04:11,674
+After briefly discussing the vastness of the Creator, let's now consider the order of creatures.
 
 40
-00:04:03,908 --> 00:04:07,072
-But how can one add to these without first securing the basics?
+00:04:11,674 --> 00:04:20,224
+Our aim is not to create new interpretations, but to follow the guidance of Holy Scripture and the explanations of our predecessors, even if only in a small way.
 
 41
-00:04:07,072 --> 00:04:10,789
-How will the growth of what follows increase if the foundation is lacking?
+00:04:20,224 --> 00:04:22,720
+Every creature is either spiritual or physical.
 
 42
-00:04:10,789 --> 00:04:14,506
-How can one think they are attaining happiness when they lack even health?
+00:04:22,720 --> 00:04:32,652
+Since creatures consist of intellectual spirits, which are not bound by flesh, and human souls, which are enclosed in flesh, we must first discuss the different ranks of heavenly spirits.
 
 43
-00:04:14,506 --> 00:04:17,219
-How can someone who lacks life abound in a happy life?
+00:04:32,652 --> 00:04:41,415
+According to Holy Scriptures, there are nine ranks of these spirits: seraphim, cherubim, thrones, dominions, principalities, powers, virtues, archangels, and angels.
 
 44
-00:04:17,219 --> 00:04:20,835
-And what good is it to add food if there is nothing to nourish the soul?
+00:04:41,415 --> 00:04:46,354
+Isaiah saw the seraphim standing above the exalted throne of the Lord and heard them singing.
 
 45
-00:04:20,835 --> 00:05:00,115
-About this, our Lord Jesus Christ said: "What will it profit a man if he gains the whole world, yet forfeits his soul?" Matthew 16.
-Therefore, no profit can exist if it means the loss of the soul. Where there is a loss of health, there certainly is no gain; for how can gain be found if the foundation for holding it is not secure? And so, towards that true profit, that holy and desirable exchange, while there is still time, let us hurry Galatians 6.
-A few days can produce eternal life; but even if these days held the untouched and unstained happiness of life, because they are few, they would be considered of little value. For nothing is truly great if it is short-lived; nor is joy lasting if it ends quickly. The fleeting usefulness of this world offers only brief comforts.
+00:04:46,354 --> 00:04:50,549
+One of them was sent to him, and he was cleansed of the pollution of his mouth.
 
 46
-00:05:00,767 --> 00:05:05,451
-Therefore, it seems right to prefer the benefit of eternal life over the good of a short life.
+00:04:50,549 --> 00:04:59,418
+The cherubim, depicted in the oracle of testimony, covered the mercy seat and the ark, and in the temple of the Lord, they were painted with oxen and lions by Solomon.
 
 47
-00:05:05,451 --> 00:05:09,984
-Eternal happiness is everlasting, while the joys of a short life are temporary and fragile.
+00:04:59,418 --> 00:05:06,641
+Ezekiel also describes seeing a chariot in the visions of God, which he mystically connects with the four Scriptures of both Testaments.
 
 48
-00:05:09,984 --> 00:05:11,479
-Eternal life is truly blessed.
+00:05:06,641 --> 00:05:32,930
+The Apostle Paul, writing to the Colossians, mentions thrones, dominions, principalities, and powers:
+Colossians 1:16, "Whether thrones, or dominions, or principalities, or powers."
+He also speaks about virtues to the Ephesians, saying:
+Ephesians 1:21, "Above all principality, and power, and virtue, and dominion."
+The divine volumes are filled with references and mentions of archangels and angels.
+The nine precious stones Ezekiel speaks of symbolize the nine orders of these heavenly beings.
 
 49
-00:05:11,479 --> 00:05:13,472
-What could be happier than eternal life?
+00:05:33,408 --> 00:05:38,357
+Under the guise of the prince of Tyre, the prophet's words lament the highest angel who fell.
 
 50
-00:05:13,472 --> 00:05:16,062
-In contrast, this short life is filled with burdens.
+00:05:38,357 --> 00:05:46,713
+It says:
+Every precious stone was your covering: carnelian, topaz, and jasper, chrysolite, onyx, and beryl, sapphire, carbuncle, and emerald
+(Ezekiel 28:13).
 
 51
-00:05:16,062 --> 00:05:20,895
-It is pressed from all sides by troubles, wearied by evils, and tossed by the injuries of events.
+00:05:46,713 --> 00:05:52,993
+He is described as being covered with these nine stones, representing the nine orders of spiritual duties he once led.
 
 52
-00:05:20,895 --> 00:05:23,535
-This life is untrustworthy, variable, and calamitous.
+00:05:52,993 --> 00:05:57,943
+Since we've discussed the number, let's also delve into the different levels of these duties.
 
 53
-00:05:23,535 --> 00:05:25,976
-It is full of labor, anxiety, cares, and dangers.
+00:05:57,943 --> 00:06:06,777
+Seraphim, meaning burning or igniting, are named so because they burn with God's love more than any other rational creature, thanks to a special gift of divine grace.
 
 54
-00:05:25,976 --> 00:05:31,805
-It becomes restless with bodily afflictions, anxious with mental anguish, and uncertain in the whirlwinds of dangers.
+00:06:06,777 --> 00:06:16,251
+Excelling all creatures, they approach the Creator with a unique privilege of divine love and stand in such an exalted honor that no other spirits come between them and the Lord.
 
 55
-00:05:31,805 --> 00:05:36,489
-What reason is there not to desire eternal goods and instead follow temporary, even bad, ones?
+00:06:16,251 --> 00:06:20,509
+The second order includes cherubim, who are counted among the heavenly citizens.
 
 56
-00:05:36,489 --> 00:05:41,172
-In this life, a prudent person invests generously in a place where they expect to stay longer.
+00:06:20,509 --> 00:06:22,850
+Their name means the multitude of knowledge.
 
 57
-00:05:41,172 --> 00:05:46,453
-Where they expect to be for a short time, they provide little; where for a longer time, they provide more.
+00:06:22,850 --> 00:06:31,579
+Their intellect is refreshed by closely adhering to the contemplation of God, expanding with a greater multitude of knowledge than all other intellectual creatures.
 
 58
-00:05:46,453 --> 00:05:56,965
-Likewise, because the present time is very short and constrained by narrow limits, and the future holds ages, let us enrich eternal life with appropriate abundance and equip the short life with what is suitable.
+00:06:31,579 --> 00:06:37,859
+For those who gaze sharply into the mirror of divine clarity, the hidden secrets of creatures cannot remain concealed.
 
 59
-00:05:56,965 --> 00:06:01,698
-We should not give the greatest care to the short time and the least care to the greatest time.
+00:06:37,859 --> 00:06:42,808
+The third order of intellectual spirits comprises the hosts of thrones, interpreted as seats.
 
 60
-00:06:01,698 --> 00:06:11,861
-It's hard to say what should compel us more quickly or effectively to this most blessed life: the benefits of the future life that are promised or the inconveniences of the present life that are apparent.
+00:06:42,808 --> 00:06:49,301
+On these, the Lord sits by special grace, exercising His judgments upon all creatures in a terrifying and wondrous manner.
 
 61
-00:06:11,861 --> 00:06:16,594
-The future benefits entice us sweetly, while the present inconveniences strongly drive us away.
+00:06:49,301 --> 00:06:53,985
+Hence, the Psalmist says:
+You have sat on the throne, judging righteousness
+(Psalm 9:5).
 
 62
-00:06:16,594 --> 00:06:19,085
-Even the worst things can support the better part.
+00:06:54,624 --> 00:08:23,256
+And in the Revelation of John, the angel speaks: "And the one who sits on the throne will protect them."
+At the fourth level of the heavenly offices are the dominions, which surpass in greatness the ministries of the five levels below them. They are placed above others in magnitude of power, and the subordination of the others is shown through obedience.
+Next, at the fifth level, are the principalities of the heavenly citizens. They are entrusted with the leadership of the good spirits to carry out the ministries of God.
+At the sixth level are the powers. These good spirits have received the authority from the Lord to govern various powers and restrain the wickedness of evil spirits, ensuring they do not exercise cruelty or cling to human senses beyond what is permitted.
+The seventh level of spiritual ministries are called virtues, through whom the spirits often perform powers, signs, and miracles among humans.
+The eighth order is the archangels, the chief messengers. They announce the greater messages to humans, bringing higher things to human knowledge by the command of the Lord.
+The ninth order of the heavenly ministers are called angels. They announce and advise humans on the lesser and common things according to the will of God.
+Furthermore, it should be known that whenever angels are named, they take their names from their duties when they come to humans. The highest society of heavenly citizens does not need proper names. For example, Michael means "Who is like God?" because he is destined to be sent against the one who will rise against God in the end. Gabriel, meaning the strength of God, is sent to Zechariah and the Virgin Mary to foretell what nature denied would happen.
+To Tobias, Raphael, meaning the Medicine of God, is sent. He who brought health by divine power is rightly called the medicine of God.
 
 63
-00:06:19,085 --> 00:06:22,174
-If we are not attracted by the good, we are pushed by the bad.
+00:08:23,256 --> 00:08:30,727
+And what can happen individually can also occur in ranks, so when one person performs another's duty, they are also called by that person's name.
 
 64
-00:06:22,174 --> 00:06:27,853
-To encourage better things, the best harmonize with the worst, and different things converge for the same benefit.
+00:08:30,727 --> 00:08:33,767
+As it is said: "He makes his angels spirits" (Psalm 104:4).
 
 65
-00:06:27,853 --> 00:06:31,789
-While some things invite us, others repel us, both urging us toward the better.
+00:08:33,767 --> 00:08:37,786
+That is, when He wills, He makes all these angels spirits, meaning messengers.
 
 66
-00:06:32,735 --> 00:06:41,668
-If a famous and wealthy person were to summon you to adopt you as their child, you would go through all sorts of difficulties and travel great distances to reach them, wouldn’t you?
+00:08:37,786 --> 00:08:42,269
+Sometimes, due to the closeness of other ranks, some take on the duties of other ranks.
 
 67
-00:06:41,668 --> 00:08:25,894
-God, the Lord of the universe and all things, calls you to adoption, offering you the sweet name of "child" if you are willing, the same name He calls His only Son.
-First Corinthians chapter 8, Galatians chapter 4, Ephesians chapter 1.
-And yet, you are not moved or urged to hurry, lest death snatches away this great opportunity with its swift arrival?
-And to obtain this, you won't venture through desolate lands or the uncertain seas of far distances?
-Whenever you want, this adoption is with you.
-Will this matter make us sluggish and lazy because it is as accessible as it is great?
-The more reluctant will experience this condition more harshly.
-For it is more harmful to those who are unwilling, the easier it is for those who are willing.
-Certainly, it is the desire for life that has tied us to the enjoyment of the present reality.
-So, those who love life, we urge you to life.
-It is reasonable to persuade when we ask you to obtain what you desire.
-For the life you love, we act as ambassadors to you.
-Second Corinthians chapter 5 verse 20.
-Ephesians chapter 6 verse 20.
-And we suggest that you love the eternal life, which you all love in a small measure, so that you may love it more.
-How can we love it, I wonder, if we don't desire this life to be as beautiful as possible?
-Therefore, that which pleases even when it is brief should please more if it can be eternal; and that which has value to us, even though it has an end, should be beyond value to us if it can be endless.
-It is right, then, to consider lesser life in view of greater life, so that we may build a passage to the latter through the former: a plan that should not be hindered by the dubious benefits of the associated one.
-It should not oppose itself to the extent that it harms.
-It is indeed absurd and contradictory for the love of life to bring harm to life.
-Therefore, whether you think this life should be despised or embraced, my argument is easy in either case.
-For if it is despised, there is one reason for doing so, which is to seek a better one.
-And if it is loved, then the greater life should be loved all the more.
+00:08:42,269 --> 00:08:47,267
+Just as from the proximity of thrones, Scriptures say that the Lord also sits above the cherubim.
 
 68
-00:08:25,943 --> 00:08:28,841
-However, I want you to see this as an experiment itself.
+00:08:47,267 --> 00:08:51,904
+As it is written in the psalm: "You who sit above the cherubim, shine forth" (Psalm 80:1).
 
 69
-00:08:28,841 --> 00:08:34,376
-Acknowledge that it's extremely troublesome and filled with uncertain exhaustion, and judge it accordingly.
+00:08:51,904 --> 00:09:01,127
+In that heavenly society, what one holds in particular is shared by all in common, because each one is as refreshed by what they see in another as by what they possess themselves.
 
 70
-00:08:34,376 --> 00:08:37,221
-Reject it along with its preoccupations and dismiss it.
+00:09:01,127 --> 00:09:06,073
+When they are sent, God, from whom they are refreshed, is never absent from their contemplation.
 
 71
-00:08:37,221 --> 00:08:43,636
-Let the endless chain of worldly affairs be broken, and let that single labor for many necessities throughout life be ended.
+00:09:06,073 --> 00:09:15,142
+Not that those spirits who are sent can be everywhere at once, but the Lord, who is everywhere, is always seen by those who move about, in every place without changing Himself.
 
 72
-00:08:43,636 --> 00:08:50,155
-Let's break the bonds of futile concerns, whose succeeding links entangle us, making our occupation always seem to begin anew.
+00:09:15,142 --> 00:09:21,686
+Hence it is written: "Thousands upon thousands served him, and ten thousand times ten thousand stood before him" (Daniel 7:10).
 
 73
-00:08:50,155 --> 00:08:57,087
-Remove those empty but intertwined causes, in which, as long as we live, human endeavor never finishes, constantly starting new tasks.
+00:09:21,686 --> 00:09:28,436
+Both tasks are performed equally by the heavenly powers; they minister when they are sent, and they stand by when they contemplate.
 
 74
-00:08:57,087 --> 00:09:02,778
-The tireless focus on these things has already made our inherently short and narrow life even more restricted.
+00:09:28,436 --> 00:09:37,504
+Sometimes, however, the angels who are sent announce directly to the people they come to, and sometimes they send others, as if subordinate to them, for the task of announcing.
 
 75
-00:09:02,778 --> 00:09:06,917
-From these come vain joys, bitter sorrows, anxious wishes, and suspicious fears.
+00:09:37,504 --> 00:09:44,357
+As it is read in Daniel, "Gabriel, make this man understand the vision" (Daniel 8:16), which is undoubtedly said by someone superior.
 
 76
-00:09:06,917 --> 00:09:12,452
-Finally, let us discard everything that makes this present life short due to busyness and long due to pain.
+00:09:44,975 --> 00:09:49,392
+Chapter Three Of the waters which are above the firmament.
 
 77
-00:09:12,452 --> 00:09:16,694
-Let us reject the life of this untrustworthy world, which is suspect in every way.
+00:09:49,392 --> 00:10:01,050
+Since we've started discussing the order of creation, which your proposition has included, after briefly touching upon the spiritual creation, let's try to explain what the authors have thought about the waters above the firmament.
 
 78
-00:09:16,694 --> 00:09:19,385
-In this world, both high and low are equally unsafe.
+00:10:01,050 --> 00:10:07,712
+When light was created on the first day, which is understood to be the spiritual creation, the firmament was made on the second day.
 
 79
-00:09:19,385 --> 00:09:23,368
-The lowly are trampled by humiliation, and the high sway in their prominence.
+00:10:07,712 --> 00:10:12,759
+This firmament divided the waters above from the waters below, as Scripture states in Genesis 1:6-7.
 
 80
-00:09:23,368 --> 00:09:31,283
-Whatever position you choose, there is no rest in either the lowest or the highest states: both conditions cannot escape the heavy fate of the whirlwind.
+00:10:12,759 --> 00:10:18,310
+From this, we understand that the waters above the firmament are positioned higher than all physical creation.
 
 81
-00:09:31,283 --> 00:09:34,129
-The lesser is subjected to insult, the greater to envy.
+00:10:18,310 --> 00:10:38,448
+Although in Psalm 148, after mentioning the firmament, the sun, the moon, and the stars, it refers to the waters above the heavens to show they are higher than all physical creations, the Psalmist places the heavens first when summarizing the dwellings of the highest powers, saying:
+"Praise Him, heavens of heavens; and waters that are above the heavens, praise the name of the Lord" (Psalm 148:4).
 
 82
-00:09:34,129 --> 00:09:42,561
-Two main things, I believe, hold people bound in the affairs of the world and captivated by its seductive allure: the pleasure of wealth and the dignity of honors.
+00:10:38,448 --> 00:10:50,661
+This shows that after those spiritual spaces, whatever they may be, where the spiritual orders reside, which the prophet calls the heavens of heavens, the waters were established before this visible heaven as the beginning of physical things.
 
 83
-00:09:42,561 --> 00:09:47,631
-Of these, the former should be called not pleasure, but need; the latter, not dignity, but vanity.
+00:10:50,661 --> 00:11:03,430
+However, to prevent anyone from associating them with the spiritual creation, he placed them after the heavens of heavens, and before mentioning the earth, he added shortly after:
+"Praise the Lord from the earth, dragons, and all abysses" (Psalm 148:7).
 
 84
-00:09:47,631 --> 00:09:53,115
-Both of these, entangling us in alternating knots, hinder our steps, deceptively embracing our fellowship.
+00:11:03,430 --> 00:11:09,486
+See, the Psalmist says that these waters are placed above the heavens, yet he places the heavens of heavens before them.
 
 85
-00:09:53,115 --> 00:10:00,099
-They insidiously inspire vices into human hearts with their enticing desires and solicit the weary minds of mortals with easy pleasure.
+00:11:09,840 --> 00:11:17,606
+This demonstrates that there are realms positioned between the two heavens; they are lower than the spiritual heavens but higher than the physical heavens.
 
 86
-00:10:00,099 --> 00:10:05,686
-For what is more pernicious than riches, to speak of them first, which are rarely amassed without injustice?
+00:11:17,606 --> 00:11:25,322
+However, they are still considered part of the physical creations, as they were made on the second day of creation and exist above the physical firmament.
 
 87
-00:10:05,686 --> 00:10:10,187
-Such a resource is achieved with such an administrator, preserved with such a guardian.
+00:11:25,322 --> 00:11:30,232
+The usefulness of these realms in relation to physical things is explored by teachers in two ways.
 
 88
-00:10:10,187 --> 00:10:13,446
-For the love of money, says Scripture, is the root of all evil.
+00:11:30,232 --> 00:11:36,846
+Some say they were reserved by God's foresight for the destruction of the world during the flood under Noah, as narrated in Genesis.
 
 89
-00:10:13,446 --> 00:10:15,257
-(First Timothy chapter 6, verse 10)
+00:11:36,846 --> 00:11:42,759
+Scripture says:
+"And the windows of heaven were opened, and it rained for forty days and forty nights"
+(Genesis 7:11).
 
 90
-00:10:16,343 --> 00:10:20,949
-There is almost a kind of partnership, even in name, between these two things: vices and riches.
+00:11:42,759 --> 00:12:01,749
+Since clouds, which irrigate the earth with their rains, and even the air, which contains all hemispheres and breezes, are often referred to as heavens in the divine Scriptures, it is said:
+"And He rained manna upon them to eat, and gave them bread from heaven"
+(Psalm 78:24);
+And in another place:
+"The heavens shall give rain, and the earth shall yield its fruit"
+(Psalm 67:7).
 
 91
-00:10:20,949 --> 00:10:22,867
-Aren't those riches a source of insults?
+00:12:01,749 --> 00:12:15,728
+Some teachers believe that an abundance of water was spread from this lower heaven of the clouds, so that, according to the usual custom, the clouds poured out a great amount of rain, with Scripture mentioning the windows being opened because more water than usual was sent down.
 
 92
-00:10:22,867 --> 00:12:07,152
-As one of our own has said:
-"What else are riches but pledges of injustice?"
-Don't they, like rewards placed before the wicked, provoke the eyes and minds of troublemakers, practically displaying and inviting their own confiscation?
-But suppose that does not happen. Can we be sure where they will go after us, who will wander and flee?
-"He stores up wealth and does not know who will gather it"
-Psalm
-38:7.
-But suppose the heir comes as desired. Doesn't the heir often squander the wealth, and the accumulated riches are wasted by either a poorly raised son or an ill-chosen son-in-law?
-What pleasure do these riches have in themselves, whose possession is miserable and transmission uncertain? Where, misled and headlong, are you taking the love of men?
-You know how to love the things that come to you, but you don't know how to love yourself?
-What you love is outside; what you desire is outside yourself. Rather, return to yourself, so that you may be dearer to yourself than your possessions.
-Indeed, if someone well-versed in matters were to approach you, wouldn't you prefer that he love you yourself rather than those things that are with you? And you would choose that he direct his affection more towards your life than your wealth. You want to be faithful to a person, not to things. What you would want another to give to you, you, who are your own most faithful friend, should give to yourself. Let us love ourselves rather than our possessions.
-And these things have been said against wealth. As for the honors of this world, to remain silent on other matters, what dignity can there be in things when the wicked rise to these positions just as ambitiously as the good, and a single honor does not encompass men of a single merit, and dignity no longer distinguishes between the worthy and the unworthy, but confounds them?
-Thus, what should have preferred the better to the worse has begun to equalize them: and in a new way, there is almost nowhere less distinction between the best and the worst men than in honor. Isn't it a greater honor to prefer to be without such dishonorable honors, and to be valued more for one's own morals than for shared honors?
+00:12:15,728 --> 00:12:26,601
+Others, however, assert that these waters placed above the firmament were meant to temper the heat of the fire that burns in the luminaries and stars, so that the lower regions would not be scorched by excessive heat.
 
 93
-00:12:07,247 --> 00:12:11,340
-And these very things—whatever they may be—how fleeting and temporary they are.
+00:12:26,951 --> 00:12:30,840
+Chapter FourAbout the Firmament of the Sky.
 
 94
-00:12:11,340 --> 00:12:17,194
-Recently, we saw men distinguished by honor, sitting in lofty positions, spreading their wealth across the world.
+00:12:30,840 --> 00:12:40,662
+After discussing the waters of bodily creatures, the firmament appears to be second in order, created on the second day, as previously mentioned, and it separates the waters above from those below.
 
 95
-00:12:17,194 --> 00:12:21,649
-Their successes surpassed their desires, and their achievements exceeded their wishes.
+00:12:40,662 --> 00:12:46,995
+As for its nature, some believe it covers the earth like a disc, while others think it encircles all creation like an eggshell.
 
 96
-00:12:21,649 --> 00:12:23,462
-But I only recall private fortunes.
+00:12:46,995 --> 00:12:48,640
+Both views have their supporters.
 
 97
-00:12:23,462 --> 00:12:26,260
-Even kings, exalted by great power, shone with jewels.
+00:12:48,640 --> 00:12:54,324
+The Psalmist's words, "You stretch out the heavens like a tent" (Psalm 104:2), do not contradict either viewpoint.
 
 98
-00:12:26,260 --> 00:12:30,870
-Their garments glittered, their crowns sparkled with interwoven metals and adorned trees.
+00:12:54,324 --> 00:13:02,850
+Just as an animal's skin covers its flesh evenly from all sides, forming either a flat or curved surface when stretched out, the firmament can be understood in either way.
 
 99
-00:12:30,870 --> 00:12:35,533
-Their palaces gleamed with royal splendor, and their ceilings glimmered with gilded beams.
+00:13:02,850 --> 00:13:09,881
+Therefore, whether it covers the earth like a stretched-out tent or encircles the world like an animal's hide, both assertions are plausible.
 
 100
-00:12:35,533 --> 00:12:39,004
-Their wills were the laws of men, their words were called statutes.
+00:13:09,881 --> 00:13:15,316
+As for whether the firmament is empty and penetrable or solid and firm, various authors have different views.
 
 101
-00:12:39,004 --> 00:12:41,594
-Who can rise above the transient happiness of man?
+00:13:15,316 --> 00:13:17,958
+I'll focus on their opinions rather than their names.
 
 102
-00:12:41,594 --> 00:12:48,328
-Behold, their grand ambitions are gone, their abundant riches have vanished, and the very masters of such wealth have passed away.
+00:13:17,958 --> 00:13:22,795
+Those who believe the firmament is empty and penetrable compare it to the nature of all elements.
 
 103
-00:12:48,328 --> 00:12:52,680
-As it is written in the book of Job chapter 14, and in the book of Wisdom chapter 5.
+00:13:22,795 --> 00:13:29,327
+They argue that the earth is the heaviest of all bodily creatures and occupies the lowest place because it can only support itself.
 
 104
-00:12:52,680 --> 00:12:56,565
-Some of the most recent and renowned kingdoms are now merely stories to us.
+00:13:29,327 --> 00:13:32,518
+Water is much lighter than the earth but still heavier than air.
 
 105
-00:12:56,565 --> 00:12:59,622
-All those things that were once great here are now nothing.
+00:13:32,518 --> 00:13:37,155
+Air, unable to sustain itself under water, will escape to its own space if forced beneath it.
 
 106
-00:12:59,622 --> 00:13:08,584
-Nothing, as I think, or rather, as I certainly know, did they take with them from those riches, honors, and kingdoms, except—if there was any—the essence of faith and piety.
+00:13:37,704 --> 00:13:40,314
+The nature of fire is understood to be above the air.
 
 107
-00:13:08,584 --> 00:13:11,070
-This alone follows them, devoid of other things.
+00:13:40,314 --> 00:13:50,315
+This is easily proven by the fact that when a fire ignites on earthly materials, it immediately directs its flame upwards, towards the regions above the air, where there is an abundance and place for it.
 
 108
-00:13:11,070 --> 00:13:15,111
-This alone accompanies them faithfully as if it were an inseparable companion.
+00:13:50,315 --> 00:13:56,325
+But, extinguished by the surrounding denser air, it quickly vanishes into the soft air, unable to reach its natural place.
 
 109
-00:13:15,111 --> 00:13:19,981
-They are now nourished by that help, now rest in those riches, now find peace in those honors.
+00:13:56,325 --> 00:14:03,566
+This demonstrates that the nature of fire, which ascends, is lighter than air, just as the nature of water, which descends, is shown to be heavier.
 
 110
-00:13:19,981 --> 00:13:22,001
-These are the rewards they now possess.
+00:14:03,566 --> 00:14:12,434
+Therefore, by this reasoning, the space of the firmament, which is above the fire, is thought to be lighter and thinner because it is higher than all the natures we have mentioned.
 
 111
-00:13:22,001 --> 00:13:27,233
-Therefore, if we are captivated by honors and riches, let us be moved by true riches and true honors.
+00:14:12,434 --> 00:14:20,365
+In this space, the varying light of the shining stars is thought to be due to some of the stars traveling farther, while others travel nearer in this vast space.
 
 112
-00:13:27,233 --> 00:13:32,258
-The best of us transfer earthly honors and earthly riches to heavenly honors and heavenly riches.
+00:14:20,365 --> 00:14:31,597
+However, those who disagree with this idea say that the space above the air and fire is so subtle, empty, and penetrable that waters cannot exist there, unless, as some mentioned earlier, they are much finer and subtler in form.
 
 113
-00:13:32,258 --> 00:13:43,137
-Certainly, to that place where there is a clear and undisturbed distinction between good and evil: where, what we once obtain, we always hold: where, if there is a place for obtaining, there is none for losing.
+00:14:31,597 --> 00:14:37,360
+To which others respond: What kind of water vapor could ever be lighter than the firmament, no matter how thin it is?
 
 114
-00:13:43,137 --> 00:13:50,131
-But since we have spoken about the fragile possession of temporary goods, we must also mention the condition of this brief life itself.
+00:14:37,360 --> 00:14:50,809
+Therefore, others think the firmament is made of solid, firm air, and it is called the firmament because it encloses within itself all the spaces, both solid and empty, light and heavy, that we have mentioned, and supports the waters placed above it, whatever their nature.
 
 115
-00:13:50,131 --> 00:13:51,892
-What is this, I ask, what is this?
+00:14:50,809 --> 00:14:58,100
+However, since there is such varied opinion among scholars on this significant matter, we do not consider any one view to be preferred over another.
 
 116
-00:13:51,892 --> 00:13:56,192
-Nothing do men see daily as much as death: nothing do they forget as much as death.
+00:14:58,100 --> 00:15:01,499
+Instead, we refer the reader to consider the arguments of both sides.
 
 117
-00:13:57,383 --> 00:14:02,211
-Humanity is swiftly heading towards its demise, and every generation follows this unavoidable law.
+00:15:01,992 --> 00:15:05,880
+Chapter FiveAbout the Sun and the Moon
 
 118
-00:14:02,211 --> 00:14:06,300
-Our ancestors have passed away; we will depart, and future generations will follow.
+00:15:05,880 --> 00:15:14,480
+The Mosaic law, or rather, the divine Scripture in the beginning of Genesis, declares that after the appearance of the sea and the land, two great lights were formed in the sky.
 
 119
-00:14:06,300 --> 00:14:11,178
-Just like waves crashing on the shore, one after another, ages are broken by the boundary of death.
+00:15:14,480 --> 00:15:23,615
+It is appropriate, then, that the discussion of the sun and moon follows the firmament in the order of creation, even though in the sequence of creation, they come after the earth and sea.
 
 120
-00:14:11,178 --> 00:14:15,612
-This thought should echo in our minds day and night, reminding us of our mortal condition.
+00:15:23,615 --> 00:15:30,029
+This aligns with the words of Scripture, although the Catholic faith believes all elements were created timelessly by divine reason.
 
 121
-00:14:15,612 --> 00:14:20,735
-We must consider that the end of life is always approaching; the more it is delayed, the closer it gets.
+00:15:30,029 --> 00:15:32,702
+The sun and the moon are the two lights set in the sky.
 
 122
-00:14:20,735 --> 00:14:24,332
-We should expect the day to be near, for we do not know if it is far off.
+00:15:32,702 --> 00:15:36,297
+The greater light rules the day, while the lesser light governs the night.
 
 123
-00:14:24,332 --> 00:14:27,780
-Let us prepare ourselves for the end, as it is written in Malachi 3:1.
+00:15:36,297 --> 00:15:40,671
+However, they do not shine with the same brilliance they had when they were first created.
 
 124
-00:14:27,780 --> 00:14:32,214
-If we think about these things and meditate on them, we will not fear death by fearing it.
+00:15:40,671 --> 00:15:45,141
+Throughout their existence, they conserve their light through the cycles of days and nights.
 
 125
-00:14:32,214 --> 00:14:34,677
-Blessed are those who have reconciled with Christ.
+00:15:45,141 --> 00:15:52,138
+These luminaries, designated by God the Creator for human use, shone with full brilliance when humans lived blamelessly under the Creator's law.
 
 126
-00:14:34,677 --> 00:14:40,293
-There is little fear of death for those who wish to be released and to be with Christ, as stated in Philippians 1.
+00:15:52,138 --> 00:16:04,917
+But when humans lost the happiness of paradise due to transgression, these lights also, though not by their own fault, experienced a loss of their brilliance, as Apostle Paul testifies: “For the whole creation groans and suffers together until now” (Romans 8:22).
 
 127
-00:14:40,293 --> 00:14:48,915
-Those who are ready and at peace, awaiting the end of their life in silence, will not be much affected by the timing of their temporary end as they transition to eternal life.
+00:16:04,917 --> 00:16:14,441
+However, with the coming of the Redeemer, the restoration of original happiness is promised to humanity in an even better way, and it is believed that creation will also regain its ancient beauty.
 
 128
-00:14:48,915 --> 00:14:55,319
-Let us not be swayed by the negligence of others in life, nor be led astray by their errors to the detriment of our own salvation.
+00:16:14,441 --> 00:16:32,226
+Thus, the prophet Isaiah, inspired by spiritual insight, says: “And it shall come to pass in that day, when the tower falls, the light of the moon will be like the light of the sun, and the light of the sun will be seven times brighter, like the light of seven days, when the Lord binds up the fracture of His people and heals the wound He inflicted” (Isaiah 30:26).
 
 129
-00:14:55,319 --> 00:15:03,399
-What good will the multitude do us in God's judgment, where each will be judged individually and only personal merit and actions will absolve anyone, not the crowd?
+00:16:32,712 --> 00:16:57,320
+When the new heaven and new earth are made, Revelation 21:1, and the former things that serve corruption are not remembered, Isaiah 65:17, and the Lord heals the wound of sin and the injury of death in the bodies of those who have been resurrected, Isaiah 30:26, and the proud spirits are cast down from the power they had seized, then the light of the moon will be changed into the light of the sun, and the light of the sun will be restored to the light it had during the seven days of creation.
 
 130
-00:15:03,399 --> 00:15:04,877
-Let misleading comforts cease.
+00:16:57,320 --> 00:16:59,598
+That is, its light will be restored sevenfold.
 
 131
-00:15:04,877 --> 00:15:08,966
-Surely it is better to have lived with the few than to have perished with the many.
+00:16:59,598 --> 00:17:05,490
+For nothing is restored unless it was lost or corrupted; therefore, what the sun and moon lost, they will receive back.
 
 132
-00:15:08,966 --> 00:15:12,661
-Therefore, let not the number of sinners lead us to negligence in our sins.
+00:17:05,490 --> 00:18:11,443
+From this, it appears that the luminaries now retain one-seventh of their light, which they will take back sevenfold when, through Habakkuk, the Holy Spirit, placing the past for the future, says: "The sun will rise in its place, and the moon will stand in its order."
+For, with the cessation of the changeability of the human condition, which they serve, the changeability of their course will also cease.
+For when it is said, "The sun in its place," it indicates that it will never decline at its setting; and when it is said, "The moon will stand in its order," it suggests that it will not suffer the changes of waxing and waning, but will always stand in its order.
+This will happen when, as the Apostle says, creation itself will be set free from its bondage to corruption and gain the glorious freedom of the children of God, Romans 8:21.
+For when the saints, as a reward for their labor in serving God, are transformed and shine like the sun of righteousness, whose health is everlasting, then even this physical sun will be restored to sevenfold brightness as a reward for its service, to which it was subjected to the bondage of corruption.
+Meanwhile, however, in the daily movements of its service, whenever the moon follows the sun, it increases its light; but whenever it precedes the sun, it diminishes its brightness.
 
 133
-00:15:12,661 --> 00:15:16,750
-Let the fact that others care little for themselves not become an authority for us.
+00:18:11,592 --> 00:18:17,973
+The moon has been viewed in various ways: as a half-sphere with one part dark and shadowy, and the other part bright and shining.
 
 134
-00:15:16,750 --> 00:15:20,592
-I implore you, always regard another's sin as a disgrace, never as an example.
+00:18:17,973 --> 00:18:26,334
+The waxing and waning occur such that when the bright part gradually appears, the dark part is hidden, and as the bright part turns, the dark part becomes visible again.
 
 135
-00:15:20,592 --> 00:15:25,420
-If you must look at examples, look to those who, though they may be fewer, are abundant in virtue.
+00:18:26,334 --> 00:18:30,143
+Another perspective is that the moon is round, illuminated by the sun's rays.
 
 136
-00:15:25,420 --> 00:15:30,839
-Look to those who wisely understand why they were born and, while they live, pursue the purpose of their life.
+00:18:30,143 --> 00:18:32,914
+When it is near the sun, it shines with the sun's light.
 
 137
-00:15:31,775 --> 00:15:37,599
-Those who are distinguished by useful deeds and outstanding virtue enhance the present life and sow for the future.
+00:18:32,914 --> 00:18:38,999
+As it moves farther away, its light increases, and when it is fully opposite the sun, it can fully reflect the sun's image.
 
 138
-00:15:37,599 --> 00:15:41,802
-There are not only abundant examples of these, but also great ones are not lacking.
+00:18:38,999 --> 00:18:47,557
+However, this is not the time or place to discuss the detailed courses of the sun and moon, as this brief work is intended for calculating feast days for almost all readers.
 
 139
-00:15:41,802 --> 00:15:48,993
-What nobility, honors, dignity, wisdom, eloquence, and literature have not already devoted themselves to the service of this heavenly kingdom?
+00:18:47,557 --> 00:18:53,048
+Some believe these celestial bodies are sentient, but common teachings from Catholic authors suggest otherwise.
 
 140
-00:15:48,993 --> 00:15:53,449
-What high position has not already submitted to this light heavenly yoke with surrender?
+00:18:53,048 --> 00:18:58,787
+We must consider which view is more supported by the Holy Scriptures and what most Catholics have accepted in faith.
 
 141
-00:15:53,449 --> 00:15:58,513
-Indeed, it is above all error and ignorance for anyone to neglect the matter of their own salvation.
+00:18:58,787 --> 00:19:05,268
+Opinions that have been equally asserted by Catholics and not contradicted by sacred canon should be left to the readers' judgment.
 
 142
-00:15:58,513 --> 00:16:09,197
-If it were not too lengthy, I could recount by name many illustrious men who have followed this stricter observance of divine worship and life: whose examples, lest I omit them all, I will briefly mention a few.
+00:19:05,664 --> 00:19:10,320
+Chapter SixOn the Upper Space and the Paradise of Heaven
 
 143
-00:16:09,197 --> 00:16:23,629
-Clemens, from an ancient lineage of senators and even from the line of Caesars, filled with all knowledge and highly skilled in all liberal arts, transitioned to this righteous path; and he flourished so excellently in it that he also became the successor of the chief of the apostles.
+00:19:10,320 --> 00:19:17,269
+After discussing the firmament and the lights, there is a vast, empty space that stretches from the firmament of heaven down to the earth.
 
 144
-00:16:23,629 --> 00:16:40,137
-Gregory from Pontus, a priest, outstanding in philosophy and eloquence in the world; but later greater and more outstanding in virtues, so much so that, as the faithful accounts of our histories tell, among other remarkable signs of merit, it is said that by his prayers and orations, a mountain withdrew, and a lake dried up.
+00:19:17,269 --> 00:19:24,218
+Some writers say this space is divided into two parts: the upper space belongs to heaven, while the lower space is connected to the earth.
 
 145
-00:16:40,137 --> 00:16:45,758
-Another saint, also named Gregory, equally devoted to letters and philosophy, desired this heavenly philosophy.
+00:19:24,218 --> 00:19:27,341
+The high space that belongs to heaven is very pure and subtle.
 
 146
-00:16:45,758 --> 00:17:07,128
-It should not be omitted, as it pertains to the matter, that he, while still engaged in secular studies, entered the lecture hall of Basil, who was still devoted to the profession of rhetoric, and, taking him by the hand, led him out of the school, saying: "Leave these things and apply yourself to salvation." Later, both memorable priests left behind in the books of our Church the illustrious monuments of their genius.
+00:19:27,341 --> 00:19:32,729
+It has no clouds, no gusts of wind, no rain, no snow or hail, no changes in the air, no storms, or thunder.
 
 147
-00:17:07,583 --> 00:17:13,819
-Paulinus, the bishop of Nola, a unique and blessed example for our Gaul, once had immense wealth and abundant eloquence.
+00:19:32,729 --> 00:19:38,117
+It doesn't even have the air to support flying birds, clouds, or sustain various living beings with breath.
 
 148
-00:17:13,819 --> 00:17:20,107
-He embraced our perspective and purpose so fully that he spread his eloquence and deeds to almost all parts of the world.
+00:19:38,117 --> 00:19:41,239
+There are no disturbances in the different hemispheres at all.
 
 149
-00:17:20,107 --> 00:17:29,617
-Recently, Hilary and now in Italy, the bishop Petronius, both from the highest seats of worldly power, have risen—one in the name of religion, the other in the name of the priesthood.
+00:19:41,239 --> 00:19:45,923
+This is confirmed by those who climb Mount Olympus, the highest peak, unknown to most humans.
 
 150
-00:17:29,617 --> 00:17:36,788
-And when will I recount the most renowned eloquent men like Firmianus, Minucius, Cyprian, Hilary, John, and Ambrose from that vast number?
+00:19:45,923 --> 00:19:50,807
+They report placing sponges soaked in vinegar around their mouths and noses to help them breathe.
 
 151
-00:17:36,788 --> 00:17:44,063
-They, I believe, said to themselves what one of us said, stirring themselves to this more blessed life from the secular world:
-What is this?
+00:19:50,807 --> 00:19:53,728
+They ascend annually, driven by some unknown superstition.
 
 152
-00:17:44,063 --> 00:17:49,571
-The unlearned rise and seize heaven, and here we are, with all our theories, wallowing in flesh and blood.
+00:19:53,728 --> 00:19:56,548
+They say they see no birds, clouds, rain, or wind there.
 
 153
-00:17:49,571 --> 00:17:50,662
-(Matthew chapter 11).
+00:19:56,548 --> 00:20:00,476
+After completing their rituals, they leave marks in the sands and then return.
 
 154
-00:17:50,662 --> 00:17:51,442
-They said this?
+00:20:00,476 --> 00:20:04,052
+When they climb again the next year, they find these marks undisturbed.
 
 155
-00:17:51,442 --> 00:17:54,196
-And so, they later forced their way into the kingdom.
+00:20:04,052 --> 00:20:10,195
+This clearly shows there is no disturbed air there, and nothing related to the greenness of plants or shrubs can be found.
 
 156
-00:17:54,196 --> 00:18:04,017
-Having mentioned a few of those whose great fervor for our faith existed, who had experienced worldly philosophy, eloquence, and honors, I will now turn to kings and that head of the world.
+00:20:10,800 --> 00:20:19,425
+However, the place we mentioned earlier, that purest and most refined upper space, should not be considered as the actual existence where no earth can reach or approach.
 
 157
-00:18:04,017 --> 00:18:15,917
-I will not now recall all those ancient men devoted to religion and royal dignity; only the remarkable ones, David for his piety, Josiah for his faith, Hezekiah for his humility, will be drawn from the venerable annals of memory.
+00:20:19,425 --> 00:20:25,600
+Instead, this place pertains to the outermost boundaries of this lower space and the nearby confines of that upper space.
 
 158
-00:18:15,917 --> 00:18:31,091
-Some also from more recent times, even in our own age, have become leaders who have drawn closer to the recognition of the true king, and with utmost contrition of heart, have confessed the supreme Lord of lords; both sexes from the court have shown attentive reverence to the divine majesty.
+00:20:25,600 --> 00:20:29,122
+In this place, life for those clothed in flesh can by no means dwell.
 
 159
-00:18:31,091 --> 00:18:38,574
-These, I think, should be proposed as worthy examples to emulate, whose examples provide salvation for the future and authority for the present.
+00:20:29,122 --> 00:20:36,931
+It is therefore clear that the uppermost, purest, and most tranquil space we discussed earlier, is not meant for those with flesh, nor for mortal things.
 
 160
-00:18:38,574 --> 00:18:47,564
-You see how even days and years, and all these ornaments of the sky, preserve God's word and command with tireless observance, and keep his precepts with unwavering service.
+00:20:36,931 --> 00:20:45,709
+Many Catholic authors assert that this space was originally designated for the fallen angels and their leader, because they believe no heavenly angel has fallen from above.
 
 161
-00:18:48,239 --> 00:18:57,963
-Are we, for whom these things have been made, for whose eyes they have been given, knowledgeable of heavenly commands and not ignorant of divine will, going to ignore God's command with deaf ears?
+00:20:45,709 --> 00:20:49,588
+The celestial angels, while in angelic bliss, did not stay there for a time.
 
 162
-00:18:57,963 --> 00:19:13,044
-Indeed, once it was commanded to these aids of the world what they should observe through the ages; but for us, the commands of divine law are reiterated in so many volumes, so that at least, as it is attributed to man himself, he may learn to obey the will of the Creator and attend to His commandments.
+00:20:49,588 --> 00:20:56,070
+As Scripture says, the devil himself was a liar from the beginning (John 8:44) and did not stand in the truth (First John 3:8).
 
 163
-00:19:13,044 --> 00:19:16,467
-Because all of this, while it provides service, also sets an example.
+00:20:56,070 --> 00:21:09,799
+They believe he obtained this place of habitation by lot, with Scripture describing it as a heavenly paradise, speaking under the persona of Prince Cyrus to that highest fallen angel:
+"You were perfect in beauty, in the delights of the paradise of God" (Ezekiel 28:13).
 
 164
-00:19:16,467 --> 00:19:21,081
-And yet, if some do not want to return to their Creator, can they therefore avoid their Lord?
+00:21:09,799 --> 00:21:33,276
+Just as men, after their sin, were cast out from the happiness of the earthly paradise and thrust into the cursed habitation of this earth, so that while they sinned on earth, they would later live in the abode of an inferior earth under the punishment of their offense,
+so too, the angels, who are thought to have sinned in the purer space of the air, were miserably and unhappily thrown into a lower place, darker and more turbulent than the very air itself.
 
 165
-00:19:21,081 --> 00:19:23,958
-Or where can they escape to, those who turn away from God?
+00:21:33,276 --> 00:21:47,924
+They are believed to live under the expectation of a future judgment, where they will be more harshly condemned; just as they have airy bodies and now dwell in the air, it is reasonable to think that they once had their seat of beatitude in the air, but in a purer and more refined part.
 
 166
-00:19:23,958 --> 00:19:42,561
-Let them listen to you, holy David, let them hear you saying:
-"Where can I go from your Spirit, and where can I flee from your presence? If I ascend to heaven, you are there; if I descend to hell, you are there; if I take the wings of the morning and dwell in the uttermost parts of the sea, even there your hand shall lead me, and your right hand shall hold me" (Psalm 139).
+00:21:48,384 --> 00:23:27,240
+However, this place, while it belongs to the firmament of the sky, as I mentioned before, is considered part of the sky, just as the Lord Himself testifies, saying: "I saw Satan fall like lightning from heaven" Luke 10:18.
+Because of the clear and pure blessedness of that place, Satan was cast out due to his sin and destined for an unhappy and miserable abode in the lower space, that is, the cloudy and stormy air; as the apostle Paul attests, saying: "For our struggle is not against flesh and blood, but against the rulers, against the authorities of this dark world" Ephesians 6:12.
+Paul also declares that Christ triumphed over these spiritual forces of evil in the heavenly realms in Himself.
+Therefore, the evil spirits, along with their leader the devil, having been cast out from that clear dwelling place among the subcelestial spaces that we mentioned, and after the human race was redeemed from the sin of Adam and each individual's own sin through the coming of the Mediator, some think that this same place is now a place of rest for the souls of the saints while they await the future resurrection.
+They even think it is called the heavenly paradise, about which the Lord said to the thief who confessed on the cross: "Truly I tell you, today you will be with me in paradise" Luke 23:43.
+Moreover, in that paradise, planted with trees and endowed with a shining fountain, souls freed from their bodies do not need any material sustenance; indeed, the spiritual person, liberated from the carnal use of the mortal body, does not possess it, nor does he need to be refreshed by the fruit-bearing trees of the earthly paradise.
+For the eternal does not use the temporal, but contemplates eternal and spiritual things.
+We have touched upon these matters not to confirm them but to reflect upon them, especially since we do not attribute to ourselves the clarity of judgment regarding such things.
 
 167
-00:19:42,561 --> 00:19:50,152
-Therefore, whether they want to or not, they belong to the Lord of the universe, and if they take themselves away by will, they do not withdraw by right.
+00:23:27,240 --> 00:23:33,317
+When the need arises, we can present all 596 authors of these opinions, to whom either belief or doubt can be attributed.
 
 168
-00:19:50,152 --> 00:19:53,475
-They are indeed absent in affection, but He is present in dominion.
+00:23:33,317 --> 00:23:37,487
+By addressing their views rather than defending them, we strive to reach the truth.
 
 169
-00:19:53,475 --> 00:20:00,073
-So, what is unwise and most thoughtless, the wandering ones live closed off from the consideration of the Lord, but within His power.
+00:23:37,487 --> 00:23:44,871
+If a better assertion is present, supported more by examples from Scripture or evaluations from knowledgeable Catholics, we are ready to accept it.
 
 170
-00:20:00,073 --> 00:20:15,601
-And if anyone pursues a fleeing servant with threatening pursuit, and as the enforcer of his right follows the one evading him, why does he not return his own right to the heavenly Lord, and as soon as possible, offer himself in voluntary servitude to His service, being just both to himself and to his own judge?
+00:23:44,871 --> 00:23:49,241
+But with the previous matters somewhat explained, let's hasten to the following topics.
 
 171
-00:20:15,601 --> 00:20:18,528
-Why are we fixed on the delightful sight of present things?
+00:23:49,392 --> 00:23:54,048
+Chapter SevenAbout the Lower Space and Different Hemispheres.
 
 172
-00:20:18,528 --> 00:20:20,463
-Why do we dwell so much on what we see?
+00:23:54,048 --> 00:23:58,653
+The lower space is known as the air, which, as we mentioned, is associated with the earth.
 
 173
-00:20:20,463 --> 00:20:23,935
-Do we live only by these eyes, or do we carry our eyes solely for use?
+00:23:58,653 --> 00:24:06,279
+It helps sustain the life of all creatures that move through the air on earth, and we can confirm this both within ourselves and through observation.
 
 174
-00:20:23,935 --> 00:20:26,862
-We also live by ears, so that we can be eager for promises.
+00:24:06,279 --> 00:24:13,955
+Sometimes, in the Scriptures, it is also referred to as the earth; as the Psalmist says, when all creatures are urged to praise the Lord, the Creator.
 
 175
-00:20:26,862 --> 00:20:29,988
-Great affections draw us through this part of the body as well.
+00:24:13,955 --> 00:24:18,664
+After discussing the higher order of the heavens, the focus shifts to this space of the air.
 
 176
-00:20:29,988 --> 00:20:35,147
-Let us eagerly await with fervent vows and pressing desires those things that are promised and preached.
+00:24:18,664 --> 00:25:19,667
+It is written: "Praise the Lord from the earth, you dragons, and all depths; fire, hail, snow, ice, stormy winds that do his word" Psalm 148:7.
+Up to this point, the discussion has been about the air, which is sometimes called the earth.
+Afterwards, the Scriptures speak about the soil and the nature of the lower earth with these words: "Mountains and all hills; fruitful trees and all cedars" Psalm 148:9.
+The air is often referred to as the earth because of its density and apparent solidity, which supports the bodies of flying birds, even the largest ones, just as fish swim through the waters of the sea.
+Thus, birds traverse the spaces of the air by flying.
+Everything that water provides to sustain the life of aquatic creatures, the air does for flying creatures.
+Just as the reciprocal breath of birds and all that live in the air and on land nourishes and sustains life, so the vital movement of those living in the waters is refreshed through the act of breathing in and out.
+Therefore, when creatures are brought into the air, if they do not have the proper breath for air, they quickly perish.
+Similarly, those that live in the air cannot survive when air is excluded from them.
 
 177
-00:20:35,147 --> 00:20:38,024
-The faithful one, that author, instills faith in promises.
+00:25:19,872 --> 00:26:50,544
+As I mentioned, just as the solid nature of the air supports the bodies of flying creatures, it also supports the dense mass of clouds, which often earns it the name "earth." These clouds are sustained by the solid nature of the air, and through this density of air, snow, hail, and ice are produced by the power of cold when it occurs.
+When they are drawn into the air, because they do not have a watery breath, they quickly perish; just as those that live in the air cannot survive if the air is taken away from them.
+Just as the solid nature of the air supports flying creatures, it also supports the dense mass within itself, which often gives it the name "earth." The dense mass of clouds is sustained, and through this density of air, snow, hail, and ice are produced by the power of cold when it happens.
+This space of air has the ability to draw and collect water vapors from the earth and the sea with a smoky lightness, lifting them up high.
+As long as they remain in tiny drops, they form clouds, and the air itself suspends them.
+But when the wind causes these tiny drops to merge into larger drops, the nature of the air can no longer support them, and they fall to the ground as rain.
+If the wind gathers these drops into larger masses before they fall, and they are caught by cold in the clouds, the cold's violence turns them into frozen hailstones.
+If the cold reaches the not yet condensed vapors and turns them into drops, it transforms them into snow.
+The snow that is nourished in the high clouds, when the air can't support it any longer, and the wind disperses it, falls to the ground.
+The Psalmist mentions this, speaking of the Lord:
+"He gives snow like wool; He scatters the frost like ashes.
+He sends out His ice like crumbs; who can stand before His cold?" (Psalm 147:16-17).
 
 178
-00:20:38,024 --> 00:20:40,604
-Let us strive for the best things that are promised.
+00:26:50,544 --> 00:27:01,683
+To illustrate that snow, whether on the earth or in the clouds, eventually melts back into water, he later adds:
+He sends out His word, and melts them; He causes His wind to blow, and the waters flow (Psalms 147:18).
 
 179
-00:20:41,447 --> 00:20:46,456
-If we aim to use our eyes effectively and beneficially, we are often driven by a desire for the future.
+00:27:01,683 --> 00:27:10,760
+It's clear that the waters are suspended in the clouds, as written in the book of Job:
+He binds up the waters in His clouds, and the cloud does not burst under them (Job 26:8).
 
 180
-00:20:46,456 --> 00:21:04,253
-When we turn our admiration from observing the world back toward the creator of such a grand design, or when we reflect on how much greater the light's splendor will be when it meets our eyes in the future, given the current magnificence of the light:
-How much more magnificent will the form of eternal things shine, when even perishable things are so beautiful now.
+00:27:10,760 --> 00:27:16,227
+However, the air eventually sends those waters back down to the earth and sea, lifting them up from below.
 
 181
-00:21:04,253 --> 00:21:11,157
-Therefore, we should not misuse our bodily functions for lesser purposes but rather balance them well for both our physical and eternal lives.
+00:27:16,227 --> 00:27:20,662
+Even though rain draws water from the salty sea, it becomes sweetened through the air.
 
 182
-00:21:11,157 --> 00:21:14,901
-Use what is temporary in a way that we do not neglect service to the eternal.
+00:27:20,662 --> 00:27:26,645
+Just like when salty sea water is poured over the soil (as sailors often do), it immediately changes to fresh water.
 
 183
-00:21:14,901 --> 00:21:20,931
-If this distraction and love please us, and if the delight of sensation draws us, this love truly is the height of pleasure.
+00:27:26,645 --> 00:27:36,701
+Through changes in the air and winds, and by stronger agitation, even fires and thunders are created by hidden commands through angels, who govern the visible world, under the Creator's guidance.
 
 184
-00:21:20,931 --> 00:21:28,711
-It is not only something that can be immensely loved but also something that should be loved the most, as it is pleasant, splendid, unique, and an eternal good.
+00:27:36,701 --> 00:27:46,810
+Some believe that thunder occurs because, when there are spaces around the air filled with fire and water—one above and one below—and the air draws both into itself, these opposing elements clash.
 
 185
-00:21:28,711 --> 00:21:34,594
-God, our God, whom you can burn for with such a great and pious fire, if precious desires follow in place of former ones.
+00:27:46,810 --> 00:27:51,296
+Thunder cannot happen without humid clouds and lightning, as clearly seen by observers.
 
 186
-00:21:34,594 --> 00:21:38,971
-If the dignity of such magnificence captivates you, nothing is more magnificent than that.
+00:27:51,296 --> 00:27:58,310
+In this clash, fire and water mix, causing terrible sounds and roars; if fire wins, it harms the earth's fruits and trees significantly.
 
 187
-00:21:38,971 --> 00:21:43,639
-If something adapted to glory and fitting for it seizes you, nothing is more glorious than that.
+00:27:58,310 --> 00:28:02,024
+But if water prevails, it retains its fruitful power in trees and crops.
 
 188
-00:21:43,639 --> 00:21:47,869
-If you are led by the sight of splendid, shining things, nothing is brighter than that.
+00:28:02,024 --> 00:28:08,522
+Thunder sounds especially when the fruits of trees and the earth are still in their early stages, before they begin to mature.
 
 189
-00:21:47,869 --> 00:21:51,613
-If you are drawn by the sight of beauty, nothing is more beautiful than that.
+00:28:08,522 --> 00:28:14,504
+The increase or decrease of some creatures, by the command of the Lord Creator, is governed through other creatures.
 
 190
-00:21:51,613 --> 00:21:55,114
-If you think you embrace truth in something, nothing is truer than that.
+00:28:15,072 --> 00:28:19,728
+Chapter EightAbout the Devil and the Nature of Demons.
 
 191
-00:21:55,114 --> 00:21:59,101
-If you believe in the generosity of something, nothing is more generous than that.
+00:28:19,728 --> 00:28:27,481
+In this turbulent and foggy region of the air, as we mentioned, the angels who were cast down from their heavenly happiness dwell with their leader.
 
 192
-00:21:59,101 --> 00:22:01,095
-Do you marvel at what is pure and simple?
+00:28:27,481 --> 00:28:33,558
+That leader is called Satan and the devil, while the remaining spirits, who were once angels, are now called demons.
 
 193
-00:22:01,095 --> 00:22:03,186
-Nothing is more sincere than that goodness.
+00:28:33,558 --> 00:28:46,865
+Just as their merits have changed, so have their names and their places; however, even now in the Scriptures, they are often called angels by their old name, because they are messengers of wickedness, just as good spirits are messengers of righteousness.
 
 194
-00:22:03,186 --> 00:22:05,763
-Are you attracted by the abundance of flowing things?
+00:28:46,865 --> 00:28:52,314
+As it is written in the Gospel: "which my Father prepared for the devil and his angels" (Matthew 25:41).
 
 195
-00:22:05,763 --> 00:22:08,000
-Nothing is more plentiful than that abundance.
+00:28:52,314 --> 00:28:58,810
+The Apostle also says: "A thorn in my flesh was given to me, a messenger of Satan, to torment me" (Second Corinthians 12:7).
 
 196
-00:22:08,000 --> 00:22:10,090
-Do you love something for its faithfulness?
+00:28:58,810 --> 00:29:13,007
+But these beings, even now, under the expectation of the terrifying arrival of the Lord's judgment, occupy these seats with fear and trembling, although fruitlessly for now, as the apostolic words testify, saying: "Even the demons believe, and they tremble" (James 2:19).
 
 197
-00:22:10,090 --> 00:22:12,035
-Nothing is more firm in faith than that.
+00:29:13,007 --> 00:29:30,662
+To make it clear that under the expectation of the time in which they will be judged more harshly or rather destroyed, these unclean spirits inhabit this region of the air, who cried out in the presence of the Savior: "What do you want with us, Jesus, Son of God? Have you come here to destroy us before the appointed time?" (Luke 4:34).
 
 198
-00:22:12,035 --> 00:22:14,078
-Do you love something for its convenience?
+00:29:30,662 --> 00:29:53,609
+At the coming of the eternal judge (when the common prayer of all the saints, saying: "Your will be done on earth as it is in heaven," will be fulfilled), the useless servants will be cast out into outer darkness, as the Lord will expel His adversaries from heaven just as He expelled them from the earth, to whom the punishment of eternal fire has been irremediably prepared by the Father (as the Lord Himself testifies) (Matthew 25:41).
 
 199
-00:22:14,078 --> 00:22:16,801
-Nothing is more convenient than the love of this itself.
+00:29:53,976 --> 00:29:59,448
+Therefore, they do not deserve forgiveness or redemption because they fell from the highest state of their order.
 
 200
-00:22:16,801 --> 00:22:19,621
-Does something draw you with its severity or pleasantness?
+00:29:59,448 --> 00:30:03,516
+Once they abandoned their sin, there was nothing left for them to be called back to.
 
 201
-00:22:19,621 --> 00:22:21,955
-Nothing is more magnificent or worthy than that.
+00:30:03,516 --> 00:30:11,168
+They polluted their happiness, in which they were established, by transgressing the natural good that they were and the Lord's law in which they were created.
 
 202
-00:22:21,955 --> 00:22:24,970
-Kindness is required in adversity and sweetness in prosperity.
+00:30:11,168 --> 00:30:16,301
+Because of this, they neither desire to repent nor could they receive forgiveness even if they did repent.
 
 203
-00:22:24,970 --> 00:22:28,617
-It is unique in providing either joy in happy times or solace in sad times.
+00:30:16,301 --> 00:30:21,095
+The human race deserved redemption from its Creator because it fell from a lower rank in its order.
 
 204
-00:22:29,783 --> 00:22:34,453
-Therefore, it is most reasonable for you to love Him above all, in whom you have everything.
+00:30:21,095 --> 00:30:33,154
+When humanity was placed in the earthly paradise, destined for procreation and the consumption of food, it would have received a better, more sublime, and spiritual life without death, if it had remained obedient to the commandment during that time.
 
 205
-00:22:34,453 --> 00:22:39,427
-Wealth and whatever else currently delights you not only reside within Him but also come from Him.
+00:30:33,154 --> 00:30:39,692
+Therefore, the mercy of the Creator calls man back to the state he had not yet reached when he sinned, through the passion of the Lord.
 
 206
-00:22:39,427 --> 00:22:42,929
-Let your scattered love henceforth be devoted to divine watchfulness.
+00:30:39,692 --> 00:30:44,244
+If man had fallen from that higher state, like the angel, he would never be called back again.
 
 207
-00:22:42,929 --> 00:22:46,837
-Your wandering affection should be brought back to sacred use, now pure love.
+00:30:44,244 --> 00:31:20,420
+The restoration will not be to the rank or order from which the first man fell, but to a more sublime state he hoped for, as the Lord says: "They will be like angels in heaven" This means they will not be like humans in paradise; for into that mortality, assigned to the procreation of offspring and the consumption of food for a time, humans will not return. But after death, rising with spiritual bodies, they will not grow, age, or die, sharing the happiness of the angels.
+If we inquire about the time of the devil's transgression, we find that the devil's sin occurred before the time of visible things. Scripture teaches that all things were made simultaneously and without time, as it says: "He who lives forever created all things at once"
 
 208
-00:22:46,837 --> 00:22:54,704
-Correct and direct your straying affection, suppressing error, and turn your love towards God, because whatever you love now is His; His, I say, it is His.
+00:31:20,808 --> 00:32:37,656
+In all these things, even that infernal eternal fire, about which the Lord says: "Go into the eternal fire, which my Father has prepared for the devil and his angels" Matthew 25:41, is believed to have been created simultaneously. For when He says, "He created all things at once," He left nothing uncreated among all creatures.
+Therefore, the prison that was prepared at the time of creation was made for the one whose sin preceded the very creatures; for the Lord would not have prepared punishment for an innocent being if the sin of that being had not occurred before the punishment was prepared. But He also did this outside of time, He who made the punishment of damnation, by which the runaway servant would be tormented.
+This angel, however, when he departed from the Creator's blessedness, lost all the goodness of his nature that he had in his original state; but though he is evil to himself, he always remains good to God, as he obediently, though not willingly, follows the Lord's command because of God's power. From all the goodness of his nature that he had, he now only retains this: that he obeys the Creator God's commands in all things.
+But this obedience is not good in the devil and his ministers, who obey only because they cannot disobey; yet this obedience is good in God, whose good will the devil's evil will, when commanded to do good works, cannot resist. But it often happens that when something is commanded by God's good will, the devil's evil will is satisfied in the very same work.
 
 209
-00:22:54,704 --> 00:23:00,490
-For He is so great that those who do not love Him, unfairly indeed, still cannot love anything except what is His.
+00:32:37,656 --> 00:32:56,314
+Just as to deceive Ahab, the most wicked king, who was an idolater and persecutor of prophets, when asked how he would deceive, he not only willingly offered himself for this task but also revealed his plan and said:
+"I will go and be a lying spirit in the mouths of all his prophets."
+And the Lord said: "Go and do so, and you will deceive Ahab"
+(Second Chronicles 18:21).
 
 210
-00:23:00,490 --> 00:23:16,325
-Yet, I would like a just judge to consider whether it is fair to love the work while neglecting and abandoning the Creator of all things; to rush into desires and pursuits for His creation indiscriminately, when surely it should have been proper to be drawn to love God through this very affection for His works.
+00:32:56,314 --> 00:33:03,367
+For it was fitting that he, who had put the true prophets of the Lord to death, should perish, deceived by the false words of false prophets.
 
 211
-00:23:16,325 --> 00:23:27,745
-And now man is turned against Him, towards the desires and services of unworthy creations, with minds discordantly at odds, seeking the art but abandoning the artist, embracing the appearance without marveling at its creator.
+00:33:03,367 --> 00:33:12,121
+Behold, the devil promptly offered himself for this wicked task of deceiving the impious, but if he had not been permitted by the Lord, he would not have been able to do this.
 
 212
-00:23:27,745 --> 00:23:31,095
-And what have we said about that great multitude of His sweetness?
+00:33:12,121 --> 00:33:20,125
+The good will of God exercised just vengeance on the holy prophets, while the evil minister fed his own wicked will in the destruction of the wicked and sinful.
 
 213
-00:23:31,095 --> 00:23:36,373
-Or what have we spoken of such great and ineffable goodness, the holy and profound treasure of His love?
+00:33:20,125 --> 00:33:30,980
+But neither among men nor in things subject to men can anything be done without God's permission, as the truth of the Gospel shows, where it is said: "If you cast us out, send us into the herd of pigs"
+(Matthew 8:31).
 
 214
-00:23:36,373 --> 00:23:41,246
-Or when has anyone ever been able to fully express the dignity of this matter by speaking of it?
+00:33:30,980 --> 00:33:39,684
+For just as in those men from whom he was expelled, he could not remain against the Lord's command, so also he showed that he could not enter the pigs without His permission.
 
 215
-00:23:41,246 --> 00:23:45,610
-Therefore, let us consider that loving Him is not only pleasurable but also necessary.
+00:33:39,684 --> 00:33:44,086
+This is similarly shown in the case of blessed Job and the things he possessed and lost.
 
 216
-00:23:45,610 --> 00:23:50,026
-Indeed, it is impious not to love Him, to whom you cannot repay even when you love Him.
+00:33:44,086 --> 00:34:12,849
+In these, the wickedness of the enemy is proven to have done nothing without the Creator’s permission, as it is said: "Have you not made a hedge around him and his house and all his possessions?"
+And when the Lord allowed his possessions to be given to the power of the evil enemy, it is added: "Behold, all that he has is in your hand; but do not lay a hand on him"
+And Job, understanding these things, responded when he learned of the loss of his possessions:
+"The Lord gave, and the Lord has taken away. As the Lord willed, so has He done; blessed be the name of the Lord"
 
 217
-00:23:50,026 --> 00:23:55,507
-It is most unjust not to want to give Him what you can, to whom, even if you wanted to, you could not repay.
+00:34:13,200 --> 00:34:21,881
+He did not say: The Lord gave, the devil took away; for he knew very well that without God's permission, the adversary could do nothing at all in matters or with people.
 
 218
-00:23:55,507 --> 00:23:58,604
-For what shall we return to the Lord for all He has given us?
+00:34:21,881 --> 00:34:29,947
+But often, in the same task, the wicked will of his adversary feeds itself, and the Lord's goodwill, or just punishment, or fruitful testing is administered.
 
 219
-00:23:58,604 --> 00:24:12,510
-Psalms 116:12 asks, "What shall I return to the Lord for all His bounty to me?" What shall we return, even for this one thing, that through faith He gave salvation to man and established it, so that it was as easy as possible to spread hope to the world and life to mortals.
+00:34:29,947 --> 00:34:35,495
+Under this dual distribution of good and evil will, they punish the wicked and test the good through trials.
 
 220
-00:24:13,271 --> 00:24:21,342
-And to delve into these matters, do you think that all those external things, like nations and kingdoms, came under Roman control and law for any other reason?
+00:34:35,495 --> 00:34:42,892
+For this reason, as long as they still freely fly in this air, up until the time of the final judgment, their punishment is delayed by the Lord.
 
 221
-00:24:21,342 --> 00:24:30,021
-Was it not so that faith might penetrate more easily through one nation, like medicine through one body, allowing what is given to the head to quickly spread to the limbs?
+00:34:42,892 --> 00:34:51,985
+This is so the wicked among humans may appear as their companions in both crime and punishment, and the good, tested through the tribulations inflicted by them, may be revealed.
 
 222
-00:24:30,021 --> 00:24:37,635
-Otherwise, there wouldn't have been such a unification among nations with different customs and languages, nor such a long journey through new stages.
+00:34:51,985 --> 00:34:57,944
+Indeed, the wicked and impure spirits, wandering and subtle, are emotionally susceptible and clothed in airy bodies.
 
 223
-00:24:37,635 --> 00:24:46,771
-Finally, Blessed Paul, noting the spread of faith through this same people, writes that from Jerusalem all the way to Illyricum, he has filled everything with the Gospel of Christ.
+00:34:57,944 --> 00:35:01,797
+Never aging and engaging in hostilities with humans, they swell with pride.
 
 224
-00:24:46,771 --> 00:24:48,750
-Romans chapter fifteen, verse nineteen.
+00:35:01,797 --> 00:35:09,554
+Deceptive and cunning in fraud, they stir human senses, bringing terror to mortals, disturbing life with nightmares, diseases, and distortion of limbs.
 
 225
-00:24:48,750 --> 00:24:53,877
-When would this have happened among nations, either countless in number or savage in their barbarity?
+00:35:09,554 --> 00:35:19,777
+They create illusions and oracles, control fate, infuse illicit love and desires into human hearts, and lie with plausible appearances, transforming themselves into the form and light of good angels.
 
 226
-00:24:53,877 --> 00:25:00,018
-This is why now the whole earth, from the rising to the setting of the sun, from the north and the sea, proclaims Christ.
+00:35:19,777 --> 00:35:23,219
+And just as in wickedness, so too do they differ in ranks of power.
 
 227
-00:25:00,018 --> 00:25:06,718
-This is why all sides of the world converge towards life, while the Thracian, the Libyan, the Syrian, and the Spaniard accept faith.
+00:35:23,219 --> 00:35:35,291
+Just as good spirits, that is, perfect angels, penetrate the air without suffering, so too would they, if they had not sinned, possess the places they now hold with suffering, subject to themselves, if they lived happily and blessedly.
 
 228
-00:25:06,718 --> 00:25:13,875
-Therefore, a great proof of divine mercy is that under Caesar Octavian, when the Roman Empire was at its peak, God gave Himself to the earth.
+00:35:35,291 --> 00:35:40,788
+Even when they speak their names, they take names from the offices and powers of wickedness for themselves.
 
 229
-00:25:13,875 --> 00:25:31,183
-So, to quote your own words, when about 1,185 years had passed since the beginning of this kingdom, whatever was added to the Roman Empire under the ancient kings or later under the dual administration of the consuls, all was prepared and provided for the coming of Christ and the spread of faith, if anyone is a suitable witness to show it.
+00:35:40,788 --> 00:35:48,391
+Just as when the adversary was asked by the Lord for his name in the region of the Gerasenes, he replied, saying: My name is Legion, for we are many
 
 230
-00:25:31,183 --> 00:25:32,604
-We will return to the topic.
+00:35:49,008 --> 00:35:55,404
+Therefore, it's clear that he didn't state his own name, which he didn't have, but instead used a title that reflected his rank and power.
 
 231
-00:25:32,604 --> 00:25:39,456
-Do not love the world or the things in the world, First John chapter two, because all these things deceive our sight with false colors.
+00:35:55,404 --> 00:35:59,761
+When the Lord asked, he indicated what was true about him because he couldn't speak otherwise.
 
 232
-00:25:39,456 --> 00:25:47,070
-The power of the eyes, given to light, should not be directed to error: and while it is open to the uses of life, it should not admit causes of death.
+00:35:59,808 --> 00:36:06,000
+Chapter Nine Chapter Nine: On the Nature of Waters and the Flow of the Ocean.
 
 233
-00:25:47,070 --> 00:25:51,384
-The desires of the flesh, as the Apostle excellently says, wage war against the soul.
+00:36:06,000 --> 00:36:13,361
+After exploring the expanse of the air and its inhabitants, we now turn our attention to the element of water, which lies between the air and the land.
 
 234
-00:25:51,384 --> 00:25:51,993
-First Peter.
+00:36:13,361 --> 00:36:21,453
+The gathering of waters, as the Scripture in Genesis declares, is called the sea, for it is written: "And the gatherings of the waters He called seas" (Genesis 1:10).
 
 235
-00:25:52,703 --> 00:25:59,385
-All these things are prepared for our destruction and disaster; they keep a vigilant watch, rising against us like foreign enemies.
+00:36:21,453 --> 00:36:31,593
+The part of the waters that flows through springs, rivers, and lakes across the land is fresh, providing drinking water for thirsty animals, supporting various uses, and fertilizing the land to nourish crops.
 
 236
-00:25:59,385 --> 00:26:02,088
-They gain as much strength as they take away from us.
+00:36:31,593 --> 00:36:40,319
+This is why the rains, which filter through the clouds and fall through the air, become flavorful to better support the growth of crops and quench thirst, as we mentioned earlier.
 
 237
-00:26:02,088 --> 00:26:10,351
-So far, I have spoken about the inescapable temptations of this deceitful world, including honors and riches, as if the world thrived on its pleasant allurements.
+00:36:40,319 --> 00:36:48,753
+The part of the waters that remains unchanged and spreads over vast areas of land, where the boundaries of the water are hidden, naturally retains a salty and sharper taste.
 
 238
-00:26:10,351 --> 00:26:16,472
-Whatever appearance those things once had, polished with a sheen, has now faded, and all false splendor has disappeared.
+00:36:48,753 --> 00:36:53,774
+This enables it to more effectively nourish fruits and other produce that cannot thrive in fresh water.
 
 239
-00:26:16,472 --> 00:26:18,818
-The world now barely has the power to deceive.
+00:36:53,774 --> 00:36:58,990
+Whether the natural taste of water is more flavorful or salty, or equally both, only God knows for certain.
 
 240
-00:26:18,818 --> 00:26:22,592
-The image of those things, once beautiful enough to deceive, has perished.
+00:36:58,990 --> 00:37:06,351
+Many believe that the salty taste is the natural flavor of water, while the sweeter taste is thought to be influenced by the nature of the land or air.
 
 241
-00:26:22,592 --> 00:26:28,458
-It used to try to seduce us with true brilliance but could not; now it almost cannot corrupt us with false display.
+00:37:06,351 --> 00:37:13,566
+However, just as salty water becomes fresh when it flows over the ground, fresh water can become salty when infused with the ashes of marine plants.
 
 242
-00:26:28,458 --> 00:26:31,620
-It lacked solid goods, and now it even fails in fleeting ones.
+00:37:13,566 --> 00:37:19,855
+Therefore, it is not difficult to believe that both tastes are natural in their own way, since each can transform into the other.
 
 243
-00:26:31,620 --> 00:26:38,505
-Neither temporary ornaments adorn it, nor do enduring ones strengthen it; unless we deceive ourselves, the world can hardly deceive us.
+00:37:19,855 --> 00:37:29,800
+The seas often separate stretches of land, setting boundaries for nations, enriching all provinces with their generous waves, and providing essential trade and exchange among different regions and people.
 
 244
-00:26:38,505 --> 00:26:41,107
-But why do we hesitate to express what is stronger?
+00:37:30,288 --> 00:37:35,758
+How closely the ocean's tides align with the movement of the moon is evident to those who observe carefully.
 
 245
-00:26:41,107 --> 00:26:47,074
-We speak of the dissipated wealth of the world, while the world itself is moving towards its end in its final stages.
+00:37:35,758 --> 00:37:42,039
+The ocean appears to advance and retreat twice a day within a 24-hour period, divided into cycles of high tide and low tide.
 
 246
-00:26:47,074 --> 00:26:50,492
-How much greater and more serious is it that it will not last long?
+00:37:42,039 --> 00:37:47,763
+The high tide typically lasts for six hours, consistently rising, and then recedes over the same number of hours.
 
 247
-00:26:50,492 --> 00:26:52,583
-Why do we recall its worn-out belongings?
+00:37:47,763 --> 00:37:53,689
+Conversely, the low tide rises for five hours and recedes over seven hours, leaving the shores it filled empty again.
 
 248
-00:26:52,583 --> 00:27:01,661
-It is not without reason that, with its strength consumed by age, it is pressured into decline and abandoned by its supports, as it now collapses under the burden of its old age.
+00:37:53,689 --> 00:38:03,668
+This pattern aligns so closely with the moon that it always seems to start a new cycle when the moon is in the middle of its phase, which lasts for seven days, twelve hours, and a quarter of a day.
 
 249
-00:27:01,661 --> 00:27:05,538
-The last age of the world is filled with evils like the diseases of old age.
+00:38:03,668 --> 00:38:08,936
+Thus, as the full moon wanes, the low tide also diminishes, splitting into six hundred four dark halves.
 
 250
-00:27:05,538 --> 00:27:10,740
-Famine, pestilence, devastation, wars, and terrors have been seen and are still seen in this gray age.
+00:38:08,936 --> 00:38:14,558
+However, the high tide is observed in between these phases, never coinciding exactly with the full or new moon.
 
 251
-00:27:10,740 --> 00:27:12,984
-These are the weaknesses of its final years.
+00:38:14,558 --> 00:38:17,800
+This results in twenty-four high and low tides each common year.
 
 252
-00:27:12,984 --> 00:27:18,544
-Hence, those signs in the sky, earthquakes, changing seasons, and monstrous births of animals are often seen.
+00:38:17,800 --> 00:38:23,777
+In a leap year, there are twenty-six of each, as the ocean's movements are inseparably linked with the moon's journey.
 
 253
-00:27:18,544 --> 00:27:22,471
-All these are still wonders of the passing time, but they are already fading.
+00:38:23,777 --> 00:38:34,364
+Out of these, four tides—two equinoctial high tides and two others at the end of periods of increasing or decreasing daylight—are notably stronger, visibly flooding higher and uncovering more shore than usual.
 
 254
-00:27:22,471 --> 00:27:27,725
-And this is confirmed not only by our weak words but also by the authoritative sayings of the apostles.
+00:38:34,364 --> 00:38:41,303
+Since it is impossible for the ocean not to leave some unknown areas, when it floods our lands, it uncovers the same areas as it recedes.
 
 255
-00:27:27,725 --> 00:27:31,958
-For it is written: "The ends of the ages have come upon us" (First Corinthians 10).
+00:38:41,303 --> 00:38:49,914
+This means that what is considered high tide here is low tide somewhere else, and vice versa, compelling us to admit that we only understand half of the ocean's workings.
 
 256
-00:27:31,958 --> 00:27:35,120
-Since this was said long ago, why do we delay, why do we wait?
+00:38:50,472 --> 00:38:59,214
+But in this and many similar matters, we can only acknowledge the power and vastness of the Creator, who arranged everything by number, weight, and measure Wisdom 11:21.
 
 257
-00:27:36,192 --> 00:27:39,695
-That day compels us, not just for ourselves, but for our time as well.
+00:38:59,214 --> 00:40:09,572
+Meanwhile, with the distinguished teacher of the Gentiles, we say: "For we know in part and we prophesy in part. But when what is perfect comes, then I will know fully, just as I am fully known" First Corinthians 13:9.
+Moreover, the scripture of Genesis declares that various kinds of fish and birds, meaning all aquatic and flying creatures, were made from this watery element. But philosophers who study the nature of things count 153 kinds of fish, that is, all creatures that live in water, which the apostolic net had gathered as if from every kind of fish.
+As for the birds, whether they have this number of species, or a larger or smaller number, although some may estimate, they cannot confirm it with great authority; thus, they are neither to be followed nor rejected. However, since the origin of all birds came from water, how did such diverse habits of living, dwelling, or swimming arise? Some always float on salty waves and find their sustenance there; others live in the still waters of lakes and rivers. Others live on land without any habit of swimming, some in fields, some in forests, some in mountains, and some in marshy places. Some cannot lift themselves with their wings to fly, while others reach the highest and most remote parts of the air by flying, so that in summer they even bring snow from the highest clouds with their wings.
 
 258
-00:27:39,695 --> 00:27:47,453
-Every hour reminds us that the moment of decision is near, where the end, with its uncertain danger and dual crises, threatens everyone equally with death.
+00:40:09,624 --> 00:40:15,633
+Despite their vastly different origins, all birds, regardless of their connection to water, thrive in varied conditions.
 
 259
-00:27:47,453 --> 00:27:51,107
-The world's mortality now weighs on me, as if my own fear weren't enough.
+00:40:15,633 --> 00:40:29,654
+Some come from salty water, some from fresh water, some from the dew of plants, some from the condensation of trees, some from the moisture of marshes, some from the confluence of mountains, some from the vapor of the air, and some from the fluid conspiracy of the highest clouds.
 
 260
-00:27:51,107 --> 00:27:52,358
-Why do we fuel our fears?
+00:40:29,654 --> 00:40:36,715
+Each bird naturally adapts to the environment that matches its origin, living in and deriving sustenance from the place it was first created.
 
 261
-00:27:52,358 --> 00:27:57,113
-There's no room for security when the end threatens us all, both individually and collectively.
+00:40:36,816 --> 00:40:40,200
+Chapter TenAbout Paradise
 
 262
-00:27:57,113 --> 00:28:06,222
-How much worse is the miserable condition of people, not just at the end of an age, but even in its decline; who neither place their hope in future joys, nor enjoy present pleasures.
+00:40:40,200 --> 00:40:45,384
+Since the earth was organized after the waters, let's first talk about Paradise, where the first humans lived.
 
 263
-00:28:06,222 --> 00:28:10,126
-They don't seize the joy of this brief life and have no hope for eternal life.
+00:40:45,384 --> 00:40:56,459
+Although this topic could be brief, there are many opinions on whether the immortal life granted to humans before sin was called Paradise, or if the entire world was so perfectly arranged for innocent living that it was named Paradise.
 
 264
-00:28:10,126 --> 00:28:13,229
-They don't use temporal goods, nor will they use eternal ones.
+00:40:56,459 --> 00:41:01,690
+As long as the inhabitants lived blamelessly, their earthly home provided everything happily without any labor.
 
 265
-00:28:13,229 --> 00:28:16,132
-Here, there's little substance, and there, no hope at all.
+00:41:01,690 --> 00:41:10,268
+But after they sinned and changed for the worse, the world was also altered and obscured by their fault and the judgment of punishment, much like we discussed about the sun and moon.
 
 266
-00:28:16,132 --> 00:28:31,248
-This is a truly pitiable and miserable state of humanity; unless perhaps, one turns this bitter condition into a necessary correction, striving for better remedies and more wholesome desires; especially when the present time is so torn apart that losing the benefit of one future age means losing both.
+00:41:10,268 --> 00:41:12,436
+It lost much of its beauty and fruitful power.
 
 267
-00:28:31,248 --> 00:28:38,155
-All our focus must be directed to the hope of the future: to achieve this hope more fully and clearly, I won't hesitate to use an example.
+00:41:12,436 --> 00:41:17,290
+What once supported the happiness and well-being of the righteous now brought punishment to the wicked.
 
 268
-00:28:38,155 --> 00:28:49,166
-If someone today offers you 5 bronze coins and promises 500 gold coins tomorrow, giving you the option to take the bronze now or wait for the gold: is there any doubt you would prefer the larger reward with a small wait?
+00:41:17,290 --> 00:41:27,093
+Or was there a spiritual place, full of blessed happiness, prepared for humans who maintained the merit of their creation, where nothing harmed their bodily happiness as long as they followed the commandment?
 
 269
-00:28:49,166 --> 00:28:56,273
-You, too, considering the nature of this brief and eternal life, wouldn't choose the worthless things when you can hope for the precious ones.
+00:41:27,093 --> 00:41:35,623
+The authority of the Scriptures of Genesis supports this view, saying: "The Lord God had planted a garden in Eden, in the east, where he placed the man he had formed" (Genesis 2:8).
 
 270
-00:28:56,273 --> 00:29:00,427
-It's not worth taking the small things when it's better to wait for the great ones.
+00:41:35,623 --> 00:41:45,143
+From the beginning, Paradise is said to have been planted, suggesting this place holds a special primacy in the world, where the first man is believed to have been placed immediately after his creation.
 
 271
-00:29:00,427 --> 00:29:09,787
-If all the fragile things in the world, which we see and grasp (for hope is based on what we hope for), it's clear that hope is not to be found in this age, in which we enjoy what we see.
+00:41:45,143 --> 00:41:55,087
+Indeed, it was fitting that the head and beginning of the human race be placed in the head and beginning of the world, so that the growth of humanity would start from there, just as the world they inhabit began.
 
 272
-00:29:09,787 --> 00:29:11,489
-For hope that is seen is not hope.
+00:41:55,512 --> 00:42:04,319
+The state of paradise, as described in Scripture, is depicted as being filled with fruit-bearing trees and adorned with a great fountain that waters the whole face of the earth.
 
 273
-00:29:12,240 --> 00:29:14,681
-For who hopes for what they see? (Romans 8:24).
+00:42:04,319 --> 00:42:08,748
+It narrates about the man placed there:
+"Eat from any tree in the garden" (Genesis 2:16).
 
 274
-00:29:14,681 --> 00:29:22,163
-Therefore, whatever hope mixes with human affairs must be sought in the future; otherwise, it cannot even be called hope if it is not hoped for.
+00:42:08,748 --> 00:42:12,779
+The woman said, "We eat from the fruit of the trees in the garden" (Genesis 3:2).
 
 275
-00:29:22,163 --> 00:29:27,514
-And so, we follow a more evident hope in the future than the hope of what we experience in the present.
+00:42:12,779 --> 00:42:18,601
+And earlier it states: "And a fountain rose from the earth, watering the entire surface of the ground" (Genesis 2:6).
 
 276
-00:29:27,514 --> 00:29:37,489
-Behold, the things close to our eyes are not looked at absolutely as if our vision is overwhelmed; but much more certainly, we focus on things offered from a distance, as if our eyes are free.
+00:42:18,601 --> 00:42:29,698
+In these passages, with a straightforward historical account, what would prevent the truth of Scripture from being preserved, just as it shines through in all its accounts about the beginning of the entire visible creation?
 
 277
-00:29:37,489 --> 00:29:42,269
-Therefore, it is not to be doubted that it happens similarly with present and future things.
+00:42:29,698 --> 00:42:38,855
+We believe, as Genesis investigates historically, in the creation of the firmament, the sea, the earth, the lights, the stars, the aquatic creatures, the land animals, and man himself.
 
 278
-00:29:42,269 --> 00:29:49,595
-For present things, as if thrust into our eyes, are not seen correctly; future things, as if drawn back from our eyes, are seen most clearly.
+00:42:38,855 --> 00:42:46,220
+Why should we not accept the mention of paradise filled with fruit-bearing trees and adorned with a great fountain, unless it's considered a riddle?
 
 279
-00:29:49,595 --> 00:30:11,727
-And we do not presume this confidence in future things from an uncertain author, but from our Lord Jesus Christ, the truest guarantor of truth, who promises an endless kingdom to the just and ample rewards of the most blessed eternity; who also, through the ineffable sacrament of assumed flesh, being both man and God, reconciled man to God; and through the great and hidden mystery of his passion, absolved the world of sin.
+00:42:46,220 --> 00:42:53,286
+This can be understood in both ways: according to the historical narration of events and according to tropology, which is a moral explanation.
 
 280
-00:30:11,727 --> 00:30:28,976
-Thus, he was manifested in the flesh, justified in the spirit, seen by angels, preached among the nations, believed in the world, taken up in glory: for this reason, God exalted him, so that everything in heaven, on earth, in the sea, and in the depths, may now confess that the Lord Jesus is in glory, King and God before all ages.
+00:42:53,286 --> 00:43:28,617
+Sacred Scripture can be understood in three ways:
+The first is purely according to the letter, without any figurative intention, as Saint Jerome says: "The Acts of the Apostles indeed seem to me to sound like a bare history."
+The second way is through a figurative understanding, without regard to the actual events, such as the beginning and end of Ezekiel, the Song of Songs, and some parables of the Gospel, which speak one thing and mean another.
+The third way preserves the historical narration of events while understanding it in a mystical sense, just as the ark of Noah, the tabernacle, and the temple were made historically, and intellectually the mysteries of the Church are designated through these.
 
 281
-00:30:28,976 --> 00:30:29,807
-(Philippians 2).
+00:43:29,016 --> 00:43:37,899
+Thus, the location of the paradise of the first Adam, which existed as a symbol of the future, and of the future Church, which is the land of the second Adam, prefigured mysteries.
 
 282
-00:30:29,807 --> 00:30:38,483
-Why don't you, rejecting the precepts of philosophers to which you apply your effort and intellect, turn your mind to the studies of Christian teaching to imbibe them?
+00:43:37,899 --> 00:43:43,526
+While man lived there immortally and happily, wouldn’t the subjugation of the entire world also be subject to him?
 
 283
-00:30:38,483 --> 00:30:48,303
-There, too, you will find material for your eloquence and intellect to exercise; and it will soon be clear to you how much our precepts of piety and truth surpass those of the philosophers.
+00:43:43,526 --> 00:43:48,313
+For what would prevent him from entering the world, who would not fear being harmed by creatures?
 
 284
-00:30:48,303 --> 00:30:54,901
-For in their precepts, either virtue is shadowed, or wisdom is false; but in these, true justice and solid truth are contained.
+00:43:48,313 --> 00:43:59,418
+Fire would not burn him, water would not drown him, the strength of beasts would not kill him, thorns or stings would not wound him, the absence of air would not suffocate him, and nothing that harms mortals would hinder him.
 
 285
-00:30:54,901 --> 00:31:00,148
-Hence, it is legitimate to say that others have usurped the name of philosophy, but we have the life.
+00:43:59,418 --> 00:44:07,611
+An immortal and invulnerable body would face no threats of death, wounds, or injury from any creatures, as long as he did not offend the Creator through disobedience.
 
 286
-00:31:00,148 --> 00:31:04,772
-Indeed, what kind of precepts for living can be given by those who do not know the cause?
+00:44:07,611 --> 00:44:23,701
+Therefore, what would stop the inhabitant of paradise from examining all things that were subject to him, when the Lord not only did not forbid it but commanded it, saying: "Be fruitful, and multiply, and fill the earth, and subdue it; and have dominion over the fish of the sea, and over the birds of the air" (Genesis 1:28)?
 
 287
-00:31:05,448 --> 00:31:11,765
-Ignorant of God and turning away from righteousness from the very beginning, they fall into further error in other matters.
+00:44:23,701 --> 00:44:36,533
+Just as it is free for angels to move about in the realms subject to them from their seat in heaven, and yet they have their seats in heaven, why would it be difficult for humans placed in paradise to move about all creation subject to them without any effort?
 
 288
-00:31:11,765 --> 00:31:14,693
-Thus, it happens that the end of such pursuits is vanity.
+00:44:36,533 --> 00:44:42,307
+Just as they possessed bodies immune to pain, aging, and death, they also had bodies free from all toil and laziness.
 
 289
-00:31:14,693 --> 00:31:19,572
-If some among them define more honorable things, they serve this boastfulness and labor for it.
+00:44:42,307 --> 00:44:53,708
+But truly, when the inhabitant of paradise committed sin in his place of earthly happiness, he was banished to the cursed earth and immediately lost some of the things he had possessed before, while he preserved others with effort.
 
 290
-00:31:19,572 --> 00:31:22,808
-Thus, among them, abstinence from vices is not free from vices.
+00:44:53,708 --> 00:44:58,249
+Having been excluded from the seat of blessedness, the possibility of returning was blocked.
 
 291
-00:31:22,808 --> 00:31:26,352
-These are, as it is written, those who are focused on earthly things.
+00:44:58,249 --> 00:45:09,946
+Thus, just as the apostate angel, cast down with his followers from the highest serenity of his paradise, was allotted the gloomy place of this air, so too was man cast down from the earthly happiness of his paradise to the cursed earth.
 
 292
-00:31:26,352 --> 00:31:27,277
-Philippians 3:19
-.
+00:45:10,440 --> 00:45:16,125
+When the inhabitant of paradise sinned in his place of earthly happiness, he was cast down to the accursed earth.
 
 293
-00:31:27,277 --> 00:31:31,489
-Hence, it is clearly shown that they do not see true righteousness or true wisdom.
+00:45:16,125 --> 00:45:21,257
+Immediately, he lost some of the things he previously possessed, while others he had to labor to keep.
 
 294
-00:31:31,489 --> 00:31:43,046
-Will anyone from that school of Aristippus see the truth, who in his nature is no different from pigs or cattle, when he places happiness in bodily pleasure: whose god is his stomach, and whose glory is in his shameful parts?
+00:45:21,257 --> 00:45:25,584
+Being excluded from the seat of blessedness, the possibility of returning was blocked.
 
 295
-00:31:43,046 --> 00:31:48,850
-Will he teach what is honorable and just, who philosophizes while being a spendthrift, shameless, and adulterous?
+00:45:25,584 --> 00:45:35,295
+Just as the apostate angel and his followers were cast down from the serenity of paradise to the gloomy place of this air, man too was cast down from his earthly paradise to the accursed earth.
 
 296
-00:31:48,850 --> 00:31:55,630
-But let another occasion be reserved for speaking against philosophers; I will now come to those matters for which I speak with you.
+00:45:35,295 --> 00:45:47,621
+As it is written:
+"And the Lord God drove him out of paradise and placed him on the earth from which he was taken. He set cherubim before paradise, with a flaming sword that turned every way, to guard the way to the tree of life" (Genesis 3:23).
 
 297
-00:31:55,630 --> 00:32:05,029
-Leave aside those general opinions of theirs that you find pleasing, mostly brief and collected from various disputations, and turn yourself to the studies and writings of our people.
+00:45:47,621 --> 00:46:00,351
+This shows that although cherubim are said to guard the way to the tree of life, they are also commanded to defend the entire paradise, as Scripture indicates the flaming sword is placed not only before the tree of life but before the whole of paradise.
 
 298
-00:32:05,029 --> 00:32:08,060
-There, you will satisfy your mind with diverse instruction.
+00:46:00,351 --> 00:46:07,848
+It is not entirely clear from which specific tree Adam ate, but it is clear that immediately after the sin, he covered his nakedness with fig leaves.
 
 299
-00:32:08,060 --> 00:32:15,662
-There, to instill faith, you will hear not these exact words but the following meanings:
-The Word of God, who does not believe, does not understand.
+00:46:07,848 --> 00:46:17,910
+This tree alone, in the time of his flesh, the Lord Jesus cursed shortly before his death for Adam's sin, and it quickly withered when he said: "May no fruit ever come from you again" (Matthew 21:19).
 
 300
-00:32:15,662 --> 00:32:21,260
-There, you will be reminded: Fear the Lord, because you call Him Lord; love Him, because you call Him Father.
+00:46:17,910 --> 00:46:20,979
+This means it could no longer harm humans, just as the devil.
 
 301
-00:32:21,260 --> 00:32:27,527
-There, you will learn about true sacrifices by hearing: The most acceptable sacrifices to God are righteousness and mercy.
+00:46:20,979 --> 00:46:28,879
+Behold, Christ gathered the curse of Adam's sin upon this tree, the fig tree, which infected the whole earth before he purified it with the dew of his blood.
 
 302
-00:32:27,527 --> 00:32:34,563
-There, it will be suggested to you: If you love yourself, love your neighbor; for nothing benefits you more than what you give to others.
+00:46:28,879 --> 00:46:33,960
+However, whether man first received the blame from this tree or another, God alone knows for certain.
 
 303
-00:32:34,563 --> 00:32:40,316
-There, it will be commanded to you: Do not consider any cause so worthy that it justifies the death of a person.
+00:46:34,464 --> 00:46:42,340
+Whatever the tree of the knowledge of good and evil might be now, it shouldn't be thought that it can harm people today as much as it could harm those in paradise then.
 
 304
-00:32:40,316 --> 00:32:48,534
-There, you will be advised against unlawful acts: Resist lust as the most bitter enemy, who rejoices in insulting the defeated, even with the shame of the body.
+00:46:42,340 --> 00:46:48,857
+Eating from this tree can lead to death, but it's not because the tree itself is deadly or because it gives the knowledge of good and evil.
 
 305
-00:32:48,534 --> 00:32:54,441
-There, you will be taught not to covet: It is better to not want what you do not have than to have what you desire.
+00:46:48,857 --> 00:46:52,936
+It's the disobedience to the Lord's command not to eat from the tree that brings death.
 
 306
-00:32:54,441 --> 00:33:01,016
-There, you will be instructed not to get angry: He who gets angry when provoked only does not get angry when he is not provoked.
+00:46:52,936 --> 00:46:56,968
+Obedience to God's command meant knowing good, while disobedience led to knowing evil.
 
 307
-00:33:01,992 --> 00:33:09,032
-You will hear about enemies: The one who is loved does not love the one who loves, because hardly anyone does not love the one who loves them.
+00:46:56,968 --> 00:47:04,797
+However, humanity couldn't understand the difference without transgressing; when people only knew good, they didn't understand what evil was or how it could harm them.
 
 308
-00:33:09,032 --> 00:33:13,643
-It will be repeated to you often: He who divides his treasure with the needy, stores it well.
+00:47:04,797 --> 00:47:11,033
+To show that there was nothing harmful in the tree itself, note that it's not the tree but the way to the tree of life that's barred.
 
 309
-00:33:13,643 --> 00:33:16,519
-For he cannot lose what he has invested by giving it away.
+00:47:11,033 --> 00:47:14,361
+This exclusion represents the merciful forgiveness of the original sin.
 
 310
-00:33:16,519 --> 00:33:21,825
-You will be persuaded of happier things, when it is said: The result of faithful marriages is self-control.
+00:47:14,361 --> 00:47:22,285
+If humanity had eaten from the tree of life after committing the original sin, they would've been stuck in a miserable, eternal state, unable to remove the stain of sin.
 
 311
-00:33:21,825 --> 00:33:27,180
-You will learn to discern when you hear: The evils of this world are common to both the just and the unjust.
+00:47:22,285 --> 00:47:29,036
+The Lord provided no other way to erase this sin except through death, which He planned to overcome through the coming of His Son, Jesus Christ.
 
 312
-00:33:27,180 --> 00:33:33,427
-You will be offered this to hear: Greater sorrow is when the soul suffers from vices than when the body suffers from diseases.
+00:47:29,036 --> 00:47:34,146
+Through Jesus's death, our guilt would die, and through His resurrection, the law of death would be annulled.
 
 313
-00:33:33,427 --> 00:33:39,030
-This will be pronounced to commend peace to you: Similarity of manners among the impatient is a cause of discord.
+00:47:34,146 --> 00:47:41,038
+By His ascension, immortality would be granted to humanity, and we would receive the angelic and spiritual life prepared for us from the beginning.
 
 314
-00:33:39,030 --> 00:33:47,657
-To avoid following the wicked, you will hear: The wise and the prudent inform, and the foolish; the former teaches what should be imitated; the latter what should be avoided.
+00:47:41,038 --> 00:47:49,524
+This is affirmed when the Lord says to those on His right in the final judgment: "Come, blessed of my Father, inherit the kingdom prepared for you from the foundation of the world."
 
 315
-00:33:47,657 --> 00:33:54,301
-These things too are brought forth: Many things benefit the ignorant; therefore, God's kindness is no less in secret than in the open.
+00:47:50,040 --> 00:47:55,224
+Chapter ElevenAbout the location of the world inhabited by humanity
 
 316
-00:33:54,301 --> 00:34:01,342
-You will be reminded: Give thanks to God not more in prosperity than in adversity; and when things go well, admit that you did not deserve it.
+00:47:55,224 --> 00:49:18,480
+Regarding the location of the world inhabited by humanity, the Psalmist says to the Lord:
+"You established the earth on its foundations; it will never be moved. The deep covered it like a garment; the waters stood above the mountains" Psalm 104:5-6.
+This indicates that the earth is founded not on the stability of another element but on its own stability and firmness.
+Whether anything is placed beneath it, such as the waters, and the waters beneath the air, and the air beneath the upper space, and that beneath the firmament, and the firmament beneath the upper waters, only He knows, who sees all things everywhere and from every angle.
+Many authors have reported that the part of the world given to humans to inhabit is divided into four parts.
+The names of these four parts, as wise men understand, begin with the four letters of the name of the first man, namely, Adam.
+That is, Anatole, Dysis, Arctus, and Mesimbria, which mean East, North, South, and West.
+It was fitting that the one who filled the whole earth with his kind would have in his name the names of the four parts of the world.
+The four seasons of the year are also distinguished in an annual sequence, and with the completion of the year, the management of the earthly world always returns in a cycle without cessation.
+In spring, the time when the world was created, it always blooms;
+in summer, it blossoms and bears fruit;
+in autumn, it ripens and provides its fruits for human use;
+in winter, it withers and dries up.
+However, it endures this cycle of growth and decline as long as it is subjected to the bondage of corruption and is bound to the service of mortals.
 
 317
-00:34:01,342 --> 00:34:11,308
-More distant things will also be revealed to you when these are preached: Ask the nations or their laws whether there is fate; for they certainly do not punish, except according to the will of actions.
+00:49:18,480 --> 00:49:23,859
+When humans are no longer born or die, the earth will stop experiencing cycles of growth and decline.
 
 318
-00:34:11,308 --> 00:34:16,911
-You will hear these things prescribed to maintain purity: If you want to be truthful, you will not be suspicious.
+00:49:23,859 --> 00:50:37,578
+At that time, the prophecy of Isaiah, or rather the Lord's prophecy through Isaiah, will come true:
+"Behold, I create new heavens and a new earth, and the former things will not be remembered, but you will rejoice and be glad in what I create."
+Isaiah 65:17-18.
+Humans, living spiritually with transformed bodies, will need to live in better, spiritual places.
+As Paul says, this body is sown in corruption but will be raised in incorruption. It is sown a natural body, but it will be raised a spiritual body; it is sown in dishonor, but it will be raised in glory. For this corruptible must put on incorruption, and this mortal must put on immortality.
+First Corinthians 15:42 and following.
+When corruption and mortality no longer exist in our bodies, we will not need mortal and corruptible things. This is confirmed by the holy Gospels, as shown in the resurrection of the Lord's body, when the linens He was wrapped in were found alone in the tomb after His resurrection.
+As it is said of Peter: "And he saw the linens alone, and went away, marveling at what had happened."
+John 20:5.
+Therefore, with new bodies that don't need what a corruptible life requires, a new earth with a new heaven will be created to live in. The nature and surface of this earth will be restored to a spiritual state, fitting for spiritual beings, without any changeability.
+But when will this happen?
 
 319
-00:34:16,911 --> 00:34:18,994
-For we do not suspect what we do not know.
+00:50:37,632 --> 00:50:46,745
+When Jerusalem is praised on earth, its people rejoice and are glad, and when the saints celebrate what the Lord has created, their sun will not set, and the moon will not wane.
 
 320
-00:34:18,994 --> 00:34:26,233
-You will also hear this about higher matters: With the mind fixed on God, when it is tickled by passions, it is brought down from heaven to earth.
+00:50:46,745 --> 00:50:55,755
+When those redeemed by the Lord come to Zion with praise, eternal joy will be upon their heads, and they will obtain joy and gladness, while sorrow and sighing will flee away.
 
 321
-00:34:26,233 --> 00:34:37,240
-You will be reminded of these things too: When here the wicked sometimes receive good things, and the good are afflicted by evils; those who do not believe in God's future judgment judge God unjust (which should never be).
+00:50:55,755 --> 00:50:59,668
+The days of their mourning are completed, and those who mourn are comforted.
 
 322
-00:34:37,240 --> 00:34:43,736
-It will be suggested to you: Do not do in secret what you wish people not to know; do not even think what you wish God not to know.
+00:50:59,668 --> 00:51:05,126
+God will wipe away every tear from the faces of the saints, and He will remove the disgrace of His people.
 
 323
-00:34:43,736 --> 00:34:48,248
-You will be told against all deceit: It is more unfortunate to deceive than to be deceived.
+00:51:05,126 --> 00:51:17,534
+The sorrow of those mourning in Zion will be taken away, and they will receive a crown instead of ashes, the oil of joy instead of mourning, a garment of praise instead of a spirit of despair, and they will be called strong in righteousness.
 
 324
-00:34:48,248 --> 00:34:53,751
-These things will also be prescribed to you against boasting: Avoid vanity all the more, the better you become.
+00:51:17,534 --> 00:51:22,734
+When the blessed come to the right hand, they will shine like the sun in the kingdom of their Father.
 
 325
-00:34:53,751 --> 00:34:56,875
-For other vices grow with vices, but vanity grows with virtues.
+00:51:22,992 --> 00:51:27,408
+Chapter TweleveOn the Nature of Humans After Sin
 
 326
-00:34:57,768 --> 00:35:00,914
-These few insights into studies have been briefly touched upon.
+00:51:27,408 --> 00:51:33,193
+Humans, destined to live in this world after original sin, did not lose all the natural good they originally had.
 
 327
-00:35:00,914 --> 00:35:07,406
-But if you delve into the very sources of sacred texts, you will marvel not only at the surface but even more at the depth within.
+00:51:33,193 --> 00:51:45,941
+Instead, corrupted first by the sin of their ancestor and further ruined by depraved habits, they now find that just as they gain the fruits of the cursed earth with labor, they can only preserve the natural good within them with painstaking effort.
 
 328
-00:35:07,406 --> 00:35:14,198
-When Scripture shines from within, like a precious gem at the bottom, it draws the eyes of those who contemplate into its deep radiance.
+00:51:45,941 --> 00:51:56,693
+Just as they fell in three ways through the disobedience of the first human, the serpent, the woman, and the consenting man, so too are all their descendants afflicted by three wounds: pain, old age, and death.
 
 329
-00:35:14,198 --> 00:35:21,490
-Train yourself not to turn away from the dimming vision of the mind; learn to satisfy the soul's hunger with this inner and wholesome nourishment.
+00:51:56,693 --> 00:52:04,116
+They struggle to preserve with great vigilance any good that was naturally implanted in them by the Creator and is found through diligent effort.
 
 330
-00:35:21,490 --> 00:35:29,281
-We do not doubt that through the work of the merciful Lord, you will desire our teachings, disdain your own, shun the trivial, and long for the substantial.
+00:52:04,116 --> 00:52:09,185
+Any good they find through God's grace, except for unjust wealth, they do not leave to their heirs.
 
 331
-00:35:29,281 --> 00:35:38,920
-It is most foolish, when God has done so much for us, that we have done nothing for ourselves; and although He has looked to human welfare in His works, man is unwilling to provide for himself.
+00:52:09,185 --> 00:52:14,356
+All the skills they acquire in life are lost equally at the end of this life when the spirit departs.
 
 332
-00:35:38,920 --> 00:35:42,915
-Indeed, we provide for ourselves if we return our affection and devotion to God.
+00:52:14,356 --> 00:52:19,476
+In the same condition of weakness, both the poor and kings, the foolish and the wise, are afflicted.
 
 333
-00:35:42,915 --> 00:35:48,458
-True happiness is to scorn the happiness of the world and, neglecting earthly things, to burn with divine love.
+00:52:19,476 --> 00:52:22,957
+For all alike need sleep, food for sustenance, and clothing to wear.
 
 334
-00:35:48,458 --> 00:35:52,504
-Therefore, from now on, direct all your words and deeds to God or for God's sake.
+00:52:22,957 --> 00:52:30,842
+They are either burdened or corrupted by the passions of carnal vices and are troubled by the emotions of the mind, such as anger, love, desire, and fear.
 
 335
-00:35:52,504 --> 00:35:56,000
-Ensure that she always accompanies you, and she will be your guardian.
+00:52:30,842 --> 00:52:33,197
+They are weakened by pain, old age, and death.
 
 336
-00:35:56,000 --> 00:35:57,498
-Innocence is already faithful.
+00:52:33,197 --> 00:52:37,805
+They quickly shed the past, use the present only a little, and await the uncertain future.
 
 337
-00:35:57,498 --> 00:36:01,044
-It is great to follow virtue and to contribute to it with our strength.
+00:52:37,805 --> 00:52:42,156
+In the same way, they sense and live through hearing, sight, touch, taste, and smell.
 
 338
-00:36:01,044 --> 00:36:05,389
-Do not fear that the soul cannot free itself from the habits of life for a better life.
+00:52:42,720 --> 00:52:47,362
+They are bound by the same connection of original sin and enriched by the same gift of the Redeemer.
 
 339
-00:36:05,389 --> 00:36:10,483
-The same one to whom we offer ourselves to be healed and protected provides strength to our affection.
+00:52:47,362 --> 00:52:50,286
+They are cleansed by the waters of baptism and the Holy Spirit.
 
 340
-00:36:10,483 --> 00:36:11,482
-From where, however?
+00:52:50,286 --> 00:52:58,317
+But for those who neglect the faith of redemption or the works of faith, eternal punishment is due, just like it is for the transgressing angels and the devil, their prince.
 
 341
-00:36:11,482 --> 00:36:15,677
-So that anyone might be able to grasp the reward of future goods even in estimation.
+00:52:58,317 --> 00:53:07,972
+However, for those who uphold the rights of the original condition, whether through the teachings of Scripture or the good defenses of nature, a life prepared by the gift of the Redeemer awaits in the future.
 
 342
-00:36:15,677 --> 00:36:21,220
-Behold the divine generosity, as we see, has granted the use of the most beloved light to all indiscriminately.
+00:53:08,112 --> 00:53:13,536
+Chapter Thirteen On the diversity of sinners and the place of punishments.
 
 343
-00:36:21,220 --> 00:36:30,709
-The common sun is given to the pious and impious alike; all creation serves its duty with kind services, and the entire world's possession is indiscriminately shared by the good and the bad.
+00:53:13,536 --> 00:53:21,485
+Because the nature of sins varies, some crimes can be cleansed through the fire of judgment, while others must be punished by the fire of eternity.
 
 344
-00:36:30,709 --> 00:36:35,803
-Since God grants such splendid things to the just and unjust here, what must be reserved for the just?
+00:53:21,485 --> 00:54:52,601
+Among these, some are deemed worthy of eternal punishment, some do not reach judgment, and some, after the examination of judgment, face perpetual damnation, as the Apostle Paul says:
+"Some people's sins are obvious, preceding them to judgment, but the sins of others follow them" Timothy 5:24.
+Regarding those who lack judgment, the Lord Himself testified and said:
+"Whoever does not believe in the Son is already judged" John 3:18.
+Therefore, it is understood that those who do not merit faith and do not receive the grace of baptism will not face future judgment but will depart from this life judged by the word of the Gospel, which says:
+"Truly, truly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God" John 3:3.
+The words of the Psalmist are also consistent with this, where it is said:
+"The wicked will not stand in the judgment" Psalm 1:5.
+However, those who are burdened by the multitude of sins after the cleansing of baptism are divided into two groups:
+some of them are judged by the words of the Holy Scripture before they depart from this life, about whom the Apostle Paul speaks, saying:
+"Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers, nor men who practice homosexuality, nor thieves, nor the greedy, nor drunkards, nor slanderers, nor swindlers will inherit the kingdom of God" First Corinthians 6:9.
+Those who commit such and similar deadly sins without remedy until death will be judged from this life into eternal punishments.
+Concerning whose guilt, the Lord's close companion John speaks:
+"There is a sin that leads to death; I do not say that one should pray for that" First John 5:16.
 
 345
-00:36:35,803 --> 00:36:38,950
-Let us consider, He who gave so much, how much will He restore?
+00:54:52,656 --> 00:54:58,149
+For sin leads to death, as anyone who neglects to repent for past crimes at the end of their life will find.
 
 346
-00:36:38,950 --> 00:36:41,996
-He who is so great in gifts, how great will He be in rewards?
+00:54:58,149 --> 00:55:04,507
+And it should be noted, according to the Apostle James, that whoever offends in one of these points has become guilty of all.
 
 347
-00:36:41,996 --> 00:36:46,591
-If the generosity of the giver is so immeasurable, what will be that of the one who rewards?
+00:55:04,507 --> 00:56:39,114
+For He who said, "You shall not commit adultery," also said, "You shall not kill." So if you do not commit adultery but you do kill, you have become a transgressor of the law James 2:10.
+Some, however, who are not involved in these serious crimes, are reserved for the final divine judgment and leave this world, yet they still face the sentence of eternal damnation from the supreme judge. These are the ones who, ignoring works of mercy, do not feed Christ in the poor with food or drink, do not clothe them, do not take them in as guests, and do not bring comfort to those who are sick, bound in chains, or in prison. For this, they will hear from Him: "Depart from me, you cursed, into the eternal fire prepared for the devil and his angels" Matthew 25:41.
+For it is not enough to abstain from doing evil to desire the kingdom of heaven; one must also take care to do good. For through the prophet Isaiah, the Lord equally commands: "Cease to do evil, learn to do good" Isaiah 1:16. The Spirit of the Lord also harmonizes these same words through the Psalmist, saying: "Turn away from evil and do good" Psalm 37:27.
+To show that after the terror of this dreadful sentence we have foretold, no repentance could sway the judge, it is thus added at the end of the entire discussion: "Then they will go away to eternal punishment" Matthew 25:46.
+Regarding that place of eternal fire, the dungeon of hell, many have said it is a physical place where the bodies of sinners will be tortured. For if that fire were not physical and in a place, how could it hold the tortured bodies of those who will be resurrected, in which the truth of corporality will be so susceptible to suffering that it will be subject to the gnashing of teeth and lamentable weeping? As the words of the Lord and judge declare, saying: "Cast the worthless servant into the outer darkness."
 
 348
-00:36:47,639 --> 00:36:56,587
-The things God has prepared for those who love Him are beyond description, truly immense, especially considering how greatly He rewards the good who give so much to the ungrateful.
+00:56:39,216 --> 00:58:19,872
+There will be weeping and gnashing of teeth Mark 25:30
+Where their worm does not die, and the fire is not quenched Isaiah 66:24; Mark 9:45
+In this place, it is said to the king of Babylon through the Prophet: "Beneath you, the moth is spread out, and worms are your covering" Isaiah 14:11
+Someone also said: "Just as the depths of the sea are to the earth, so the depths of the earth are to the underworld."
+Hence, it seems to be written about that which is written: "No one in heaven, nor on earth, nor under the earth was found who could open the book and break its seals" Revelation 5:2
+Therefore, it is clearly evident that this place, whatever kind it may be, is under the earth, which is called the lower hell and the land of forgetfulness.
+But this fire, since it is said to be prepared for the devil and his angels, what kind of physical nature must it have to torment angels? Also, the soul of the rich man, stripped of the body, is described as being tormented by that infernal fire, when he said: "For I am in agony in this flame" Luke 16:24
+Unless perhaps that fire and place have such power that they can torment and hold angels, souls, and bodies in the same way. Or certainly, when it is said about the children of the resurrection and eternal happiness: "They will be like angels in heaven" Mark 12:25
+Indeed, the children of eternal damnation, when they have taken back their bodies for the punishment of eternal fire, will themselves be like demons in hell; so that the children of the good resurrection, being children of God, will join the company of good angels, and the children of eternal death, being children of the devil, will join the company of Satan's angels.
+About whom it is said: "They will be gathered together as prisoners in a pit, and will be shut up in prison, and after many days they will be visited" Isaiah 2422
+Whether this is to increase or decrease their punishments, we do not know.
 
 349
-00:36:56,587 --> 00:37:03,297
-Look around, and from the sea of your concerns, look ahead and steer your course, as if navigating toward the harbor of our profession.
+00:58:19,872 --> 00:58:23,520
+Chapter FourteenOn Purgatorial Fire
 
 350
-00:37:03,297 --> 00:37:08,318
-This is the one harbor to which we are brought back from all the turbulence of the fluctuating world.
+00:58:23,520 --> 00:58:30,865
+Those who receive the comforts of eternal life will also experience the happiness of the kingdom of heaven in two ways through the gift of generosity.
 
 351
-00:37:08,318 --> 00:37:14,581
-We seek it, weary, among the crashing waves of life; here everyone must flee who is harassed by the storm of the raging world.
+00:58:30,865 --> 00:58:40,364
+For some, while still living on earth, when they become poor for Christ, the kingdom of heaven is not just a future promise but is given to them even now, as they persevere in labor and fatigue.
 
 352
-00:37:14,581 --> 00:37:17,216
-Here is the most faithful station, and certain peace.
+00:58:40,364 --> 00:58:45,212
+As it is said: "Blessed are the poor in spirit, for theirs is the kingdom of heaven" (Matthew 5:3).
 
 353
-00:37:17,216 --> 00:37:19,949
-Here a wide recess, shut off from the waves, is silent.
+00:58:45,212 --> 00:58:56,083
+Similarly, those who endure persecution for righteousness also rejoice in the same reward, as it is added: "Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven" (Matthew 5:10).
 
 354
-00:37:19,949 --> 00:37:21,938
-Here gentle tranquility shines serenely.
+00:58:56,083 --> 00:59:13,662
+He did not say "theirs will be," implying a future reward, but when they depart from their bodies, they will receive what they already possess now through the gift of the giver.
+Therefore, it is said to those still living on earth: "Whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven" (Matthew 18:18).
 
 355
-00:37:21,938 --> 00:37:27,555
-When you have been brought here, your ship will be safely held by the anchor of the cross after fruitless labors.
+00:59:13,662 --> 00:59:17,335
+It means that the kingdom of heaven is yours while you still live on earth.
 
 356
-00:37:27,555 --> 00:37:30,139
-But now, the longer page of writings demands an end.
+00:59:17,335 --> 00:59:24,386
+Whoever you free from sins can become its possessor, and whoever you exclude, destined for destruction, will be excluded from that same kingdom.
 
 357
-00:37:30,139 --> 00:37:35,309
-Receive the essence of the heavenly commandments, collected briefly and concisely, for the honor of God.
+00:59:24,386 --> 00:59:29,577
+Therefore, the Lord commanded: "Rejoice and be glad, for your names are written in heaven" (Matthew 5:12).
 
 358
-00:37:35,309 --> 00:37:38,142
-These are all the commands, forgive me, and recognize me.
+00:59:29,577 --> 00:59:38,440
+Since your names are removed from earthly companionship for the sake of the heavenly kingdom, it is necessary for you to be written as heirs of the eternal homeland in the meantime.
+
+359
+00:59:38,832 --> 00:59:46,441
+So, those who endure all the hardships and evils in this life will enter eternal rest without any further trials, or, so to speak, without a summons.
+
+360
+00:59:46,441 --> 00:59:51,242
+By whose grace, some will be called after purification, and they will possess endless comfort.
+
+361
+00:59:51,242 --> 00:59:57,984
+After the examination, they will hear: "Come, you who are blessed by my Father; take your inheritance, the kingdom" (Matthew 25:34).
+
+362
+00:59:57,984 --> 01:00:12,131
+They will be worthy to possess this because of their kindness to the poor, and indeed to Christ in the poor, by giving food to the hungry, drink to the thirsty, clothing to the naked, shelter to the wanderer, and visiting the sick and imprisoned Christ in their least brothers.
+
+363
+01:00:12,131 --> 01:00:19,281
+In their calling, it is evident that up to now, they have been somewhat distant from Christ, even though they were placed on His right hand.
+
+364
+01:00:19,281 --> 01:00:23,725
+Later, the supreme judge will say to them: "Come, you who are blessed" (Matthew 25:34).
+
+365
+01:00:23,725 --> 01:00:47,218
+It is as if He were saying: "You, who until now have been somewhat distant from salvation due to the need for purification by the fire of judgment, now having been thoroughly examined and cleansed from every stain of guilt, come closer and enter."
+The Lord Himself does not deny that some sins will be forgiven in the future, as it is said: "But whoever blasphemes against the Holy Spirit will never be forgiven; they are guilty of an eternal sin" (Mark 3:29).
+
+366
+01:00:47,218 --> 01:00:54,573
+From this, it is understood that there are certain sins that, although not forgiven in this world, can be erased in the future judgment by fire.
+
+367
+01:00:54,573 --> 01:00:57,484
+Otherwise, the Lord would not have made this distinction.
+
+368
+01:00:57,484 --> 01:01:10,099
+About this fire, John the Baptist, the forerunner of the Lord's coming, speaks to the Jews: "After me comes one who is more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire" (Matthew 3:11).
+
+369
+01:01:10,099 --> 01:01:19,241
+This means: He will wash away or forgive your past sins with the Holy Spirit through the baptism of water, and some of the sins that follow will be purged by the purgatorial fire.
+
+370
+01:01:19,752 --> 01:01:37,180
+Regarding that fire, which is kindled not to cleanse the wicked who are judged, but to destroy the condemned, John adds a little later:
+"His winnowing fork is in his hand, and he will thoroughly clean his threshing floor, and gather his wheat into the barn; but he will burn the chaff with unquenchable fire"
+(Matthew 3:12; Luke 3:17).
+
+371
+01:01:37,180 --> 01:01:41,862
+It is one thing to be baptized with fire, and another to be burned with unquenchable fire.
+
+372
+01:01:41,862 --> 01:01:48,521
+About this fire, John also says:
+"Every tree that does not bear good fruit is cut down and thrown into the fire"
+(Matthew 3:10).
+
+373
+01:01:48,521 --> 01:01:57,001
+But about the fire of purification, the Lord himself speaks in the Gospel:
+"But anyone who says, 'You fool!' will be in danger of the fire of hell"
+(Matthew 5:22).
+
+374
+01:01:57,001 --> 01:02:03,400
+He did not say eternal fire because it is believed that this sin is punished by purgatorial fire rather than eternal flame.
+
+375
+01:02:03,400 --> 01:02:43,564
+About this difference, between those whom the fire of the future will not touch and those who will receive salvation after suffering the loss by fire, the Apostle Paul explains, saying:
+"For no one can lay any foundation other than the one already laid, which is Jesus Christ. If anyone builds on this foundation using gold, silver, precious stones, wood, hay, or straw, their work will be shown for what it is, because the Day will bring it to light. It will be revealed with fire, and the fire will test the quality of each person’s work. If what has been built survives, the builder will receive a reward. If it is burned up, the builder will suffer loss but yet will be saved—even though only as one escaping through the flames"
+(First Corinthians 3:12 and following).
+
+376
+01:02:43,564 --> 01:02:59,327
+Through these two types of buildings, that is, gold, silver, and precious stones, as well as wood, hay, and straw, perfect and less perfect works built upon the faith of Christ are indicated; but those works, which are represented by wood, hay, and straw, although fragile, are not shown to be polluted.
+
+377
+01:02:59,640 --> 01:03:39,973
+From this, it is understood that not the major sins, which stain those whose doers Paul excluded from the kingdom of God, but those which do not harm much, although they build up less, can be indicated by these:
+Using lawful marriage more than necessary; eating excessively; being overly happy; getting angry to the point of speaking intemperately; taking too much pleasure in one's possessions; being less diligent in prayer than required; getting up later than appropriate; laughing excessively; indulging in more sleep than necessary; remaining silent about the truth; speaking idle words; thinking something is true when it is not; approving what you thought was false in matters not related to faith; negligently forgetting to do good; having a disordered appearance.
+
+378
+01:03:39,973 --> 01:03:43,265
+These, and similar things, are sins that can be purged by fire.
+
+379
+01:03:43,265 --> 01:03:49,377
+It cannot be denied, and their doer, if not burdened by greater sins, is thus thought to be saved as if through fire.
+
+380
+01:03:49,377 --> 01:04:08,395
+Penitents, at the very end of their present life, whether they receive full remission of sins here, or whether their faults are erased by purgatorial fire, He knows who, seeing the reins and hearts, considers the worthiness of repentance, who responded to the thief on the cross, almost without time, without a penitent work: Today you will be with me in paradise.
+
+381
+01:04:08,395 --> 01:04:15,866
+And to Ezekiel, He says: On whatever day the wicked turns away from his wickedness, I will not remember any of the iniquities he has committed.
+
+382
+01:04:15,866 --> 01:04:23,024
+But regarding that purgatorial fire, it must be noted that it is longer and sharper than any torment that man can imagine in the present.
+
+383
+01:04:23,024 --> 01:04:23,598
+Luke 23:43.
+
+384
+01:04:23,598 --> 01:04:24,330
+Ezekiel 33:12.
+
+385
+01:04:24,696 --> 01:04:28,080
+Chapter FifteenOn the Future Life
+
+386
+01:04:28,080 --> 01:04:39,035
+The Holy Scripture talks about the true happiness of the future life:
+"What no eye has seen, nor ear heard, nor the heart of man conceived, what God has prepared for those who love him" (First Corinthians 2:9).
+
+387
+01:04:39,035 --> 01:04:43,261
+About which the Lord said:
+"They will be like the angels in heaven" (Mark 12:25).
+
+388
+01:04:43,261 --> 01:04:50,668
+The same Lord spoke even more about these things:
+"Then the righteous will shine like the sun in the kingdom of their Father" (Matthew 13:43).
+
+389
+01:04:50,668 --> 01:04:54,998
+Indeed, the sun of righteousness will rise for those who fear the name of the Lord.
+
+390
+01:04:54,998 --> 01:05:04,806
+In whose wings is healing, who on the mountain made the faces of Moses and Elijah shine before the apostles, to whom the saints, when they suffer with Him, will also be glorified together.
+
+391
+01:05:04,806 --> 01:05:08,771
+As previously stated:
+"They will be like the angels in heaven" (Mark 12:25).
+
+392
+01:05:08,771 --> 01:05:19,778
+This means that just as the angels, who were initially changeable by nature, as proven by those who fell, are now unchangeable, so they neither fear to sin nor can sin, being made so by the contemplation of God.
+
+393
+01:05:19,778 --> 01:05:29,169
+Likewise, humans, who were created changeable by nature, as shown in Adam and his descendants, will be made unchangeable by the contemplation of the Creator after the resurrection.
+
+394
+01:05:29,169 --> 01:05:36,472
+So they will neither desire to sin nor be able to sin; for every rational creature that is refreshed by the contemplation of God cannot sin.
+
+395
+01:05:36,472 --> 01:05:45,132
+Not that the angels and humans, who are free from fault, lack free will; for in that life, they do whatever they want, but they cannot want anything that is not good.
+
+396
+01:05:45,132 --> 01:05:48,419
+Hence, because they never will evil, they never commit any sin.
+
+397
+01:05:48,419 --> 01:05:53,010
+This perfect good will is made perfect through the contemplation of the supreme Creator.
+
+398
+01:05:53,010 --> 01:05:57,131
+What the creature could not have by itself is granted by the gift of the Giver.
+
+399
+01:05:57,131 --> 01:06:02,765
+From this, it is clear that the angels or humans who sinned either in heaven or in paradise did not see God.
+
+400
+01:06:02,765 --> 01:06:06,469
+For if they had seen Him, they could by no means have sinned afterward.
+
+401
+01:06:07,200 --> 01:06:16,116
+But in response, someone might strongly say:
+Why then, after seeing the vision of glory that made Moses' face shine in the wilderness, did he stumble at the waters of Meribah?
+
+402
+01:06:16,116 --> 01:06:23,860
+And why did Peter, after witnessing the glory of the Only Begotten on the mountain with Moses and Elijah, deny the Lord in the courtyard of the priests?
+
+403
+01:06:23,860 --> 01:06:29,974
+This question is easily answered by noting that Moses saw the back of the glory through an angel or some other creature.
+
+404
+01:06:29,974 --> 01:06:39,756
+Peter and the other disciples saw the divinity of Christ shining through his human body; for if they had seen the divinity itself, they would not have been able to live in the flesh afterward.
+
+405
+01:06:39,756 --> 01:06:43,934
+For the Lord himself answered Moses:
+No one can see my face and live Exodus 33:20.
+
+406
+01:06:43,934 --> 01:06:54,939
+Therefore, the holy ones after the resurrection will not see the Lord through symbols and enigmas, as the distinguished Teacher of the Gentiles declares:
+For now we see through a mirror, dimly; but then face to face.
+
+407
+01:06:54,939 --> 01:06:59,524
+Now I know in part, but then I shall know just as I also am known First Corinthians 13:12.
+
+408
+01:06:59,524 --> 01:07:18,579
+Just as the powerful companion of the Lord's heart, John, said:
+We shall see him as he is First John 3:2;
+when what is promised to the Church through the prophet Isaiah will be fulfilled:
+The sun shall no longer be your light by day, nor for brightness shall the moon give light to you; but the Lord will be to you an everlasting light, and your God your glory Isaiah 60:19.
+
+409
+01:07:18,936 --> 01:07:24,937
+From this, we understand that the Church will be illuminated not by creatures, but by the majesty of the Lord Himself.
+
+410
+01:07:24,937 --> 01:07:30,481
+When it partakes in the serenity of perpetual happiness, it will be secure in the dignity of angelic company.
+
+411
+01:07:30,481 --> 01:07:35,008
+In this serenity, it will possess all good things without the pressure of any accusation.
+
+412
+01:07:35,008 --> 01:07:52,860
+Light will not be obscured by darkness, life will not end in death, health will not be marred by pain, joy will not be diminished by sorrow, youth will not be affected by old age, the absence of loved ones will not dim love, beauty will not be degraded by any flaw, strength will not be weakened by infirmity, and justice will not be corrupted by sin.
+
+413
+01:07:52,860 --> 01:07:58,913
+Beyond these things, there will be aspects that no human thought or reasoning can currently grasp while still on earth.
+
+414
+01:07:58,913 --> 01:08:05,779
+Among all these creatures, whose order we have briefly mentioned, the Creator made some from nothing and some from pre-existing matter.
+
+415
+01:08:05,779 --> 01:08:10,662
+He created the heavens, the earth, the sea, and everything made from them, from formless matter.
+
+416
+01:08:10,662 --> 01:08:16,714
+But the formless matter itself, the orders of angels we previously mentioned, and the human soul, He made from nothing.
+
+417
+01:08:16,714 --> 01:08:25,513
+For God did not create the soul either from Himself or from any underlying material of physical creatures, because we believe it is not a part of God, but a creation of God.
+
+418
+01:08:25,513 --> 01:08:30,091
+If God had made it from Himself, it would not be subject to suffering, change, and misery.
+
+419
+01:08:30,091 --> 01:08:40,467
+Likewise, if He had created it from physical creatures, it would possess something physical in its nature, whether heat from fire, breath from air, moisture from water, or density and solidity from earth.
+
+420
+01:08:40,467 --> 01:08:44,637
+But since it lacks all these things, it is agreed that it was created incorporeal.
+
+421
+01:08:44,637 --> 01:08:52,572
+Through this incorporeality, it is recognized to have the same substance as angels, and therefore shares their eternity, mutability, and power of free will.
+
+422
+01:08:52,572 --> 01:09:04,066
+This image of God does not possess an eternity but retains a similarity in free will, as the Prophet commemorates this image of God impressed upon us, saying: "The light of Your countenance has been signed upon us" Psalms 4:7.
+
+423
+01:09:04,728 --> 01:09:14,026
+Whether individual souls are sent by God to each body separately, or whether they come from Adam and from parents, just like the bodies of those being born, has been debated by many wise men.
+
+424
+01:09:14,026 --> 01:09:17,824
+Yet, they have left nothing in this matter to which more faith could be given.
+
+425
+01:09:17,824 --> 01:09:29,362
+So why should we attempt to resolve such a great and dangerous issue, or what benefit would it bring us to involve ourselves in these convolutions, where each side defeats the other without being able to establish their own explanations?
+
+426
+01:09:29,362 --> 01:09:36,908
+Therefore, to avoid reaching beyond our capacity, let us leave this question, which many writers have declared unsolvable, to the knowledge of the Creator.
+
+427
+01:09:36,908 --> 01:09:42,458
+For whatever the eater of the Paschal Lamb's flesh could not consume, the consuming flame on the next day devours.
+
+428
+01:09:42,458 --> 01:09:50,101
+This signifies that all matters which escape our investigative knowledge of the sacred Scriptures are illuminated and completed by the fire of divine wisdom.
+
+429
+01:09:50,101 --> 01:09:58,377
+Even those things which we, through a small window of our senses and wisdom, have touched upon by some prior illumination of His grace, we cannot fully know as we should.
+
+430
+01:09:58,377 --> 01:10:00,958
+For we know in part, as long as we are in this world.
+
+431
+01:10:00,958 --> 01:10:05,826
+Yet, if we reach that inestimable light of the Father of lights, then we shall know as we are known.
+
+432
+01:10:06,216 --> 01:10:17,036
+But even the things we have grasped through our limited senses and wisdom, thanks to some prior illumination of His grace, we aren't able to know perfectly as we should; for we only know in part while we are in this world.
+
+433
+01:10:17,036 --> 01:10:22,007
+However, if we reach the inestimable light of the Father of lights, then we will know as we are known.
+
+434
+01:10:22,007 --> 01:10:29,318
+Behold, venerable Father, regarding the order of creatures you asked me about, I have responded briefly and concisely according to my limited ability.
+
+435
+01:10:29,318 --> 01:10:32,291
+I will repay the reward of this small gift with your prayers.
+
+436
+01:10:32,291 --> 01:10:42,137
+Not because my insignificant service can offer anything truly worthy of your obedience, veneration, and authority, but because it fulfills the efforts of obedience, even if it cannot achieve everything.
+
+437
+01:10:42,137 --> 01:10:48,180
+For in the treasury of the temple, the small gift of the poor widow is preferred over the abundant gold of many rich people.
+
+438
+01:10:48,180 --> 01:10:57,295
+And in the gilded tabernacle, where silver, precious gems, fine linen, and purple, blue, and scarlet fabrics are offered, the diligence of those who bring goat skins is also not despised.
+
+439
+01:10:57,295 --> 01:11:07,189
+Therefore, do not disdain the obedience of my smallness in the calm harbor of your heart, and do not hesitate to steer the small boat of this present work against the unstable waves of those who chatter.
+
+440
+01:11:07,189 --> 01:11:16,157
+For I, agreeing with good and Catholic readers, do not care about the complaints of the envious, who crawl on the ground without wings, mocking the nests of birds like frogs in flight.
+
+441
+01:11:16,157 --> 01:11:23,127
+Protected by the shield of your reason, and armed with the support of the Lord, I will take care to hasten safely on both sides to my homeland.
+
+442
+01:11:23,127 --> 01:11:26,782
+For those who seek to please God, we do not fear the threats of men at all.
+
+443
+01:11:26,782 --> 01:11:27,611
+Thanks be to God.
+
+444
+01:11:27,611 --> 01:11:27,855
+Amen.
 

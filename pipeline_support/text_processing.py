@@ -3,6 +3,18 @@
 import re
 import os
 
+def remove_notes(text):
+    # Remove notes with nested square brackets
+    pattern = r'\[Note:(?:[^\[\]]|\[(?:[^\[\]]|\[(?:[^\[\]]|\[[^\[\]]*\])*\])*\])*\]'
+    text = re.sub(pattern, '', text, flags=re.DOTALL | re.IGNORECASE)
+    
+    # Clean up any leftover empty paragraphs, breaks, or small tags
+    text = re.sub(r'<p>\s*</p>', '', text)
+    text = re.sub(r'<br>\s*', '', text)
+    text = re.sub(r'<small>\s*</small>', '', text)
+    
+    return text
+
 def remove_square_brackets(text):
     return re.sub(r'\[.*?\]', '', text, flags=re.DOTALL)
 
@@ -28,7 +40,8 @@ def extract_and_print_all_caps_title(content, part):
         pass
 
 def process_text(input_text, filename_base, output_dir):
-    cleaned_text = remove_square_brackets(input_text)
+    cleaned_text = remove_notes(input_text)
+    cleaned_text = remove_square_brackets(cleaned_text)
     sections = split_into_sections(cleaned_text)
     
     for i, section in enumerate(sections, 1):
