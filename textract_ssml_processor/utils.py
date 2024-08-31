@@ -94,7 +94,7 @@ def chunk_text(text: str, max_chunk_size: int = 2000) -> List[str]:
 
 # Function to generate SSML request
 def generate_ssml_request(text_chunk, title, author):
-    allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <sub>, <w>"
+    allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <w>"
     prompt_text = (f"Please review this messy text to format, correct any spelling mistakes, remove page numbers and page titles, and mark it up with SSML markup for a text-to-speech process. "
                    f"The only permitted tags are {allowed_tags}. Please only provide the marked up text in your response. "
                    f"Text to format: {text_chunk}")
@@ -111,7 +111,7 @@ def generate_translation_request(ssml_chunk, language):
 # Function to clean and enhance SSML with GPT
 
 def clean_and_enhance_ssml_with_gpt(ssml_chunk):
-    allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <sub>, <w>"
+    allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <w>"
     prompt_text = (
         f"Please review and enhance the provided SSML content to correct any spelling mistakes and improve readability. "
         f"Ensure that all SSML tags are correctly formatted with no nested tags and all open tags are closed. "
@@ -146,7 +146,7 @@ def clean_and_enhance_ssml_with_gpt(ssml_chunk):
 
 
 def validate_ssml_with_gpt(ssml_chunk):
-    allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <sub>, <w>"
+    allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <w>"
     prompt_text = (
         f"Please review the provided SSML content to ensure it is valid and compatible with AWS Polly. "
         f"Ensure that all SSML tags are correctly formatted with no nested tags and all open tags are closed. "

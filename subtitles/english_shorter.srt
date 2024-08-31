@@ -1,1927 +1,1449 @@
 1
-00:00:00,000 --> 00:00:04,416
-On the Order of Created Things
-by Isidore of Seville
+00:00:00,000 --> 00:00:03,648
+Warning in the Letter of Saint Prosper to Saint Augustine.
 
 2
-00:00:04,416 --> 00:00:08,304
-Chapter One Concerning the Faith of the Trinity.
+00:00:03,648 --> 00:00:07,691
+Saint Augustine spent most of his life refuting various heretics.
 
 3
-00:00:08,304 --> 00:00:14,896
-The structure of the universe can be understood in two ways: in God, and in things, meaning the Creator and creatures.
+00:00:07,691 --> 00:00:17,270
+After achieving complete victory for the Church over the Arians, Manichaeans, and Donatists, he faced the Pelagian heresy, which opposed the grace of God.
 
 4
-00:00:14,896 --> 00:00:28,192
-This doesn't mean we consider God a part of creation or that the Creator can be equated with the creature, but because everything that exists is understood as either made or unmade, either powerful or subject, either eternal or temporary.
+00:00:17,270 --> 00:00:26,786
+From 412 onward, he tirelessly fought against it, writing books on the Remission of Sins, the Baptism of Infants, and more, whenever opportunities arose.
 
 5
-00:00:28,192 --> 00:00:31,377
-So, what is made, subject, and temporary is the creature.
+00:00:26,786 --> 00:00:33,380
+Eventually, the heresy was condemned by several councils of bishops and decrees from the highest pontiffs.
 
 6
-00:00:31,377 --> 00:00:34,114
-But what is unmade, powerful, and eternal is God.
+00:00:33,380 --> 00:00:38,169
+As a result, it began to lose strength, and its number of defenders dwindled.
 
 7
-00:00:34,114 --> 00:00:39,478
-The Holy Trinity—Father, Son, and Holy Spirit—is inseparable in substance, meaning one divinity.
+00:00:38,169 --> 00:00:53,906
+However, in the later years of this holy Doctor, some men—otherwise Catholic but either less educated or not sufficiently versed in the Scriptures from which Augustine drew his doctrine—were disturbed or even scandalized after reading Augustine's books.
 
 8
-00:00:39,478 --> 00:00:48,584
-And in the subsistence of persons, an undivided Trinity, where nothing is inferior, nothing superior, nothing before, and nothing after, in the nature of divinity.
+00:00:53,906 --> 00:01:07,902
+The disturbances among the monks of Adrumetum in Africa, who were obedient to Abbot Valentine, were easily settled by Augustine's book on Grace and Free Will and another on Correction and Grace, which cleared up their doubts.
 
 9
-00:00:48,584 --> 00:00:59,199
-Nothing is servile, nothing subject, nothing confined to a place, nothing temporary, nothing weak, nothing growing, nothing related to sex or appearance, and nothing corporeal can be sensed.
+00:01:07,902 --> 00:01:14,806
+But a much greater danger to the Church, especially in Gaul, came from another offshoot of the Pelagian heresy.
 
 10
-00:00:59,199 --> 00:01:07,691
-But there is one God without beginning, eternal without place, wholly everywhere, arranging all changeable things of creatures without changing Himself.
+00:01:14,806 --> 00:01:25,442
+This new strain spread more widely and took deeper root, partly because it initially seemed less harmful to the grace of Christ the Savior and even appeared to amplify it.
 
 11
-00:01:07,691 --> 00:01:13,892
-He sees past, present, and future times equally; for Him, nothing is past, nothing remains, but all is present.
+00:01:25,442 --> 00:01:39,189
+The beginnings of this new doctrine were seen with Vitalis, a man otherwise Catholic, who, having been educated in the Church of Carthage, owed special veneration to the doctrine of Saint Cyprian, the bishop of that city.
 
 12
-00:01:13,892 --> 00:01:22,496
-Nothing good displeases Him, nothing evil pleases Him; nothing naturally evil is created by Him, which by itself is nothing but the fault of created good.
+00:01:39,189 --> 00:01:46,031
+However, Augustine complained that Vitalis recklessly departed from this doctrine, as mentioned in Letter 217.
 
 13
-00:01:22,496 --> 00:01:35,289
-Therefore, He is good without quality, great without quantity, eternal without time, principal without position, infused into all creatures, though He has no place; no creature can contain Him, no intelligence can comprehend Him.
+00:01:46,031 --> 00:02:00,275
+Although Augustine did not believe Vitalis to be a Pelagian heretic, he did hear that Vitalis was not entirely orthodox and that some errors might have influenced him or remained in him, as Augustine himself writes in Letter 217.
 
 14
-00:01:35,289 --> 00:01:38,865
-One Almighty God, the Holy Trinity—Father, Son, and Holy Spirit.
+00:02:00,959 --> 00:02:09,231
+They attribute the aspects of a faithful and pious life to free will, believing that such qualities should come from us, not from the Lord.
 
 15
-00:01:39,480 --> 00:01:42,783
-Therefore, God the Father Almighty has no origin from anything.
+00:02:09,231 --> 00:02:16,669
+However, they did not want the beginning of faith, which is also the beginning of good, or pious will, to be a gift from God.
 
 16
-00:01:42,783 --> 00:01:47,399
-He is the source of divinity, from whom the Son, God Almighty, is begotten without time.
+00:02:16,669 --> 00:02:22,025
+Instead, they argued that we should initiate it ourselves so that we may begin to believe.
 
 17
-00:01:47,399 --> 00:01:49,549
-The Son is not created because He is God.
+00:02:22,025 --> 00:02:31,069
+As for the other good things in a religious life, they agreed that God grants them through His grace to those who already seek, ask, and knock in faith.
 
 18
-00:01:49,549 --> 00:01:55,947
-Aside from being the Son, He shares everything with the Father in divinity: in eternity, in will, in power, and in wisdom.
+00:02:31,069 --> 00:02:39,519
+Augustine refuted this error of Vitalis, which was embraced by those known as Semipelagians, primarily in a letter written to Vitalis himself.
 
 19
-00:01:55,947 --> 00:02:00,247
-Likewise, the Father, aside from being the Father, shares everything with the Son.
+00:02:39,519 --> 00:02:55,645
+He argued that the Church offers prayers to God for unbelievers so that they may be converted, and gives thanks for those who have already been converted to faith; and also offers prayers for the faithful, that they may persevere in what they have begun through His gift.
 
 20
-00:02:00,247 --> 00:02:08,533
-The Holy Spirit is God Almighty, not begotten because He is not the Son, not created because He is not a creature, but proceeding from the Father and the Son.
+00:02:55,645 --> 00:03:05,166
+This letter to Vitalis seems to be later than the dissension of the Adrumetines and the books written to address it, and should be dated to the year 426 or 427.
 
 21
-00:02:08,533 --> 00:02:12,886
-Aside from being the Holy Spirit, He shares everything with the Father and the Son.
+00:03:05,166 --> 00:03:25,993
+However, as Augustine’s later writings spread far and wide, many in Marseilles and other places in Gaul, out of ignorance, convinced themselves that whatever Augustine had written against the Pelagians about the calling of the elect according to God's good pleasure was entirely contrary to the opinion of the Fathers and the sentiment of the Church.
 
 22
-00:02:12,886 --> 00:02:22,169
-He who is the Father is not the Son or the Holy Spirit in person; nor is He who is the Son the Father or the Holy Spirit; nor is He who is the Holy Spirit the Father or the Son.
+00:03:25,993 --> 00:03:37,954
+They believed that this doctrine caused both the holy and the sinful to become negligent and lukewarm, because, no matter how they acted, nothing else could happen to them than what God had determined.
 
 23
-00:02:22,169 --> 00:02:31,714
-But in essence, what the Father is, the Son and the Holy Spirit are; and what the Son is, the Father and the Holy Spirit are; and what the Holy Spirit is, the Father and the Son are.
+00:03:37,954 --> 00:03:51,045
+Therefore, even if that doctrine were entirely true, they argued it should not be publicized, as it was not necessary and could lead to very dangerous effects, making exhortations and encouragements vain and ineffective.
 
 24
-00:02:31,714 --> 00:02:38,164
-There is not a triple number of gods in that Trinity; for while the persons are distinct, everything of divinity is shared.
+00:03:51,045 --> 00:04:01,756
+This alienation from Catholic doctrine, from which they drew such negative conclusions, led them into the well-known errors of the Semipelagians, for they rightly earned this name.
 
 25
-00:02:38,164 --> 00:02:41,416
-The Son, in time, took on human flesh, which is without fault.
+00:04:02,351 --> 00:04:10,817
+They once held better and more orthodox beliefs, but without firm rules and foundations, their minds and opinions kept shifting back and forth.
 
 26
-00:02:41,416 --> 00:02:49,125
-He had the nature of humanity, a prudent, intellectual, and wise soul, except for the divine nature, having it so that humanity might become whole.
+00:04:10,817 --> 00:04:18,454
+They believed that the beginning of faith and perseverance until the end were entirely within our control and not gifts from God.
 
 27
-00:02:49,125 --> 00:02:57,044
-This is why the Son, who is eternal with God the Father, assumed it, so that He who was the Son of God in divinity would be the Son of Man in humanity.
+00:04:18,454 --> 00:04:24,788
+They thought that such perseverance was given by God, but a person could still fall away by their own will.
 
 28
-00:02:57,044 --> 00:03:09,998
-In this humanity, He was born of the Holy Spirit and Mary, ever Virgin; not because He is to be believed to be the Son of both the Holy Spirit and Mary, but because He was conceived by the power and work of the Holy Spirit, and born of the Virgin.
+00:04:24,788 --> 00:04:34,497
+Some deviated so slightly from the Pelagian path that they recognized no other grace than reason and free will, given to man by the Creator without any prior merit.
 
 29
-00:03:10,680 --> 00:03:14,195
-The suffering of the cross was endured in the flesh, not in divinity.
+00:04:34,497 --> 00:04:44,739
+Those who embraced these errors were distinguished individuals, gaining great authority among simpler people through their zeal for virtues and their reputation for honesty.
 
 30
-00:03:14,195 --> 00:03:16,793
-He suffered death for our redemption and salvation.
+00:04:44,739 --> 00:05:02,262
+However, none are more prone to accepting the impious doctrines of the Pelagians, unless they guard themselves carefully, than these; nor are there any who more easily abuse God's gifts by becoming proud and attributing them to themselves, than those who have been most abundantly endowed by Him.
 
 31
-00:03:16,793 --> 00:03:21,073
-After being buried for three days, by divine power, He rose again in the same flesh.
+00:05:02,262 --> 00:05:08,951
+A large part of the servants of Christ in Massilia, particularly the monks, had been infected by this pestilence.
 
 32
-00:03:21,073 --> 00:03:35,338
-After instructing the one, holy, catholic Church with His word, strengthening it by example, firming it with grace, and securing it with peace, He ascended with all human nature, except for that which is subject to corruption, returning to the Father, from whom He never departed.
+00:05:08,951 --> 00:05:26,415
+It's well known that John Cassian, who established a monastery there, propagated this same error in his writings, especially in the thirteenth conference he published in 426, just one year after Valentinian the Third ordered the expulsion of the Gallic bishops who followed Pelagius's doctrines.
 
 33
-00:03:35,338 --> 00:03:46,190
-He sits at the right hand of the Father, from where He will come again to judge the living and the dead, to reward the just with eternal rewards and the wicked with eternal punishments, in the glory of the Father.
+00:05:26,415 --> 00:05:35,118
+This error was further reinforced by the fact that some of its defenders had recently attained the highest honor of the priesthood, the episcopate.
 
 34
-00:03:46,190 --> 00:03:47,565
-This is the catholic faith.
+00:05:35,591 --> 00:05:45,092
+Hilary, who was the bishop of Arles and succeeded Honoratus around the end of the year 428, was a follower and admirer of Augustine's teachings in most respects.
 
 35
-00:03:47,565 --> 00:03:51,030
-Believing and confessing this is more beneficial than discussing it.
+00:05:45,092 --> 00:05:50,344
+However, he was troubled by and somewhat critical of Augustine's views on predestination.
 
 36
-00:03:51,030 --> 00:03:58,264
-Neither secular wisdom nor worldly philosophy, which follow the images of things rather than the understanding of truth, could recognize this.
+00:05:50,344 --> 00:05:54,534
+He wished to discuss his thoughts on this matter with the holy teacher.
 
 37
-00:03:58,264 --> 00:04:02,544
-But apostolic faith has handed it down, and the vigilance of the Church protects it.
+00:05:54,534 --> 00:06:03,622
+The authority of such illustrious men, prominent in the Church and in piety and dignity, made their error more dangerous both to themselves and to others.
 
 38
-00:04:02,951 --> 00:04:06,575
-Chapter Two On Spiritual Creatures
+00:06:03,622 --> 00:06:11,589
+The due reverence shown to them led the unlearned to imitate them, and at the same time silenced the tongues of the more knowledgeable.
 
 39
-00:04:06,575 --> 00:04:11,674
-After briefly discussing the vastness of the Creator, let's now consider the order of creatures.
+00:06:11,589 --> 00:06:25,220
+As a result, there was hardly anyone who would either admonish them or counter the error they were teaching, except for a few fearless lovers of perfect grace, as mentioned in the letter of Saint Prosper to Augustine, number seven.
 
 40
-00:04:11,674 --> 00:04:20,224
-Our aim is not to create new interpretations, but to follow the guidance of Holy Scripture and the explanations of our predecessors, even if only in a small way.
+00:06:25,220 --> 00:06:30,826
+Among this number were Saint Prosper, and a certain Hilary, different from the bishop of Arles.
 
 41
-00:04:20,224 --> 00:04:22,720
-Every creature is either spiritual or physical.
+00:06:30,826 --> 00:06:41,330
+This Hilary was from the order of laymen, as we will demonstrate in more detail below, in the letter of admonition to Saint Augustine that follows the one we are discussing here.
 
 42
-00:04:22,720 --> 00:04:32,652
-Since creatures consist of intellectual spirits, which are not bound by flesh, and human souls, which are enclosed in flesh, we must first discuss the different ranks of heavenly spirits.
+00:06:41,330 --> 00:06:47,645
+Saint Prosper, who later succeeded Augustine in the task and effort of defending grace, was from Aquitaine.
 
 43
-00:04:32,652 --> 00:04:41,415
-According to Holy Scriptures, there are nine ranks of these spirits: seraphim, cherubim, thrones, dominions, principalities, powers, virtues, archangels, and angels.
+00:06:47,645 --> 00:06:54,254
+He was scholarly in speech, highly educated, and distinguished in both character and eloquence, as well as zeal.
 
 44
-00:04:41,415 --> 00:04:46,354
-Isaiah saw the seraphim standing above the exalted throne of the Lord and heard them singing.
+00:06:54,254 --> 00:07:15,734
+He was not unworthy of acquaintance with Saint Augustine, although he himself indicated that he was only from the order of laymen, where he professed to be far from equal to the authority of the aforementioned Semipelagians, who surpassed him in both the merits of life and the highest honor of the priesthood, according to Gennadius, Catalog, chapter eighty-four.
 
 45
-00:04:46,354 --> 00:04:50,549
-One of them was sent to him, and he was cleansed of the pollution of his mouth.
+00:07:15,734 --> 00:07:26,356
+He had never seen Augustine but had only greeted him with respectful letters, which he sent through the deacon Leontius, from whom he also received a response from the holy bishop.
 
 46
-00:04:50,549 --> 00:04:59,418
-The cherubim, depicted in the oracle of testimony, covered the mercy seat and the ark, and in the temple of the Lord, they were painted with oxen and lions by Solomon.
+00:07:26,356 --> 00:07:31,667
+We rightfully lament that these letters from both parties to each other no longer survive.
 
 47
-00:04:59,418 --> 00:05:06,641
-Ezekiel also describes seeing a chariot in the visions of God, which he mystically connects with the four Scriptures of both Testaments.
+00:07:32,375 --> 00:07:45,580
+However, through constant reading of Augustine's works and divine revelation from above, he learned it was extremely wrong to say that the beginning of salvation lies with the one who is saved, rather than with the one who saves.
 
 48
-00:05:06,641 --> 00:05:32,930
-The Apostle Paul, writing to the Colossians, mentions thrones, dominions, principalities, and powers:
-Colossians 1:16, "Whether thrones, or dominions, or principalities, or powers."
-He also speaks about virtues to the Ephesians, saying:
-Ephesians 1:21, "Above all principality, and power, and virtue, and dominion."
-The divine volumes are filled with references and mentions of archangels and angels.
-The nine precious stones Ezekiel speaks of symbolize the nine orders of these heavenly beings.
+00:07:45,580 --> 00:07:55,209
+By denying predestination and preceding grace, and asserting that human will assists divine grace, he overlooked that grace actually subjects the human will to itself.
 
 49
-00:05:33,408 --> 00:05:38,357
-Under the guise of the prince of Tyre, the prophet's words lament the highest angel who fell.
+00:07:55,209 --> 00:08:01,148
+Ignoring the opposition, he not only persisted in this belief but also defended it against its critics.
 
 50
-00:05:38,357 --> 00:05:46,713
-It says:
-Every precious stone was your covering: carnelian, topaz, and jasper, chrysolite, onyx, and beryl, sapphire, carbuncle, and emerald
-(Ezekiel 28:13).
+00:08:01,148 --> 00:08:09,681
+He used both the works of the holy doctor and the scriptural testimonies cited there, as well as his own arguments based on Augustine's foundations.
 
 51
-00:05:46,713 --> 00:05:52,993
-He is described as being covered with these nine stones, representing the nine orders of spiritual duties he once led.
+00:08:09,681 --> 00:08:16,485
+He fought with strong reasoning and forceful assertions, which, according to the testimony of Gennadius, he possessed.
 
 52
-00:05:52,993 --> 00:05:57,943
-Since we've discussed the number, let's also delve into the different levels of these duties.
+00:08:16,485 --> 00:08:24,673
+Initially, the people of Marseilles preferred to blame their own lack of understanding rather than condemn a doctrine they did not comprehend.
 
 53
-00:05:57,943 --> 00:06:06,777
-Seraphim, meaning burning or igniting, are named so because they burn with God's love more than any other rational creature, thanks to a special gift of divine grace.
+00:08:24,673 --> 00:08:29,170
+Some even wanted to consult Augustine for a clearer explanation on the matter.
 
 54
-00:06:06,777 --> 00:06:16,251
-Excelling all creatures, they approach the Creator with a unique privilege of divine love and stand in such an exalted honor that no other spirits come between them and the Lord.
+00:08:29,170 --> 00:09:09,820
+But, by the will of the merciful God, around that time, the book "On Rebuke and Grace" was brought to Marseilles. In this book, Augustine responded so fully and completely to the same issues troubling the monks of Adrumetum, as those troubling the people of Marseilles, that it seemed the book was written to settle the disputes in Gaul.
+Upon seeing the book, those who followed Augustine's apostolic doctrine found new light and greater support for defending it. But others, whose minds had been previously clouded by error, found only further offense and more intense hatred for the truth.
+Defending their opinion in the name of tradition, they branded the doctrine of predestination as something novel.
 
 55
-00:06:16,251 --> 00:06:20,509
-The second order includes cherubim, who are counted among the heavenly citizens.
+00:09:10,223 --> 00:09:15,133
+The passages of Paul relevant here were said to have never been understood by anyone.
 
 56
-00:06:20,509 --> 00:06:22,850
-Their name means the multitude of knowledge.
+00:09:15,133 --> 00:09:21,083
+When asked how they themselves would explain them, they admitted that no interpretation satisfied them.
 
 57
-00:06:22,850 --> 00:06:31,579
-Their intellect is refreshed by closely adhering to the contemplation of God, expanding with a greater multitude of knowledge than all other intellectual creatures.
+00:09:21,083 --> 00:09:24,895
+They demanded silence about things whose depth no one had reached.
 
 58
-00:06:31,579 --> 00:06:37,859
-For those who gaze sharply into the mirror of divine clarity, the hidden secrets of creatures cannot remain concealed.
+00:09:24,895 --> 00:09:32,981
+They cited the opinions of Augustine from works composed before the Pelagian heresy, as if these opinions fully agreed with their own views.
 
 59
-00:06:37,859 --> 00:06:42,808
-The third order of intellectual spirits comprises the hosts of thrones, interpreted as seats.
+00:09:32,981 --> 00:09:41,472
+Indeed, they vigorously repeated everything the same Augustine had opposed to himself in the book On Rebuke and Grace as supporting their position.
 
 60
-00:06:42,808 --> 00:06:49,301
-On these, the Lord sits by special grace, exercising His judgments upon all creatures in a terrifying and wondrous manner.
+00:09:41,472 --> 00:09:48,404
+However, they greatly disliked the distinction made there between the grace given to Adam and the grace given to us now.
 
 61
-00:06:49,301 --> 00:06:53,985
-Hence, the Psalmist says:
-You have sat on the throne, judging righteousness
-(Psalm 9:5).
+00:09:48,404 --> 00:09:58,281
+Finally, they did not want the example of predestination to be taken from infants, about whom Augustine had also had a different opinion earlier in the books On Free Will.
 
 62
-00:06:54,624 --> 00:08:23,256
-And in the Revelation of John, the angel speaks: "And the one who sits on the throne will protect them."
-At the fourth level of the heavenly offices are the dominions, which surpass in greatness the ministries of the five levels below them. They are placed above others in magnitude of power, and the subordination of the others is shown through obedience.
-Next, at the fifth level, are the principalities of the heavenly citizens. They are entrusted with the leadership of the good spirits to carry out the ministries of God.
-At the sixth level are the powers. These good spirits have received the authority from the Lord to govern various powers and restrain the wickedness of evil spirits, ensuring they do not exercise cruelty or cling to human senses beyond what is permitted.
-The seventh level of spiritual ministries are called virtues, through whom the spirits often perform powers, signs, and miracles among humans.
-The eighth order is the archangels, the chief messengers. They announce the greater messages to humans, bringing higher things to human knowledge by the command of the Lord.
-The ninth order of the heavenly ministers are called angels. They announce and advise humans on the lesser and common things according to the will of God.
-Furthermore, it should be known that whenever angels are named, they take their names from their duties when they come to humans. The highest society of heavenly citizens does not need proper names. For example, Michael means "Who is like God?" because he is destined to be sent against the one who will rise against God in the end. Gabriel, meaning the strength of God, is sent to Zechariah and the Virgin Mary to foretell what nature denied would happen.
-To Tobias, Raphael, meaning the Medicine of God, is sent. He who brought health by divine power is rightly called the medicine of God.
+00:09:58,281 --> 00:10:10,931
+When the defenders of the truth were oppressed by the authority of those whom the spirit of Pelagian impiety had deluded, they were compelled by the holy bishop to request that he himself use his authority against them.
 
 63
-00:08:23,256 --> 00:08:30,727
-And what can happen individually can also occur in ranks, so when one person performs another's duty, they are also called by that person's name.
+00:10:10,931 --> 00:10:28,144
+On this matter, Hilary wrote two letters to him, the first of which is lost, and perhaps referred to the odious formula of preaching predestination, which Augustine mentioned his opponents had used against him in Book Two on the Predestination of the Saints, chapter twenty-two, number fifty-seven.
 
 64
-00:08:30,727 --> 00:08:33,767
-As it is said: "He makes his angels spirits" (Psalm 104:4).
+00:10:28,144 --> 00:11:08,288
+In the second letter, after addressing the complaints of the adversaries, Hilary said, "Whatever you wish or are able to do for that grace, which we admire in you from the least to the greatest, we will most gratefully receive, as if it were a decree from our most dear and reverend authority."
+He indicated that he had also urged Prosper to write his own letter on the same matter, which he sent along with his own. Those are the letters of Prosper that we present here, where he testifies at the beginning that he writes to the holy doctor not only out of a desire to greet him, as he had done in a previous (now lost) letter, but also out of affection for the faith by which the Church lives.
 
 65
-00:08:33,767 --> 00:08:37,786
-That is, when He wills, He makes all these angels spirits, meaning messengers.
+00:11:08,807 --> 00:11:28,016
+Because you are diligently keeping watch over all the members of the body of Christ and fighting against the traps of heretical teachings with the power of truth, I believed there was no reason to fear that I would be a burden or inconvenience to you in matters concerning the salvation of many and your devotion.
 
 66
-00:08:37,786 --> 00:08:42,269
-Sometimes, due to the closeness of other ranks, some take on the duties of other ranks.
+00:11:28,016 --> 00:11:37,038
+Instead, I felt I would be guilty if I did not bring to your attention those things I understand to be very harmful to the special patron of faith.
 
 67
-00:08:42,269 --> 00:08:47,267
-Just as from the proximity of thrones, Scriptures say that the Lord also sits above the cherubim.
+00:11:37,038 --> 00:11:58,210
+After explaining the considerable virulence present in the remnants of Pelagian depravity, he adds: We hope that not only will our insignificance be strengthened by the support of your arguments, but that even those renowned for their merits and honors will, having received the purest light of grace, be cleared of the darkness of this opinion.
 
 68
-00:08:47,267 --> 00:08:51,904
-As it is written in the psalm: "You who sit above the cherubim, shine forth" (Psalm 80:1).
+00:11:58,210 --> 00:12:05,820
+This letter from Saint Prosper was written in the year 428 or 429, around the time when Hilary governed the Church of Arles.
 
 69
-00:08:51,904 --> 00:09:01,127
-In that heavenly society, what one holds in particular is shared by all in common, because each one is as refreshed by what they see in another as by what they possess themselves.
+00:12:05,820 --> 00:12:16,314
+From number nine, it is evident that Hilary became the bishop of Arles after being a monk at Lérins, following Honoratus, who died at the beginning of the year 428 or 429.
 
 70
-00:09:01,127 --> 00:09:06,073
-When they are sent, God, from whom they are refreshed, is never absent from their contemplation.
+00:12:16,314 --> 00:12:22,267
+Honoratus succeeded Patroclus, who, according to Prosper's Chronicle, was killed in the year 426.
 
 71
-00:09:06,073 --> 00:09:15,142
-Not that those spirits who are sent can be everywhere at once, but the Lord, who is everywhere, is always seen by those who move about, in every place without changing Himself.
+00:12:22,267 --> 00:12:29,631
+Honoratus occupied the seat of Arles for two years, according to Honoratus of Marseilles in the Life of Hilary of Arles.
 
 72
-00:09:15,142 --> 00:09:21,686
-Hence it is written: "Thousands upon thousands served him, and ten thousand times ten thousand stood before him" (Daniel 7:10).
+00:12:30,000 --> 00:12:34,152
+Saint Prosper of Aquitaine
+Latter to Augustine
 
 73
-00:09:21,686 --> 00:09:28,436
-Both tasks are performed equally by the heavenly powers; they minister when they are sent, and they stand by when they contemplate.
+00:12:34,152 --> 00:13:57,648
+On the remnants of the Pelagian heresy emerging in Gaul and the complaints against the doctrine of predestination and grace, as explained in Augustine's works, especially the book "On Rebuke and Grace."
+To the most blessed lord, the ineffably marvelous, incomparably honorable, most excellent patron,
+AUGUSTINE, from
+PROSPER.
+Although unknown to you by face, yet already somewhat known to you in spirit and word, if you remember; for through my holy brother Leontius the deacon, I sent letters and received them.
+Now also, I dare to write to your blessedness, not only out of a desire for greeting, as then, but also with the affection of the faith by which the Church lives.
+With your diligent watch over all members of the body of Christ and your fight against heretical doctrines with the power of truth, I did not consider it a burden or an importunity to reach out to you regarding matters of salvation, and thus, to your piety.
+Rather, I believed I would be guilty if I did not bring what I understand to be very pernicious to the special patron of faith.
+Therefore, many servants of Christ residing in the city of Marseilles think that what you disputed in your writings against the Pelagian heretics about the calling of the elect according to God's purpose is contrary to the opinion of the Fathers and to the ecclesiastical sense.
+When they preferred to blame their own slowness rather than criticize what they did not understand, some wished to request a clearer and more open explanation from your blessedness on this matter. It happened, by God's mercy, that when some in Africa were troubled by similar issues, you published the book "On Rebuke and Grace," full of divine authority.
 
 74
-00:09:28,436 --> 00:09:37,504
-Sometimes, however, the angels who are sent announce directly to the people they come to, and sometimes they send others, as if subordinate to them, for the task of announcing.
+00:13:57,648 --> 00:14:01,096
+By an unexpected opportunity, this matter was brought to our attention.
 
 75
-00:09:37,504 --> 00:09:44,357
-As it is read in Daniel, "Gabriel, make this man understand the vision" (Daniel 8:16), which is undoubtedly said by someone superior.
+00:14:01,096 --> 00:14:13,091
+We thought all complaints from the dissenters should be silenced because every question for which we needed your holiness's advice was so fully and completely answered there, as if you had made it your special effort to settle the troubles we had.
 
 76
-00:09:44,975 --> 00:09:49,392
-Chapter Three Of the waters which are above the firmament.
+00:14:13,091 --> 00:14:26,787
+After reviewing this book of your blessedness, those who already followed the holy and apostolic authority of your teaching became much more knowledgeable and well-informed; while those who were hindered by their own unclear beliefs withdrew even more opposed than they were before.
 
 77
-00:09:49,392 --> 00:10:01,050
-Since we've started discussing the order of creation, which your proposition has included, after briefly touching upon the spiritual creation, let's try to explain what the authors have thought about the waters above the firmament.
+00:14:26,787 --> 00:14:45,582
+This abrupt disagreement is firstly to be feared for their own sake, lest the spirit of Pelagian impiety deceives such illustrious men devoted to all virtues; and secondly lest the simpler ones, among whom these dissenters are greatly respected for their perceived integrity, consider it safest to accept what they hear these people, whose authority they follow without judgment, assert.
 
 78
-00:10:01,050 --> 00:10:07,712
-When light was created on the first day, which is understood to be the spiritual creation, the firmament was made on the second day.
+00:14:45,582 --> 00:15:01,365
+This is their definition and profession:
+While every man indeed sinned in Adam's sin, and no one is saved by their own works but by God's grace through regeneration, yet the atonement in the sacrament of Christ's blood is offered to all men without exception, so that whoever wishes to come to faith and baptism can be saved.
 
 79
-00:10:07,712 --> 00:10:12,759
-This firmament divided the waters above from the waters below, as Scripture states in Genesis 1:6-7.
+00:15:01,365 --> 00:15:17,586
+Moreover, God foresaw before the foundation of the world those who would believe and those who would remain in that faith, which would thereafter be aided by God's grace, and predestined them to His kingdom, foreseeing that they would be called freely, would become worthy of election, and would depart from this life with a good end.
 
 80
-00:10:12,759 --> 00:10:18,310
-From this, we understand that the waters above the firmament are positioned higher than all physical creation.
+00:15:17,586 --> 00:15:25,988
+Therefore, every man is urged by divine institutions to believe and to hope, so that no one despairs of attaining eternal life, since a reward is ready for willing devotion.
 
 81
-00:10:18,310 --> 00:10:38,448
-Although in Psalm 148, after mentioning the firmament, the sun, the moon, and the stars, it refers to the waters above the heavens to show they are higher than all physical creations, the Psalmist places the heavens first when summarizing the dwellings of the highest powers, saying:
-"Praise Him, heavens of heavens; and waters that are above the heavens, praise the name of the Lord" (Psalm 148:4).
+00:15:26,279 --> 00:15:41,820
+This proposed calling of God, by which, either before the beginning of the world or at the creation of humanity, the distinction between those to be chosen and those to be rejected is said to have been made, so that, according to what pleased the Creator, some are created as vessels of honor and others as vessels of dishonor.
 
 82
-00:10:38,448 --> 00:10:50,661
-This shows that after those spiritual spaces, whatever they may be, where the spiritual orders reside, which the prophet calls the heavens of heavens, the waters were established before this visible heaven as the beginning of physical things.
+00:15:41,820 --> 00:15:53,701
+This removes the care of rising again from the fallen and brings an opportunity for lukewarmness to the saints, because in both cases, labor is excessive if neither the rejected can enter by any effort nor the elected can fall away by any negligence.
 
 83
-00:10:50,661 --> 00:11:03,430
-However, to prevent anyone from associating them with the spiritual creation, he placed them after the heavens of heavens, and before mentioning the earth, he added shortly after:
-"Praise the Lord from the earth, dragons, and all abysses" (Psalm 148:7).
+00:15:53,701 --> 00:15:58,643
+For no matter how they conduct themselves, nothing else can happen to them than what God has determined.
 
 84
-00:11:03,430 --> 00:11:09,486
-See, the Psalmist says that these waters are placed above the heavens, yet he places the heavens of heavens before them.
+00:15:58,643 --> 00:16:05,677
+The course cannot be steady under uncertain hope since if the choice of the predestiner has something else, the intention of the striver is in vain.
 
 85
-00:11:09,840 --> 00:11:17,606
-This demonstrates that there are realms positioned between the two heavens; they are lower than the spiritual heavens but higher than the physical heavens.
+00:16:05,677 --> 00:16:10,097
+Thus, all effort is removed, and virtues are taken away if God's decree precedes human wills.
 
 86
-00:11:17,606 --> 00:11:25,322
-However, they are still considered part of the physical creations, as they were made on the second day of creation and exist above the physical firmament.
+00:16:10,097 --> 00:16:19,316
+Under this name of predestination, a certain fatal necessity is introduced, or it is said that the Lord is the creator of different natures if no one can be other than what they were made to be.
 
 87
-00:11:25,322 --> 00:11:30,232
-The usefulness of these realms in relation to physical things is explored by teachers in two ways.
+00:16:19,316 --> 00:16:33,003
+To explain more briefly and fully what they think, whatever your holiness has opposed to itself in this book from the sense of contradictors, and whatever you powerfully refuted in the books against Julian under this question, all of this is most vehemently proclaimed by these holy ones.
 
 88
-00:11:30,232 --> 00:11:36,846
-Some say they were reserved by God's foresight for the destruction of the world during the flood under Noah, as narrated in Genesis.
+00:16:33,003 --> 00:16:56,243
+And when we bring forth the writings of your blessedness, equipped with the strongest and innumerable testimonies of the divine Scriptures, and according to the form of your debates, we also build upon something to conclude them, they defend their obstinacy with tradition and assert that those things brought from the Epistle of the Apostle Paul to the Romans to manifest the divine grace preceding the merits of the elect have never been understood by any church leaders as they are now.
 
 89
-00:11:36,846 --> 00:11:42,759
-Scripture says:
-"And the windows of heaven were opened, and it rained for forty days and forty nights"
-(Genesis 7:11).
+00:16:56,243 --> 00:17:06,555
+And when we demand that they explain these things according to the sense of whomsoever they wish, they declare that they find nothing that pleases and require silence about those things whose depth no one has reached.
 
 90
-00:11:42,759 --> 00:12:01,749
-Since clouds, which irrigate the earth with their rains, and even the air, which contains all hemispheres and breezes, are often referred to as heavens in the divine Scriptures, it is said:
-"And He rained manna upon them to eat, and gave them bread from heaven"
-(Psalm 78:24);
-And in another place:
-"The heavens shall give rain, and the earth shall yield its fruit"
-(Psalm 67:7).
+00:17:06,935 --> 00:17:12,569
+Finally, their stubbornness has reached a point where they claim our faith is contrary to the edification of listeners.
 
 91
-00:12:01,749 --> 00:12:15,728
-Some teachers believe that an abundance of water was spread from this lower heaven of the clouds, so that, according to the usual custom, the clouds poured out a great amount of rain, with Scripture mentioning the windows being opened because more water than usual was sent down.
+00:17:12,569 --> 00:17:21,707
+They argue that even if it is true, it shouldn't be proclaimed, because harmful teachings should not be accepted, and things that cannot be understood should be kept silent to avoid any danger.
 
 92
-00:12:15,728 --> 00:12:26,601
-Others, however, assert that these waters placed above the firmament were meant to temper the heat of the fire that burns in the luminaries and stars, so that the lower regions would not be scorched by excessive heat.
+00:17:21,707 --> 00:17:24,879
+Some of them deviate only slightly from the paths of the Pelagians.
 
 93
-00:12:26,951 --> 00:12:30,840
-Chapter FourAbout the Firmament of the Sky.
+00:17:24,879 --> 00:17:32,975
+When they are forced to acknowledge the grace of Christ, which precedes all human merits, they say that if it were given based on merits, it would be called grace in vain.
 
 94
-00:12:30,840 --> 00:12:40,662
-After discussing the waters of bodily creatures, the firmament appears to be second in order, created on the second day, as previously mentioned, and it separates the waters above from those below.
+00:17:32,975 --> 00:17:42,159
+They believe this condition applies to each person, with the grace of the Creator establishing them as rational beings with free will, without any prior merit, because they did not exist before.
 
 95
-00:12:40,662 --> 00:12:46,995
-As for its nature, some believe it covers the earth like a disc, while others think it encircles all creation like an eggshell.
+00:17:42,159 --> 00:17:48,882
+This allows them to direct their will through the discernment of good and evil, to the knowledge of God, and to obedience to His commandments.
 
 96
-00:12:46,995 --> 00:12:48,640
-Both views have their supporters.
+00:17:48,882 --> 00:18:05,358
+They believe that by asking, seeking, and knocking through natural ability, they can reach the grace by which we are reborn in Christ: so that they receive because they made good use of the good of nature, they find because they sought, they enter because they knocked, and thus they merit reaching this saving grace with the help of initial grace.
 
 97
-00:12:48,640 --> 00:12:54,324
-The Psalmist's words, "You stretch out the heavens like a tent" (Psalm 104:2), do not contradict either viewpoint.
+00:18:05,358 --> 00:18:18,425
+However, they define the purpose of calling grace as God determining to take no one into His kingdom except through the sacrament of regeneration, and that all men are universally called to this gift of salvation, whether through natural law, written law, or gospel preaching.
 
 98
-00:12:54,324 --> 00:13:02,850
-Just as an animal's skin covers its flesh evenly from all sides, forming either a flat or curved surface when stretched out, the firmament can be understood in either way.
+00:18:18,425 --> 00:18:33,149
+This way, those who wish to become children of God, and those who do not want to be faithful, are without excuse: because God's justice is shown in that those who do not believe perish; His goodness is evident in that He repels no one from life, but wants all to be saved and come to the knowledge of the truth.
 
 99
-00:13:02,850 --> 00:13:09,881
-Therefore, whether it covers the earth like a stretched-out tent or encircles the world like an animal's hide, both assertions are plausible.
+00:18:33,528 --> 00:18:41,395
+Here they present testimonies where the exhortation of the Holy Scriptures encourages people to obey, who from free will either follow the commands or neglect them.
 
 100
-00:13:09,881 --> 00:13:15,316
-As for whether the firmament is empty and penetrable or solid and firm, various authors have different views.
+00:18:41,395 --> 00:18:50,031
+They believe that because a transgressor is said not to have obeyed because he did not want to, a faithful person should also undoubtedly be considered devout because he wanted to.
 
 101
-00:13:15,316 --> 00:13:17,958
-I'll focus on their opinions rather than their names.
+00:18:50,031 --> 00:18:59,578
+Each person has as much ability for good as for evil, and the mind can move equally towards vices or virtues, supported by the grace of God when seeking good, and justly condemned when pursuing evil.
 
 102
-00:13:17,958 --> 00:13:22,795
-Those who believe the firmament is empty and penetrable compare it to the nature of all elements.
+00:18:59,578 --> 00:19:11,812
+When confronted with the multitude of countless infants who, except for original sin, under which all humans are born equally into the condemnation of the first man, have no wills or actions of their own yet, they are not separated without God's judgment.
 
 103
-00:13:22,795 --> 00:13:29,327
-They argue that the earth is the heaviest of all bodily creatures and occupies the lowest place because it can only support itself.
+00:19:11,812 --> 00:19:21,790
+Before they can discern good and evil through the experience of this life, some are taken up as heirs of the heavenly kingdom through rebirth, while others pass into the debt of eternal death without baptism.
 
 104
-00:13:29,327 --> 00:13:32,518
-Water is much lighter than the earth but still heavier than air.
+00:19:21,790 --> 00:19:29,706
+They say that such are lost and such are saved, as God’s divine knowledge foresaw what they would be like in later years if they had been preserved to an active age.
 
 105
-00:13:32,518 --> 00:13:37,155
-Air, unable to sustain itself under water, will escape to its own space if forced beneath it.
+00:19:29,706 --> 00:19:40,069
+They do not consider that the grace of God, which they say accompanies human merits, not precedes them, is even subjected to those wills that they do not deny are anticipated by it according to their own imagination.
 
 106
-00:13:37,704 --> 00:13:40,314
-The nature of fire is understood to be above the air.
+00:19:40,069 --> 00:19:47,793
+But they subject God's election to any fabricated merits to such an extent that they invent past things that do not exist and future things that will not happen.
 
 107
-00:13:40,314 --> 00:13:50,315
-This is easily proven by the fact that when a fire ignites on earthly materials, it immediately directs its flame upwards, towards the regions above the air, where there is an abundance and place for it.
+00:19:47,793 --> 00:19:53,070
+In a novel kind of absurdity, things that are not to be done are foreknown, and things foreknown are not done.
 
 108
-00:13:50,315 --> 00:13:56,325
-But, extinguished by the surrounding denser air, it quickly vanishes into the soft air, unable to reach its natural place.
+00:19:53,070 --> 00:20:05,304
+They seem to think this prescience of human merits, according to which the grace of the caller operates, is much more reasonable when it comes to contemplating those nations which were left to follow their own ways in past ages (The Acts of the Apostles).
 
 109
-00:13:56,325 --> 00:14:03,566
-This demonstrates that the nature of fire, which ascends, is lighter than air, just as the nature of water, which descends, is shown to be heavier.
+00:20:05,736 --> 00:20:11,867
+Even today, at 14:15, some still perish in the ignorance of old beliefs, untouched by the light of the Law or the Gospel.
 
 110
-00:14:03,566 --> 00:14:12,434
-Therefore, by this reasoning, the space of the firmament, which is above the fire, is thought to be lighter and thinner because it is higher than all the natures we have mentioned.
+00:20:11,867 --> 00:20:18,708
+However, wherever preachers have had the opportunity, the people who lived in darkness and the shadow of death have seen a great light.
 
 111
-00:14:12,434 --> 00:14:20,365
-In this space, the varying light of the shining stars is thought to be due to some of the stars traveling farther, while others travel nearer in this vast space.
+00:20:18,708 --> 00:20:22,812
+This is written in Isaiah chapter 9, verse 2, and in Matthew chapter 4, verse 16.
 
 112
-00:14:20,365 --> 00:14:31,597
-However, those who disagree with this idea say that the space above the air and fire is so subtle, empty, and penetrable that waters cannot exist there, unless, as some mentioned earlier, they are much finer and subtler in form.
+00:20:22,812 --> 00:20:25,802
+Those who were once not a people are now the people of God.
 
 113
-00:14:31,597 --> 00:14:37,360
-To which others respond: What kind of water vapor could ever be lighter than the firmament, no matter how thin it is?
+00:20:25,802 --> 00:20:32,693
+Those to whom He once did not show mercy, now He shows mercy, as stated in Hosea chapter 2, verse 24, and in Romans chapter 9, verse 25.
 
 114
-00:14:37,360 --> 00:14:50,809
-Therefore, others think the firmament is made of solid, firm air, and it is called the firmament because it encloses within itself all the spaces, both solid and empty, light and heavy, that we have mentioned, and supports the waters placed above it, whatever their nature.
+00:20:32,693 --> 00:20:40,446
+They say that the Lord foresaw their belief and arranged the times and ministries of the teachers so that the will to believe would arise in each nation.
 
 115
-00:14:50,809 --> 00:14:58,100
-However, since there is such varied opinion among scholars on this significant matter, we do not consider any one view to be preferred over another.
+00:20:40,446 --> 00:20:48,351
+This doesn't contradict the idea that God wants all men to be saved and to come to the knowledge of the truth, as found in First Timothy chapter 2, verse 4.
 
 116
-00:14:58,100 --> 00:15:01,499
-Instead, we refer the reader to consider the arguments of both sides.
+00:20:48,351 --> 00:20:56,813
+Those who could have been led to worship the one true God by natural understanding and did not hear the Gospel because they would not have accepted it are inexcusable.
 
 117
-00:15:01,992 --> 00:15:05,880
-Chapter FiveAbout the Sun and the Moon
+00:20:56,813 --> 00:21:05,072
+However, our Lord Jesus Christ died for the whole human race, and no one is excluded from redemption by His blood, even if they go through life estranged from Him.
 
 118
-00:15:05,880 --> 00:15:14,480
-The Mosaic law, or rather, the divine Scripture in the beginning of Genesis, declares that after the appearance of the sea and the land, two great lights were formed in the sky.
+00:21:05,072 --> 00:21:12,217
+The sacrament of divine mercy is available to all, though many are not renewed because it is foreseen that they would not want to be renewed.
 
 119
-00:15:14,480 --> 00:15:23,615
-It is appropriate, then, that the discussion of the sun and moon follows the firmament in the order of creation, even though in the sequence of creation, they come after the earth and sea.
+00:21:12,217 --> 00:21:15,866
+Therefore, as far as God is concerned, eternal life is prepared for all.
 
 120
-00:15:23,615 --> 00:15:30,029
-This aligns with the words of Scripture, although the Catholic faith believes all elements were created timelessly by divine reason.
+00:21:15,866 --> 00:21:22,808
+But in terms of free will, it is embraced by those who willingly believe in God and have received the help of grace through their belief.
 
 121
-00:15:30,029 --> 00:15:32,702
-The sun and the moon are the two lights set in the sky.
+00:21:22,808 --> 00:21:30,054
+Regarding the preaching of such grace, those who contradict it, despite once holding better beliefs, have especially claimed it for themselves.
 
 122
-00:15:32,702 --> 00:15:36,297
-The greater light rules the day, while the lesser light governs the night.
+00:21:30,054 --> 00:21:43,431
+If they acknowledged that all good merits are preceded by grace and given by it so they can exist, they would have to concede that God, according to His purpose and counsel, makes one vessel for honor, another for dishonor, as stated in Romans chapter 9, verse 21.
 
 123
-00:15:36,297 --> 00:15:40,671
-However, they do not shine with the same brilliance they had when they were first created.
+00:21:43,431 --> 00:21:46,978
+No one is justified except by grace, and no one is born except in sin.
 
 124
-00:15:40,671 --> 00:15:45,141
-Throughout their existence, they conserve their light through the cycles of days and nights.
+00:21:47,688 --> 00:21:52,377
+But they refuse to admit this and are afraid to attribute the merits of the saints to divine work.
 
 125
-00:15:45,141 --> 00:15:52,138
-These luminaries, designated by God the Creator for human use, shone with full brilliance when humans lived blamelessly under the Creator's law.
+00:21:52,377 --> 00:22:00,990
+They won't accept that the number of the predestined elect can neither be increased nor decreased, fearing they would lack incentives to encourage the unfaithful and the negligent.
 
 126
-00:15:52,138 --> 00:16:04,917
-But when humans lost the happiness of paradise due to transgression, these lights also, though not by their own fault, experienced a loss of their brilliance, as Apostle Paul testifies: “For the whole creation groans and suffers together until now” (Romans 8:22).
+00:22:00,990 --> 00:22:05,967
+They believe that effort and labor would become pointless, and the endeavor in vain, if election ceases.
 
 127
-00:16:04,917 --> 00:16:14,441
-However, with the coming of the Redeemer, the restoration of original happiness is promised to humanity in an even better way, and it is believed that creation will also regain its ancient beauty.
+00:22:05,967 --> 00:22:16,542
+They think that each person can only be called to correction or improvement if they know that their diligence can make them good, and that their free will needs God's help to achieve this if they choose what God commands.
 
 128
-00:16:14,441 --> 00:16:32,226
-Thus, the prophet Isaiah, inspired by spiritual insight, says: “And it shall come to pass in that day, when the tower falls, the light of the moon will be like the light of the sun, and the light of the sun will be seven times brighter, like the light of seven days, when the Lord binds up the fracture of His people and heals the wound He inflicted” (Isaiah 30:26).
+00:22:16,542 --> 00:22:23,097
+So, among those who have received the freedom of will, they believe two things work for human salvation: God's grace and human obedience.
 
 129
-00:16:32,712 --> 00:16:57,320
-When the new heaven and new earth are made, Revelation 21:1, and the former things that serve corruption are not remembered, Isaiah 65:17, and the Lord heals the wound of sin and the injury of death in the bodies of those who have been resurrected, Isaiah 30:26, and the proud spirits are cast down from the power they had seized, then the light of the moon will be changed into the light of the sun, and the light of the sun will be restored to the light it had during the seven days of creation.
+00:22:23,097 --> 00:22:30,323
+They want obedience to come before grace, so that the beginning of salvation is believed to come from the one who is saved, not from the one who saves.
 
 130
-00:16:57,320 --> 00:16:59,598
-That is, its light will be restored sevenfold.
+00:22:30,323 --> 00:22:36,017
+They think that the human will should bring divine grace to itself, not that grace should subject human will to itself.
 
 131
-00:16:59,598 --> 00:17:05,490
-For nothing is restored unless it was lost or corrupted; therefore, what the sun and moon lost, they will receive back.
+00:22:36,017 --> 00:22:43,099
+Since we know from the revelation of God's mercy and your blessed instruction that this is the most perverse belief, we can indeed firmly reject it.
 
 132
-00:17:05,490 --> 00:18:11,443
-From this, it appears that the luminaries now retain one-seventh of their light, which they will take back sevenfold when, through Habakkuk, the Holy Spirit, placing the past for the future, says: "The sun will rise in its place, and the moon will stand in its order."
-For, with the cessation of the changeability of the human condition, which they serve, the changeability of their course will also cease.
-For when it is said, "The sun in its place," it indicates that it will never decline at its setting; and when it is said, "The moon will stand in its order," it suggests that it will not suffer the changes of waxing and waning, but will always stand in its order.
-This will happen when, as the Apostle says, creation itself will be set free from its bondage to corruption and gain the glorious freedom of the children of God, Romans 8:21.
-For when the saints, as a reward for their labor in serving God, are transformed and shine like the sun of righteousness, whose health is everlasting, then even this physical sun will be restored to sevenfold brightness as a reward for its service, to which it was subjected to the bondage of corruption.
-Meanwhile, however, in the daily movements of its service, whenever the moon follows the sun, it increases its light; but whenever it precedes the sun, it diminishes its brightness.
+00:22:43,099 --> 00:22:48,889
+However, we are not equal in authority to those who hold such views, as they far surpass us in the merits of their lives.
 
 133
-00:18:11,592 --> 00:18:17,973
-The moon has been viewed in various ways: as a half-sphere with one part dark and shadowy, and the other part bright and shining.
+00:22:48,889 --> 00:22:58,268
+Some of them have recently attained the highest honor of the priesthood, and scarcely anyone, except a few fearless lovers of perfect grace, has dared to oppose the arguments of such superior men.
 
 134
-00:18:17,973 --> 00:18:26,334
-The waxing and waning occur such that when the bright part gradually appears, the dark part is hidden, and as the bright part turns, the dark part becomes visible again.
+00:22:58,268 --> 00:23:08,364
+As a result, the danger has grown not only for those who listen to them but also for those who are listened to, as their dignity leads many either to useless silence out of reverence or to thoughtless agreement.
 
 135
-00:18:26,334 --> 00:18:30,143
-Another perspective is that the moon is round, illuminated by the sun's rays.
+00:23:08,364 --> 00:23:11,953
+And it seems to them most beneficial what is scarcely criticized by anyone.
 
 136
-00:18:30,143 --> 00:18:32,914
-When it is near the sun, it shines with the sun's light.
+00:23:12,480 --> 00:23:50,478
+Since in these remnants of Pelagian depravity, a considerable amount of poison is nurtured, if the beginning of salvation is wrongly attributed to man; if human will is impiously placed before divine will, so that someone is helped because they wanted it, not because they were helped to want it; if someone originally bad is wrongly believed to start receiving good not from the highest good, but from themselves; if God is pleased by something other than what He has given: grant us in this matter, most blessed Pope, most excellent father, as much as you can with the Lord's help, the diligence of your piety, so that the things in these questions that are obscure and difficult to understand may be opened up by your most illuminating explanations.
 
 137
-00:18:32,914 --> 00:18:38,999
-As it moves farther away, its light increases, and when it is fully opposite the sun, it can fully reflect the sun's image.
+00:23:50,478 --> 00:24:39,998
+First, because many do not think the Christian faith is violated by this disagreement, reveal how much danger is in their persuasion; then how through this preoperative and cooperative grace, free will is not hindered; then whether God's foreknowledge remains according to purpose, so that those things that are proposed are accepted as foreknown: or whether these matters vary by types of causes and kinds of persons; so that because the callings are different, in those who are saved without doing anything, only God's purpose seems to exist; but in those who are going to do some good, the purpose can stand by foreknowledge: or indeed uniformly, even though foreknowledge cannot be separated from purpose by temporal distinction, foreknowledge is still in a certain order supported by purpose; and just as there is nothing of any business that divine knowledge has not anticipated, so there is nothing good that has not flowed into our participation without God as the author.
 
 138
-00:18:38,999 --> 00:18:47,557
-However, this is not the time or place to discuss the detailed courses of the sun and moon, as this brief work is intended for calculating feast days for almost all readers.
+00:24:39,998 --> 00:24:53,034
+Finally, how through this preaching of God's purpose, by which the faithful become those who are preordained to eternal life, none of those who are to be exhorted are hindered, nor do they have an occasion for negligence if they despair of being predestined.
 
 139
-00:18:47,557 --> 00:18:53,048
-Some believe these celestial bodies are sentient, but common teachings from Catholic authors suggest otherwise.
+00:24:53,135 --> 00:24:55,282
+Please also explain how this can be resolved.
 
 140
-00:18:53,048 --> 00:18:58,787
-We must consider which view is more supported by the Holy Scriptures and what most Catholics have accepted in faith.
+00:24:55,282 --> 00:25:02,867
+We ask for your patience and understanding as you guide us, since after re-evaluating previous opinions on this matter, nearly all come to the same conclusion.
 
 141
-00:18:58,787 --> 00:19:05,268
-Opinions that have been equally asserted by Catholics and not contradicted by sacred canon should be left to the readers' judgment.
+00:25:02,867 --> 00:25:06,396
+They accepted God's purpose and predestination based on His foreknowledge.
 
 142
-00:19:05,664 --> 00:19:10,320
-Chapter SixOn the Upper Space and the Paradise of Heaven
+00:25:06,396 --> 00:25:15,412
+For this reason, God made some vessels for honor and others for dishonor, because He foresaw the end of each one, and knew their future will and actions under the same grace and assistance.
 
 143
-00:19:10,320 --> 00:19:17,269
-After discussing the firmament and the lights, there is a vast, empty space that stretches from the firmament of heaven down to the earth.
+00:25:15,412 --> 00:25:30,963
+With all these issues clarified, and many others which you can see more clearly with greater insight into this matter, we believe and hope that our limited understanding will be strengthened by your discussions, and that those distinguished by merit and honors, clouded by this opinion, will receive the purest light of grace.
 
 144
-00:19:17,269 --> 00:19:24,218
-Some writers say this space is divided into two parts: the upper space belongs to heaven, while the lower space is connected to the earth.
+00:25:30,963 --> 00:25:39,215
+One of their foremost authorities and a man of spiritual studies, Saint Hilary of Arles, knows that your blessedness admires and follows your teachings in all other matters.
 
 145
-00:19:24,218 --> 00:19:27,341
-The high space that belongs to heaven is very pure and subtle.
+00:25:39,215 --> 00:25:44,796
+He wishes to convey his thoughts to your holiness through his letters about this matter which he brings into dispute.
 
 146
-00:19:27,341 --> 00:19:32,729
-It has no clouds, no gusts of wind, no rain, no snow or hail, no changes in the air, no storms, or thunder.
+00:25:44,796 --> 00:25:57,961
+But because it is uncertain whether he will do this, or with what outcome, and considering the fatigue of us all, by the grace of God providing for this present age, we rest in the strength of your charity and knowledge:
+Add instruction to the humble, add rebuke to the proud.
 
 147
-00:19:32,729 --> 00:19:38,117
-It doesn't even have the air to support flying birds, clouds, or sustain various living beings with breath.
+00:25:57,961 --> 00:26:04,497
+It is necessary and useful to write down what has been written, so that it is not considered trivial, which is not frequently challenged.
 
 148
-00:19:38,117 --> 00:19:41,239
-There are no disturbances in the different hemispheres at all.
+00:26:04,497 --> 00:26:13,274
+For they think it is healthy because it does not hurt; they do not feel the wound covered by skin; but let them understand that it will come to cutting, what has a persistent swelling.
 
 149
-00:19:41,239 --> 00:19:45,923
-This is confirmed by those who climb Mount Olympus, the highest peak, unknown to most humans.
+00:26:13,274 --> 00:26:24,626
+May the grace of God and the peace of our Lord Jesus Christ crown you at all times, and glorify you as you walk from strength to strength forever, most blessed lord pope, ineffably wonderful, incomparably honorable, most excellent patron.
 
 150
-00:19:45,923 --> 00:19:50,807
-They report placing sponges soaked in vinegar around their mouths and noses to help them breathe.
+00:26:25,104 --> 00:26:32,456
+WARNING ON THE LETTER OF SAINT PROSPER OF AQUITAINE TO RUFINUS
+Three things can be investigated about the letter to Rufinus:
+1.
 
 151
-00:19:50,807 --> 00:19:53,728
-They ascend annually, driven by some unknown superstition.
+00:26:32,456 --> 00:26:35,293
+Who Rufinus is, to whom this letter was given;
+2.
 
 152
-00:19:53,728 --> 00:19:56,548
-They say they see no birds, clouds, rain, or wind there.
+00:26:35,293 --> 00:26:36,625
+When it was written;
+3.
 
 153
-00:19:56,548 --> 00:20:00,476
-After completing their rituals, they leave marks in the sands and then return.
+00:26:36,625 --> 00:26:40,736
+On what occasion and necessity Saint Prosper was compelled to write it.
 
 154
-00:20:00,476 --> 00:20:04,052
-When they climb again the next year, they find these marks undisturbed.
+00:26:40,736 --> 00:26:50,752
+As for Rufinus, it is not easy to determine who he was among the many known by this name around that time, nor have we found it definitively established by anyone until now.
 
 155
-00:20:04,052 --> 00:20:10,195
-This clearly shows there is no disturbed air there, and nothing related to the greenness of plants or shrubs can be found.
+00:26:50,752 --> 00:26:59,320
+It is certain that he was a friend of Saint Prosper, and one of those whom spiritual friendship makes concerned for the well-being of their friends.
 
 156
-00:20:10,800 --> 00:20:19,425
-However, the place we mentioned earlier, that purest and most refined upper space, should not be considered as the actual existence where no earth can reach or approach.
+00:26:59,320 --> 00:27:13,563
+Hence, when he heard confused rumors about the disputes raised against the doctrine of Saint Augustine, and learned that his most beloved friend Prosper was being poorly spoken of by many, he feared for the salvation of the soul most dear to him.
 
 157
-00:20:19,425 --> 00:20:25,600
-Instead, this place pertains to the outermost boundaries of this lower space and the nearby confines of that upper space.
+00:27:13,563 --> 00:27:24,332
+Not daring to condemn him with a hasty judgment without hearing him out, he chose to address him in writing, as he was perhaps separated by a long distance and could not do so in person.
 
 158
-00:20:25,600 --> 00:20:29,122
-In this place, life for those clothed in flesh can by no means dwell.
+00:27:24,332 --> 00:27:27,632
+He entrusted these letters to a mutual friend to deliver.
 
 159
-00:20:29,122 --> 00:20:36,931
-It is therefore clear that the uppermost, purest, and most tranquil space we discussed earlier, is not meant for those with flesh, nor for mortal things.
+00:27:27,632 --> 00:27:35,679
+Unless perhaps you prefer to think that he gave instructions to a departing friend to personally express his pious concern without writing.
 
 160
-00:20:36,931 --> 00:20:45,709
-Many Catholic authors assert that this space was originally designated for the fallen angels and their leader, because they believe no heavenly angel has fallen from above.
+00:27:35,679 --> 00:28:25,413
+Neither option seems certain, but it is judged that one of them certainly happened, based on the opening words of Saint Prosper's letter:
+"I received," he says, "through our mutual friend, the signs of your brotherly concern for me, and I gratefully acknowledged your sincere charity.
+And lest any malicious rumors, as far as they cannot be kept from your ears, bring you any fear or anxiety, I took care to clear you of all doubt as much as possible through my letter, striving so much to reveal everything to you with the fullest truth, so that because you could not hear all that is spread by our opponents, through me you can know whatever is said and spread about us to cause vain envy."
+Regarding the time of this writing, it can be asserted without doubt that it was composed while Augustine was still alive, but in the last years of this great master.
 
 161
-00:20:45,709 --> 00:20:49,588
-The celestial angels, while in angelic bliss, did not stay there for a time.
+00:28:25,991 --> 00:28:35,848
+What certainly makes these words of this letter undeniable is the reference to the Most Blessed Augustine, a prominent figure among the Lord's priests at this time.
 
 162
-00:20:49,588 --> 00:20:56,070
-As Scripture says, the devil himself was a liar from the beginning (John 8:44) and did not stand in the truth (First John 3:8).
+00:28:35,848 --> 00:29:20,982
+At the end of the letter, it says: "So that the preaching of the highest man in the Church at this time, etc."
+The final years of the life of the holy doctor are clearly demonstrated by the accusations from French detractors and slanderers of Saint Augustine's works. They were greatly offended by the reading of the book "On Rebuke and Grace," written around the year 426 or 427 for the instruction and correction of the monks of Adrumetum.
+Saint Prosper describes these critics when he says: "To this, that is, to the Most Blessed Augustine, among so many triumphs and honors, for the enlightenment of the Church and the glory of Christ, some of our own people (which is very regrettable) speak against him with secret, but not unknown, whisperings.
 
 163
-00:20:56,070 --> 00:21:09,799
-They believe he obtained this place of habitation by lot, with Scripture describing it as a heavenly paradise, speaking under the persona of Prince Cyrus to that highest fallen angel:
-"You were perfect in beauty, in the delights of the paradise of God" (Ezekiel 28:13).
+00:29:20,982 --> 00:30:23,364
+"
+And as they find receptive ears, they defame his writings, which attack the error of the Pelagians. They claim that he completely removes free will and, under the name of grace, preaches fatal necessity. They also add that he believes in two masses of the human race and two natures, attributing to such a pious man the impiety of pagans and Manichaeans.
+Cassian seems to refer to his thirteenth conference, which is about the protection of God, when he says: "For wanting to glory more in their own righteousness than in the grace of God, they are annoyed that we resist what they have asserted against the man of the highest authority among many conferences."
+This conference, dedicated to Honoratus of Marseilles along with six others, is proven to have been written before the year 426, in which he was appointed bishop of Marseilles.
+This occasion (as has already been suggested) prompted Saint Prosper to write this letter when Rufinus indicated that he was moved by the rumors spread by the enemies of Saint Augustine's doctrine.
 
 164
-00:21:09,799 --> 00:21:33,276
-Just as men, after their sin, were cast out from the happiness of the earthly paradise and thrust into the cursed habitation of this earth, so that while they sinned on earth, they would later live in the abode of an inferior earth under the punishment of their offense,
-so too, the angels, who are thought to have sinned in the purer space of the air, were miserably and unhappily thrown into a lower place, darker and more turbulent than the very air itself.
+00:30:23,364 --> 00:30:30,335
+These rumors targeted the reputation of Prosper, a disciple of Augustine, and he wished to be freed from this doubt.
 
 165
-00:21:33,276 --> 00:21:47,924
-They are believed to live under the expectation of a future judgment, where they will be more harshly condemned; just as they have airy bodies and now dwell in the air, it is reasonable to think that they once had their seat of beatitude in the air, but in a purer and more refined part.
+00:30:30,455 --> 00:30:43,313
+Saint Prosper, striving to meet the just requests of his friends, elaborates on the rumors spread by the enemies of Saint Augustine's doctrine and under what pretext they dared to speak against such a great doctor.
 
 166
-00:21:48,384 --> 00:23:27,240
-However, this place, while it belongs to the firmament of the sky, as I mentioned before, is considered part of the sky, just as the Lord Himself testifies, saying: "I saw Satan fall like lightning from heaven" Luke 10:18.
-Because of the clear and pure blessedness of that place, Satan was cast out due to his sin and destined for an unhappy and miserable abode in the lower space, that is, the cloudy and stormy air; as the apostle Paul attests, saying: "For our struggle is not against flesh and blood, but against the rulers, against the authorities of this dark world" Ephesians 6:12.
-Paul also declares that Christ triumphed over these spiritual forces of evil in the heavenly realms in Himself.
-Therefore, the evil spirits, along with their leader the devil, having been cast out from that clear dwelling place among the subcelestial spaces that we mentioned, and after the human race was redeemed from the sin of Adam and each individual's own sin through the coming of the Mediator, some think that this same place is now a place of rest for the souls of the saints while they await the future resurrection.
-They even think it is called the heavenly paradise, about which the Lord said to the thief who confessed on the cross: "Truly I tell you, today you will be with me in paradise" Luke 23:43.
-Moreover, in that paradise, planted with trees and endowed with a shining fountain, souls freed from their bodies do not need any material sustenance; indeed, the spiritual person, liberated from the carnal use of the mortal body, does not possess it, nor does he need to be refreshed by the fruit-bearing trees of the earthly paradise.
-For the eternal does not use the temporal, but contemplates eternal and spiritual things.
-We have touched upon these matters not to confirm them but to reflect upon them, especially since we do not attribute to ourselves the clarity of judgment regarding such things.
+00:30:43,313 --> 00:30:49,862
+One of the main errors of the Pelagians was the belief that God's grace was given based on the merits of men.
 
 167
-00:23:27,240 --> 00:23:33,317
-When the need arises, we can present all 596 authors of these opinions, to whom either belief or doubt can be attributed.
+00:30:49,862 --> 00:30:54,188
+With this principle in place, they easily revived their other doctrines.
 
 168
-00:23:33,317 --> 00:23:37,487
-By addressing their views rather than defending them, we strive to reach the truth.
+00:30:54,188 --> 00:31:00,497
+They initially taught that human nature was so sound that it could achieve good solely through free will.
 
 169
-00:23:37,487 --> 00:23:44,871
-If a better assertion is present, supported more by examples from Scripture or evaluations from knowledgeable Catholics, we are ready to accept it.
+00:31:00,497 --> 00:31:11,371
+Since this was entirely contrary to sound doctrine and had been rejected by all Catholic teachings, they conceded that grace was necessary to begin, progress, and persevere in good.
 
 170
-00:23:44,871 --> 00:23:49,241
-But with the previous matters somewhat explained, let's hasten to the following topics.
+00:31:11,371 --> 00:31:32,400
+However, they understood this as God's grace merely acting as a teacher of free will, manifesting itself through exhortations, the law, teachings, contemplation of creation, miracles, and external terrors, so that anyone, according to the movement of their will, if they sought, would find, if they asked, would receive, if they knocked, would enter.
 
 171
-00:23:49,392 --> 00:23:54,048
-Chapter SevenAbout the Lower Space and Different Hemispheres.
+00:31:32,400 --> 00:31:39,790
+From this followed the belief that grace was given according to the merits of men, and therefore grace was no longer grace.
 
 172
-00:23:54,048 --> 00:23:58,653
-The lower space is known as the air, which, as we mentioned, is associated with the earth.
+00:31:39,790 --> 00:31:50,124
+This cunning of the children of darkness was revealed by the judgment of the Eastern bishops, the authority of the Apostolic See, and the vigilance of the African prelates.
 
 173
-00:23:58,653 --> 00:24:06,279
-It helps sustain the life of all creatures that move through the air on earth, and we can confirm this both within ourselves and through observation.
+00:31:50,124 --> 00:32:00,218
+Saint Augustine, whom Saint Prosper says was then the chief portion of the Lord's priests, refuted this in his polemical writings and defeated such heresy in every way.
 
 174
-00:24:06,279 --> 00:24:13,955
-Sometimes, in the Scriptures, it is also referred to as the earth; as the Psalmist says, when all creatures are urged to praise the Lord, the Creator.
+00:32:00,218 --> 00:32:15,179
+However, some among the Catholics in Gaul defamed his doctrine and writings with malicious rumors, claiming that he completely removed free will and preached necessity under the name of grace, and that he wanted to believe in two natures in one man.
 
 175
-00:24:13,955 --> 00:24:18,664
-After discussing the higher order of the heavens, the focus shifts to this space of the air.
+00:32:15,719 --> 00:32:30,045
+If that were the case, they would openly oppose and refute harmful errors with written books, not try to harm that man with secret whispers, whose teachings align with the Roman Church and the Africans, indeed with all Catholics around the world.
 
 176
-00:24:18,664 --> 00:25:19,667
-It is written: "Praise the Lord from the earth, you dragons, and all depths; fire, hail, snow, ice, stormy winds that do his word" Psalm 148:7.
-Up to this point, the discussion has been about the air, which is sometimes called the earth.
-Afterwards, the Scriptures speak about the soil and the nature of the lower earth with these words: "Mountains and all hills; fruitful trees and all cedars" Psalm 148:9.
-The air is often referred to as the earth because of its density and apparent solidity, which supports the bodies of flying birds, even the largest ones, just as fish swim through the waters of the sea.
-Thus, birds traverse the spaces of the air by flying.
-Everything that water provides to sustain the life of aquatic creatures, the air does for flying creatures.
-Just as the reciprocal breath of birds and all that live in the air and on land nourishes and sustains life, so the vital movement of those living in the waters is refreshed through the act of breathing in and out.
-Therefore, when creatures are brought into the air, if they do not have the proper breath for air, they quickly perish.
-Similarly, those that live in the air cannot survive when air is excluded from them.
+00:32:30,045 --> 00:32:38,663
+These people are driven to such bold actions because they are upset that their opposition to Augustine's teachings in their Collations was resisted.
 
 177
-00:25:19,872 --> 00:26:50,544
-As I mentioned, just as the solid nature of the air supports the bodies of flying creatures, it also supports the dense mass of clouds, which often earns it the name "earth." These clouds are sustained by the solid nature of the air, and through this density of air, snow, hail, and ice are produced by the power of cold when it occurs.
-When they are drawn into the air, because they do not have a watery breath, they quickly perish; just as those that live in the air cannot survive if the air is taken away from them.
-Just as the solid nature of the air supports flying creatures, it also supports the dense mass within itself, which often gives it the name "earth." The dense mass of clouds is sustained, and through this density of air, snow, hail, and ice are produced by the power of cold when it happens.
-This space of air has the ability to draw and collect water vapors from the earth and the sea with a smoky lightness, lifting them up high.
-As long as they remain in tiny drops, they form clouds, and the air itself suspends them.
-But when the wind causes these tiny drops to merge into larger drops, the nature of the air can no longer support them, and they fall to the ground as rain.
-If the wind gathers these drops into larger masses before they fall, and they are caught by cold in the clouds, the cold's violence turns them into frozen hailstones.
-If the cold reaches the not yet condensed vapors and turns them into drops, it transforms them into snow.
-The snow that is nourished in the high clouds, when the air can't support it any longer, and the wind disperses it, falls to the ground.
-The Psalmist mentions this, speaking of the Lord:
-"He gives snow like wool; He scatters the frost like ashes.
-He sends out His ice like crumbs; who can stand before His cold?" (Psalm 147:16-17).
+00:32:38,663 --> 00:32:56,365
+They know well that if they raised such matters in any gathering of priests, they would be met with hundreds of volumes from the blessed Augustine, which abundantly prove that we should not glory in anything good we have done, except in the grace of Christ the Lord, and not in the strength of free will.
 
 178
-00:26:50,544 --> 00:27:01,683
-To illustrate that snow, whether on the earth or in the clouds, eventually melts back into water, he later adds:
-He sends out His word, and melts them; He causes His wind to blow, and the waters flow (Psalms 147:18).
+00:32:56,365 --> 00:33:10,399
+However, they hope for the riches of God's mercy, as stated in his teachings, that He who allowed them to be deceived by free will and stray from the path of humility at that time, would not leave them completely deceived, nor until the end.
 
 179
-00:27:01,683 --> 00:27:10,760
-It's clear that the waters are suspended in the clouds, as written in the book of Job:
-He binds up the waters in His clouds, and the cloud does not burst under them (Job 26:8).
+00:33:10,399 --> 00:33:27,112
+They were wrong in this, as noted in subsequent teachings, in that they placed the beginnings of virtues and good works in natural ability; or if they said these flowed from grace, they claimed that grace was preceded by some good work or good will, and was granted as a reward for such.
 
 180
-00:27:10,760 --> 00:27:16,227
-However, the air eventually sends those waters back down to the earth and sea, lifting them up from below.
+00:33:27,112 --> 00:33:37,885
+Saint Prosper diligently refuted this error, proving with Scripture that after the fall, man is left with no strength to do good, nor to earn merit, without the help of preceding grace.
 
 181
-00:27:16,227 --> 00:27:20,662
-Even though rain draws water from the salty sea, it becomes sweetened through the air.
+00:33:37,885 --> 00:33:44,116
+From the destruction incurred by Adam's sin, humans can only be rescued by God's gratuitous merciful grace.
 
 182
-00:27:20,662 --> 00:27:26,645
-Just like when salty sea water is poured over the soil (as sailors often do), it immediately changes to fresh water.
+00:33:44,116 --> 00:33:53,083
+He demonstrates this with the example of infants dying without baptism and those nations to which the Gospel of salvation has not yet been known to reach.
 
 183
-00:27:26,645 --> 00:27:36,701
-Through changes in the air and winds, and by stronger agitation, even fires and thunders are created by hidden commands through angels, who govern the visible world, under the Creator's guidance.
+00:33:53,083 --> 00:33:56,694
+Grace does not deny free will, but establishes and reforms it.
 
 184
-00:27:36,701 --> 00:27:46,810
-Some believe that thunder occurs because, when there are spaces around the air filled with fire and water—one above and one below—and the air draws both into itself, these opposing elements clash.
+00:33:56,694 --> 00:34:10,203
+Left on its own, free will is sufficient for evil and a fall, but it needs to be healed by grace, by which one is inspired to think and act differently, and is taught to attribute their health not to themselves, but to their healer.
 
 185
-00:27:46,810 --> 00:27:51,296
-Thunder cannot happen without humid clouds and lightning, as clearly seen by observers.
+00:34:10,727 --> 00:34:19,191
+Finally, Saint Prosper clears the cloud of slander against Augustine's doctrine, which falsely claimed it introduced fate or dual nature.
 
 186
-00:27:51,296 --> 00:27:58,310
-In this clash, fire and water mix, causing terrible sounds and roars; if fire wins, it harms the earth's fruits and trees significantly.
+00:34:19,191 --> 00:34:23,330
+He argues that Augustine never wrote anything close to such errors.
 
 187
-00:27:58,310 --> 00:28:02,024
-But if water prevails, it retains its fruitful power in trees and crops.
+00:34:23,330 --> 00:34:32,041
+Prosper teaches that neither Augustine nor his disciples attribute anything to fate, but believe everything is directed by divine providence.
 
 188
-00:28:02,024 --> 00:28:08,522
-Thunder sounds especially when the fruits of trees and the earth are still in their early stages, before they begin to mature.
+00:34:32,041 --> 00:34:43,284
+They do not establish two natures—one good and one evil—but only one nature, which, though created upright, fell through the sin of the first man and became subject to eternal death.
 
 189
-00:28:08,522 --> 00:28:14,504
-The increase or decrease of some creatures, by the command of the Lord Creator, is governed through other creatures.
+00:34:43,284 --> 00:34:52,057
+However, this nature is to be renewed through a new creation in Christ, who saves humanity by restoring freedom and providing continuous help.
 
 190
-00:28:15,072 --> 00:28:19,728
-Chapter EightAbout the Devil and the Nature of Demons.
+00:34:52,057 --> 00:35:07,563
+Prosper concludes his work in the Book of Numbers, Chapter 20, by urging his friend Rufinus to devote time to understanding Augustine's debates, if he truly desires to be properly instructed in the sound doctrine of God's grace, as he ought to desire.
 
 191
-00:28:19,728 --> 00:28:27,481
-In this turbulent and foggy region of the air, as we mentioned, the angels who were cast down from their heavenly happiness dwell with their leader.
+00:35:07,871 --> 00:35:12,527
+Saint Prosper of Aquitaine's Letter to Rufinus on Grace and Free Will
 
 192
-00:28:27,481 --> 00:28:33,558
-That leader is called Satan and the devil, while the remaining spirits, who were once angels, are now called demons.
+00:35:12,527 --> 00:35:17,390
+To my most beloved brother in Christ and rightly revered Rufinus, Prosper wishes eternal salvation.
 
 193
-00:28:33,558 --> 00:28:46,865
-Just as their merits have changed, so have their names and their places; however, even now in the Scriptures, they are often called angels by their old name, because they are messengers of wickedness, just as good spirits are messengers of righteousness.
+00:35:17,390 --> 00:35:24,266
+I received, through a mutual friend, signs of your brotherly concern for me, and I gratefully recognized the care of your most sincere love.
 
 194
-00:28:46,865 --> 00:28:52,314
-As it is written in the Gospel: "which my Father prepared for the devil and his angels" (Matthew 25:41).
+00:35:24,266 --> 00:35:32,861
+To ensure that any malicious rumors, should they reach your ears, do not cause you fear or anxiety, I have taken care to address any doubts you might have through this letter.
 
 195
-00:28:52,314 --> 00:28:58,810
-The Apostle also says: "A thorn in my flesh was given to me, a messenger of Satan, to torment me" (Second Corinthians 12:7).
+00:35:32,861 --> 00:35:43,911
+I aim to reveal everything to you with the utmost truth so that, since you may not have heard the full extent of what our adversaries are spreading, you can learn directly from me what is being said to stir up unfounded envy.
 
 196
-00:28:58,810 --> 00:29:13,007
-But these beings, even now, under the expectation of the terrifying arrival of the Lord's judgment, occupy these seats with fear and trembling, although fruitlessly for now, as the apostolic words testify, saying: "Even the demons believe, and they tremble" (James 2:19).
+00:35:43,911 --> 00:35:48,184
+But first, I must explain to you the nature of the issue from which these rumors arise.
 
 197
-00:29:13,007 --> 00:29:30,662
-To make it clear that under the expectation of the time in which they will be judged more harshly or rather destroyed, these unclean spirits inhabit this region of the air, who cried out in the presence of the Savior: "What do you want with us, Jesus, Son of God? Have you come here to destroy us before the appointed time?" (Luke 4:34).
+00:35:48,184 --> 00:35:54,569
+This way, the falsehoods of the accusers will be clearer to you, and you will see how they attempt to obscure the truth with lies.
 
 198
-00:29:30,662 --> 00:29:53,609
-At the coming of the eternal judge (when the common prayer of all the saints, saying: "Your will be done on earth as it is in heaven," will be fulfilled), the useless servants will be cast out into outer darkness, as the Lord will expel His adversaries from heaven just as He expelled them from the earth, to whom the punishment of eternal fire has been irremediably prepared by the Father (as the Lord Himself testifies) (Matthew 25:41).
+00:35:54,569 --> 00:36:04,686
+The Pelagian heresy, with its doctrines that aim to destroy the Catholic faith, and the poisonous impiety it has tried to spread within the Church, are already well-known and do not need a detailed account.
 
 199
-00:29:53,976 --> 00:29:59,448
-Therefore, they do not deserve forgiveness or redemption because they fell from the highest state of their order.
+00:36:04,686 --> 00:36:10,678
+However, one of their most wicked and subtle blasphemies is the claim that God's grace is given according to human merits.
 
 200
-00:29:59,448 --> 00:30:03,516
-Once they abandoned their sin, there was nothing left for them to be called back to.
+00:36:10,678 --> 00:36:17,554
+Initially, they asserted that human nature possessed such great holiness that, through free will alone, one could attain the kingdom of God.
 
 201
-00:30:03,516 --> 00:30:11,168
-They polluted their happiness, in which they were established, by transgressing the natural good that they were and the Lord's law in which they were created.
+00:36:17,554 --> 00:36:24,675
+They argued that human nature was sufficiently supported by its own condition, having a rational intellect, to easily choose good and avoid evil.
 
 202
-00:30:11,168 --> 00:30:16,301
-Because of this, they neither desire to repent nor could they receive forgiveness even if they did repent.
+00:36:24,675 --> 00:36:32,484
+They claimed that, where the works of the will were free in both directions, the ability to do good was not lacking in those who were evil, but the effort was.
 
 203
-00:30:16,301 --> 00:30:21,095
-The human race deserved redemption from its Creator because it fell from a lower rank in its order.
+00:36:32,975 --> 00:36:51,636
+Since, as I mentioned, they wanted all human righteousness to rely on natural integrity and capability, and this definition was rejected by sound doctrine, they preserved this condemned view by the Catholics, later colored by many varieties of heretical deceit, with the ingenuity that they professed God's grace as necessary for starting, progressing, and persevering in good.
 
 204
-00:30:21,095 --> 00:30:33,154
-When humanity was placed in the earthly paradise, destined for procreation and the consumption of food, it would have received a better, more sublime, and spiritual life without death, if it had remained obedient to the commandment during that time.
+00:36:51,636 --> 00:36:58,071
+But in this profession, the vessels of wrath tried to sneak in deceitfully, but God's grace revealed this to the vessels of mercy.
 
 205
-00:30:33,154 --> 00:30:39,692
-Therefore, the mercy of the Creator calls man back to the state he had not yet reached when he sinned, through the passion of the Lord.
+00:36:58,071 --> 00:37:19,306
+It was understood and clearly seen that they only confessed grace to the extent that it serves as a teacher to free will, showing itself through exhortations, through the law, through doctrine, through contemplation of creation, through miracles, and through external terrors to its judgment, so that each person, according to the movement of their own will, might find if they seek, receive if they ask, and enter if they knock.
 
 206
-00:30:39,692 --> 00:30:44,244
-If man had fallen from that higher state, like the angel, he would never be called back again.
+00:37:19,306 --> 00:37:39,253
+For the call of grace initially acts upon us by reminding us of our own ability; and grace is no more than law, prophet, or teacher, whose common and general effort is present among all people throughout the world, so that those who wish to believe may do so, and those who believe may receive justification by the merit of their faith and good will: thus, God's grace is given according to human merit.
 
 207
-00:30:44,244 --> 00:31:20,420
-The restoration will not be to the rank or order from which the first man fell, but to a more sublime state he hoped for, as the Lord says: "They will be like angels in heaven" This means they will not be like humans in paradise; for into that mortality, assigned to the procreation of offspring and the consumption of food for a time, humans will not return. But after death, rising with spiritual bodies, they will not grow, age, or die, sharing the happiness of the angels.
-If we inquire about the time of the devil's transgression, we find that the devil's sin occurred before the time of visible things. Scripture teaches that all things were made simultaneously and without time, as it says: "He who lives forever created all things at once"
+00:37:39,253 --> 00:37:47,322
+And in this way, grace would not be grace: because if it is given according to merits, and it is not the creator of good things itself, it is called grace in vain.
 
 208
-00:31:20,808 --> 00:32:37,656
-In all these things, even that infernal eternal fire, about which the Lord says: "Go into the eternal fire, which my Father has prepared for the devil and his angels" Matthew 25:41, is believed to have been created simultaneously. For when He says, "He created all things at once," He left nothing uncreated among all creatures.
-Therefore, the prison that was prepared at the time of creation was made for the one whose sin preceded the very creatures; for the Lord would not have prepared punishment for an innocent being if the sin of that being had not occurred before the punishment was prepared. But He also did this outside of time, He who made the punishment of damnation, by which the runaway servant would be tormented.
-This angel, however, when he departed from the Creator's blessedness, lost all the goodness of his nature that he had in his original state; but though he is evil to himself, he always remains good to God, as he obediently, though not willingly, follows the Lord's command because of God's power. From all the goodness of his nature that he had, he now only retains this: that he obeys the Creator God's commands in all things.
-But this obedience is not good in the devil and his ministers, who obey only because they cannot disobey; yet this obedience is good in God, whose good will the devil's evil will, when commanded to do good works, cannot resist. But it often happens that when something is commanded by God's good will, the devil's evil will is satisfied in the very same work.
+00:37:47,519 --> 00:37:52,571
+Here are the tricks used by those who wished to transform themselves into the likeness of the righteous.
 
 209
-00:32:37,656 --> 00:32:56,314
-Just as to deceive Ahab, the most wicked king, who was an idolater and persecutor of prophets, when asked how he would deceive, he not only willingly offered himself for this task but also revealed his plan and said:
-"I will go and be a lying spirit in the mouths of all his prophets."
-And the Lord said: "Go and do so, and you will deceive Ahab"
-(Second Chronicles 18:21).
+00:37:52,571 --> 00:37:59,224
+These have been uncovered by the judgments of Eastern bishops, the authority of the apostolic see, and the vigilance of African councils.
 
 210
-00:32:56,314 --> 00:33:03,367
-For it was fitting that he, who had put the true prophets of the Lord to death, should perish, deceived by the false words of false prophets.
+00:37:59,224 --> 00:38:06,898
+The most blessed Augustine, a notable figure among the Lord's priests at the time, thoroughly and eloquently dismantled these deceptions in his many writings.
 
 211
-00:33:03,367 --> 00:33:12,121
-Behold, the devil promptly offered himself for this wicked task of deceiving the impious, but if he had not been permitted by the Lord, he would not have been able to do this.
+00:38:06,898 --> 00:38:14,474
+Among the many gifts from God, with which the Spirit of Truth abundantly filled him, Augustine possessed profound knowledge and wisdom born from God's love.
 
 212
-00:33:12,121 --> 00:33:20,125
-The good will of God exercised just vengeance on the holy prophets, while the evil minister fed his own wicked will in the destruction of the wicked and sinful.
+00:38:14,474 --> 00:38:19,914
+He not only eradicated this persistent heresy but also many previous ones with the invincible sword of the word.
 
 213
-00:33:20,125 --> 00:33:30,980
-But neither among men nor in things subject to men can anything be done without God's permission, as the truth of the Gospel shows, where it is said: "If you cast us out, send us into the herd of pigs"
-(Matthew 8:31).
+00:38:19,914 --> 00:38:29,870
+Despite the numerous victories and triumphs he achieved for the enlightenment of the Church and the glory of Christ, some individuals, regrettably, whisper against him in secret, though we are aware of it.
 
 214
-00:33:30,980 --> 00:33:39,684
-For just as in those men from whom he was expelled, he could not remain against the Lord's command, so also he showed that he could not enter the pigs without His permission.
+00:38:29,870 --> 00:38:38,953
+They criticize his writings, particularly those addressing the errors of the Pelagians, accusing him of entirely removing free will and promoting fatal necessity under the guise of grace.
 
 215
-00:33:39,684 --> 00:33:44,086
-This is similarly shown in the case of blessed Job and the things he possessed and lost.
+00:38:38,953 --> 00:38:45,558
+They further claim that he believed in two classes of humanity and two natures, attributing to him the impiety of pagans and Manicheans.
 
 216
-00:33:44,086 --> 00:34:12,849
-In these, the wickedness of the enemy is proven to have done nothing without the Creator’s permission, as it is said: "Have you not made a hedge around him and his house and all his possessions?"
-And when the Lord allowed his possessions to be given to the power of the evil enemy, it is added: "Behold, all that he has is in your hand; but do not lay a hand on him"
-And Job, understanding these things, responded when he learned of the loss of his possessions:
-"The Lord gave, and the Lord has taken away. As the Lord willed, so has He done; blessed be the name of the Lord"
+00:38:45,558 --> 00:38:52,260
+If these accusations are true, why are they so negligent, not to mention impious, that they do not repel such sudden ruin from the Church?
 
 217
-00:34:13,200 --> 00:34:21,881
-He did not say: The Lord gave, the devil took away; for he knew very well that without God's permission, the adversary could do nothing at all in matters or with people.
+00:38:52,260 --> 00:38:58,234
+Why do they not resist such insane preachings or at least confront him with any writings from which such doctrines emanate?
 
 218
-00:34:21,881 --> 00:34:29,947
-But often, in the same task, the wicked will of his adversary feeds itself, and the Lord's goodwill, or just punishment, or fruitful testing is administered.
+00:38:58,234 --> 00:39:05,082
+Indeed, they would have greatly benefited the human race and earned their own glory if they had corrected Augustine from his supposed errors.
 
 219
-00:34:29,947 --> 00:34:35,495
-Under this dual distribution of good and evil will, they punish the wicked and test the good through trials.
+00:39:05,567 --> 00:39:13,931
+Unless, perhaps, modest men and new critics generously and mercifully spare the elderly man of great past achievements, confident that no one anywhere will accept his books.
 
 220
-00:34:35,495 --> 00:34:42,892
-For this reason, as long as they still freely fly in this air, up until the time of the final judgment, their punishment is delayed by the Lord.
+00:39:13,931 --> 00:39:25,293
+They may forgive, or rather understand, that not only the Roman and African Church, but all the children of promise throughout the world, agree with this man's teaching, just as they do with the whole faith, in the confession of grace.
 
 221
-00:34:42,892 --> 00:34:51,985
-This is so the wicked among humans may appear as their companions in both crime and punishment, and the good, tested through the tribulations inflicted by them, may be revealed.
+00:39:25,293 --> 00:39:35,349
+But even in these very places where complaints are raised against him, there are, by God's own doing, many who benefit from his enlightening discussions on the reception of evangelical and apostolic doctrine.
 
 222
-00:34:51,985 --> 00:34:57,944
-Indeed, the wicked and impure spirits, wandering and subtle, are emotionally susceptible and clothed in airy bodies.
+00:39:35,349 --> 00:39:39,603
+They are daily growing within the body of Christ, as much as He himself multiplies them.
 
 223
-00:34:57,944 --> 00:35:01,797
-Never aging and engaging in hostilities with humans, they swell with pride.
+00:39:39,603 --> 00:39:42,794
+If we are rightly criticized, why are we not consistently rebuked?
 
 224
-00:35:01,797 --> 00:35:09,554
-Deceptive and cunning in fraud, they stir human senses, bringing terror to mortals, disturbing life with nightmares, diseases, and distortion of limbs.
+00:39:42,794 --> 00:39:45,646
+If we are not to be rebuked, why are we secretly slandered?
 
 225
-00:35:09,554 --> 00:35:19,777
-They create illusions and oracles, control fate, infuse illicit love and desires into human hearts, and lie with plausible appearances, transforming themselves into the form and light of good angels.
+00:39:45,646 --> 00:39:51,255
+But who does not know why they privately grumble out of their own resentment, and publicly remain silent in council?
 
 226
-00:35:19,777 --> 00:35:23,219
-And just as in wickedness, so too do they differ in ranks of power.
+00:39:51,255 --> 00:40:00,150
+They want to take pride more in their own righteousness than in the grace of God, and they are annoyed that we oppose what they assert against a man of great authority in many debates.
 
 227
-00:35:23,219 --> 00:35:35,291
-Just as good spirits, that is, perfect angels, penetrate the air without suffering, so too would they, if they had not sinned, possess the places they now hold with suffering, subject to themselves, if they lived happily and blessedly.
+00:40:00,150 --> 00:40:09,384
+Nor do they doubt that if they raise any question on this matter, in any gathering of priests or congregation of people, they will encounter hundreds of volumes by the most blessed Augustine.
 
 228
-00:35:35,291 --> 00:35:40,788
-Even when they speak their names, they take names from the offices and powers of wickedness for themselves.
+00:40:09,384 --> 00:40:25,580
+When these begin to reveal to the hearts of listeners the powerful truth of the Christian faith, and to flood the minds of those present from the sources of divine eloquence, who among the faithful, who among the pious, recognizing and commending the causes of their own salvation, would want to accept this bitterness of smoky vanity?
 
 229
-00:35:40,788 --> 00:35:48,391
-Just as when the adversary was asked by the Lord for his name in the region of the Gerasenes, he replied, saying: My name is Legion, for we are many
+00:40:26,015 --> 00:40:36,985
+I also hope for this from the richness of God's mercy: that those whom He now allows to be deceived by their own free will and to stray from the path of humility, He will not fully and finally deprive of understanding.
 
 230
-00:35:49,008 --> 00:35:55,404
-Therefore, it's clear that he didn't state his own name, which he didn't have, but instead used a title that reflected his rank and power.
+00:40:36,985 --> 00:40:46,696
+Instead, He allows them to wander further so that when He finally calls them back, His grace will be celebrated with even greater glory, having subdued even the hearts of those who opposed Him.
 
 231
-00:35:55,404 --> 00:35:59,761
-When the Lord asked, he indicated what was true about him because he couldn't speak otherwise.
+00:40:46,696 --> 00:41:01,339
+This opposition arose from their pursuit of virtue and moral integrity, not because anyone should lack these qualities, but because their use is miserable when they are thought to arise from natural ability or from the generosity of grace with some preceding merit of good work or good will.
 
 232
-00:35:59,808 --> 00:36:06,000
-Chapter Nine Chapter Nine: On the Nature of Waters and the Flow of the Ocean.
+00:41:01,339 --> 00:41:06,975
+They indeed assert these things with certain testimonies from Holy Scripture, but they are not reasonably taken.
 
 233
-00:36:06,000 --> 00:36:13,361
-After exploring the expanse of the air and its inhabitants, we now turn our attention to the element of water, which lies between the air and the land.
+00:41:06,975 --> 00:41:17,390
+For in the defense of any definition, one should present those which do not yield to another understanding that seems to contradict the definition, and which do not abandon the rule to which they are fitted.
 
 234
-00:36:13,361 --> 00:36:21,453
-The gathering of waters, as the Scripture in Genesis declares, is called the sea, for it is written: "And the gatherings of the waters He called seas" (Genesis 1:10).
+00:41:17,390 --> 00:41:32,838
+Thus, they say it is spoken to those using free will: "Come to me, all you who labor and are burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart; and you will find rest for your souls. For my yoke is easy, and my burden is light" (Matthew 11:28).
 
 235
-00:36:21,453 --> 00:36:31,593
-The part of the waters that flows through springs, rivers, and lakes across the land is fresh, providing drinking water for thirsty animals, supporting various uses, and fertilizing the land to nourish crops.
+00:41:32,838 --> 00:41:46,827
+They want this to apply to all people laboring in the uncertainty of this life and burdened with sins, so that those who wish to imitate the gentleness and humility of the Savior and take on the yoke of His commandments may find rest for their souls in the hope of eternal life.
 
 236
-00:36:31,593 --> 00:36:40,319
-This is why the rains, which filter through the clouds and fall through the air, become flavorful to better support the growth of crops and quench thirst, as we mentioned earlier.
+00:41:46,827 --> 00:41:53,620
+However, those who do not wish to do this will lack salvation through their own fault; if they had wished, they could have obtained it.
 
 237
-00:36:40,319 --> 00:36:48,753
-The part of the waters that remains unchanged and spreads over vast areas of land, where the boundaries of the water are hidden, naturally retains a salty and sharper taste.
+00:41:53,620 --> 00:42:13,445
+But let them also hear what the Lord has said to those using free will: "Without me, you can do nothing" (John 15:5); and, "No one can come to me unless the Father who sent me draws him" (John 6:44); and, "No one can come to me unless it is granted by my Father" (John 6:65); and, "Just as the Father raises the dead and gives them life, so also the Son gives life to whom He will" (John 5:21).
 
 238
-00:36:48,753 --> 00:36:53,774
-This enables it to more effectively nourish fruits and other produce that cannot thrive in fresh water.
+00:42:13,847 --> 00:42:21,566
+"No one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him" (Luke 10:22).
 
 239
-00:36:53,774 --> 00:36:58,990
-Whether the natural taste of water is more flavorful or salty, or equally both, only God knows for certain.
+00:42:21,566 --> 00:42:25,398
+These truths are unchangeable and cannot be twisted into another meaning.
 
 240
-00:36:58,990 --> 00:37:06,351
-Many believe that the salty taste is the natural flavor of water, while the sweeter taste is thought to be influenced by the nature of the land or air.
+00:42:25,398 --> 00:42:32,592
+Who would doubt that free will responds to the call when the grace of God has created the disposition to believe and obey in that person?
 
 241
-00:37:06,351 --> 00:37:13,566
-However, just as salty water becomes fresh when it flows over the ground, fresh water can become salty when infused with the ashes of marine plants.
+00:42:32,592 --> 00:42:49,183
+Otherwise, it would be enough to warn a person without also creating a new will within them, as it is written: "The will is prepared by the Lord" (Proverbs 8:35, according to the Septuagint); and as the Apostle says: "For it is God who works in you both to will and to work for his good pleasure" (Philippians 2:13).
 
 242
-00:37:13,566 --> 00:37:19,855
-Therefore, it is not difficult to believe that both tastes are natural in their own way, since each can transform into the other.
+00:42:49,183 --> 00:42:56,218
+What good pleasure, if not the one that God has worked in them, so that he would give both the desire and the action to accomplish it?
 
 243
-00:37:19,855 --> 00:37:29,800
-The seas often separate stretches of land, setting boundaries for nations, enriching all provinces with their generous waves, and providing essential trade and exchange among different regions and people.
+00:42:56,218 --> 00:43:00,996
+They also use the example of the centurion Cornelius to demonstrate the power of free will.
 
 244
-00:37:30,288 --> 00:37:35,758
-How closely the ocean's tides align with the movement of the moon is evident to those who observe carefully.
+00:43:00,996 --> 00:43:08,557
+Before receiving grace, he feared and prayed to God, and with spontaneous zeal, he was dedicated to almsgiving, fasting, and prayer (Acts 10:2).
 
 245
-00:37:35,758 --> 00:37:42,039
-The ocean appears to advance and retreat twice a day within a 24-hour period, divided into cycles of high tide and low tide.
+00:43:08,557 --> 00:43:13,282
+For this reason, he was praised by divine testimony and received the gift of regeneration.
 
 246
-00:37:42,039 --> 00:37:47,763
-The high tide typically lasts for six hours, consistently rising, and then recedes over the same number of hours.
+00:43:13,282 --> 00:43:19,478
+They do not understand that all of Cornelius's preparation was granted by God's grace (see the Synod of Orange below).
 
 247
-00:37:47,763 --> 00:37:53,689
-Conversely, the low tide rises for five hours and recedes over seven hours, leaving the shores it filled empty again.
+00:43:19,478 --> 00:43:28,824
+When Saint Peter was taught through a vision about baptizing Cornelius, and therefore about all the Gentiles, he refused unclean and indiscriminate food due to Jewish observance.
 
 248
-00:37:53,689 --> 00:38:03,668
-This pattern aligns so closely with the moon that it always seems to start a new cycle when the moon is in the middle of its phase, which lasts for seven days, twelve hours, and a quarter of a day.
+00:43:28,824 --> 00:43:34,337
+A voice came to him three times saying, "What God has made clean, you must not call common" (Acts 10:15).
 
 249
-00:38:03,668 --> 00:38:08,936
-Thus, as the full moon wanes, the low tide also diminishes, splitting into six hundred four dark halves.
+00:43:34,337 --> 00:43:56,703
+This clearly shows that all the good works that came before in Cornelius were initiated by God's grace for his purification: so that the Apostle would not hesitate to confer the sacrament to someone whom the Lord had already given this gift, lest the beginning of the new and still unrevealed calling would waver, unless it was confirmed by the very signs of previous efforts showing that God had been at work in those chosen.
 
 250
-00:38:08,936 --> 00:38:14,558
-However, the high tide is observed in between these phases, never coinciding exactly with the full or new moon.
+00:43:56,703 --> 00:44:02,321
+For not everyone has faith (Second Thessalonians 3:2); nor does everyone believe the Gospel (Romans 10:16).
 
 251
-00:38:14,558 --> 00:38:17,800
-This results in twenty-four high and low tides each common year.
+00:44:02,951 --> 00:44:09,112
+Those who believe are led by the Spirit of God, while those who do not believe turn away by their own free will.
 
 252
-00:38:17,800 --> 00:38:23,777
-In a leap year, there are twenty-six of each, as the ocean's movements are inseparably linked with the moon's journey.
+00:44:09,112 --> 00:44:12,523
+Therefore, our conversion to God is not from us, but from God.
 
 253
-00:38:23,777 --> 00:38:34,364
-Out of these, four tides—two equinoctial high tides and two others at the end of periods of increasing or decreasing daylight—are notably stronger, visibly flooding higher and uncovering more shore than usual.
+00:44:12,523 --> 00:44:22,314
+As the Apostle says,
+"By grace you have been saved through faith, and this is not from yourselves, it is the gift of God; not by works, so that no one can boast" (Ephesians 2:8).
 
 254
-00:38:34,364 --> 00:38:41,303
-Since it is impossible for the ocean not to leave some unknown areas, when it floods our lands, it uncovers the same areas as it recedes.
+00:44:22,314 --> 00:44:28,585
+Let human weakness acknowledge itself, and recognize the condemned succession in the first man of all generations.
 
 255
-00:38:41,303 --> 00:38:49,914
-This means that what is considered high tide here is low tide somewhere else, and vice versa, compelling us to admit that we only understand half of the ocean's workings.
+00:44:28,585 --> 00:44:37,551
+When the dead are brought to life, the blind are given sight, and the ungodly are justified, let them confess their life, light, and righteousness in Jesus Christ.
 
 256
-00:38:50,472 --> 00:38:59,214
-But in this and many similar matters, we can only acknowledge the power and vastness of the Creator, who arranged everything by number, weight, and measure Wisdom 11:21.
+00:44:37,551 --> 00:44:41,677
+Let him who boasts, boast in the Lord (1 Corinthians 1:31), not in himself.
 
 257
-00:38:59,214 --> 00:40:09,572
-Meanwhile, with the distinguished teacher of the Gentiles, we say: "For we know in part and we prophesy in part. But when what is perfect comes, then I will know fully, just as I am fully known" First Corinthians 13:9.
-Moreover, the scripture of Genesis declares that various kinds of fish and birds, meaning all aquatic and flying creatures, were made from this watery element. But philosophers who study the nature of things count 153 kinds of fish, that is, all creatures that live in water, which the apostolic net had gathered as if from every kind of fish.
-As for the birds, whether they have this number of species, or a larger or smaller number, although some may estimate, they cannot confirm it with great authority; thus, they are neither to be followed nor rejected. However, since the origin of all birds came from water, how did such diverse habits of living, dwelling, or swimming arise? Some always float on salty waves and find their sustenance there; others live in the still waters of lakes and rivers. Others live on land without any habit of swimming, some in fields, some in forests, some in mountains, and some in marshy places. Some cannot lift themselves with their wings to fly, while others reach the highest and most remote parts of the air by flying, so that in summer they even bring snow from the highest clouds with their wings.
+00:44:41,677 --> 00:44:47,618
+While he was ungodly, blind, and dead, he received righteousness, light, and life freely from his deliverer.
 
 258
-00:40:09,624 --> 00:40:15,633
-Despite their vastly different origins, all birds, regardless of their connection to water, thrive in varied conditions.
+00:44:47,618 --> 00:44:54,384
+He did not act justly and then his righteousness increased, nor did he walk towards God and then his journey was confirmed.
 
 259
-00:40:15,633 --> 00:40:29,654
-Some come from salty water, some from fresh water, some from the dew of plants, some from the condensation of trees, some from the moisture of marshes, some from the confluence of mountains, some from the vapor of the air, and some from the fluid conspiracy of the highest clouds.
+00:44:54,384 --> 00:45:03,295
+He did not love God and then his love was inflamed; but while he was without faith, and therefore ungodly, he received the Spirit of faith and was made righteous.
 
 260
-00:40:29,654 --> 00:40:36,715
-Each bird naturally adapts to the environment that matches its origin, living in and deriving sustenance from the place it was first created.
+00:45:03,295 --> 00:45:20,787
+"The righteous shall live by faith" (Romans 1:17);
+and,
+"Without faith it is impossible to please God" (Hebrews 11:6);
+and,
+"Everything that does not come from faith is sin" (Romans 14:23);
+so that it may be understood that the righteousness of unbelievers is not righteousness because nature without grace is tainted.
 
 261
-00:40:36,816 --> 00:40:40,200
-Chapter TenAbout Paradise
+00:45:20,787 --> 00:45:26,783
+Indeed, having lost natural innocence, man, exiled and lost, walked without a path and entered deeper errors.
 
 262
-00:40:40,200 --> 00:40:45,384
-Since the earth was organized after the waters, let's first talk about Paradise, where the first humans lived.
+00:45:26,783 --> 00:45:31,899
+But he was sought, found, brought back, and introduced into the path which is truth and life.
 
 263
-00:40:45,384 --> 00:40:56,459
-Although this topic could be brief, there are many opinions on whether the immortal life granted to humans before sin was called Paradise, or if the entire world was so perfectly arranged for innocent living that it was named Paradise.
+00:45:31,899 --> 00:45:36,245
+He was ignited with love for God, who first loved him when he did not love Him.
 
 264
-00:40:56,459 --> 00:41:01,690
-As long as the inhabitants lived blamelessly, their earthly home provided everything happily without any labor.
+00:45:36,245 --> 00:45:56,212
+As the blessed Apostle John says,
+"Not that we loved God, but that He loved us" (1 John 4:10);
+and again,
+"We love because God first loved us" (1 John 4:19);
+and he also says,
+"Beloved, let us love one another, for love is from God; and everyone who loves is born of God and knows God. Whoever does not love does not know God, because God is love" (1 John 4:7-8).
 
 265
-00:41:01,690 --> 00:41:10,268
-But after they sinned and changed for the worse, the world was also altered and obscured by their fault and the judgment of punishment, much like we discussed about the sun and moon.
+00:45:56,927 --> 00:46:03,329
+As blessed Paul says, In Christ Jesus, neither circumcision nor uncircumcision means anything, but faith working through love.
 
 266
-00:41:10,268 --> 00:41:12,436
-It lost much of its beauty and fruitful power.
+00:46:03,329 --> 00:46:07,494
+Galatians chapter 5, verse 6
+Where does this faith connected to charity come from?
 
 267
-00:41:12,436 --> 00:41:17,290
-What once supported the happiness and well-being of the righteous now brought punishment to the wicked.
+00:46:07,494 --> 00:46:14,911
+Paul himself shows it is received by saying, Because it has been granted to you for Christ, not only to believe in him but also to suffer for him.
 
 268
-00:41:17,290 --> 00:41:27,093
-Or was there a spiritual place, full of blessed happiness, prepared for humans who maintained the merit of their creation, where nothing harmed their bodily happiness as long as they followed the commandment?
+00:46:14,911 --> 00:46:19,280
+Philippians chapter 1, verse 29
+This certainly could not happen without great charity.
 
 269
-00:41:27,093 --> 00:41:35,623
-The authority of the Scriptures of Genesis supports this view, saying: "The Lord God had planted a garden in Eden, in the east, where he placed the man he had formed" (Genesis 2:8).
+00:46:19,280 --> 00:46:24,767
+And again, The love of God has been poured into our hearts through the Holy Spirit who has been given to us.
 
 270
-00:41:35,623 --> 00:41:45,143
-From the beginning, Paradise is said to have been planted, suggesting this place holds a special primacy in the world, where the first man is believed to have been placed immediately after his creation.
+00:46:24,767 --> 00:46:33,149
+Romans chapter 5, verse 5
+Without this charity, the Apostle testifies that no matter how much faith, knowledge, virtues, zeal, or labor one has, it is of no benefit.
 
 271
-00:41:45,143 --> 00:41:55,087
-Indeed, it was fitting that the head and beginning of the human race be placed in the head and beginning of the world, so that the growth of humanity would start from there, just as the world they inhabit began.
+00:46:33,149 --> 00:46:42,293
+First Corinthians chapter 13
+Many praiseworthy and admirable things can be found in a person, but without the core of charity, they have the appearance of piety but lack the truth.
 
 272
-00:41:55,512 --> 00:42:04,319
-The state of paradise, as described in Scripture, is depicted as being filled with fruit-bearing trees and adorned with a great fountain that waters the whole face of the earth.
+00:46:42,293 --> 00:46:59,363
+In this great and ineffable good, no one was found worthy, but whoever was chosen by God was made worthy:
+as the Apostle says, Giving thanks to the Father, who has made us worthy to share in the inheritance of the saints in light, who has delivered us from the power of darkness and transferred us to the kingdom of the Son of his love.
 
 273
-00:42:04,319 --> 00:42:08,748
-It narrates about the man placed there:
-"Eat from any tree in the garden" (Genesis 2:16).
+00:46:59,363 --> 00:47:14,146
+Colossians chapter 1, verse 3
+And to Timothy: Share in suffering for the gospel according to the power of God, who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before the ages began.
 
 274
-00:42:08,748 --> 00:42:12,779
-The woman said, "We eat from the fruit of the trees in the garden" (Genesis 3:2).
+00:47:14,146 --> 00:47:25,170
+Second Timothy chapter 1, verse 8
+And to Titus: For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, living in malice and envy, hated by others and hating one another.
 
 275
-00:42:12,779 --> 00:42:18,601
-And earlier it states: "And a fountain rose from the earth, watering the entire surface of the ground" (Genesis 2:6).
+00:47:25,170 --> 00:47:33,501
+But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of works done by us in righteousness, but according to his own mercy.
 
 276
-00:42:18,601 --> 00:42:29,698
-In these passages, with a straightforward historical account, what would prevent the truth of Scripture from being preserved, just as it shines through in all its accounts about the beginning of the entire visible creation?
+00:47:33,501 --> 00:47:34,721
+Titus chapter 3, verse 3
 
 277
-00:42:29,698 --> 00:42:38,855
-We believe, as Genesis investigates historically, in the creation of the firmament, the sea, the earth, the lights, the stars, the aquatic creatures, the land animals, and man himself.
+00:47:35,279 --> 00:47:40,393
+The grace of God justifies anyone, not by making good people better, but by making bad people good.
 
 278
-00:42:38,855 --> 00:42:46,220
-Why should we not accept the mention of paradise filled with fruit-bearing trees and adorned with a great fountain, unless it's considered a riddle?
+00:47:40,393 --> 00:47:42,976
+Then, through growth, it makes good people better.
 
 279
-00:42:46,220 --> 00:42:53,286
-This can be understood in both ways: according to the historical narration of events and according to tropology, which is a moral explanation.
+00:47:42,976 --> 00:47:45,301
+It doesn't take away free will, but frees it.
 
 280
-00:42:53,286 --> 00:43:28,617
-Sacred Scripture can be understood in three ways:
-The first is purely according to the letter, without any figurative intention, as Saint Jerome says: "The Acts of the Apostles indeed seem to me to sound like a bare history."
-The second way is through a figurative understanding, without regard to the actual events, such as the beginning and end of Ezekiel, the Song of Songs, and some parables of the Gospel, which speak one thing and mean another.
-The third way preserves the historical narration of events while understanding it in a mystical sense, just as the ark of Noah, the tabernacle, and the temple were made historically, and intellectually the mysteries of the Church are designated through these.
+00:47:45,301 --> 00:47:49,227
+When free will is without God, it is dead to righteousness and alive to sin.
 
 281
-00:43:29,016 --> 00:43:37,899
-Thus, the location of the paradise of the first Adam, which existed as a symbol of the future, and of the future Church, which is the land of the second Adam, prefigured mysteries.
+00:47:49,227 --> 00:47:55,426
+But when the mercy of Christ illuminates it, it is rescued from the kingdom of the devil and becomes the kingdom of God.
 
 282
-00:43:37,899 --> 00:43:43,526
-While man lived there immortally and happily, wouldn’t the subjugation of the entire world also be subject to him?
+00:47:55,426 --> 00:48:01,624
+To stay in this kingdom, our own ability isn't enough; we need perseverance from the same source that gave us diligence.
 
 283
-00:43:43,526 --> 00:43:48,313
-For what would prevent him from entering the world, who would not fear being harmed by creatures?
+00:48:01,624 --> 00:48:07,307
+Even the most ardent faith of Saint Peter would have failed in temptations if the Lord had not prayed for him.
 
 284
-00:43:48,313 --> 00:43:59,418
-Fire would not burn him, water would not drown him, the strength of beasts would not kill him, thorns or stings would not wound him, the absence of air would not suffocate him, and nothing that harms mortals would hinder him.
+00:48:07,307 --> 00:48:23,423
+The Evangelist reveals this in Luke 22:31-32:
+"Jesus said to Peter, 'Simon, Simon, behold, Satan has asked to sift you like wheat. But I have prayed for you that your faith may not fail. And you, when you have turned back, strengthen your brothers. And pray that you may not enter into temptation'" (Luke 22:40).
 
 285
-00:43:59,418 --> 00:44:07,611
-An immortal and invulnerable body would face no threats of death, wounds, or injury from any creatures, as long as he did not offend the Creator through disobedience.
+00:48:23,423 --> 00:48:26,729
+This further proves that free will can do nothing without grace.
 
 286
-00:44:07,611 --> 00:44:23,701
-Therefore, what would stop the inhabitant of paradise from examining all things that were subject to him, when the Lord not only did not forbid it but commanded it, saying: "Be fruitful, and multiply, and fill the earth, and subdue it; and have dominion over the fish of the sea, and over the birds of the air" (Genesis 1:28)?
+00:48:26,729 --> 00:48:38,404
+To whom was it said, "Strengthen your brothers, and pray that you may not enter into temptation"?
+It was said to the one who responded from free will, "Lord, I am ready to go with you both to prison and to death" (Luke 22:33).
 
 287
-00:44:23,701 --> 00:44:36,533
-Just as it is free for angels to move about in the realms subject to them from their seat in heaven, and yet they have their seats in heaven, why would it be difficult for humans placed in paradise to move about all creation subject to them without any effort?
+00:48:38,404 --> 00:48:42,691
+The same person is predicted to deny the Lord three times before the rooster crows.
 
 288
-00:44:36,533 --> 00:44:42,307
-Just as they possessed bodies immune to pain, aging, and death, they also had bodies free from all toil and laziness.
+00:48:42,691 --> 00:48:45,687
+What else could this mean but that he would fail in faith?
 
 289
-00:44:42,307 --> 00:44:53,708
-But truly, when the inhabitant of paradise committed sin in his place of earthly happiness, he was banished to the cursed earth and immediately lost some of the things he had possessed before, while he preserved others with effort.
+00:48:45,687 --> 00:48:49,045
+Surely the Lord had prayed for him that his faith would not fail.
 
 290
-00:44:53,708 --> 00:44:58,249
-Having been excluded from the seat of blessedness, the possibility of returning was blocked.
+00:48:49,045 --> 00:48:54,004
+And certainly, He had not prayed in vain, as His work was one with that of the one He prayed to.
 
 291
-00:44:58,249 --> 00:45:09,946
-Thus, just as the apostate angel, cast down with his followers from the highest serenity of his paradise, was allotted the gloomy place of this air, so too was man cast down from the earthly happiness of his paradise to the cursed earth.
+00:48:54,004 --> 00:49:00,513
+But to show that the one who promised great things about himself did not stand by his own free will, he was allowed to falter.
 
 292
-00:45:10,440 --> 00:45:16,125
-When the inhabitant of paradise sinned in his place of earthly happiness, he was cast down to the accursed earth.
+00:49:00,513 --> 00:49:07,745
+This was so that He who looked at and restored the troubled and failing one, without whom no one stands or perseveres, might strengthen him.
 
 293
-00:45:16,125 --> 00:45:21,257
-Immediately, he lost some of the things he previously possessed, while others he had to labor to keep.
+00:49:08,519 --> 00:49:26,704
+But some people reject the grace of God because if they acknowledged it as proclaimed in divine scripture and recognized by the power of their own actions, they would also have to admit that out of all the people born through all ages, there is a specific, defined number predestined for eternal life, chosen by God's calling according to His purpose.
 
 294
-00:45:21,257 --> 00:45:25,584
-Being excluded from the seat of blessedness, the possibility of returning was blocked.
+00:49:26,704 --> 00:49:29,398
+Denying this is as impious as opposing grace itself.
 
 295
-00:45:25,584 --> 00:45:35,295
-Just as the apostate angel and his followers were cast down from the serenity of paradise to the gloomy place of this air, man too was cast down from his earthly paradise to the accursed earth.
+00:49:29,398 --> 00:49:39,242
+It is evident from common observation how throughout countless ages, innumerable thousands of people, lost in their errors and impieties, have perished without any knowledge of the true God.
 
 296
-00:45:35,295 --> 00:45:47,621
-As it is written:
-"And the Lord God drove him out of paradise and placed him on the earth from which he was taken. He set cherubim before paradise, with a flaming sword that turned every way, to guard the way to the tree of life" (Genesis 3:23).
+00:49:39,242 --> 00:50:39,495
+This is also declared in the Acts of the Apostles, where Paul and Barnabas say to the Lycaonians:
+"Men, why are you doing these things? We are also mortal, humans like you, proclaiming to you that you should turn from these useless things to the living God, who made heaven and earth, the sea, and all things that are in them; who in past generations allowed all nations to walk in their own ways.
+Nevertheless, He did not leave Himself without witness, doing good, giving you rain from heaven and fruitful seasons, filling your hearts with food and gladness."
+If natural intelligence or the use of God's benefits could suffice for them to attain eternal life, then rational contemplation, the temperate climate, and the abundance of fruits and foods would save us as well in our time. By naturally using these things better, we would worship our Creator for His daily gifts.
+But let this overly foolish and dangerous belief be far from the souls of the pious and those redeemed by Christ's blood. Human nature is not liberated except through one mediator between God and humans, the man Christ Jesus (First Timothy 2:5); without Him, nobody is saved (Acts 4:12).
 
 297
-00:45:47,621 --> 00:46:00,351
-This shows that although cherubim are said to guard the way to the tree of life, they are also commanded to defend the entire paradise, as Scripture indicates the flaming sword is placed not only before the tree of life but before the whole of paradise.
+00:50:39,495 --> 00:50:44,624
+Just as He made us, and not we ourselves (Psalm 100:3), so He also renews us, and not we ourselves.
 
 298
-00:46:00,351 --> 00:46:07,848
-It is not entirely clear from which specific tree Adam ate, but it is clear that immediately after the sin, he covered his nakedness with fig leaves.
+00:50:44,831 --> 00:50:55,505
+So that the ability of man to repay the price of this restoration through works of justice would not seem to be credited to himself, the riches of God's goodness were given to some infants from the very beginning.
 
 299
-00:46:07,848 --> 00:46:17,910
-This tree alone, in the time of his flesh, the Lord Jesus cursed shortly before his death for Adam's sin, and it quickly withered when he said: "May no fruit ever come from you again" (Matthew 21:19).
+00:50:55,505 --> 00:51:00,916
+In them, neither preceding nor succeeding devotion is chosen; there is no obedience, no discretion, no will.
 
 300
-00:46:17,910 --> 00:46:20,979
-This means it could no longer harm humans, just as the devil.
+00:51:00,916 --> 00:51:06,378
+I am speaking of those who are reborn as soon as they are born and taken from this life to eternal happiness.
 
 301
-00:46:20,979 --> 00:46:28,879
-Behold, Christ gathered the curse of Adam's sin upon this tree, the fig tree, which infected the whole earth before he purified it with the dew of his blood.
+00:51:06,378 --> 00:51:11,639
+Meanwhile, an innumerable multitude of infants of the same nature and condition die without regeneration.
 
 302
-00:46:28,879 --> 00:46:33,960
-However, whether man first received the blame from this tree or another, God alone knows for certain.
+00:51:11,639 --> 00:51:15,297
+About these, it is clear that they do not have a part in the city of God.
 
 303
-00:46:34,464 --> 00:46:42,340
-Whatever the tree of the knowledge of good and evil might be now, it shouldn't be thought that it can harm people today as much as it could harm those in paradise then.
+00:51:15,297 --> 00:51:23,164
+And where is that which is always opposed to us by those who do not understand, that God wants all men to be saved and to come to the knowledge of the truth?
 
 304
-00:46:42,340 --> 00:46:48,857
-Eating from this tree can lead to death, but it's not because the tree itself is deadly or because it gives the knowledge of good and evil.
+00:51:23,164 --> 00:52:30,059
+As it is written in First Timothy chapter two, verse four, "God wants all men to be saved and to come to the knowledge of the truth."
+Are there not among all men those who have perished without the knowledge of God from past generations up to now? And if for the older ones—which is not rightly said—the evil deeds they committed by free will were harmful, as if the good were not freed by grace but the evil. What distinction of merits could there be between saved infants and not saved infants? What brought these into the kingdom of God? What excluded these from the kingdom of God? Indeed, if you consider merit, neither part deserved to be saved, but both to be condemned. Because for all being fallen in Adam's transgression, unless merciful grace took up some, unblamed justice would remain over all.
+But what is the cause or reason of this discretion in the secret counsel of God is beyond the capacity of human knowledge to inquire, and it is unknown without diminishing faith. Let us confess that no one is lost undeservedly, no one is freed deservedly, and the most omnipotent goodness of the Lord wants to save all and to imbue all with the knowledge of the truth, whom He wills to be saved and to come to the knowledge of the truth. For unless He calls, teaches, saves, no one comes, no one is instructed, no one is saved.
 
 305
-00:46:48,857 --> 00:46:52,936
-It's the disobedience to the Lord's command not to eat from the tree that brings death.
+00:52:30,359 --> 00:52:41,374
+Because even though teachers are commanded to preach to all people without distinction and to spread the seed of the word everywhere, neither the one who plants nor the one who waters is anything, but only God who gives the growth.
 
 306
-00:46:52,936 --> 00:46:56,968
-Obedience to God's command meant knowing good, while disobedience led to knowing evil.
+00:52:41,374 --> 00:52:43,519
+First Corinthians chapter three, verse seven.
 
 307
-00:46:56,968 --> 00:47:04,797
-However, humanity couldn't understand the difference without transgressing; when people only knew good, they didn't understand what evil was or how it could harm them.
+00:52:43,519 --> 00:54:17,592
+When the apostles began to preach the Gospel to the Gentiles, Scripture recalls about some of those who heard, saying, "When the Gentiles heard this, they were glad and honored the word of the Lord; and all who were appointed for eternal life believed." Acts chapter thirteen, verse forty-eight.
+And elsewhere, when many women were listening to Paul teaching, it says, "A woman named Lydia, a dealer in purple cloth from the city of Thyatira, who was a worshiper of God, heard us; the Lord opened her heart to respond to Paul's message." Acts chapter sixteen, verse fourteen.
+At the very time when the preaching of the Gospel was being sent to all nations, the apostles were forbidden to go to certain places by Him who desires all people to be saved and to come to the knowledge of the truth. Certainly, many in that delay and turning away from the Gospel would die without the knowledge of the truth and without the consecration of regeneration. Therefore, let Scripture tell what happened: "Paul and his companions traveled throughout the region of Phrygia and Galatia, having been kept by the Holy Spirit from preaching the word in the province of Asia. When they came to the border of Mysia, they tried to enter Bithynia, but the Spirit of Jesus would not allow them to." Acts chapter sixteen, verses six to seven.
+What wonder is it, then, if at the very beginning of the evangelical preaching, the apostles could only go where the Spirit of God wanted them to go; when we see that many nations are only now beginning to become participants in the grace of Christ, while others have not yet received any scent of this good?
+Or should we say that human wills oppose the will of God, and that the customs of these people are so fierce and unmanageable that they do not hear the Gospel because their impious hearts are not open to the preaching? And who changed their hearts, if not the one who formed their hearts individually? Psalm chapter thirty-three, verse fifteen.
 
 308
-00:47:04,797 --> 00:47:11,033
-To show that there was nothing harmful in the tree itself, note that it's not the tree but the way to the tree of life that's barred.
+00:54:17,687 --> 00:54:24,552
+Who softened the harshness of this severity to a feeling of obedience, except the one who can raise children for Abraham from stones?
 
 309
-00:47:11,033 --> 00:47:14,361
-This exclusion represents the merciful forgiveness of the original sin.
+00:54:24,552 --> 00:54:37,868
+Matthew 3:9
+And who gave the preachers fearless and unscathed steadfastness, except the one who said to Paul,
+“Do not be afraid, but speak, and do not be silent; for I am with you, and no one will attack you to harm you, for I have many people in this city”?
 
 310
-00:47:14,361 --> 00:47:22,285
-If humanity had eaten from the tree of life after committing the original sin, they would've been stuck in a miserable, eternal state, unable to remove the stain of sin.
+00:54:37,868 --> 00:54:53,507
+Acts 18:9
+I also think that no one would dare to say that any nation of the world, any region of the earth, should be excluded from the spreading of the Church's tents, as God says to the Son,
+“Ask of me, and I will give you the nations as your inheritance, and the ends of the earth as your possession.
 
 311
-00:47:22,285 --> 00:47:29,036
-The Lord provided no other way to erase this sin except through death, which He planned to overcome through the coming of His Son, Jesus Christ.
+00:54:53,507 --> 00:55:01,094
+”
+Psalm 2:8
+And again, “All the ends of the earth will remember and turn to the Lord, and all the families of the nations shall worship before him.
 
 312
-00:47:29,036 --> 00:47:34,146
-Through Jesus's death, our guilt would die, and through His resurrection, the law of death would be annulled.
+00:55:01,094 --> 00:55:08,784
+”
+Psalm 22:28
+The Lord himself also says,
+“This Gospel will be preached in the whole world as a testimony to all nations, and then the end will come.
 
 313
-00:47:34,146 --> 00:47:41,038
-By His ascension, immortality would be granted to humanity, and we would receive the angelic and spiritual life prepared for us from the beginning.
+00:55:08,784 --> 00:55:16,165
+”
+Matthew 24:14
+Therefore, whatever nations have not yet heard will hear the Gospel, and as many as are appointed to eternal life will believe.
 
 314
-00:47:41,038 --> 00:47:49,524
-This is affirmed when the Lord says to those on His right in the final judgment: "Come, blessed of my Father, inherit the kingdom prepared for you from the foundation of the world."
+00:55:16,165 --> 00:55:29,068
+Acts 13:48
+For no others will come into the inheritance of Christ than those who were chosen before the foundation of the world, and predestined and foreknown, according to the purpose of him who works all things according to the counsel of his will.
 
 315
-00:47:50,040 --> 00:47:55,224
-Chapter ElevenAbout the location of the world inhabited by humanity
+00:55:29,068 --> 00:55:39,081
+Ephesians 1:11
+Therefore, let us acknowledge the works of the Lord, and glorify his mercies, and not impatiently bear the fact that we do not know what or how many vessels of election there are.
 
 316
-00:47:55,224 --> 00:49:18,480
-Regarding the location of the world inhabited by humanity, the Psalmist says to the Lord:
-"You established the earth on its foundations; it will never be moved. The deep covered it like a garment; the waters stood above the mountains" Psalm 104:5-6.
-This indicates that the earth is founded not on the stability of another element but on its own stability and firmness.
-Whether anything is placed beneath it, such as the waters, and the waters beneath the air, and the air beneath the upper space, and that beneath the firmament, and the firmament beneath the upper waters, only He knows, who sees all things everywhere and from every angle.
-Many authors have reported that the part of the world given to humans to inhabit is divided into four parts.
-The names of these four parts, as wise men understand, begin with the four letters of the name of the first man, namely, Adam.
-That is, Anatole, Dysis, Arctus, and Mesimbria, which mean East, North, South, and West.
-It was fitting that the one who filled the whole earth with his kind would have in his name the names of the four parts of the world.
-The four seasons of the year are also distinguished in an annual sequence, and with the completion of the year, the management of the earthly world always returns in a cycle without cessation.
-In spring, the time when the world was created, it always blooms;
-in summer, it blossoms and bears fruit;
-in autumn, it ripens and provides its fruits for human use;
-in winter, it withers and dries up.
-However, it endures this cycle of growth and decline as long as it is subjected to the bondage of corruption and is bound to the service of mortals.
+00:55:39,081 --> 00:55:45,688
+Because even in earlier ages, when it was said of the people of one nation,
+“God is known in Judah; his name is great in Israel.
 
 317
-00:49:18,480 --> 00:49:23,859
-When humans are no longer born or die, the earth will stop experiencing cycles of growth and decline.
+00:55:45,688 --> 00:56:05,920
+”
+Psalm 76:2
+The future election of the nations was hidden; and later it became known what had not been revealed before: as the Apostle says,
+“Which was not made known to the sons of men in other generations as it has now been revealed to his holy apostles and prophets by the Spirit, that the Gentiles are fellow heirs, members of the same body, and partakers of the promise in Christ Jesus.
 
 318
-00:49:23,859 --> 00:50:37,578
-At that time, the prophecy of Isaiah, or rather the Lord's prophecy through Isaiah, will come true:
-"Behold, I create new heavens and a new earth, and the former things will not be remembered, but you will rejoice and be glad in what I create."
-Isaiah 65:17-18.
-Humans, living spiritually with transformed bodies, will need to live in better, spiritual places.
-As Paul says, this body is sown in corruption but will be raised in incorruption. It is sown a natural body, but it will be raised a spiritual body; it is sown in dishonor, but it will be raised in glory. For this corruptible must put on incorruption, and this mortal must put on immortality.
-First Corinthians 15:42 and following.
-When corruption and mortality no longer exist in our bodies, we will not need mortal and corruptible things. This is confirmed by the holy Gospels, as shown in the resurrection of the Lord's body, when the linens He was wrapped in were found alone in the tomb after His resurrection.
-As it is said of Peter: "And he saw the linens alone, and went away, marveling at what had happened."
-John 20:5.
-Therefore, with new bodies that don't need what a corruptible life requires, a new earth with a new heaven will be created to live in. The nature and surface of this earth will be restored to a spiritual state, fitting for spiritual beings, without any changeability.
-But when will this happen?
+00:56:05,920 --> 00:56:06,797
+”
+Ephesians 3:5-6
 
 319
-00:50:37,632 --> 00:50:46,745
-When Jerusalem is praised on earth, its people rejoice and are glad, and when the saints celebrate what the Lord has created, their sun will not set, and the moon will not wane.
+00:56:07,055 --> 00:56:17,166
+And in the Acts of the Apostles, it says, "The believers from the circumcision who had come with Peter were astounded because the grace of the Holy Spirit was poured out even on the Gentiles" (Acts 10:45).
 
 320
-00:50:46,745 --> 00:50:55,755
-When those redeemed by the Lord come to Zion with praise, eternal joy will be upon their heads, and they will obtain joy and gladness, while sorrow and sighing will flee away.
+00:56:17,166 --> 00:56:31,716
+If the Lord chose to hide and delay His plan of calling for as long as He wanted, and revealed it when He wanted, and this ignorance did no harm to His saints, then why do we think it would harm our hope if the number and identity of the people prepared as vessels of mercy for glory are hidden?
 
 321
-00:50:55,755 --> 00:50:59,668
-The days of their mourning are completed, and those who mourn are comforted.
+00:56:31,716 --> 00:56:40,199
+It is clear that the kingdom of heaven will be entered by all the good, thanks to the grace of God, and will not be entered by any of the evil, due to their own wickedness.
 
 322
-00:50:59,668 --> 00:51:05,126
-God will wipe away every tear from the faces of the saints, and He will remove the disgrace of His people.
+00:56:40,199 --> 00:56:46,068
+It is very foolish and inconsiderate for opponents to say that through this grace of God, nothing is left to free will.
 
 323
-00:51:05,126 --> 00:51:17,534
-The sorrow of those mourning in Zion will be taken away, and they will receive a crown instead of ashes, the oil of joy instead of mourning, a garment of praise instead of a spirit of despair, and they will be called strong in righteousness.
+00:56:46,068 --> 00:57:06,634
+Even though infants passing through baptism obviously have no work or desire of their will, and many who indeed use free will but turn away from the true God and lead lives in sin are sanctified by the liberating regeneration at the very end of their breath, yet if we consider with a pious gaze that part of the children of God reserved for works of piety, do we not find in them free will, not destroyed but reborn?
 
 324
-00:51:17,534 --> 00:51:22,734
-When the blessed come to the right hand, they will shine like the sun in the kingdom of their Father.
+00:57:06,634 --> 00:57:09,495
+When left to itself, free will moved only to its own ruin.
 
 325
-00:51:22,992 --> 00:51:27,408
-Chapter TweleveOn the Nature of Humans After Sin
+00:57:09,495 --> 00:57:12,306
+It had blinded itself, and it could not enlighten itself.
 
 326
-00:51:27,408 --> 00:51:33,193
-Humans, destined to live in this world after original sin, did not lose all the natural good they originally had.
+00:57:12,306 --> 00:57:29,864
+Now, however, the same will is turned, not overturned, and it is given the ability to will differently, to perceive differently, to act differently, and to place its well-being not in itself but in the healer; because it does not yet have perfect health that makes it immune to harm, or the strength to restrain itself from unhealthy influences on its own.
 
 327
-00:51:33,193 --> 00:51:45,941
-Instead, corrupted first by the sin of their ancestor and further ruined by depraved habits, they now find that just as they gain the fruits of the cursed earth with labor, they can only preserve the natural good within them with painstaking effort.
+00:57:29,864 --> 00:57:47,077
+Therefore, the man who was bad in free will became good in the same free will; but he was bad by himself, good by God; who reformed him into that initial honor with a different beginning, so that He did not only forgive him the guilt of evil will and action, but also granted him the ability to will well, to act well, and to remain in these things.
 
 328
-00:51:45,941 --> 00:51:56,693
-Just as they fell in three ways through the disobedience of the first human, the serpent, the woman, and the consenting man, so too are all their descendants afflicted by three wounds: pain, old age, and death.
+00:57:47,471 --> 00:57:53,379
+For every perfect gift, says the apostle James, is from above, coming down from the Father of lights (James 1:17).
 
 329
-00:51:56,693 --> 00:52:04,116
-They struggle to preserve with great vigilance any good that was naturally implanted in them by the Creator and is found through diligent effort.
+00:57:53,379 --> 00:58:22,503
+He clearly shows what free will is like when controlled by the human spirit and what it is like when governed by God, saying, "But if you have bitter jealousy and selfish ambition in your hearts, do not boast and lie against the truth. This wisdom is not that which comes down from above, but is earthly, natural, demonic. For where jealousy and selfish ambition exist, there is disorder and every evil thing. But the wisdom from above is first pure, then peaceable, gentle, reasonable, full of mercy and good fruits, unwavering, without hypocrisy" (James 3:14).
 
 330
-00:52:04,116 --> 00:52:09,185
-Any good they find through God's grace, except for unjust wealth, they do not leave to their heirs.
+00:58:22,503 --> 00:58:33,696
+Therefore, whoever studies and clings to these virtues is enlightened not by their own wisdom but by the wisdom from above: "For the Lord gives wisdom; from His mouth come knowledge and understanding" (Proverbs 1:6).
 
 331
-00:52:09,185 --> 00:52:14,356
-All the skills they acquire in life are lost equally at the end of this life when the spirit departs.
+00:58:33,696 --> 00:58:37,894
+And this is their truest glory, if they boast not in themselves, but in the Lord.
 
 332
-00:52:14,356 --> 00:52:19,476
-In the same condition of weakness, both the poor and kings, the foolish and the wise, are afflicted.
+00:58:37,894 --> 00:58:53,233
+However, the things that are said about fate and the two masses and two natures, with the most foolish falsehood, in injury to such a great man, neither burden him, in whose books such errors are most copiously destroyed, nor do they disturb us, who detest such opinions along with their authors.
 
 333
-00:52:19,476 --> 00:52:22,957
-For all alike need sleep, food for sustenance, and clothing to wear.
+00:58:53,233 --> 00:59:00,695
+See Augustine, Book II, against Two Letters of the Pelagians, chapters 6 and 7, and Book IV against Julian, chapter 8, in the appendix, part II.
 
 334
-00:52:22,957 --> 00:52:30,842
-They are either burdened or corrupted by the passions of carnal vices and are troubled by the emotions of the mind, such as anger, love, desire, and fear.
+00:59:00,695 --> 00:59:12,977
+But let those who can fabricate such nonsense see how they remove themselves from the disgrace of this falsehood, if those whose ears they abuse apply a little diligence to understand what the most excellent minister of grace has argued.
 
 335
-00:52:30,842 --> 00:52:33,197
-They are weakened by pain, old age, and death.
+00:59:12,977 --> 00:59:29,301
+Though those who speak these things ought to anticipate every delay of such an investigation by bringing forth and explaining the books, or at least demonstrating some part of them, by which such a holy man would have published anything liable to such an interpretation, even if only through doubtful understanding.
 
 336
-00:52:33,197 --> 00:52:37,805
-They quickly shed the past, use the present only a little, and await the uncertain future.
+00:59:29,663 --> 00:59:38,526
+But they have heard nothing of the sort from us, nor have they read anything of the sort: because we know that nothing happens by fate, but everything is arranged by God's judgment.
 
 337
-00:52:37,805 --> 00:52:42,156
-In the same way, they sense and live through hearing, sight, touch, taste, and smell.
+00:59:38,526 --> 00:59:46,752
+We know that the nature of all humans was created and continues to be created from one source, which is the flesh of the first man, not from two sources or two natures.
 
 338
-00:52:42,720 --> 00:52:47,362
-They are bound by the same connection of original sin and enriched by the same gift of the Redeemer.
+00:59:46,752 --> 00:59:51,060
+That same nature was brought down by the free will of the first man, in whom all sinned.
 
 339
-00:52:47,362 --> 00:52:50,286
-They are cleansed by the waters of baptism and the Holy Spirit.
+00:59:51,060 --> 01:00:28,223
+As stated in Romans chapter five, verse twelve, "Therefore, just as sin entered the world through one man, and death through sin, and in this way death came to all people, because all sinned." This nature is in no way free from the debt of eternal death unless it is reformed by the grace of the second creation of Christ, preserved through His free will by acting, aspiring, assisting, and leading the way until the end.
+Hence, because your holiness perceives (if, however, the obscurity of my speech does not hinder it) that it is in vain for some to complain about us, and that all those foolish accusations to irritate and turn away the minds of those whom they wish to persuade otherwise have been concocted: therefore, trust in the power of God's mercy.
 
 340
-00:52:50,286 --> 00:52:58,317
-But for those who neglect the faith of redemption or the works of faith, eternal punishment is due, just like it is for the transgressing angels and the devil, their prince.
+01:00:28,223 --> 01:00:38,408
+This contradiction will rest, as in other parts of the world, so also in these regions: so that the preaching of the highest man in the Church at this time may also be helped by those who currently reject it.
 
 341
-00:52:58,317 --> 00:53:07,972
-However, for those who uphold the rights of the original condition, whether through the teachings of Scripture or the good defenses of nature, a life prepared by the gift of the Redeemer awaits in the future.
+01:00:38,408 --> 01:00:48,837
+But you, my most beloved and venerable brother, if you truly desire to be instructed on these questions, as it is fitting for you to desire, dedicate your care to knowing the disputations of the blessed Augustine.
 
 342
-00:53:08,112 --> 00:53:13,536
-Chapter Thirteen On the diversity of sinners and the place of punishments.
+01:00:48,837 --> 01:00:55,349
+In confessing the grace of God, you may attain the purest and most wholesome understanding of the evangelical and apostolic doctrine.
 
 343
-00:53:13,536 --> 00:53:21,485
-Because the nature of sins varies, some crimes can be cleansed through the fire of judgment, while others must be punished by the fire of eternity.
-
-344
-00:53:21,485 --> 00:54:52,601
-Among these, some are deemed worthy of eternal punishment, some do not reach judgment, and some, after the examination of judgment, face perpetual damnation, as the Apostle Paul says:
-"Some people's sins are obvious, preceding them to judgment, but the sins of others follow them" Timothy 5:24.
-Regarding those who lack judgment, the Lord Himself testified and said:
-"Whoever does not believe in the Son is already judged" John 3:18.
-Therefore, it is understood that those who do not merit faith and do not receive the grace of baptism will not face future judgment but will depart from this life judged by the word of the Gospel, which says:
-"Truly, truly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God" John 3:3.
-The words of the Psalmist are also consistent with this, where it is said:
-"The wicked will not stand in the judgment" Psalm 1:5.
-However, those who are burdened by the multitude of sins after the cleansing of baptism are divided into two groups:
-some of them are judged by the words of the Holy Scripture before they depart from this life, about whom the Apostle Paul speaks, saying:
-"Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers, nor men who practice homosexuality, nor thieves, nor the greedy, nor drunkards, nor slanderers, nor swindlers will inherit the kingdom of God" First Corinthians 6:9.
-Those who commit such and similar deadly sins without remedy until death will be judged from this life into eternal punishments.
-Concerning whose guilt, the Lord's close companion John speaks:
-"There is a sin that leads to death; I do not say that one should pray for that" First John 5:16.
-
-345
-00:54:52,656 --> 00:54:58,149
-For sin leads to death, as anyone who neglects to repent for past crimes at the end of their life will find.
-
-346
-00:54:58,149 --> 00:55:04,507
-And it should be noted, according to the Apostle James, that whoever offends in one of these points has become guilty of all.
-
-347
-00:55:04,507 --> 00:56:39,114
-For He who said, "You shall not commit adultery," also said, "You shall not kill." So if you do not commit adultery but you do kill, you have become a transgressor of the law James 2:10.
-Some, however, who are not involved in these serious crimes, are reserved for the final divine judgment and leave this world, yet they still face the sentence of eternal damnation from the supreme judge. These are the ones who, ignoring works of mercy, do not feed Christ in the poor with food or drink, do not clothe them, do not take them in as guests, and do not bring comfort to those who are sick, bound in chains, or in prison. For this, they will hear from Him: "Depart from me, you cursed, into the eternal fire prepared for the devil and his angels" Matthew 25:41.
-For it is not enough to abstain from doing evil to desire the kingdom of heaven; one must also take care to do good. For through the prophet Isaiah, the Lord equally commands: "Cease to do evil, learn to do good" Isaiah 1:16. The Spirit of the Lord also harmonizes these same words through the Psalmist, saying: "Turn away from evil and do good" Psalm 37:27.
-To show that after the terror of this dreadful sentence we have foretold, no repentance could sway the judge, it is thus added at the end of the entire discussion: "Then they will go away to eternal punishment" Matthew 25:46.
-Regarding that place of eternal fire, the dungeon of hell, many have said it is a physical place where the bodies of sinners will be tortured. For if that fire were not physical and in a place, how could it hold the tortured bodies of those who will be resurrected, in which the truth of corporality will be so susceptible to suffering that it will be subject to the gnashing of teeth and lamentable weeping? As the words of the Lord and judge declare, saying: "Cast the worthless servant into the outer darkness."
-
-348
-00:56:39,216 --> 00:58:19,872
-There will be weeping and gnashing of teeth Mark 25:30
-Where their worm does not die, and the fire is not quenched Isaiah 66:24; Mark 9:45
-In this place, it is said to the king of Babylon through the Prophet: "Beneath you, the moth is spread out, and worms are your covering" Isaiah 14:11
-Someone also said: "Just as the depths of the sea are to the earth, so the depths of the earth are to the underworld."
-Hence, it seems to be written about that which is written: "No one in heaven, nor on earth, nor under the earth was found who could open the book and break its seals" Revelation 5:2
-Therefore, it is clearly evident that this place, whatever kind it may be, is under the earth, which is called the lower hell and the land of forgetfulness.
-But this fire, since it is said to be prepared for the devil and his angels, what kind of physical nature must it have to torment angels? Also, the soul of the rich man, stripped of the body, is described as being tormented by that infernal fire, when he said: "For I am in agony in this flame" Luke 16:24
-Unless perhaps that fire and place have such power that they can torment and hold angels, souls, and bodies in the same way. Or certainly, when it is said about the children of the resurrection and eternal happiness: "They will be like angels in heaven" Mark 12:25
-Indeed, the children of eternal damnation, when they have taken back their bodies for the punishment of eternal fire, will themselves be like demons in hell; so that the children of the good resurrection, being children of God, will join the company of good angels, and the children of eternal death, being children of the devil, will join the company of Satan's angels.
-About whom it is said: "They will be gathered together as prisoners in a pit, and will be shut up in prison, and after many days they will be visited" Isaiah 2422
-Whether this is to increase or decrease their punishments, we do not know.
-
-349
-00:58:19,872 --> 00:58:23,520
-Chapter FourteenOn Purgatorial Fire
-
-350
-00:58:23,520 --> 00:58:30,865
-Those who receive the comforts of eternal life will also experience the happiness of the kingdom of heaven in two ways through the gift of generosity.
-
-351
-00:58:30,865 --> 00:58:40,364
-For some, while still living on earth, when they become poor for Christ, the kingdom of heaven is not just a future promise but is given to them even now, as they persevere in labor and fatigue.
-
-352
-00:58:40,364 --> 00:58:45,212
-As it is said: "Blessed are the poor in spirit, for theirs is the kingdom of heaven" (Matthew 5:3).
-
-353
-00:58:45,212 --> 00:58:56,083
-Similarly, those who endure persecution for righteousness also rejoice in the same reward, as it is added: "Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven" (Matthew 5:10).
-
-354
-00:58:56,083 --> 00:59:13,662
-He did not say "theirs will be," implying a future reward, but when they depart from their bodies, they will receive what they already possess now through the gift of the giver.
-Therefore, it is said to those still living on earth: "Whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven" (Matthew 18:18).
-
-355
-00:59:13,662 --> 00:59:17,335
-It means that the kingdom of heaven is yours while you still live on earth.
-
-356
-00:59:17,335 --> 00:59:24,386
-Whoever you free from sins can become its possessor, and whoever you exclude, destined for destruction, will be excluded from that same kingdom.
-
-357
-00:59:24,386 --> 00:59:29,577
-Therefore, the Lord commanded: "Rejoice and be glad, for your names are written in heaven" (Matthew 5:12).
-
-358
-00:59:29,577 --> 00:59:38,440
-Since your names are removed from earthly companionship for the sake of the heavenly kingdom, it is necessary for you to be written as heirs of the eternal homeland in the meantime.
-
-359
-00:59:38,832 --> 00:59:46,441
-So, those who endure all the hardships and evils in this life will enter eternal rest without any further trials, or, so to speak, without a summons.
-
-360
-00:59:46,441 --> 00:59:51,242
-By whose grace, some will be called after purification, and they will possess endless comfort.
-
-361
-00:59:51,242 --> 00:59:57,984
-After the examination, they will hear: "Come, you who are blessed by my Father; take your inheritance, the kingdom" (Matthew 25:34).
-
-362
-00:59:57,984 --> 01:00:12,131
-They will be worthy to possess this because of their kindness to the poor, and indeed to Christ in the poor, by giving food to the hungry, drink to the thirsty, clothing to the naked, shelter to the wanderer, and visiting the sick and imprisoned Christ in their least brothers.
-
-363
-01:00:12,131 --> 01:00:19,281
-In their calling, it is evident that up to now, they have been somewhat distant from Christ, even though they were placed on His right hand.
-
-364
-01:00:19,281 --> 01:00:23,725
-Later, the supreme judge will say to them: "Come, you who are blessed" (Matthew 25:34).
-
-365
-01:00:23,725 --> 01:00:47,218
-It is as if He were saying: "You, who until now have been somewhat distant from salvation due to the need for purification by the fire of judgment, now having been thoroughly examined and cleansed from every stain of guilt, come closer and enter."
-The Lord Himself does not deny that some sins will be forgiven in the future, as it is said: "But whoever blasphemes against the Holy Spirit will never be forgiven; they are guilty of an eternal sin" (Mark 3:29).
-
-366
-01:00:47,218 --> 01:00:54,573
-From this, it is understood that there are certain sins that, although not forgiven in this world, can be erased in the future judgment by fire.
-
-367
-01:00:54,573 --> 01:00:57,484
-Otherwise, the Lord would not have made this distinction.
-
-368
-01:00:57,484 --> 01:01:10,099
-About this fire, John the Baptist, the forerunner of the Lord's coming, speaks to the Jews: "After me comes one who is more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire" (Matthew 3:11).
-
-369
-01:01:10,099 --> 01:01:19,241
-This means: He will wash away or forgive your past sins with the Holy Spirit through the baptism of water, and some of the sins that follow will be purged by the purgatorial fire.
-
-370
-01:01:19,752 --> 01:01:37,180
-Regarding that fire, which is kindled not to cleanse the wicked who are judged, but to destroy the condemned, John adds a little later:
-"His winnowing fork is in his hand, and he will thoroughly clean his threshing floor, and gather his wheat into the barn; but he will burn the chaff with unquenchable fire"
-(Matthew 3:12; Luke 3:17).
-
-371
-01:01:37,180 --> 01:01:41,862
-It is one thing to be baptized with fire, and another to be burned with unquenchable fire.
-
-372
-01:01:41,862 --> 01:01:48,521
-About this fire, John also says:
-"Every tree that does not bear good fruit is cut down and thrown into the fire"
-(Matthew 3:10).
-
-373
-01:01:48,521 --> 01:01:57,001
-But about the fire of purification, the Lord himself speaks in the Gospel:
-"But anyone who says, 'You fool!' will be in danger of the fire of hell"
-(Matthew 5:22).
-
-374
-01:01:57,001 --> 01:02:03,400
-He did not say eternal fire because it is believed that this sin is punished by purgatorial fire rather than eternal flame.
-
-375
-01:02:03,400 --> 01:02:43,564
-About this difference, between those whom the fire of the future will not touch and those who will receive salvation after suffering the loss by fire, the Apostle Paul explains, saying:
-"For no one can lay any foundation other than the one already laid, which is Jesus Christ. If anyone builds on this foundation using gold, silver, precious stones, wood, hay, or straw, their work will be shown for what it is, because the Day will bring it to light. It will be revealed with fire, and the fire will test the quality of each person’s work. If what has been built survives, the builder will receive a reward. If it is burned up, the builder will suffer loss but yet will be saved—even though only as one escaping through the flames"
-(First Corinthians 3:12 and following).
-
-376
-01:02:43,564 --> 01:02:59,327
-Through these two types of buildings, that is, gold, silver, and precious stones, as well as wood, hay, and straw, perfect and less perfect works built upon the faith of Christ are indicated; but those works, which are represented by wood, hay, and straw, although fragile, are not shown to be polluted.
-
-377
-01:02:59,640 --> 01:03:39,973
-From this, it is understood that not the major sins, which stain those whose doers Paul excluded from the kingdom of God, but those which do not harm much, although they build up less, can be indicated by these:
-Using lawful marriage more than necessary; eating excessively; being overly happy; getting angry to the point of speaking intemperately; taking too much pleasure in one's possessions; being less diligent in prayer than required; getting up later than appropriate; laughing excessively; indulging in more sleep than necessary; remaining silent about the truth; speaking idle words; thinking something is true when it is not; approving what you thought was false in matters not related to faith; negligently forgetting to do good; having a disordered appearance.
-
-378
-01:03:39,973 --> 01:03:43,265
-These, and similar things, are sins that can be purged by fire.
-
-379
-01:03:43,265 --> 01:03:49,377
-It cannot be denied, and their doer, if not burdened by greater sins, is thus thought to be saved as if through fire.
-
-380
-01:03:49,377 --> 01:04:08,395
-Penitents, at the very end of their present life, whether they receive full remission of sins here, or whether their faults are erased by purgatorial fire, He knows who, seeing the reins and hearts, considers the worthiness of repentance, who responded to the thief on the cross, almost without time, without a penitent work: Today you will be with me in paradise.
-
-381
-01:04:08,395 --> 01:04:15,866
-And to Ezekiel, He says: On whatever day the wicked turns away from his wickedness, I will not remember any of the iniquities he has committed.
-
-382
-01:04:15,866 --> 01:04:23,024
-But regarding that purgatorial fire, it must be noted that it is longer and sharper than any torment that man can imagine in the present.
-
-383
-01:04:23,024 --> 01:04:23,598
-Luke 23:43.
-
-384
-01:04:23,598 --> 01:04:24,330
-Ezekiel 33:12.
-
-385
-01:04:24,696 --> 01:04:28,080
-Chapter FifteenOn the Future Life
-
-386
-01:04:28,080 --> 01:04:39,035
-The Holy Scripture talks about the true happiness of the future life:
-"What no eye has seen, nor ear heard, nor the heart of man conceived, what God has prepared for those who love him" (First Corinthians 2:9).
-
-387
-01:04:39,035 --> 01:04:43,261
-About which the Lord said:
-"They will be like the angels in heaven" (Mark 12:25).
-
-388
-01:04:43,261 --> 01:04:50,668
-The same Lord spoke even more about these things:
-"Then the righteous will shine like the sun in the kingdom of their Father" (Matthew 13:43).
-
-389
-01:04:50,668 --> 01:04:54,998
-Indeed, the sun of righteousness will rise for those who fear the name of the Lord.
-
-390
-01:04:54,998 --> 01:05:04,806
-In whose wings is healing, who on the mountain made the faces of Moses and Elijah shine before the apostles, to whom the saints, when they suffer with Him, will also be glorified together.
-
-391
-01:05:04,806 --> 01:05:08,771
-As previously stated:
-"They will be like the angels in heaven" (Mark 12:25).
-
-392
-01:05:08,771 --> 01:05:19,778
-This means that just as the angels, who were initially changeable by nature, as proven by those who fell, are now unchangeable, so they neither fear to sin nor can sin, being made so by the contemplation of God.
-
-393
-01:05:19,778 --> 01:05:29,169
-Likewise, humans, who were created changeable by nature, as shown in Adam and his descendants, will be made unchangeable by the contemplation of the Creator after the resurrection.
-
-394
-01:05:29,169 --> 01:05:36,472
-So they will neither desire to sin nor be able to sin; for every rational creature that is refreshed by the contemplation of God cannot sin.
-
-395
-01:05:36,472 --> 01:05:45,132
-Not that the angels and humans, who are free from fault, lack free will; for in that life, they do whatever they want, but they cannot want anything that is not good.
-
-396
-01:05:45,132 --> 01:05:48,419
-Hence, because they never will evil, they never commit any sin.
-
-397
-01:05:48,419 --> 01:05:53,010
-This perfect good will is made perfect through the contemplation of the supreme Creator.
-
-398
-01:05:53,010 --> 01:05:57,131
-What the creature could not have by itself is granted by the gift of the Giver.
-
-399
-01:05:57,131 --> 01:06:02,765
-From this, it is clear that the angels or humans who sinned either in heaven or in paradise did not see God.
-
-400
-01:06:02,765 --> 01:06:06,469
-For if they had seen Him, they could by no means have sinned afterward.
-
-401
-01:06:07,200 --> 01:06:16,116
-But in response, someone might strongly say:
-Why then, after seeing the vision of glory that made Moses' face shine in the wilderness, did he stumble at the waters of Meribah?
-
-402
-01:06:16,116 --> 01:06:23,860
-And why did Peter, after witnessing the glory of the Only Begotten on the mountain with Moses and Elijah, deny the Lord in the courtyard of the priests?
-
-403
-01:06:23,860 --> 01:06:29,974
-This question is easily answered by noting that Moses saw the back of the glory through an angel or some other creature.
-
-404
-01:06:29,974 --> 01:06:39,756
-Peter and the other disciples saw the divinity of Christ shining through his human body; for if they had seen the divinity itself, they would not have been able to live in the flesh afterward.
-
-405
-01:06:39,756 --> 01:06:43,934
-For the Lord himself answered Moses:
-No one can see my face and live Exodus 33:20.
-
-406
-01:06:43,934 --> 01:06:54,939
-Therefore, the holy ones after the resurrection will not see the Lord through symbols and enigmas, as the distinguished Teacher of the Gentiles declares:
-For now we see through a mirror, dimly; but then face to face.
-
-407
-01:06:54,939 --> 01:06:59,524
-Now I know in part, but then I shall know just as I also am known First Corinthians 13:12.
-
-408
-01:06:59,524 --> 01:07:18,579
-Just as the powerful companion of the Lord's heart, John, said:
-We shall see him as he is First John 3:2;
-when what is promised to the Church through the prophet Isaiah will be fulfilled:
-The sun shall no longer be your light by day, nor for brightness shall the moon give light to you; but the Lord will be to you an everlasting light, and your God your glory Isaiah 60:19.
-
-409
-01:07:18,936 --> 01:07:24,937
-From this, we understand that the Church will be illuminated not by creatures, but by the majesty of the Lord Himself.
-
-410
-01:07:24,937 --> 01:07:30,481
-When it partakes in the serenity of perpetual happiness, it will be secure in the dignity of angelic company.
-
-411
-01:07:30,481 --> 01:07:35,008
-In this serenity, it will possess all good things without the pressure of any accusation.
-
-412
-01:07:35,008 --> 01:07:52,860
-Light will not be obscured by darkness, life will not end in death, health will not be marred by pain, joy will not be diminished by sorrow, youth will not be affected by old age, the absence of loved ones will not dim love, beauty will not be degraded by any flaw, strength will not be weakened by infirmity, and justice will not be corrupted by sin.
-
-413
-01:07:52,860 --> 01:07:58,913
-Beyond these things, there will be aspects that no human thought or reasoning can currently grasp while still on earth.
-
-414
-01:07:58,913 --> 01:08:05,779
-Among all these creatures, whose order we have briefly mentioned, the Creator made some from nothing and some from pre-existing matter.
-
-415
-01:08:05,779 --> 01:08:10,662
-He created the heavens, the earth, the sea, and everything made from them, from formless matter.
-
-416
-01:08:10,662 --> 01:08:16,714
-But the formless matter itself, the orders of angels we previously mentioned, and the human soul, He made from nothing.
-
-417
-01:08:16,714 --> 01:08:25,513
-For God did not create the soul either from Himself or from any underlying material of physical creatures, because we believe it is not a part of God, but a creation of God.
-
-418
-01:08:25,513 --> 01:08:30,091
-If God had made it from Himself, it would not be subject to suffering, change, and misery.
-
-419
-01:08:30,091 --> 01:08:40,467
-Likewise, if He had created it from physical creatures, it would possess something physical in its nature, whether heat from fire, breath from air, moisture from water, or density and solidity from earth.
-
-420
-01:08:40,467 --> 01:08:44,637
-But since it lacks all these things, it is agreed that it was created incorporeal.
-
-421
-01:08:44,637 --> 01:08:52,572
-Through this incorporeality, it is recognized to have the same substance as angels, and therefore shares their eternity, mutability, and power of free will.
-
-422
-01:08:52,572 --> 01:09:04,066
-This image of God does not possess an eternity but retains a similarity in free will, as the Prophet commemorates this image of God impressed upon us, saying: "The light of Your countenance has been signed upon us" Psalms 4:7.
-
-423
-01:09:04,728 --> 01:09:14,026
-Whether individual souls are sent by God to each body separately, or whether they come from Adam and from parents, just like the bodies of those being born, has been debated by many wise men.
-
-424
-01:09:14,026 --> 01:09:17,824
-Yet, they have left nothing in this matter to which more faith could be given.
-
-425
-01:09:17,824 --> 01:09:29,362
-So why should we attempt to resolve such a great and dangerous issue, or what benefit would it bring us to involve ourselves in these convolutions, where each side defeats the other without being able to establish their own explanations?
-
-426
-01:09:29,362 --> 01:09:36,908
-Therefore, to avoid reaching beyond our capacity, let us leave this question, which many writers have declared unsolvable, to the knowledge of the Creator.
-
-427
-01:09:36,908 --> 01:09:42,458
-For whatever the eater of the Paschal Lamb's flesh could not consume, the consuming flame on the next day devours.
-
-428
-01:09:42,458 --> 01:09:50,101
-This signifies that all matters which escape our investigative knowledge of the sacred Scriptures are illuminated and completed by the fire of divine wisdom.
-
-429
-01:09:50,101 --> 01:09:58,377
-Even those things which we, through a small window of our senses and wisdom, have touched upon by some prior illumination of His grace, we cannot fully know as we should.
-
-430
-01:09:58,377 --> 01:10:00,958
-For we know in part, as long as we are in this world.
-
-431
-01:10:00,958 --> 01:10:05,826
-Yet, if we reach that inestimable light of the Father of lights, then we shall know as we are known.
-
-432
-01:10:06,216 --> 01:10:17,036
-But even the things we have grasped through our limited senses and wisdom, thanks to some prior illumination of His grace, we aren't able to know perfectly as we should; for we only know in part while we are in this world.
-
-433
-01:10:17,036 --> 01:10:22,007
-However, if we reach the inestimable light of the Father of lights, then we will know as we are known.
-
-434
-01:10:22,007 --> 01:10:29,318
-Behold, venerable Father, regarding the order of creatures you asked me about, I have responded briefly and concisely according to my limited ability.
-
-435
-01:10:29,318 --> 01:10:32,291
-I will repay the reward of this small gift with your prayers.
-
-436
-01:10:32,291 --> 01:10:42,137
-Not because my insignificant service can offer anything truly worthy of your obedience, veneration, and authority, but because it fulfills the efforts of obedience, even if it cannot achieve everything.
-
-437
-01:10:42,137 --> 01:10:48,180
-For in the treasury of the temple, the small gift of the poor widow is preferred over the abundant gold of many rich people.
-
-438
-01:10:48,180 --> 01:10:57,295
-And in the gilded tabernacle, where silver, precious gems, fine linen, and purple, blue, and scarlet fabrics are offered, the diligence of those who bring goat skins is also not despised.
-
-439
-01:10:57,295 --> 01:11:07,189
-Therefore, do not disdain the obedience of my smallness in the calm harbor of your heart, and do not hesitate to steer the small boat of this present work against the unstable waves of those who chatter.
-
-440
-01:11:07,189 --> 01:11:16,157
-For I, agreeing with good and Catholic readers, do not care about the complaints of the envious, who crawl on the ground without wings, mocking the nests of birds like frogs in flight.
-
-441
-01:11:16,157 --> 01:11:23,127
-Protected by the shield of your reason, and armed with the support of the Lord, I will take care to hasten safely on both sides to my homeland.
-
-442
-01:11:23,127 --> 01:11:26,782
-For those who seek to please God, we do not fear the threats of men at all.
-
-443
-01:11:26,782 --> 01:11:27,611
-Thanks be to God.
-
-444
-01:11:27,611 --> 01:11:27,855
-Amen.
+01:00:55,349 --> 01:01:02,057
+May the grace of God and the peace of our Lord Jesus Christ keep you at all times, and guide you along the path of truth to eternal life.
 

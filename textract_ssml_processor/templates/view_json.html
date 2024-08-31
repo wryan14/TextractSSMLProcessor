@@ -202,8 +202,8 @@
         function showNewChunkEditor() {
             $('#new-chunk-container').show();
             $('#new-latin-editor').val('');
-            $('#new-cleaned-english-editor').val('');
-            $('#new-voice-select').val($('#voice-select').val());
+            $('#new-cleaned-english-editor').val('<speak>\n    <break time="500ms"/>\n<break time="1s"/>\n</speak>');
+            $('#new-voice-select').val('Ruth');
         }
     
         function hideNewChunkEditor() {
