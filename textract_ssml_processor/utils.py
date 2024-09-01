@@ -94,6 +94,7 @@ def chunk_text(text: str, max_chunk_size: int = 2000) -> List[str]:
 
 # Function to generate SSML request
 def generate_ssml_request(text_chunk, title, author):
+    # maybe add sub - but probably rules around numbering. 
     allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <w>"
     prompt_text = (f"Please review this messy text to format, correct any spelling mistakes, remove page numbers and page titles, and mark it up with SSML markup for a text-to-speech process. "
                    f"The only permitted tags are {allowed_tags}. Please only provide the marked up text in your response. "

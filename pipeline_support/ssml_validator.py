@@ -155,6 +155,45 @@ def test_malformed_closing_tags(data: Dict) -> List[Tuple[int, str]]:
     
     return results
 
+def test_misplaced_closing_tags(ssml_list: List[str]) -> List[Tuple[int, str]]:
+    results = []
+    # Regex pattern to find closing tags followed immediately by an opening parenthesis or other punctuation
+    misplaced_closing_tag_pattern = re.compile(r'</[^>]+>\s*[(.,:;!?)]')
+    
+    for i, ssml in enumerate(ssml_list):
+        matches = misplaced_closing_tag_pattern.finditer(ssml)
+        for match in matches:
+            context = ssml[max(0, match.start() - 20):match.end() + 20]
+            results.append((i, f"Misplaced closing tag detected: '{match.group(0)}'\n"
+                               f"  Context: ...{context}..."))
+    
+    return results
+
+def test_random_single_letters_outside_tags(ssml_list: List[str]) -> List[Tuple[int, str]]:
+    results = []
+    # Regex pattern to find single letters that aren't I, A, O, s, or t, and aren't part of SSML tags
+    random_single_letter_pattern = re.compile(r'\b(?!I\b|A\b|O\b|s\b|t\b)[B-HJ-NP-Zb-hj-np-z]\b')
+    tag_pattern = re.compile(r'<[^>]+>')
+
+    for i, ssml in enumerate(ssml_list):
+        # Split the SSML content by tags to isolate text content
+        parts = tag_pattern.split(ssml)
+        for part in parts:
+            if not part.strip():  # Skip empty parts that are just tags
+                continue
+            matches = random_single_letter_pattern.finditer(part)
+            for match in matches:
+                context = part[max(0, match.start() - 20):match.end() + 20]
+                results.append((i, f"Random single letter detected: '{match.group(0)}'\n"
+                                   f"  Context: ...{context}..."))
+    
+    return results
+
+
+
+
+
+
 def run_tests_on_file(file_path: str) -> Dict[str, List[Tuple[int, str]]]:
     data = load_json_data(file_path)
     ssml_list = extract_clean_english_ssml(data)
@@ -165,7 +204,9 @@ def run_tests_on_file(file_path: str) -> Dict[str, List[Tuple[int, str]]]:
         "Speak Tags": test_speak_tags(ssml_list),
         "Non-standard Characters": test_non_standard_characters_outside_tags(ssml_list),
         "Translation Length": test_translation_length(data),
-        "Malformed Closing Tags": test_malformed_closing_tags(data)
+        "Malformed Closing Tags": test_malformed_closing_tags(data),
+        "Misplaced Closing Tags": test_misplaced_closing_tags(ssml_list),
+        "Random Single Letters": test_random_single_letters_outside_tags(ssml_list)
     }
 
 def run_tests_on_directory(directory_path: str) -> Dict[str, Dict[str, List[Tuple[int, str]]]]:
@@ -178,6 +219,8 @@ def run_tests_on_directory(directory_path: str) -> Dict[str, Dict[str, List[Tupl
 
 def display_results(results: Dict[str, Dict[str, List[Tuple[int, str]]]]) -> None:
     any_failures = False
+    base_url = "http://localhost:5000/view_json/"
+    
     for filename, file_results in results.items():
         file_failures = False
         file_output = []
@@ -191,12 +234,14 @@ def display_results(results: Dict[str, Dict[str, List[Tuple[int, str]]]]) -> Non
                     file_output.append(f"  {Fore.RED}Chunk {chunk_index}:{Style.RESET_ALL} {message}")
         
         if file_failures:
-            print(f"\n{Fore.CYAN}Results for {filename}:{Style.RESET_ALL}")
+            file_link = f"{base_url}{filename}"
+            print(f"\n{Fore.CYAN}Results for {filename}:{Style.RESET_ALL} Open file: {Fore.BLUE}{file_link}{Style.RESET_ALL}")
             print("\n".join(file_output))
             print(f"\n{Fore.YELLOW}{'='*50}{Style.RESET_ALL}")
     
     if not any_failures:
         print(f"\n{Fore.GREEN}All tests passed successfully! No issues found.{Style.RESET_ALL}")
+
 
 def main():
     print(f"{Fore.CYAN}SSML Test Suite{Style.RESET_ALL}")
