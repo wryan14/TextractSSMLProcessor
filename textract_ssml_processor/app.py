@@ -118,7 +118,18 @@ def confirm():
 
 @bp.route('/view_json/<filename>', methods=['GET', 'POST'])
 def view_json(filename):
-    json_path = os.path.join(current_app.config['PROCESSED_FOLDER'], filename)
+    processed_folder = current_app.config['PROCESSED_FOLDER']
+    json_path = os.path.join(processed_folder, filename)
+    
+    # Get list of all JSON files and current file's position
+    json_files = sorted([f for f in os.listdir(processed_folder) if f.endswith('.json')])
+    current_index = json_files.index(filename)
+    total_files = len(json_files)
+    
+    # Get previous and next file names (if they exist)
+    prev_file = json_files[current_index - 1] if current_index > 0 else None
+    next_file = json_files[current_index + 1] if current_index < total_files - 1 else None
+    
     try:
         if request.method == 'POST':
             # Handle the save operation
@@ -132,7 +143,13 @@ def view_json(filename):
             with open(json_path, 'r', encoding='utf-8') as json_file:
                 data = json.load(json_file)
             logger.debug(f"JSON file viewed: {filename}")
-            return render_template('view_json.html', data=data, filename=filename)
+            return render_template('view_json.html', 
+                                data=data, 
+                                filename=filename,
+                                prev_file=prev_file,
+                                next_file=next_file,
+                                current_file_number=current_index + 1,
+                                total_files=total_files)
     except Exception as e:
         logger.error(f"Error processing JSON file {filename}: {str(e)}", exc_info=True)
         flash(f"Error processing JSON file: {str(e)}", 'error')

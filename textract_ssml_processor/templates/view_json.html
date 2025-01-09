@@ -47,6 +47,10 @@
 <body>
     <div class="container-fluid mt-4">
         <h1 class="text-center mb-4">Edit Text: {{ filename }}</h1>
+        <!-- New file counter display -->
+        <div class="text-center mb-4">
+            <h4>File {{ current_file_number }} of {{ total_files }}</h4>
+        </div>
         <div id="flash-messages"></div>
         <div class="row" id="main-container">
             <div class="col-md-5">
@@ -62,12 +66,28 @@
                             Navigation
                         </div>
                         <div class="card-body">
-                            <div class="btn-group d-flex" role="group">
+                            <!-- Chunk Navigation -->
+                            <div class="btn-group d-flex mb-3" role="group">
                                 <button id="prev-btn" class="btn btn-outline-primary w-100">&lt; Prev</button>
                                 <button id="next-btn" class="btn btn-outline-primary w-100">Next &gt;</button>
                             </div>
-                            <div class="mt-2 text-center">
+                            <div class="mb-3 text-center">
                                 <span id="chunk-info" class="text-muted"></span>
+                            </div>
+                            
+                            <!-- File Navigation -->
+                            <div class="btn-group d-flex" role="group">
+                                {% if prev_file %}
+                                <a href="{{ url_for('app.view_json', filename=prev_file) }}" class="btn btn-outline-secondary w-100">&lt; Previous File</a>
+                                {% else %}
+                                <button class="btn btn-outline-secondary w-100" disabled>&lt; Previous File</button>
+                                {% endif %}
+                                
+                                {% if next_file %}
+                                <a href="{{ url_for('app.view_json', filename=next_file) }}" class="btn btn-outline-secondary w-100">Next File &gt;</a>
+                                {% else %}
+                                <button class="btn btn-outline-secondary w-100" disabled>Next File &gt;</button>
+                                {% endif %}
                             </div>
                         </div>
                     </div>
@@ -93,6 +113,9 @@
                             <button id="save-btn" class="btn btn-success btn-block mb-2">Save Changes</button>
                             <button id="new-chunk-btn" class="btn btn-info btn-block mb-2">New Chunk Before</button>
                             <button id="delete-chunk-btn" class="btn btn-danger btn-block">Delete Chunk</button>
+                            <button id="remove-phonemes-btn" class="btn btn-warning btn-block mb-2">Remove Phonemes</button>
+                            <button id="remove-lang-tags-btn" class="btn btn-warning btn-block mb-2">Remove Lang Tags</button>
+                            <button id="insert-break-btn" class="btn btn-secondary btn-block">Insert Break</button>
                         </div>
                     </div>
             
@@ -143,7 +166,6 @@
             </div>
         </div>
     </div>
-
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
@@ -239,6 +261,28 @@
                 $('#flash-messages').html('<div class="alert alert-warning alert-dismissible fade show" role="alert">Chunk deleted. Remember to save your changes!<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
             }
         }
+
+        function removePhonemes() {
+            const editor = $('#cleaned-english-editor');
+            const text = editor.val();
+            const newText = text.replace(/<phoneme[^>]*>(.*?)<\/phoneme>/g, '$1');
+            editor.val(newText);
+        }
+
+        function removeLangTags() {
+            const editor = $('#cleaned-english-editor');
+            const text = editor.val();
+            const newText = text.replace(/<lang[^>]*>(.*?)<\/lang>/g, '$1');
+            editor.val(newText);
+        }
+
+        function insertBreak() {
+            const editor = $('#cleaned-english-editor');
+            const text = editor.val();
+            const cursorPos = editor.prop('selectionStart');
+            const newText = text.slice(0, cursorPos) + '<break time="500ms"/>' + text.slice(cursorPos);
+            editor.val(newText);
+        }
     
         $(document).ready(function() {
             updateChunkNumbers();
@@ -264,28 +308,48 @@
             $('#confirm-new-chunk-btn').click(createNewChunk);
             $('#cancel-new-chunk-btn').click(hideNewChunkEditor);
             $('#delete-chunk-btn').click(deleteCurrentChunk);
+            $('#remove-phonemes-btn').click(removePhonemes);
+            $('#remove-lang-tags-btn').click(removeLangTags);
+            $('#insert-break-btn').click(insertBreak);
     
-            $(document).keydown(function(e) {
-                if (e.ctrlKey) {
-                    if (e.which === 37) { // Left arrow
-                        $('#prev-btn').click();
-                        e.preventDefault();
-                    } else if (e.which === 39) { // Right arrow
-                        $('#next-btn').click();
-                        e.preventDefault();
-                    } else if (e.which === 83) { // 'S' key
-                        saveChanges();
-                        e.preventDefault();
-                    } else if (e.which === 78) { // 'N' key
-                        showNewChunkEditor();
-                        e.preventDefault();
-                    } else if (e.which === 68) { // 'D' key
-                        deleteCurrentChunk();
-                        e.preventDefault();
-                    }
+           // Enhanced keyboard shortcuts
+           $(document).keydown(function(e) {
+            if (e.ctrlKey) {
+                if (e.which === 37) { // Left arrow
+                    $('#prev-btn').click();
+                    e.preventDefault();
+                } else if (e.which === 39) { // Right arrow
+                    $('#next-btn').click();
+                    e.preventDefault();
+                } else if (e.which === 83) { // 'S' key
+                    saveChanges();
+                    e.preventDefault();
+                } else if (e.which === 78) { // 'N' key
+                    showNewChunkEditor();
+                    e.preventDefault();
+                } else if (e.which === 68) { // 'D' key
+                    deleteCurrentChunk();
+                    e.preventDefault();
                 }
-            });
+            }
+            // File navigation shortcuts
+            if (e.ctrlKey && e.shiftKey) {
+                if (e.which === 37) { // Left arrow
+                    const prevFileBtn = $('a:contains("Previous File")');
+                    if (!prevFileBtn.prop('disabled')) {
+                        window.location.href = prevFileBtn.attr('href');
+                    }
+                    e.preventDefault();
+                } else if (e.which === 39) { // Right arrow
+                    const nextFileBtn = $('a:contains("Next File")');
+                    if (!nextFileBtn.prop('disabled')) {
+                        window.location.href = nextFileBtn.attr('href');
+                    }
+                    e.preventDefault();
+                }
+            }
         });
-    </script>
+    });
+</script>
 </body>
 </html>

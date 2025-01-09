@@ -189,8 +189,73 @@ def test_random_single_letters_outside_tags(ssml_list: List[str]) -> List[Tuple[
     
     return results
 
+def test_balanced_tags(ssml_list: List[str], allowed_tags: List[str] = None) -> List[Tuple[int, str]]:
+    if allowed_tags is None:
+        allowed_tags = ["break", "lang", "p", "phoneme", "s", "speak", "w"]
 
+    results = []
+    # Regex pattern to match tags
+    tag_pattern = re.compile(r'<(/?)(\w+)([^>]*?)(/?)>')
+    
+    for i, ssml in enumerate(ssml_list):
+        stack = []
+        for match in tag_pattern.finditer(ssml):
+            is_closing_tag = match.group(1) == '/'
+            tag_name = match.group(2)
+            is_self_closing = match.group(4) == '/'
 
+            if tag_name not in allowed_tags:
+                continue  # Skip tags that are not in the allowed list
+
+            if is_closing_tag:
+                if stack and stack[-1] == tag_name:
+                    stack.pop()  # Matching closing tag found
+                else:
+                    # Unmatched closing tag
+                    context = ssml[max(0, match.start() - 20):match.end() + 20]
+                    results.append((i, f"Unmatched closing tag: </{tag_name}>\n"
+                                       f"  Context: ...{context}..."))
+            elif not is_self_closing:
+                stack.append(tag_name)  # Push opening tag onto stack
+
+        # Any remaining tags in the stack are unmatched opening tags
+        while stack:
+            unmatched_tag = stack.pop()
+            results.append((i, f"Unmatched opening tag: <{unmatched_tag}>"))
+
+    return results
+
+def test_nested_tags(ssml_list: List[str], non_self_closing_tags: List[str] = None) -> List[Tuple[int, str]]:
+    if non_self_closing_tags is None:
+        non_self_closing_tags = ["lang", "p", "phoneme", "s", "speak", "w"]
+
+    results = []
+    # Regex pattern to match tags
+    tag_pattern = re.compile(r'<(/?)(\w+)[^>]*?>')
+
+    for i, ssml in enumerate(ssml_list):
+        stack = []
+        for match in tag_pattern.finditer(ssml):
+            is_closing_tag = match.group(1) == '/'
+            tag_name = match.group(2)
+
+            if tag_name not in non_self_closing_tags:
+                continue  # Skip tags that are self-closing or not in the list
+
+            if is_closing_tag:
+                if stack and stack[-1] == tag_name:
+                    stack.pop()  # Matching closing tag found, pop from stack
+                else:
+                    results.append((i, f"Unmatched closing tag: </{tag_name}>"))
+            else:
+                if stack and stack[-1] == tag_name:
+                    # Nested tag detected
+                    context = ssml[max(0, match.start() - 20):match.end() + 20]
+                    results.append((i, f"Nested <{tag_name}> tag detected.\n"
+                                       f"  Context: ...{context}..."))
+                stack.append(tag_name)
+
+    return results
 
 
 
@@ -206,7 +271,9 @@ def run_tests_on_file(file_path: str) -> Dict[str, List[Tuple[int, str]]]:
         "Translation Length": test_translation_length(data),
         "Malformed Closing Tags": test_malformed_closing_tags(data),
         "Misplaced Closing Tags": test_misplaced_closing_tags(ssml_list),
-        "Random Single Letters": test_random_single_letters_outside_tags(ssml_list)
+        "Random Single Letters": test_random_single_letters_outside_tags(ssml_list),
+        "Balanced Tags": test_balanced_tags(ssml_list) ,
+        "Nested Tags": test_nested_tags(ssml_list)
     }
 
 def run_tests_on_directory(directory_path: str) -> Dict[str, Dict[str, List[Tuple[int, str]]]]:

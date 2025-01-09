@@ -1,1449 +1,1222 @@
 1
-00:00:00,000 --> 00:00:03,648
-Warning in the Letter of Saint Prosper to Saint Augustine.
+00:00:00,000 --> 00:00:06,960
+On the Order of BaptismBook To Magnus of Sens
+by Theodulf Bishop of Orleans
 
 2
-00:00:03,648 --> 00:00:07,691
-Saint Augustine spent most of his life refuting various heretics.
+00:00:06,960 --> 00:00:10,653
+To the most reverend and beloved brother Magnus, Theodulf sends greetings.
 
 3
-00:00:07,691 --> 00:00:17,270
-After achieving complete victory for the Church over the Arians, Manichaeans, and Donatists, he faced the Pelagian heresy, which opposed the grace of God.
+00:00:10,653 --> 00:00:16,642
+I have fulfilled your command, venerable Magnus, and if not with diligent efficiency, then at least with full obedience.
 
 4
-00:00:17,270 --> 00:00:26,786
-From 412 onward, he tirelessly fought against it, writing books on the Remission of Sins, the Baptism of Infants, and more, whenever opportunities arose.
+00:00:16,642 --> 00:00:27,073
+You commanded me, or rather, through you, charity commanded, that I should briefly and quickly respond to certain questions concerning the order of baptism sent to you by our lord and glorious Emperor Charles.
 
 5
-00:00:26,786 --> 00:00:33,380
-Eventually, the heresy was condemned by several councils of bishops and decrees from the highest pontiffs.
+00:00:27,073 --> 00:00:36,756
+Pressed by the brevity that compelled me to explain great matters in brief words, and the shortness of time that made me wish to quickly fulfill your orders, I have completed what you commanded.
 
 6
-00:00:33,380 --> 00:00:38,169
-As a result, it began to lose strength, and its number of defenders dwindled.
+00:00:36,756 --> 00:00:40,649
+If only this work had been done as effectively as it was willingly undertaken!
 
 7
-00:00:38,169 --> 00:00:53,906
-However, in the later years of this holy Doctor, some men—otherwise Catholic but either less educated or not sufficiently versed in the Scriptures from which Augustine drew his doctrine—were disturbed or even scandalized after reading Augustine's books.
+00:00:40,649 --> 00:00:57,918
+Although I had no opportunity to treat the matter at length and consult the volumes of the Fathers due to certain occupations, charity moved me to fulfill your command: I wrote swiftly about each point that came to my mind, and sent it to your brotherhood so that, if the responses do not provide benefit, at least the obedience might bear fruit.
 
 8
-00:00:53,906 --> 00:01:07,902
-The disturbances among the monks of Adrumetum in Africa, who were obedient to Abbot Valentine, were easily settled by Augustine's book on Grace and Free Will and another on Correction and Grace, which cleared up their doubts.
+00:00:57,918 --> 00:01:14,538
+Meanwhile, as I am certain you know, these questions were not made out of a necessity to learn by royal command, but out of a desire to teach: not so that you yourself, by resolving them, might be instructed about unknown things, but so that others may be awakened from the sleep of lazy torpor to the benefit of accomplishing tasks.
 
 9
-00:01:07,902 --> 00:01:14,806
-But a much greater danger to the Church, especially in Gaul, came from another offshoot of the Pelagian heresy.
+00:01:14,538 --> 00:01:37,546
+For it is always familiar to him to engage bishops in the investigation of the Holy Scriptures and sound and sober doctrine, all the clergy in discipline, philosophers in the knowledge of divine and human matters, monks in religion, everyone generally in holiness, leaders in counsel, judges in justice, soldiers in the experience of arms, prelates in humility, subjects in obedience, everyone generally in prudence, justice, fortitude, temperance, and concord.
 
 10
-00:01:14,806 --> 00:01:25,442
-This new strain spread more widely and took deeper root, partly because it initially seemed less harmful to the grace of Christ the Savior and even appeared to amplify it.
+00:01:37,896 --> 00:01:44,660
+With these and similar actions, that excellent man, with God on his side, continuously elevates the prestige of the holy Church.
 
 11
-00:01:25,442 --> 00:01:39,189
-The beginnings of this new doctrine were seen with Vitalis, a man otherwise Catholic, who, having been educated in the Church of Carthage, owed special veneration to the doctrine of Saint Cyprian, the bishop of that city.
+00:01:44,660 --> 00:01:52,747
+In his remarkable management of both ecclesiastical and civil matters, he is energetic, brimming with wisdom, and triumphs through his display of virtue.
 
 12
-00:01:39,189 --> 00:01:46,031
-However, Augustine complained that Vitalis recklessly departed from this doctrine, as mentioned in Letter 217.
+00:01:52,799 --> 00:01:54,749
+1. Why an infant becomes a catechumen.
 
 13
-00:01:46,031 --> 00:02:00,275
-Although Augustine did not believe Vitalis to be a Pelagian heretic, he did hear that Vitalis was not entirely orthodox and that some errors might have influenced him or remained in him, as Augustine himself writes in Letter 217.
+00:01:54,749 --> 00:01:58,339
+The ancient custom is preserved in the way infants become catechumens.
 
 14
-00:02:00,959 --> 00:02:09,231
-They attribute the aspects of a faithful and pious life to free will, believing that such qualities should come from us, not from the Lord.
+00:01:58,339 --> 00:02:03,469
+Those who came to the apostles as believers to be baptized were first instructed and taught by them.
 
 15
-00:02:09,231 --> 00:02:16,669
-However, they did not want the beginning of faith, which is also the beginning of good, or pious will, to be a gift from God.
+00:02:03,469 --> 00:02:09,317
+After learning about the sacrament of baptism and other rules of faith, they received the holy mystery of baptism.
 
 16
-00:02:16,669 --> 00:02:22,025
-Instead, they argued that we should initiate it ourselves so that we may begin to believe.
+00:02:09,317 --> 00:02:16,703
+As the Apostle says: "Do you not know, brothers, that all of us who were baptized into Christ Jesus were baptized into His death?" (Romans 6:3).
 
 17
-00:02:22,025 --> 00:02:31,069
-As for the other good things in a religious life, they agreed that God grants them through His grace to those who already seek, ask, and knock in faith.
+00:02:16,703 --> 00:02:21,064
+These words show that those who were baptized were aware of the mysteries of baptism.
 
 18
-00:02:31,069 --> 00:02:39,519
-Augustine refuted this error of Vitalis, which was embraced by those known as Semipelagians, primarily in a letter written to Vitalis himself.
+00:02:21,064 --> 00:02:26,655
+The Lord did not simply say, "Go, baptize," but, "Go, and teach all nations, baptizing them" (Matthew 28:19).
 
 19
-00:02:39,519 --> 00:02:55,645
-He argued that the Church offers prayers to God for unbelievers so that they may be converted, and gives thanks for those who have already been converted to faith; and also offers prayers for the faithful, that they may persevere in what they have begun through His gift.
+00:02:26,655 --> 00:02:32,092
+This means that one must first instruct and teach the person who is to be baptized, and then baptize them.
 
 20
-00:02:55,645 --> 00:03:05,166
-This letter to Vitalis seems to be later than the dissension of the Adrumetines and the books written to address it, and should be dated to the year 426 or 427.
+00:02:32,092 --> 00:02:39,992
+Therefore, infants also become hearers and catechumens, not because they can be instructed and taught at the same age, but to preserve the ancient custom.
 
 21
-00:03:05,166 --> 00:03:25,993
-However, as Augustine’s later writings spread far and wide, many in Marseilles and other places in Gaul, out of ignorance, convinced themselves that whatever Augustine had written against the Pelagians about the calling of the elect according to God's good pleasure was entirely contrary to the opinion of the Fathers and the sentiment of the Church.
+00:02:39,992 --> 00:02:45,378
+The apostles first taught and instructed those they were about to baptize, as has already been mentioned.
 
 22
-00:03:25,993 --> 00:03:37,954
-They believed that this doctrine caused both the holy and the sinful to become negligent and lukewarm, because, no matter how they acted, nothing else could happen to them than what God had determined.
+00:02:45,840 --> 00:02:47,114
+2. What a catechumen is.
 
 23
-00:03:37,954 --> 00:03:51,045
-Therefore, even if that doctrine were entirely true, they argued it should not be publicized, as it was not necessary and could lead to very dangerous effects, making exhortations and encouragements vain and ineffective.
+00:02:47,114 --> 00:02:50,245
+A catechumen is someone who listens or is being instructed.
 
 24
-00:03:51,045 --> 00:04:01,756
-This alienation from Catholic doctrine, from which they drew such negative conclusions, led them into the well-known errors of the Semipelagians, for they rightly earned this name.
+00:02:50,245 --> 00:02:53,431
+Humanity listens and is instructed before coming to baptism.
 
 25
-00:04:02,351 --> 00:04:10,817
-They once held better and more orthodox beliefs, but without firm rules and foundations, their minds and opinions kept shifting back and forth.
+00:02:53,431 --> 00:03:30,536
+Just as it once heard through Moses, "Hear, O Israel: The Lord our God, the Lord is one"
+Deuteronomy 6:4,
+and was instructed through the laws and prophets to worship the one true God,
+now, through the ministry of priests, listening enables one to be instructed.
+Leaving behind the practices of worshiping created things, they now worship the Creator God alone.
+Thus, catechumens believe in Christ while still bearing their sins.
+As it is said in the Gospel, "But Jesus did not entrust himself to them, for he knew all people"
+John 2:24.
+Therefore, those who were taught or instructed and baptized by John,
+since his baptism could not remove sins, are to be understood as prefiguring the catechumens.
 
 26
-00:04:10,817 --> 00:04:18,454
-They believed that the beginning of faith and perseverance until the end were entirely within our control and not gifts from God.
+00:03:30,695 --> 00:03:31,863
+3. Why is it exorcised?
 
 27
-00:04:18,454 --> 00:04:24,788
-They thought that such perseverance was given by God, but a person could still fall away by their own will.
+00:03:31,863 --> 00:03:38,058
+A priest makes the sign of the cross on their faces during exorcism to drive away the devil and prepare a path for Christ.
 
 28
-00:04:24,788 --> 00:04:34,497
-Some deviated so slightly from the Pelagian path that they recognized no other grace than reason and free will, given to man by the Creator without any prior merit.
+00:03:38,058 --> 00:03:44,810
+This is because, through his deceitful persuasion, the devil had inhabited the human race since it first received the breath of life.
 
 29
-00:04:34,497 --> 00:04:44,739
-Those who embraced these errors were distinguished individuals, gaining great authority among simpler people through their zeal for virtues and their reputation for honesty.
+00:03:44,810 --> 00:03:49,075
+By the power and sacred sign of the priest's ministry, the devil is forced to leave.
 
 30
-00:04:44,739 --> 00:05:02,262
-However, none are more prone to accepting the impious doctrines of the Pelagians, unless they guard themselves carefully, than these; nor are there any who more easily abuse God's gifts by becoming proud and attributing them to themselves, than those who have been most abundantly endowed by Him.
+00:03:49,075 --> 00:03:53,340
+This is similar to how Christ breathed on his disciples and rebuked unclean spirits.
 
 31
-00:05:02,262 --> 00:05:08,951
-A large part of the servants of Christ in Massilia, particularly the monks, had been infected by this pestilence.
+00:03:53,543 --> 00:03:54,800
+4. Why it is exorcised.
 
 32
-00:05:08,951 --> 00:05:26,415
-It's well known that John Cassian, who established a monastery there, propagated this same error in his writings, especially in the thirteenth conference he published in 426, just one year after Valentinian the Third ordered the expulsion of the Gallic bishops who followed Pelagius's doctrines.
+00:03:54,800 --> 00:04:01,577
+The evil spirit is exorcised so that it may leave the being it has possessed since long ago due to the sin of the first man.
 
 33
-00:05:26,415 --> 00:05:35,118
-This error was further reinforced by the fact that some of its defenders had recently attained the highest honor of the priesthood, the episcopate.
+00:04:01,577 --> 00:04:09,611
+According to the Apostle, there is no agreement between Christ and Belial, nor any partnership between light and darkness (First Corinthians 6:15).
 
 34
-00:05:35,591 --> 00:05:45,092
-Hilary, who was the bishop of Arles and succeeded Honoratus around the end of the year 428, was a follower and admirer of Augustine's teachings in most respects.
+00:04:09,611 --> 00:04:12,999
+Let the darkness depart and let the true light, Christ, enter.
 
 35
-00:05:45,092 --> 00:05:50,344
-However, he was troubled by and somewhat critical of Augustine's views on predestination.
+00:04:12,999 --> 00:04:20,541
+In Zechariah, symbolically because of our sins, which He bore in His body, Christ is described as wearing filthy garments (Zechariah 3:3).
 
 36
-00:05:50,344 --> 00:05:54,534
-He wished to discuss his thoughts on this matter with the holy teacher.
+00:04:20,541 --> 00:04:27,536
+Rebuking Satan, He chose Jerusalem, symbolizing the holy Church, the Vision of Peace, which He blesses daily with new offspring.
 
 37
-00:05:54,534 --> 00:06:03,622
-The authority of such illustrious men, prominent in the Church and in piety and dignity, made their error more dangerous both to themselves and to others.
+00:04:27,536 --> 00:04:33,712
+As the prophet says: Your sons will come from afar, and your daughters will be carried in the arms (Isaiah 60:4).
 
 38
-00:06:03,622 --> 00:06:11,589
-The due reverence shown to them led the unlearned to imitate them, and at the same time silenced the tongues of the more knowledgeable.
+00:04:33,712 --> 00:04:36,062
+Exorcism is a word of rebuke or adjuration.
 
 39
-00:06:11,589 --> 00:06:25,220
-As a result, there was hardly anyone who would either admonish them or counter the error they were teaching, except for a few fearless lovers of perfect grace, as mentioned in the letter of Saint Prosper to Augustine, number seven.
+00:04:36,062 --> 00:04:42,948
+In the Acts of the Apostles, exorcists are mentioned, and the holy Church maintains the ministry of exorcists among its ranks.
 
 40
-00:06:25,220 --> 00:06:30,826
-Among this number were Saint Prosper, and a certain Hilary, different from the bishop of Arles.
+00:04:42,948 --> 00:04:49,233
+When exorcism is performed, it targets the one who opposes baptism, the salvation of the faithful, and all virtues.
 
 41
-00:06:30,826 --> 00:06:41,330
-This Hilary was from the order of laymen, as we will demonstrate in more detail below, in the letter of admonition to Saint Augustine that follows the one we are discussing here.
+00:04:49,233 --> 00:04:52,949
+When the spirit is expelled, the divine word enriches the believers.
 
 42
-00:06:41,330 --> 00:06:47,645
-Saint Prosper, who later succeeded Augustine in the task and effort of defending grace, was from Aquitaine.
+00:04:53,495 --> 00:04:55,431
+5. Why does a catechumen receive salt?
 
 43
-00:06:47,645 --> 00:06:54,254
-He was scholarly in speech, highly educated, and distinguished in both character and eloquence, as well as zeal.
+00:04:55,431 --> 00:05:05,463
+Those who are to be baptized receive salt as a sacrament so that by its taste, they may perceive the seasoning of wisdom and not be deceived by the flavor of Christ, becoming tasteless and foolish.
 
 44
-00:06:54,254 --> 00:07:15,734
-He was not unworthy of acquaintance with Saint Augustine, although he himself indicated that he was only from the order of laymen, where he professed to be far from equal to the authority of the aforementioned Semipelagians, who surpassed him in both the merits of life and the highest honor of the priesthood, according to Gennadius, Catalog, chapter eighty-four.
+00:05:05,463 --> 00:05:15,240
+For he who said to his disciples, "You are the salt of the earth" (Matthew 5:13), also said, "No one who puts his hand to the plow and looks back is fit for the kingdom of heaven" (Luke 9:62).
 
 45
-00:07:15,734 --> 00:07:26,356
-He had never seen Augustine but had only greeted him with respectful letters, which he sent through the deacon Leontius, from whom he also received a response from the holy bishop.
+00:05:15,240 --> 00:05:26,290
+So, those who are baptized may be fit for the kingdom of heaven and not look back by repeating past sins and become a pillar of salt, remaining senseless and serving as an example of their punishment to season others.
 
 46
-00:07:26,356 --> 00:07:31,667
-We rightfully lament that these letters from both parties to each other no longer survive.
+00:05:26,290 --> 00:05:28,378
+They ought to receive the salt of wisdom.
 
 47
-00:07:32,375 --> 00:07:45,580
-However, through constant reading of Augustine's works and divine revelation from above, he learned it was extremely wrong to say that the beginning of salvation lies with the one who is saved, rather than with the one who saves.
+00:05:28,378 --> 00:05:35,507
+Whatever in them is weak and unstable may be cured by the salt of God's word, and according to the Apostle, they should remember Lot's wife.
 
 48
-00:07:45,580 --> 00:07:55,209
-By denying predestination and preceding grace, and asserting that human will assists divine grace, he overlooked that grace actually subjects the human will to itself.
+00:05:35,507 --> 00:05:46,303
+Just as Elisha cured the barrenness of water by adding salt, so our Lord Jesus Christ, the true Elisha, with the flavor of His word leads the barrenness of human nature to the sweet taste of faith and good works.
 
 49
-00:07:55,209 --> 00:08:01,148
-Ignoring the opposition, he not only persisted in this belief but also defended it against its critics.
+00:05:46,303 --> 00:06:10,899
+The firmness of this faith shines clearly when the one who had heard that only the worship of God is to be maintained, from which he was called and began to be instructed in the worship of true religion, from which he was called a catechumen, and through exsufflation and exorcism was rescued from the evil spirit, and in the giving of salt already began to have the taste of the divine word, is entrusted with the symbol, that is, the complete and unshaken confession of true faith.
 
 50
-00:08:01,148 --> 00:08:09,681
-He used both the works of the holy doctor and the scriptural testimonies cited there, as well as his own arguments based on Augustine's foundations.
+00:06:10,899 --> 00:06:21,338
+So that the house, having been left by its former inhabitant, may be adorned with faith, and from which the thorns of unbelief have been uprooted, the teachings of true faith may begin to be planted in it.
 
 51
-00:08:09,681 --> 00:08:16,485
-He fought with strong reasoning and forceful assertions, which, according to the testimony of Gennadius, he possessed.
+00:06:21,338 --> 00:06:27,653
+For first, the thorns of unbelief or vices must be uprooted, and then the rudiments of faith and good works must be planted.
 
 52
-00:08:16,485 --> 00:08:24,673
-Initially, the people of Marseilles preferred to blame their own lack of understanding rather than condemn a doctrine they did not comprehend.
+00:06:27,653 --> 00:06:36,768
+Hence, the Lord crushed seven nations before the children of Israel, which held the type of vices, and in their place, in the type of virtues, He established the Israelite people.
 
 53
-00:08:24,673 --> 00:08:29,170
-Some even wanted to consult Augustine for a clearer explanation on the matter.
+00:06:36,768 --> 00:06:46,647
+He says to the prophet Jeremiah, "See, I have set you this day over nations and over kingdoms, to pluck up and to break down, to destroy and to overthrow, to build and to plant" (Jeremiah 1:10).
 
 54
-00:08:29,170 --> 00:09:09,820
-But, by the will of the merciful God, around that time, the book "On Rebuke and Grace" was brought to Marseilles. In this book, Augustine responded so fully and completely to the same issues troubling the monks of Adrumetum, as those troubling the people of Marseilles, that it seemed the book was written to settle the disputes in Gaul.
-Upon seeing the book, those who followed Augustine's apostolic doctrine found new light and greater support for defending it. But others, whose minds had been previously clouded by error, found only further offense and more intense hatred for the truth.
-Defending their opinion in the name of tradition, they branded the doctrine of predestination as something novel.
+00:06:47,207 --> 00:06:51,094
+First, he spoke of uprooting, destruction, scattering, and dispersing.
 
 55
-00:09:10,223 --> 00:09:15,133
-The passages of Paul relevant here were said to have never been understood by anyone.
+00:06:51,094 --> 00:06:53,315
+Then he mentioned building and planting.
 
 56
-00:09:15,133 --> 00:09:21,083
-When asked how they themselves would explain them, they admitted that no interpretation satisfied them.
+00:06:53,315 --> 00:07:09,416
+Through the same prophet, he said:
+"Just as I watched over them to uproot and tear down, and to overthrow, destroy, and bring disaster, so I will watch over them to build and to plant"
+Jeremiah 31:28.
+This is because, after the exorcism and blowing away, the tradition of the creed follows.
 
 57
-00:09:21,083 --> 00:09:24,895
-They demanded silence about things whose depth no one had reached.
+00:07:09,527 --> 00:07:12,763
+6. What is the interpretation of the Creed according to the Latins?
 
 58
-00:09:24,895 --> 00:09:32,981
-They cited the opinions of Augustine from works composed before the Pelagian heresy, as if these opinions fully agreed with their own views.
+00:07:12,763 --> 00:08:50,711
+The word "symbol" in Latin is interpreted as "sign," "indication," or "comparison." It is called an indication because it shows the integrity of faith; a sign because, by properly retaining and understanding it, the faithful are distinguished from the unbelievers; and a comparison because, in it, the apostles brought together the entire integrity of faith.
+What they all held in their hearts with equal sincerity of faith, they confessed with their mouths, and each contributed their own understanding, producing a symbol, that is, a collection of the entire faith. As they were about to part from each other, they established a standard for future preaching, so that when they went their separate ways, they would not teach anything different or conflicting.
+It was indeed very fitting and useful that those who had one soul and one heart in the Lord, and who were invigorated by the inspiration of the Holy Spirit, would also be united in the confession of one faith. For they could not and should not be divided in any way, being bound by the bond of one faith.
+Meanwhile, some people want to understand the "concise word" mentioned through the prophet Isaiah in the Creed and the Lord's Prayer. For in one is contained the integrity of faith, and in the other, the integrity of prayers, so that in the twelve words is contained the doctrine of the twelve apostles, and in the seven petitions is contained everything that pertains to the management of the present and future life.
+Even though the entire doctrine can also be called concise, because what the law and the prophets previously contained in the breadth of commandments, the Lord came and summarized by saying, "You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and your neighbor as yourself." On these two commandments hang all the law and the prophets.
+Matthew 22:37. In this, he clearly abbreviates the prophets and the law into these two statements.
+These things are said about the Creed and its name.
 
 59
-00:09:32,981 --> 00:09:41,472
-Indeed, they vigorously repeated everything the same Augustine had opposed to himself in the book On Rebuke and Grace as supporting their position.
+00:08:50,711 --> 00:08:50,812
+7.
 
 60
-00:09:41,472 --> 00:09:48,404
-However, they greatly disliked the distinction made there between the grace given to Adam and the grace given to us now.
+00:08:50,812 --> 00:08:58,904
+On Belief: How to believe in God the Father Almighty, in Jesus Christ His Son, in the Holy Spirit, the Holy Catholic Church, and the other elements of the Creed.
 
 61
-00:09:48,404 --> 00:09:58,281
-Finally, they did not want the example of predestination to be taken from infants, about whom Augustine had also had a different opinion earlier in the books On Free Will.
+00:08:58,904 --> 00:09:10,766
+The faith outlined in this Creed should be understood by those about to be baptized, so they believe in God the Father Almighty, Creator of all things visible and invisible, who alone is called unbegotten because He is not from another.
 
 62
-00:09:58,281 --> 00:10:10,931
-When the defenders of the truth were oppressed by the authority of those whom the spirit of Pelagian impiety had deluded, they were compelled by the holy bishop to request that he himself use his authority against them.
+00:09:10,766 --> 00:09:21,723
+And in Jesus Christ His Son, through whom all things were made, true God and only-begotten Son of God, not made or adopted, but begotten and of one substance with the Father, thus equal in all things to God the Father.
 
 63
-00:10:10,931 --> 00:10:28,144
-On this matter, Hilary wrote two letters to him, the first of which is lost, and perhaps referred to the odious formula of preaching predestination, which Augustine mentioned his opponents had used against him in Book Two on the Predestination of the Saints, chapter twenty-two, number fifty-seven.
+00:09:21,723 --> 00:09:25,995
+He is neither inferior in time, rank, nor power, and is as great as He who begot Him.
 
 64
-00:10:28,144 --> 00:11:08,288
-In the second letter, after addressing the complaints of the adversaries, Hilary said, "Whatever you wish or are able to do for that grace, which we admire in you from the least to the greatest, we will most gratefully receive, as if it were a decree from our most dear and reverend authority."
-He indicated that he had also urged Prosper to write his own letter on the same matter, which he sent along with his own. Those are the letters of Prosper that we present here, where he testifies at the beginning that he writes to the holy doctor not only out of a desire to greet him, as he had done in a previous (now lost) letter, but also out of affection for the faith by which the Church lives.
+00:09:25,995 --> 00:09:35,444
+They should also believe that He was born of the Holy Spirit from Mary, ever a virgin: meaning, with the Holy Spirit's cooperation, the same Son of God took on a true body from the virgin.
 
 65
-00:11:08,807 --> 00:11:28,016
-Because you are diligently keeping watch over all the members of the body of Christ and fighting against the traps of heretical teachings with the power of truth, I believed there was no reason to fear that I would be a burden or inconvenience to you in matters concerning the salvation of many and your devotion.
+00:09:35,444 --> 00:09:40,219
+He who was the Son of God the Father in divinity, became the Son of a human mother in humanity.
 
 66
-00:11:28,016 --> 00:11:37,038
-Instead, I felt I would be guilty if I did not bring to your attention those things I understand to be very harmful to the special patron of faith.
+00:09:40,219 --> 00:09:49,719
+They should also believe that He descended in the last days for the redemption of the world from the Father, who never ceased to be with the Father, and became a true man to free humankind.
 
 67
-00:11:37,038 --> 00:11:58,210
-After explaining the considerable virulence present in the remnants of Pelagian depravity, he adds: We hope that not only will our insignificance be strengthened by the support of your arguments, but that even those renowned for their merits and honors will, having received the purest light of grace, be cleared of the darkness of this opinion.
+00:09:49,719 --> 00:10:00,424
+He, who possesses eternity with the Father and the Holy Spirit without beginning, took on a perfect man of our nature at the end of the ages, and the Word became flesh, assuming humanity without changing divinity.
 
 68
-00:11:58,210 --> 00:12:05,820
-This letter from Saint Prosper was written in the year 428 or 429, around the time when Hilary governed the Church of Arles.
+00:10:00,424 --> 00:10:13,995
+They should also believe that He endured suffering and death, not by the power of divinity, but in the weakness of humanity, died a real death of the flesh, rose again with a real resurrection of the flesh, and with His resurrection gave us hope of our own resurrection.
 
 69
-00:12:05,820 --> 00:12:16,314
-From number nine, it is evident that Hilary became the bishop of Arles after being a monk at Lérins, following Honoratus, who died at the beginning of the year 428 or 429.
+00:10:13,995 --> 00:10:20,881
+Just as He rose alive from the dead on the third day, so we too shall rise at the end of the ages in the same flesh in which we now live.
 
 70
-00:12:16,314 --> 00:12:22,267
-Honoratus succeeded Patroclus, who, according to Prosper's Chronicle, was killed in the year 426.
+00:10:21,384 --> 00:10:29,796
+They should also believe that He, in the same body He assumed from the Virgin, suffered, died, resurrected, ascended into heaven, and is now there, and will come for judgment.
 
 71
-00:12:22,267 --> 00:12:29,631
-Honoratus occupied the seat of Arles for two years, according to Honoratus of Marseilles in the Life of Hilary of Arles.
+00:10:29,796 --> 00:10:37,775
+After raising everyone, He will pronounce the sentence of eternal punishment to some for their sins and the reward of eternal bliss to others for their righteousness.
 
 72
-00:12:30,000 --> 00:12:34,152
-Saint Prosper of Aquitaine
-Latter to Augustine
+00:10:37,775 --> 00:10:46,861
+They should also believe in the Holy Spirit, the true God who proceeds from the Father and the Son, equal in every respect to the Father and the Son in will, power, eternity, and substance.
 
 73
-00:12:34,152 --> 00:13:57,648
-On the remnants of the Pelagian heresy emerging in Gaul and the complaints against the doctrine of predestination and grace, as explained in Augustine's works, especially the book "On Rebuke and Grace."
-To the most blessed lord, the ineffably marvelous, incomparably honorable, most excellent patron,
-AUGUSTINE, from
-PROSPER.
-Although unknown to you by face, yet already somewhat known to you in spirit and word, if you remember; for through my holy brother Leontius the deacon, I sent letters and received them.
-Now also, I dare to write to your blessedness, not only out of a desire for greeting, as then, but also with the affection of the faith by which the Church lives.
-With your diligent watch over all members of the body of Christ and your fight against heretical doctrines with the power of truth, I did not consider it a burden or an importunity to reach out to you regarding matters of salvation, and thus, to your piety.
-Rather, I believed I would be guilty if I did not bring what I understand to be very pernicious to the special patron of faith.
-Therefore, many servants of Christ residing in the city of Marseilles think that what you disputed in your writings against the Pelagian heretics about the calling of the elect according to God's purpose is contrary to the opinion of the Fathers and to the ecclesiastical sense.
-When they preferred to blame their own slowness rather than criticize what they did not understand, some wished to request a clearer and more open explanation from your blessedness on this matter. It happened, by God's mercy, that when some in Africa were troubled by similar issues, you published the book "On Rebuke and Grace," full of divine authority.
+00:10:46,861 --> 00:10:51,571
+In this holy Trinity, there are no degrees by which anyone can be said to be inferior or superior.
 
 74
-00:13:57,648 --> 00:14:01,096
-By an unexpected opportunity, this matter was brought to our attention.
+00:10:51,571 --> 00:10:57,628
+They should also believe in the holy Catholic Church, which is universal, not just in the holy Church's belief in the Trinity.
 
 75
-00:14:01,096 --> 00:14:13,091
-We thought all complaints from the dissenters should be silenced because every question for which we needed your holiness's advice was so fully and completely answered there, as if you had made it your special effort to settle the troubles we had.
+00:10:57,628 --> 00:11:01,426
+They should believe that the holy Church is the house of the same holy Trinity.
 
 76
-00:14:13,091 --> 00:14:26,787
-After reviewing this book of your blessedness, those who already followed the holy and apostolic authority of your teaching became much more knowledgeable and well-informed; while those who were hindered by their own unclear beliefs withdrew even more opposed than they were before.
+00:11:01,426 --> 00:11:06,810
+Those who depart from its communion are called schismatics and heretics and are punished with eternal damnation.
 
 77
-00:14:26,787 --> 00:14:45,582
-This abrupt disagreement is firstly to be feared for their own sake, lest the spirit of Pelagian impiety deceives such illustrious men devoted to all virtues; and secondly lest the simpler ones, among whom these dissenters are greatly respected for their perceived integrity, consider it safest to accept what they hear these people, whose authority they follow without judgment, assert.
+00:11:06,810 --> 00:11:12,626
+But those who remain in its communion are members of Christ, receive the forgiveness of sins, and belong to eternal life.
 
 78
-00:14:45,582 --> 00:15:01,365
-This is their definition and profession:
-While every man indeed sinned in Adam's sin, and no one is saved by their own works but by God's grace through regeneration, yet the atonement in the sacrament of Christ's blood is offered to all men without exception, so that whoever wishes to come to faith and baptism can be saved.
+00:11:12,626 --> 00:11:27,672
+Since infants, who do not yet use reason, cannot understand these things at all, it is necessary that when they reach an age of understanding, they be taught these things, the sacraments of faith, and the mysteries of their confession, so that they may truly believe these things and keep them with diligent care.
 
 79
-00:15:01,365 --> 00:15:17,586
-Moreover, God foresaw before the foundation of the world those who would believe and those who would remain in that faith, which would thereafter be aided by God's grace, and predestined them to His kingdom, foreseeing that they would be called freely, would become worthy of election, and would depart from this life with a good end.
+00:11:27,672 --> 00:11:34,834
+We clearly said their confession because, although they cannot yet speak, those who receive them from the font of baptism confess and speak for them.
 
 80
-00:15:17,586 --> 00:15:25,988
-Therefore, every man is urged by divine institutions to believe and to hope, so that no one despairs of attaining eternal life, since a reward is ready for willing devotion.
+00:11:34,834 --> 00:11:43,391
+It is only fitting that those who are subject to the sins of others should also receive the remission of original sins through the confession of others by the mystery of baptism.
 
 81
-00:15:26,279 --> 00:15:41,820
-This proposed calling of God, by which, either before the beginning of the world or at the creation of humanity, the distinction between those to be chosen and those to be rejected is said to have been made, so that, according to what pleased the Creator, some are created as vessels of honor and others as vessels of dishonor.
+00:11:43,872 --> 00:11:44,944
+8. On the Examination.
 
 82
-00:15:41,820 --> 00:15:53,701
-This removes the care of rising again from the fallen and brings an opportunity for lukewarmness to the saints, because in both cases, labor is excessive if neither the rejected can enter by any effort nor the elected can fall away by any negligence.
+00:11:44,944 --> 00:11:53,428
+Those who are of sufficient age to explain their faith should be carefully examined to determine whether they truly believe or if there is any trace of falsehood within them.
 
 83
-00:15:53,701 --> 00:15:58,643
-For no matter how they conduct themselves, nothing else can happen to them than what God has determined.
+00:11:53,428 --> 00:12:02,399
+This is to prevent them from coming to the sacrament of baptism out of fear, favor of earthly powers, or for the acquisition of certain things, without the Church ministers knowing it.
 
 84
-00:15:58,643 --> 00:16:05,677
-The course cannot be steady under uncertain hope since if the choice of the predestiner has something else, the intention of the striver is in vain.
+00:12:02,399 --> 00:12:08,347
+Thus, avoiding giving what is holy to dogs, casting pearls before swine, and allowing wolves to dress in sheep's clothing.
 
 85
-00:16:05,677 --> 00:16:10,097
-Thus, all effort is removed, and virtues are taken away if God's decree precedes human wills.
+00:12:08,347 --> 00:12:21,024
+The Church customarily maintains this practice: for several days, those who are to be baptized at the Easter celebration are examined, so that the sacraments of life may be given to those who are taught, instructed, and come with a sincere heart to true faith.
 
 86
-00:16:10,097 --> 00:16:19,316
-Under this name of predestination, a certain fatal necessity is introduced, or it is said that the Lord is the creator of different natures if no one can be other than what they were made to be.
+00:12:21,024 --> 00:12:31,556
+To ensure they are more suitable for the sacrament of baptism and that their faith is more credible, some physical actions are performed which, when understood spiritually, have a mystical and spiritual significance.
 
 87
-00:16:19,316 --> 00:16:33,003
-To explain more briefly and fully what they think, whatever your holiness has opposed to itself in this book from the sense of contradictors, and whatever you powerfully refuted in the books against Julian under this question, all of this is most vehemently proclaimed by these holy ones.
+00:12:31,800 --> 00:12:34,460
+9. Why are the ears and nostrils touched with spit?
 
 88
-00:16:33,003 --> 00:16:56,243
-And when we bring forth the writings of your blessedness, equipped with the strongest and innumerable testimonies of the divine Scriptures, and according to the form of your debates, we also build upon something to conclude them, they defend their obstinacy with tradition and assert that those things brought from the Epistle of the Apostle Paul to the Romans to manifest the divine grace preceding the merits of the elect have never been understood by any church leaders as they are now.
+00:12:34,460 --> 00:12:38,006
+The nostrils and ears are touched with spit, and it is said: Effeta.
 
 89
-00:16:56,243 --> 00:17:06,555
-And when we demand that they explain these things according to the sense of whomsoever they wish, they declare that they find nothing that pleases and require silence about those things whose depth no one has reached.
+00:12:38,006 --> 00:12:45,413
+The nostrils are touched so they may follow Christ in the fragrance of perfumes and say: Draw me, we will run after you (Song of Solomon 1:3).
 
 90
-00:17:06,935 --> 00:17:12,569
-Finally, their stubbornness has reached a point where they claim our faith is contrary to the edification of listeners.
+00:12:45,413 --> 00:12:50,890
+With the Apostle, they may declare: We are the pleasing aroma of Christ to God (Second Corinthians 2:15).
 
 91
-00:17:12,569 --> 00:17:21,707
-They argue that even if it is true, it shouldn't be proclaimed, because harmful teachings should not be accepted, and things that cannot be understood should be kept silent to avoid any danger.
+00:12:50,890 --> 00:12:57,722
+They may become members of Him to whom it is said: And the scent of your garments is better than all spices (Song of Solomon 4:10).
 
 92
-00:17:21,707 --> 00:17:24,879
-Some of them deviate only slightly from the paths of the Pelagians.
+00:12:57,722 --> 00:13:09,928
+One will then be able to have that scent well if, like Mary, whose name means lady or illuminator, they anoint the feet of Jesus with an alabaster jar of ointment, that is, with the purity of holy faith and the practice of good works.
 
 93
-00:17:24,879 --> 00:17:32,975
-When they are forced to acknowledge the grace of Christ, which precedes all human merits, they say that if it were given based on merits, it would be called grace in vain.
+00:13:09,928 --> 00:13:22,081
+By fulfilling the teachings of the apostles or any preachers through whom Christ walks, the house, that is, the world or the whole of the Holy Church, is filled with their good reputation, like a kind of sweet and pleasant fragrance.
 
 94
-00:17:32,975 --> 00:17:42,159
-They believe this condition applies to each person, with the grace of the Creator establishing them as rational beings with free will, without any prior merit, because they did not exist before.
+00:13:22,081 --> 00:13:33,764
+And because often the sweetness of the scent and the various perfumes are suited to the self-indulgent and lovers, these, on the contrary, having become chaste and lovers of Christ, always embrace only His life-giving scent.
 
 95
-00:17:42,159 --> 00:17:48,882
-This allows them to direct their will through the discernment of good and evil, to the knowledge of God, and to obedience to His commandments.
+00:13:33,764 --> 00:13:42,475
+The ears are also touched, so that hearing the words of God and doing them, they may be like the wise man in the Gospel who built his house on the rock (Matthew 7:24).
 
 96
-00:17:48,882 --> 00:18:05,358
-They believe that by asking, seeking, and knocking through natural ability, they can reach the grace by which we are reborn in Christ: so that they receive because they made good use of the good of nature, they find because they sought, they enter because they knocked, and thus they merit reaching this saving grace with the help of initial grace.
+00:13:42,475 --> 00:13:55,514
+With spiritual hearing, they always listen to spiritual things, so they may say with David: I will hear what the Lord God speaks in me (Psalm 85:9), and with Isaiah: The Lord God opened my ear, and I did not resist, I did not turn back (Isaiah 50:5).
 
 97
-00:18:05,358 --> 00:18:18,425
-However, they define the purpose of calling grace as God determining to take no one into His kingdom except through the sacrament of regeneration, and that all men are universally called to this gift of salvation, whether through natural law, written law, or gospel preaching.
+00:13:55,514 --> 00:14:00,365
+Hearing spiritually what is said spiritually, they may reach the benefits of spiritual works.
 
 98
-00:18:18,425 --> 00:18:33,149
-This way, those who wish to become children of God, and those who do not want to be faithful, are without excuse: because God's justice is shown in that those who do not believe perish; His goodness is evident in that He repels no one from life, but wants all to be saved and come to the knowledge of the truth.
+00:14:00,365 --> 00:14:17,682
+When the Lord says in the Gospel: He who has ears to hear, let him hear (Matthew 11:15), and John in his Revelation: He who has ears to hear, let him hear what the Spirit says to the churches (Revelation 2:7); here not physical ears are sought, but spiritual ones, and by the name of the ears, the hearing of the inner man is meant.
 
 99
-00:18:33,528 --> 00:18:41,395
-Here they present testimonies where the exhortation of the Holy Scriptures encourages people to obey, who from free will either follow the commands or neglect them.
+00:14:17,682 --> 00:14:22,846
+For in sacred speech, often the virtues of the soul are understood through the members of the body.
 
 100
-00:18:41,395 --> 00:18:50,031
-They believe that because a transgressor is said not to have obeyed because he did not want to, a faithful person should also undoubtedly be considered devout because he wanted to.
+00:14:23,472 --> 00:14:36,729
+Since divinity took on human form, creating a kind of ointment from the connection of two substances in one person of the Son of God, to enlighten the human race that was born blind from the first parents, it is not without reason that the ears and nose are touched with saliva.
 
 101
-00:18:50,031 --> 00:18:59,578
-Each person has as much ability for good as for evil, and the mind can move equally towards vices or virtues, supported by the grace of God when seeking good, and justly condemned when pursuing evil.
+00:14:36,729 --> 00:14:53,850
+Just as He touched the mute man's tongue with His spit and made mud with His saliva to open the eyes of the man born blind, now, through the ministry of priests, He grants spiritual hearing to those who are to be baptized, gives them the ability to speak rightly, that is, to confess true faith, and opens their noses to perceive the good fragrance of Christ.
 
 102
-00:18:59,578 --> 00:19:11,812
-When confronted with the multitude of countless infants who, except for original sin, under which all humans are born equally into the condemnation of the first man, have no wills or actions of their own yet, they are not separated without God's judgment.
+00:14:53,850 --> 00:15:00,240
+The chest of the one who is baptized should always be filled with the nectar of divine fragrance and anointed with spiritual ointment.
 
 103
-00:19:11,812 --> 00:19:21,790
-Before they can discern good and evil through the experience of this life, some are taken up as heirs of the heavenly kingdom through rebirth, while others pass into the debt of eternal death without baptism.
+00:15:00,336 --> 00:15:04,290
+10. Why is the chest anointed with oil, or the shoulders marked or anointed?
 
 104
-00:19:21,790 --> 00:19:29,706
-They say that such are lost and such are saved, as God’s divine knowledge foresaw what they would be like in later years if they had been preserved to an active age.
+00:15:04,290 --> 00:15:11,574
+The chest and shoulders of those who are to be baptized are touched with oil to soothe them with the holy oil, representing the Holy Spirit.
 
 105
-00:19:29,706 --> 00:19:40,069
-They do not consider that the grace of God, which they say accompanies human merits, not precedes them, is even subjected to those wills that they do not deny are anticipated by it according to their own imagination.
+00:15:11,574 --> 00:15:21,564
+As the Apostle says, "As His anointing teaches us about all things" (First John 2:27), they are protected both in front and behind-that is, they are mindful of all things, whether good or bad.
 
 106
-00:19:40,069 --> 00:19:47,793
-But they subject God's election to any fabricated merits to such an extent that they invent past things that do not exist and future things that will not happen.
+00:15:21,564 --> 00:15:28,484
+Like the heavenly creatures that are full of eyes in front and behind, they look to the past and the future to guard their salvation.
 
 107
-00:19:47,793 --> 00:19:53,070
-In a novel kind of absurdity, things that are not to be done are foreknown, and things foreknown are not done.
+00:15:28,484 --> 00:15:33,427
+The chest is touched so they can say with David: "And His mercy comes before me" (Psalm 59:10).
 
 108
-00:19:53,070 --> 00:20:05,304
-They seem to think this prescience of human merits, according to which the grace of the caller operates, is much more reasonable when it comes to contemplating those nations which were left to follow their own ways in past ages (The Acts of the Apostles).
+00:15:33,427 --> 00:15:38,214
+The shoulders are touched so they can say with him: "And His mercy follows me" (Psalm 23:6).
 
 109
-00:20:05,736 --> 00:20:11,867
-Even today, at 14:15, some still perish in the ignorance of old beliefs, untouched by the light of the Law or the Gospel.
+00:15:38,214 --> 00:15:42,481
+This means they look forward to doing good and backward to avoid doing it in vain.
 
 110
-00:20:11,867 --> 00:20:18,708
-However, wherever preachers have had the opportunity, the people who lived in darkness and the shadow of death have seen a great light.
+00:15:42,481 --> 00:15:46,956
+To will and to act are given to us by Him from whom comes every good and perfect gift.
 
 111
-00:20:18,708 --> 00:20:22,812
-This is written in Isaiah chapter 9, verse 2, and in Matthew chapter 4, verse 16.
+00:15:46,956 --> 00:16:00,119
+And since the heart often signifies the mind, as in "I have sought You with my whole heart" (Psalm 119:10), and oil signifies the anointing of the Holy Spirit or works of light and mercy, the heart is protected by anointing on both sides-front and back.
 
 112
-00:20:22,812 --> 00:20:25,802
-Those who were once not a people are now the people of God.
+00:16:00,119 --> 00:16:06,467
+Thus, the mind of a Christian is abundantly filled with the richness of the Holy Spirit and with works of light and mercy.
 
 113
-00:20:25,802 --> 00:20:32,693
-Those to whom He once did not show mercy, now He shows mercy, as stated in Hosea chapter 2, verse 24, and in Romans chapter 9, verse 25.
+00:16:06,936 --> 00:16:08,261
+11. What is renunciation?
 
 114
-00:20:32,693 --> 00:20:40,446
-They say that the Lord foresaw their belief and arranged the times and ministries of the teachers so that the will to believe would arise in each nation.
+00:16:08,261 --> 00:16:13,191
+It is greatly beneficial if, by renouncing the devil and his works, one rejects his dominion.
 
 115
-00:20:40,446 --> 00:20:48,351
-This doesn't contradict the idea that God wants all men to be saved and to come to the knowledge of the truth, as found in First Timothy chapter 2, verse 4.
+00:16:13,191 --> 00:16:51,097
+The yoke that oppressed them is broken by the anointing oil, fulfilling the prophecy: "The yoke will be destroyed because of the anointing oil" Isaiah 10:27.
+To renounce is commonly understood to mean to spurn, reject, contradict, or express something similar.
+Although the meaning of the word "nuntio" is straightforward when used without a prefix, and it sometimes doesn't stray far from its usual meaning when a prefix is added, as in "I will tell and declare" Psalm 55:18, sometimes it takes on a different meaning, as in "So therefore, any one of you who does not renounce all that he has cannot be my disciple" Luke 14:33.
+However, "abrenuntiare" (to renounce) always retains the meaning we mentioned earlier.
 
 116
-00:20:48,351 --> 00:20:56,813
-Those who could have been led to worship the one true God by natural understanding and did not hear the Gospel because they would not have accepted it are inexcusable.
+00:16:51,097 --> 00:16:55,285
+To renounce is to confess to abandoning Satan, all his works, and all his pomp.
 
 117
-00:20:56,813 --> 00:21:05,072
-However, our Lord Jesus Christ died for the whole human race, and no one is excluded from redemption by His blood, even if they go through life estranged from Him.
+00:16:55,285 --> 00:17:02,283
+This renunciation is rightly followed by the confession of the Holy Trinity, so that where sin abounded, grace may abound even more.
 
 118
-00:21:05,072 --> 00:21:12,217
-The sacrament of divine mercy is available to all, though many are not renewed because it is foreseen that they would not want to be renewed.
+00:17:02,283 --> 00:17:27,358
+Where the yoke of the devil has decayed because of the anointing of the Holy Spirit, the yoke of Him who said, "Learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light" Matthew 11:29, may come.
+Satan, who is also called the devil, is renounced by the faithful so that they may serve God the Savior more freely.
+According to the words of the same Lord, "No one can serve two masters" Luke 16:13.
 
 119
-00:21:12,217 --> 00:21:15,866
-Therefore, as far as God is concerned, eternal life is prepared for all.
+00:17:27,624 --> 00:17:27,783
+12.
 
 120
-00:21:15,866 --> 00:21:22,808
-But in terms of free will, it is embraced by those who willingly believe in God and have received the help of grace through their belief.
+00:17:27,783 --> 00:17:36,932
+On Renouncing Satan and All His Works and Showiness, or the Works and Showiness of the Devil
+We also renounce his works because they are opposed to the works of the Savior.
 
 121
-00:21:22,808 --> 00:21:30,054
-Regarding the preaching of such grace, those who contradict it, despite once holding better beliefs, have especially claimed it for themselves.
+00:17:36,932 --> 00:17:40,495
+Using his weapons-vices-he has subjected the human race to himself.
 
 122
-00:21:30,054 --> 00:21:43,431
-If they acknowledged that all good merits are preceded by grace and given by it so they can exist, they would have to concede that God, according to His purpose and counsel, makes one vessel for honor, another for dishonor, as stated in Romans chapter 9, verse 21.
+00:17:40,495 --> 00:17:43,527
+The Lord, however, overcame him with His weapons-virtues.
 
 123
-00:21:43,431 --> 00:21:46,978
-No one is justified except by grace, and no one is born except in sin.
+00:17:43,527 --> 00:17:51,293
+In the devil's army, represented by our sins and servitude, we receive death; in the Lord's army, represented by virtues, we receive eternal life.
 
 124
-00:21:47,688 --> 00:21:52,377
-But they refuse to admit this and are afraid to attribute the merits of the saints to divine work.
+00:17:51,293 --> 00:17:57,091
+The seven principal vices with which the devil harasses humanity can reasonably be called the works of Satan.
 
 125
-00:21:52,377 --> 00:22:00,990
-They won't accept that the number of the predestined elect can neither be increased nor decreased, fearing they would lack incentives to encourage the unfaithful and the negligent.
+00:17:57,091 --> 00:18:02,250
+Opposed to these vices are the seven principal virtues, which are undoubtedly works of salvation.
 
 126
-00:22:00,990 --> 00:22:05,967
-They believe that effort and labor would become pointless, and the endeavor in vain, if election ceases.
+00:18:02,250 --> 00:18:05,654
+We also renounce his showiness, which are indeed works of Satan.
 
 127
-00:22:05,967 --> 00:22:16,542
-They think that each person can only be called to correction or improvement if they know that their diligence can make them good, and that their free will needs God's help to achieve this if they choose what God commands.
+00:18:05,654 --> 00:18:12,303
+They seem to differ from his other works in that they reflect pride, of which he is the author and which led to his downfall.
 
 128
-00:22:16,542 --> 00:22:23,097
-So, among those who have received the freedom of will, they believe two things work for human salvation: God's grace and human obedience.
+00:18:12,303 --> 00:18:18,313
+His showiness includes ambition, arrogance, vainglory, and similar traits, all recognized as stemming from pride.
 
 129
-00:22:23,097 --> 00:22:30,323
-They want obedience to come before grace, so that the beginning of salvation is believed to come from the one who is saved, not from the one who saves.
+00:18:18,313 --> 00:19:06,716
+The prophetic word suggests that pomp, ambition, boasting, and similar traits should be understood in this context when it says:
+"Woe to those who are at ease in Zion, and to those who feel secure on the mountain of Samaria, the notable men of the first of the nations, to whom the house of Israel comes!"
+Amos 6:1.
+Clement Prudentius, the eloquent and Christian poet, also used the term "pomp" in this sense in his book Psychomachia where he says:
+"Pomp, the showy splendor of empty vanity, is stripped away, laid bare."
+While every sin can be considered prideful-since sinning opposes God who forbids it-there are different ways to sin: lazily, maliciously, knowingly, ignorantly, negligently, or arrogantly.
+No matter how one sins, if they despise repentance, they plunge into the great abyss of pride. To emerge from this, they must confess their sins, amend their ways, and seek the aid of saving penance.
 
 130
-00:22:30,323 --> 00:22:36,017
-They think that the human will should bring divine grace to itself, not that grace should subject human will to itself.
+00:19:07,248 --> 00:19:16,563
+There are two ways a person can be prideful before God: either by disobeying His commandments and committing what is forbidden, or by neglecting to repent for what has been committed.
 
 131
-00:22:36,017 --> 00:22:43,099
-Since we know from the revelation of God's mercy and your blessed instruction that this is the most perverse belief, we can indeed firmly reject it.
+00:19:16,563 --> 00:19:26,133
+Whether we are about to be baptized or have already received the sacrament, we should remember the covenant made with God during baptism, where we renounce Satan, his works, and his pomps.
 
 132
-00:22:43,099 --> 00:22:48,889
-However, we are not equal in authority to those who hold such views, as they far surpass us in the merits of their lives.
+00:19:26,133 --> 00:19:34,074
+This covenant becomes void if someone, while remaining in the faith, succumbs to vices or deviates from the faith to idol worship or the errors of heresies.
 
 133
-00:22:48,889 --> 00:22:58,268
-Some of them have recently attained the highest honor of the priesthood, and scarcely anyone, except a few fearless lovers of perfect grace, has dared to oppose the arguments of such superior men.
+00:19:34,176 --> 00:19:34,327
+13.
 
 134
-00:22:58,268 --> 00:23:08,364
-As a result, the danger has grown not only for those who listen to them but also for those who are listened to, as their dignity leads many either to useless silence out of reverence or to thoughtless agreement.
+00:19:34,327 --> 00:19:41,267
+Believers have two key commitments: renouncing the devil and his works, and professing faith in the Father, the Son, and the Holy Spirit.
 
 135
-00:23:08,364 --> 00:23:11,953
-And it seems to them most beneficial what is scarcely criticized by anyone.
+00:19:41,267 --> 00:19:49,474
+It's essential to uphold these commitments firmly and seek the help of the one who granted the sacrament of baptism for humanity's salvation, so they remain pure.
 
 136
-00:23:12,480 --> 00:23:50,478
-Since in these remnants of Pelagian depravity, a considerable amount of poison is nurtured, if the beginning of salvation is wrongly attributed to man; if human will is impiously placed before divine will, so that someone is helped because they wanted it, not because they were helped to want it; if someone originally bad is wrongly believed to start receiving good not from the highest good, but from themselves; if God is pleased by something other than what He has given: grant us in this matter, most blessed Pope, most excellent father, as much as you can with the Lord's help, the diligence of your piety, so that the things in these questions that are obscure and difficult to understand may be opened up by your most illuminating explanations.
+00:19:49,474 --> 00:19:59,503
+This was foreshadowed in the Old Testament through Moses, when the people were baptized in the cloud and the sea, and clearly shown to us in the New Testament by the mediator between God and humans.
 
 137
-00:23:50,478 --> 00:24:39,998
-First, because many do not think the Christian faith is violated by this disagreement, reveal how much danger is in their persuasion; then how through this preoperative and cooperative grace, free will is not hindered; then whether God's foreknowledge remains according to purpose, so that those things that are proposed are accepted as foreknown: or whether these matters vary by types of causes and kinds of persons; so that because the callings are different, in those who are saved without doing anything, only God's purpose seems to exist; but in those who are going to do some good, the purpose can stand by foreknowledge: or indeed uniformly, even though foreknowledge cannot be separated from purpose by temporal distinction, foreknowledge is still in a certain order supported by purpose; and just as there is nothing of any business that divine knowledge has not anticipated, so there is nothing good that has not flowed into our participation without God as the author.
+00:19:59,503 --> 00:20:05,278
+For He Himself said, unless one is born of water and the Spirit, he cannot enter the kingdom of heaven (John 3:3).
 
 138
-00:24:39,998 --> 00:24:53,034
-Finally, how through this preaching of God's purpose, by which the faithful become those who are preordained to eternal life, none of those who are to be exhorted are hindered, nor do they have an occasion for negligence if they despair of being predestined.
+00:20:05,278 --> 00:20:14,497
+And John said of Him: I baptize you with water for repentance, but among you stands one you do not know, who will baptize you with the Holy Spirit and fire (Matthew 3:11; John 1:26).
 
 139
-00:24:53,135 --> 00:24:55,282
-Please also explain how this can be resolved.
+00:20:14,497 --> 00:20:20,424
+Through this, we are reborn to God, transforming from children of wrath through sin to children of God through grace.
 
 140
-00:24:55,282 --> 00:25:02,867
-We ask for your patience and understanding as you guide us, since after re-evaluating previous opinions on this matter, nearly all come to the same conclusion.
+00:20:20,424 --> 00:20:22,400
+This washing and bath renew the Church.
 
 141
-00:25:02,867 --> 00:25:06,396
-They accepted God's purpose and predestination based on His foreknowledge.
+00:20:22,400 --> 00:20:28,884
+Just as the woman was formed from the rib of the sleeping first man, the Church was formed from the side of Christ on the cross.
 
 142
-00:25:06,396 --> 00:25:15,412
-For this reason, God made some vessels for honor and others for dishonor, because He foresaw the end of each one, and knew their future will and actions under the same grace and assistance.
+00:20:28,884 --> 00:20:35,621
+From His side flowed blood and water, representing the two chief sacraments of the holy Church, providing consecration and cleansing.
 
 143
-00:25:15,412 --> 00:25:30,963
-With all these issues clarified, and many others which you can see more clearly with greater insight into this matter, we believe and hope that our limited understanding will be strengthened by your discussions, and that those distinguished by merit and honors, clouded by this opinion, will receive the purest light of grace.
+00:20:35,621 --> 00:20:38,407
+We are reborn through washing and consecrated by blood.
 
 144
-00:25:30,963 --> 00:25:39,215
-One of their foremost authorities and a man of spiritual studies, Saint Hilary of Arles, knows that your blessedness admires and follows your teachings in all other matters.
+00:20:38,407 --> 00:20:42,865
+This is why the people crossed the Red Sea, as Christ's baptism is consecrated by blood.
 
 145
-00:25:39,215 --> 00:25:44,796
-He wishes to convey his thoughts to your holiness through his letters about this matter which he brings into dispute.
+00:20:42,865 --> 00:20:50,058
+Because water is more suitable than any other element for purifying, giving life, and renewing, it is rightfully given the dignity of baptism.
 
 146
-00:25:44,796 --> 00:25:57,961
-But because it is uncertain whether he will do this, or with what outcome, and considering the fatigue of us all, by the grace of God providing for this present age, we rest in the strength of your charity and knowledge:
-Add instruction to the humble, add rebuke to the proud.
+00:20:50,058 --> 00:20:59,581
+Water held the power to regenerate humans when the Spirit of God moved over it at the beginning of the world, and it gained the dignity of purifying when it flowed from the side of Christ.
 
 147
-00:25:57,961 --> 00:26:04,497
-It is necessary and useful to write down what has been written, so that it is not considered trivial, which is not frequently challenged.
+00:21:00,240 --> 00:21:02,950
+This visible element symbolizes an invisible reality.
 
 148
-00:26:04,497 --> 00:26:13,274
-For they think it is healthy because it does not hurt; they do not feel the wound covered by skin; but let them understand that it will come to cutting, what has a persistent swelling.
+00:21:02,950 --> 00:21:08,731
+Just as water cleanses the body externally, the soul is secretly purified by the Holy Spirit through its mystery.
 
 149
-00:26:13,274 --> 00:26:24,626
-May the grace of God and the peace of our Lord Jesus Christ crown you at all times, and glorify you as you walk from strength to strength forever, most blessed lord pope, ineffably wonderful, incomparably honorable, most excellent patron.
+00:21:08,731 --> 00:21:14,408
+When God is invoked, the Holy Spirit descends from heaven and grants the sanctified waters the power to purify.
 
 150
-00:26:25,104 --> 00:26:32,456
-WARNING ON THE LETTER OF SAINT PROSPER OF AQUITAINE TO RUFINUS
-Three things can be investigated about the letter to Rufinus:
-1.
+00:21:14,408 --> 00:21:22,951
+Thus, the person restored to the image of the Holy Trinity, in which they were originally created, expels the old self that entered through the sin of the first human.
 
 151
-00:26:32,456 --> 00:26:35,293
-Who Rufinus is, to whom this letter was given;
-2.
+00:21:22,951 --> 00:21:26,429
+This old self is replaced by a new self through the grace of Christ.
 
 152
-00:26:35,293 --> 00:26:36,625
-When it was written;
-3.
+00:21:26,429 --> 00:21:29,856
+Transformed by the spirit of grace, they become entirely different.
 
 153
-00:26:36,625 --> 00:26:40,736
-On what occasion and necessity Saint Prosper was compelled to write it.
+00:21:29,856 --> 00:21:34,664
+Once defiled by the ugliness of sins, they are now made beautiful by the whitening of virtues.
 
 154
-00:26:40,736 --> 00:26:50,752
-As for Rufinus, it is not easy to determine who he was among the many known by this name around that time, nor have we found it definitively established by anyone until now.
+00:21:34,664 --> 00:21:39,165
+Therefore, the mystery of baptism cannot be completed without invoking the Holy Trinity.
 
 155
-00:26:50,752 --> 00:26:59,320
-It is certain that he was a friend of Saint Prosper, and one of those whom spiritual friendship makes concerned for the well-being of their friends.
+00:21:39,165 --> 00:21:47,145
+As the Lord said to the apostles: "Go, teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit" (Matthew 28:19).
 
 156
-00:26:59,320 --> 00:27:13,563
-Hence, when he heard confused rumors about the disputes raised against the doctrine of Saint Augustine, and learned that his most beloved friend Prosper was being poorly spoken of by many, he feared for the salvation of the soul most dear to him.
+00:21:47,145 --> 00:21:55,892
+The same Lord affirmed this sacrament at His own baptism, where the Father was revealed in the voice, the Son in the body, and the Holy Spirit in the appearance of a dove.
 
 157
-00:27:13,563 --> 00:27:24,332
-Not daring to condemn him with a hasty judgment without hearing him out, he chose to address him in writing, as he was perhaps separated by a long distance and could not do so in person.
+00:21:55,892 --> 00:22:02,951
+O splendid and marvelous sacrament, which transforms children of wrath into children of God, the old into new, the defiled into beautiful.
 
 158
-00:27:24,332 --> 00:27:27,632
-He entrusted these letters to a mutual friend to deliver.
+00:22:02,951 --> 00:22:08,168
+It is in this sacrament that we are both reborn and purified, imitating the example of Christ's death.
 
 159
-00:27:27,632 --> 00:27:35,679
-Unless perhaps you prefer to think that he gave instructions to a departing friend to personally express his pious concern without writing.
+00:22:08,168 --> 00:22:10,674
+How do we imitate this example, says the Apostle?
 
 160
-00:27:35,679 --> 00:28:25,413
-Neither option seems certain, but it is judged that one of them certainly happened, based on the opening words of Saint Prosper's letter:
-"I received," he says, "through our mutual friend, the signs of your brotherly concern for me, and I gratefully acknowledged your sincere charity.
-And lest any malicious rumors, as far as they cannot be kept from your ears, bring you any fear or anxiety, I took care to clear you of all doubt as much as possible through my letter, striving so much to reveal everything to you with the fullest truth, so that because you could not hear all that is spread by our opponents, through me you can know whatever is said and spread about us to cause vain envy."
-Regarding the time of this writing, it can be asserted without doubt that it was composed while Augustine was still alive, but in the last years of this great master.
+00:22:10,674 --> 00:22:26,275
+"Do you not know," he says, "that all of us who have been baptized into Christ Jesus were baptized into His death? Therefore, we were buried with Him through baptism into death, so that just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life" (Romans 6:3).
 
 161
-00:28:25,991 --> 00:28:35,848
-What certainly makes these words of this letter undeniable is the reference to the Most Blessed Augustine, a prominent figure among the Lord's priests at this time.
+00:22:26,275 --> 00:22:29,293
+We die to sin when we renounce the devil and all his works.
 
 162
-00:28:35,848 --> 00:29:20,982
-At the end of the letter, it says: "So that the preaching of the highest man in the Church at this time, etc."
-The final years of the life of the holy doctor are clearly demonstrated by the accusations from French detractors and slanderers of Saint Augustine's works. They were greatly offended by the reading of the book "On Rebuke and Grace," written around the year 426 or 427 for the instruction and correction of the monks of Adrumetum.
-Saint Prosper describes these critics when he says: "To this, that is, to the Most Blessed Augustine, among so many triumphs and honors, for the enlightenment of the Church and the glory of Christ, some of our own people (which is very regrettable) speak against him with secret, but not unknown, whisperings.
+00:22:29,293 --> 00:22:36,506
+We are buried with Christ when, under the invocation of the Holy Trinity and with three immersions in the font, we descend as if into a tomb.
 
 163
-00:29:20,982 --> 00:30:23,364
-"
-And as they find receptive ears, they defame his writings, which attack the error of the Pelagians. They claim that he completely removes free will and, under the name of grace, preaches fatal necessity. They also add that he believes in two masses of the human race and two natures, attributing to such a pious man the impiety of pagans and Manichaeans.
-Cassian seems to refer to his thirteenth conference, which is about the protection of God, when he says: "For wanting to glory more in their own righteousness than in the grace of God, they are annoyed that we resist what they have asserted against the man of the highest authority among many conferences."
-This conference, dedicated to Honoratus of Marseilles along with six others, is proven to have been written before the year 426, in which he was appointed bishop of Marseilles.
-This occasion (as has already been suggested) prompted Saint Prosper to write this letter when Rufinus indicated that he was moved by the rumors spread by the enemies of Saint Augustine's doctrine.
+00:22:36,506 --> 00:22:41,109
+We rise with Christ when, stripped of all sins, we emerge from the font as if from a tomb.
 
 164
-00:30:23,364 --> 00:30:30,335
-These rumors targeted the reputation of Prosper, a disciple of Augustine, and he wished to be freed from this doubt.
+00:22:41,928 --> 00:22:48,261
+But the mystery of the three days and nights, during which it is recorded that the Lord was in the tomb, is not overlooked.
 
 165
-00:30:30,455 --> 00:30:43,313
-Saint Prosper, striving to meet the just requests of his friends, elaborates on the rumors spread by the enemies of Saint Augustine's doctrine and under what pretext they dared to speak against such a great doctor.
+00:22:48,261 --> 00:22:52,896
+When we invoke the Holy Trinity, which is indeed the true light, we descend into the font.
 
 166
-00:30:43,313 --> 00:30:49,862
-One of the main errors of the Pelagians was the belief that God's grace was given based on the merits of men.
+00:22:52,896 --> 00:22:57,942
+For the Father is light, and in His light, because He is the Son, we see the Holy Spirit as light.
 
 167
-00:30:49,862 --> 00:30:54,188
-With this principle in place, they easily revived their other doctrines.
+00:22:57,942 --> 00:23:04,070
+We also observe three nights, opposing the father of darkness and ignorance, along with the lie that was born from him.
 
 168
-00:30:54,188 --> 00:31:00,497
-They initially taught that human nature was so sound that it could achieve good solely through free will.
+00:23:04,070 --> 00:23:08,911
+He is a liar just like his father, and when he speaks a lie, he speaks from his own resources.
 
 169
-00:31:00,497 --> 00:31:11,371
-Since this was entirely contrary to sound doctrine and had been rejected by all Catholic teachings, they conceded that grace was necessary to begin, progress, and persevere in good.
+00:23:08,911 --> 00:23:27,706
+But in the third place, we destroy the spirit of error, which inspires false prophets to say, "Thus says the Lord," whom the Lord has not sent. We destroy these and trample them if we are buried with Christ, according to what He Himself says: "Behold, I have given you authority to tread on serpents and scorpions, and over all the power of the enemy" (Luke 10:19).
 
 170
-00:31:11,371 --> 00:31:32,400
-However, they understood this as God's grace merely acting as a teacher of free will, manifesting itself through exhortations, the law, teachings, contemplation of creation, miracles, and external terrors, so that anyone, according to the movement of their will, if they sought, would find, if they asked, would receive, if they knocked, would enter.
+00:23:27,706 --> 00:23:34,040
+Each of these things is contrary to the Holy Trinity as night is to day, as darkness is to light, as lies are to the truth.
 
 171
-00:31:32,400 --> 00:31:39,790
-From this followed the belief that grace was given according to the merits of men, and therefore grace was no longer grace.
+00:23:34,040 --> 00:23:39,241
+The baptismal font also bears the likeness of the tomb of Christ, which is recorded to have been new.
 
 172
-00:31:39,790 --> 00:31:50,124
-This cunning of the children of darkness was revealed by the judgment of the Eastern bishops, the authority of the Apostolic See, and the vigilance of the African prelates.
+00:23:39,241 --> 00:23:45,626
+Because whoever is buried with Christ in it and rises with Him, according to the same Apostle, must walk in newness of life.
 
 173
-00:31:50,124 --> 00:32:00,218
-Saint Augustine, whom Saint Prosper says was then the chief portion of the Lord's priests, refuted this in his polemical writings and defeated such heresy in every way.
+00:23:45,626 --> 00:23:51,908
+The seven steps of this font seem to signify the three nights in descent and the three days in ascent, as mentioned above.
 
 174
-00:32:00,218 --> 00:32:15,179
-However, some among the Catholics in Gaul defamed his doctrine and writings with malicious rumors, claiming that he completely removed free will and preached necessity under the name of grace, and that he wanted to believe in two natures in one man.
+00:23:51,908 --> 00:23:59,941
+The seventh step, which is also the fourth, is the one about which someone said: "And the appearance of the fourth is like a son of the gods" (Daniel 3:25).
 
 175
-00:32:15,719 --> 00:32:30,045
-If that were the case, they would openly oppose and refute harmful errors with written books, not try to harm that man with secret whispers, whose teachings align with the Roman Church and the Africans, indeed with all Catholics around the world.
+00:23:59,941 --> 00:24:09,983
+He extinguishes the furnace of fire, which is the stability of the feet, the foundation of water; in whom, according to the Apostle, "all the fullness of divinity dwells bodily" (Colossians 2:9).
 
 176
-00:32:30,045 --> 00:32:38,663
-These people are driven to such bold actions because they are upset that their opposition to Augustine's teachings in their Collations was resisted.
+00:24:09,983 --> 00:24:13,793
+Therefore, baptism is not repeated, because Christ dies no more than once.
 
 177
-00:32:38,663 --> 00:32:56,365
-They know well that if they raised such matters in any gathering of priests, they would be met with hundreds of volumes from the blessed Augustine, which abundantly prove that we should not glory in anything good we have done, except in the grace of Christ the Lord, and not in the strength of free will.
+00:24:13,793 --> 00:24:20,642
+Sins committed after baptism are erased by the tears of repentance, alms, and other displays of good works, not by repeating baptism.
 
 178
-00:32:56,365 --> 00:33:10,399
-However, they hope for the riches of God's mercy, as stated in his teachings, that He who allowed them to be deceived by free will and stray from the path of humility at that time, would not leave them completely deceived, nor until the end.
+00:24:21,312 --> 00:24:34,004
+Meanwhile, the purest linens and spices are used for the burial of the Lord's body because, even if someone wishes to be buried with Christ, they should still shine with honorable works and be clothed in clean garments, despite carrying original sin.
 
 179
-00:33:10,399 --> 00:33:27,112
-They were wrong in this, as noted in subsequent teachings, in that they placed the beginnings of virtues and good works in natural ability; or if they said these flowed from grace, they claimed that grace was preceded by some good work or good will, and was granted as a reward for such.
+00:24:34,004 --> 00:24:41,924
+The prophet prays that priests be clothed in these when he says: "May your priests be clothed with righteousness" (Psalm one hundred thirty-two verse nine).
 
 180
-00:33:27,112 --> 00:33:37,885
-Saint Prosper diligently refuted this error, proving with Scripture that after the fall, man is left with no strength to do good, nor to earn merit, without the help of preceding grace.
+00:24:41,924 --> 00:25:02,994
+If, therefore, before being reborn, cleansed from original sin, and buried with Christ, one ought to shine with spices, have a pleasant fragrance, and be clothed in the cleanest garments, how much more should someone who is reborn, cleansed, brought to life with Christ, walking in newness of life, and made a new creature, overflow with the fragrance of a good odor and shine with the brightness of white garments?
 
 181
-00:33:37,885 --> 00:33:44,116
-From the destruction incurred by Adam's sin, humans can only be rescued by God's gratuitous merciful grace.
+00:25:03,096 --> 00:25:05,289
+14. Why they are clothed in white garments.
 
 182
-00:33:44,116 --> 00:33:53,083
-He demonstrates this with the example of infants dying without baptism and those nations to which the Gospel of salvation has not yet been known to reach.
+00:25:05,289 --> 00:25:12,482
+As we die to the world and rise with Christ, let us be clothed in the brightness of good works and strengthened by the hope of heavenly joys.
 
 183
-00:33:53,083 --> 00:33:56,694
-Grace does not deny free will, but establishes and reforms it.
+00:25:12,482 --> 00:25:21,561
+It is fitting that the angel who announces His resurrection is described as sitting in white garments, and those who announce His return to the apostles appear in white garments.
 
 184
-00:33:56,694 --> 00:34:10,203
-Left on its own, free will is sufficient for evil and a fall, but it needs to be healed by grace, by which one is inspired to think and act differently, and is taught to attribute their health not to themselves, but to their healer.
+00:25:21,561 --> 00:25:29,621
+We also put on white garments after baptism to maintain the purity we received during regeneration, preserving our renewal and the beauty of angelic splendor.
 
 185
-00:34:10,727 --> 00:34:19,191
-Finally, Saint Prosper clears the cloud of slander against Augustine's doctrine, which falsely claimed it introduced fate or dual nature.
+00:25:29,621 --> 00:25:33,396
+These white robes symbolize the hope of immortality and eternal happiness.
 
 186
-00:34:19,191 --> 00:34:23,330
-He argues that Augustine never wrote anything close to such errors.
+00:25:33,396 --> 00:25:38,548
+With the prophet, we can say: I will greatly rejoice in the Lord, and my spirit will exult in my God.
 
 187
-00:34:23,330 --> 00:34:32,041
-Prosper teaches that neither Augustine nor his disciples attribute anything to fate, but believe everything is directed by divine providence.
+00:25:38,548 --> 00:25:44,210
+For He has clothed me with the garment of salvation and wrapped me in the robe of righteousness (Isaiah 61:10).
 
 188
-00:34:32,041 --> 00:34:43,284
-They do not establish two natures—one good and one evil—but only one nature, which, though created upright, fell through the sin of the first man and became subject to eternal death.
+00:25:44,210 --> 00:25:54,974
+May He help us keep these garments, as He is the one who gave them to us, so that it can be said of us what is written in Revelation: Blessed is the one who stays awake and keeps his garments (Revelation 16:15).
 
 189
-00:34:43,284 --> 00:34:52,057
-However, this nature is to be renewed through a new creation in Christ, who saves humanity by restoring freedom and providing continuous help.
+00:25:54,974 --> 00:26:07,012
+Since everything in the context of baptism is filled with mysteries and rich in sacraments, it is fitting that the new person receives new garments and, cleansed of the stain of old guilt, is clothed in the brightness of white garments.
 
 190
-00:34:52,057 --> 00:35:07,563
-Prosper concludes his work in the Book of Numbers, Chapter 20, by urging his friend Rufinus to devote time to understanding Augustine's debates, if he truly desires to be properly instructed in the sound doctrine of God's grace, as he ought to desire.
+00:26:07,012 --> 00:26:11,654
+Moses washed Aaron and his sons with water first and then clothed them with linen garments.
 
 191
-00:35:07,871 --> 00:35:12,527
-Saint Prosper of Aquitaine's Letter to Rufinus on Grace and Free Will
+00:26:11,654 --> 00:26:21,142
+Similarly, our true Moses, who frees the people from Egyptian servitude-from the error of paganism-purifies us with His ineffable sacrament and adorns us with the garments of good works.
 
 192
-00:35:12,527 --> 00:35:17,390
-To my most beloved brother in Christ and rightly revered Rufinus, Prosper wishes eternal salvation.
+00:26:21,142 --> 00:26:29,865
+His face, the manifestation of His divinity, shines like the sun on the mountain of the Church, and His garments, that is, all the saints, become as white as wool or snow.
 
 193
-00:35:17,390 --> 00:35:24,266
-I received, through a mutual friend, signs of your brotherly concern for me, and I gratefully recognized the care of your most sincere love.
+00:26:29,865 --> 00:26:40,067
+Let us give thanks to Him, as Revelation says, who washed us from our sins with His blood and made us a kingdom and priests to His God and Father, to whom be glory forever and ever (Revelation 1:5-6).
 
 194
-00:35:24,266 --> 00:35:32,861
-To ensure that any malicious rumors, should they reach your ears, do not cause you fear or anxiety, I have taken care to address any doubts you might have through this letter.
+00:26:40,680 --> 00:26:48,240
+This kingdom and priesthood are anointed with the visible oil of chrism through the ministry of priests, and with the invisible grace of the Holy Spirit by the Lord.
 
 195
-00:35:32,861 --> 00:35:43,911
-I aim to reveal everything to you with the utmost truth so that, since you may not have heard the full extent of what our adversaries are spreading, you can learn directly from me what is being said to stir up unfounded envy.
+00:26:48,240 --> 00:26:50,556
+15. Why is the head anointed with holy chrism?
 
 196
-00:35:43,911 --> 00:35:48,184
-But first, I must explain to you the nature of the issue from which these rumors arise.
+00:26:50,556 --> 00:26:55,894
+The sacrament of this oil is first mentioned in Exodus, where Moses, following God's command, prepares it.
 
 197
-00:35:48,184 --> 00:35:54,569
-This way, the falsehoods of the accusers will be clearer to you, and you will see how they attempt to obscure the truth with lies.
+00:26:55,894 --> 00:27:02,390
+In the New Testament, this is affirmed by the Lord, who was anointed by the Father with the oil of gladness above his companions.
 
 198
-00:35:54,569 --> 00:36:04,686
-The Pelagian heresy, with its doctrines that aim to destroy the Catholic faith, and the poisonous impiety it has tried to spread within the Church, are already well-known and do not need a detailed account.
+00:27:02,390 --> 00:27:07,426
+God gives him the Spirit without measure, because in him dwells all the fullness of divinity bodily.
 
 199
-00:36:04,686 --> 00:36:10,678
-However, one of their most wicked and subtle blasphemies is the claim that God's grace is given according to human merits.
+00:27:07,426 --> 00:27:12,865
+The Church says to him: "Your name is oil poured out, therefore the maidens love you" (Song of Solomon 1:2).
 
 200
-00:36:10,678 --> 00:36:17,554
-Initially, they asserted that human nature possessed such great holiness that, through free will alone, one could attain the kingdom of God.
+00:27:12,865 --> 00:27:16,743
+From the chrism of Christ and from Christ, the name of Christians has arisen.
 
 201
-00:36:17,554 --> 00:36:24,675
-They argued that human nature was sufficiently supported by its own condition, having a rational intellect, to easily choose good and avoid evil.
+00:27:16,743 --> 00:27:21,325
+Before his coming, only kings and priests were anointed, and they were also called Christs.
 
 202
-00:36:24,675 --> 00:36:32,484
-They claimed that, where the works of the will were free in both directions, the ability to do good was not lacking in those who were evil, but the effort was.
+00:27:21,325 --> 00:27:31,246
+After his coming, however, not only kings and priests but the whole Church is consecrated with this anointing, because it is considered a kingdom and priesthood, and its children kings and priests.
 
 203
-00:36:32,975 --> 00:36:51,636
-Since, as I mentioned, they wanted all human righteousness to rely on natural integrity and capability, and this definition was rejected by sound doctrine, they preserved this condemned view by the Catholics, later colored by many varieties of heretical deceit, with the ingenuity that they professed God's grace as necessary for starting, progressing, and persevering in good.
+00:27:31,246 --> 00:27:43,685
+Therefore, the heads of the baptized are anointed with chrism, so that they, anointed in the kingdom and priesthood of the Church, may receive the prerogative of the Christian name and may become members of him who redeemed them and is their head.
 
 204
-00:36:51,636 --> 00:36:58,071
-But in this profession, the vessels of wrath tried to sneak in deceitfully, but God's grace revealed this to the vessels of mercy.
+00:27:44,088 --> 00:27:46,441
+16. Why it is covered with a mystical veil.
 
 205
-00:36:58,071 --> 00:37:19,306
-It was understood and clearly seen that they only confessed grace to the extent that it serves as a teacher to free will, showing itself through exhortations, through the law, through doctrine, through contemplation of creation, through miracles, and through external terrors to its judgment, so that each person, according to the movement of their own will, might find if they seek, receive if they ask, and enter if they knock.
+00:27:46,441 --> 00:27:48,684
+Our Redeemer is both a king and a priest.
 
 206
-00:37:19,306 --> 00:37:39,253
-For the call of grace initially acts upon us by reminding us of our own ability; and grace is no more than law, prophet, or teacher, whose common and general effort is present among all people throughout the world, so that those who wish to believe may do so, and those who believe may receive justification by the merit of their faith and good will: thus, God's grace is given according to human merit.
+00:27:48,684 --> 00:27:56,072
+As the prophet says, "Your kingdom, Lord, is an everlasting kingdom, and your dominion endures through all generations" (Psalm 145:13).
 
 207
-00:37:39,253 --> 00:37:47,322
-And in this way, grace would not be grace: because if it is given according to merits, and it is not the creator of good things itself, it is called grace in vain.
+00:27:56,072 --> 00:27:59,192
+He triumphantly defeated the devil, death, and the world.
 
 208
-00:37:47,519 --> 00:37:52,571
-Here are the tricks used by those who wished to transform themselves into the likeness of the righteous.
+00:27:59,192 --> 00:28:05,102
+The same prophet also says, "You are a priest forever, according to the order of Melchizedek" (Psalm 110:4).
 
 209
-00:37:52,571 --> 00:37:59,224
-These have been uncovered by the judgments of Eastern bishops, the authority of the apostolic see, and the vigilance of African councils.
+00:28:05,102 --> 00:28:07,948
+He offered himself as a sacrifice to God the Father.
 
 210
-00:37:59,224 --> 00:38:06,898
-The most blessed Augustine, a notable figure among the Lord's priests at the time, thoroughly and eloquently dismantled these deceptions in his many writings.
+00:28:07,948 --> 00:28:13,092
+It is fitting that his holy Church, being his body, should be both a kingdom and a priesthood.
 
 211
-00:38:06,898 --> 00:38:14,474
-Among the many gifts from God, with which the Spirit of Truth abundantly filled him, Augustine possessed profound knowledge and wisdom born from God's love.
+00:28:13,092 --> 00:28:17,251
+We, who are reborn into it and are its members, should be kings and priests.
 
 212
-00:38:14,474 --> 00:38:19,914
-He not only eradicated this persistent heresy but also many previous ones with the invincible sword of the word.
+00:28:17,251 --> 00:28:21,411
+As kings, we bravely fight against the devil and manage our lives admirably.
 
 213
-00:38:19,914 --> 00:38:29,870
-Despite the numerous victories and triumphs he achieved for the enlightenment of the Church and the glory of Christ, some individuals, regrettably, whisper against him in secret, though we are aware of it.
+00:28:21,411 --> 00:28:28,306
+As priests, we build an altar of faith in God's holy temple, which we are, offering him the peaceful sacrifices of good works.
 
 214
-00:38:29,870 --> 00:38:38,953
-They criticize his writings, particularly those addressing the errors of the Pelagians, accusing him of entirely removing free will and promoting fatal necessity under the guise of grace.
+00:28:28,306 --> 00:28:38,430
+We can say with the Apostle: "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly realms in Christ" (Ephesians 1:3).
 
 215
-00:38:38,953 --> 00:38:45,558
-They further claim that he believed in two classes of humanity and two natures, attributing to him the impiety of pagans and Manicheans.
+00:28:38,430 --> 00:28:46,639
+From this altar, the smoke of our prayers should rise to him daily, as the prophet says: "May my prayer be set before you like incense" (Psalm 141:2).
 
 216
-00:38:45,558 --> 00:38:52,260
-If these accusations are true, why are they so negligent, not to mention impious, that they do not repel such sudden ruin from the Church?
+00:28:46,639 --> 00:28:51,893
+The heads of those who are reborn by water and the Holy Spirit are covered with a mystical veil.
 
 217
-00:38:52,260 --> 00:38:58,234
-Why do they not resist such insane preachings or at least confront him with any writings from which such doctrines emanate?
+00:28:51,893 --> 00:28:58,734
+Peter says to them: "You are a chosen people, a royal priesthood, a holy nation, God's special possession" (First Peter 2:9).
 
 218
-00:38:58,234 --> 00:39:05,082
-Indeed, they would have greatly benefited the human race and earned their own glory if they had corrected Augustine from his supposed errors.
+00:28:58,734 --> 00:29:03,112
+This veil signifies both the royal diadem and the covering of the priestly head.
 
 219
-00:39:05,567 --> 00:39:13,931
-Unless, perhaps, modest men and new critics generously and mercifully spare the elderly man of great past achievements, confident that no one anywhere will accept his books.
+00:29:03,112 --> 00:29:08,420
+In sacred scripture, the head often signifies the mind, as in, "Lift up your heads" (Luke 21:28).
 
 220
-00:39:13,931 --> 00:39:25,293
-They may forgive, or rather understand, that not only the Roman and African Church, but all the children of promise throughout the world, agree with this man's teaching, just as they do with the whole faith, in the confession of grace.
+00:29:08,420 --> 00:29:14,166
+The mind of the reborn should have the adornments of royal dignity and the covering of the priestly head.
 
 221
-00:39:25,293 --> 00:39:35,349
-But even in these very places where complaints are raised against him, there are, by God's own doing, many who benefit from his enlightening discussions on the reception of evangelical and apostolic doctrine.
+00:29:14,166 --> 00:29:21,773
+It should be protected against vices by the priestly veil, spiritually adorned with the gems of virtues, and anointed with the holy chrism.
 
 222
-00:39:35,349 --> 00:39:39,603
-They are daily growing within the body of Christ, as much as He himself multiplies them.
+00:29:22,704 --> 00:29:34,536
+They are also granted the sevenfold grace of the Spirit through the anointing of chrism, making them worthy to become not just the dwelling place of the Spirit, who is of one substance with the Father and the Son, but of the entire Holy Trinity.
 
 223
-00:39:39,603 --> 00:39:42,794
-If we are rightly criticized, why are we not consistently rebuked?
+00:29:34,536 --> 00:29:34,683
+17.
 
 224
-00:39:42,794 --> 00:39:45,646
-If we are not to be rebuked, why are we secretly slandered?
+00:29:34,683 --> 00:29:44,365
+The ancient tradition of the Church, passed down from the apostles, states that while priests can anoint the baptized with chrism, they cannot bestow the Holy Spirit through the laying on of hands.
 
 225
-00:39:45,646 --> 00:39:51,255
-But who does not know why they privately grumble out of their own resentment, and publicly remain silent in council?
+00:29:44,365 --> 00:30:22,157
+As it is written in the Acts of the Apostles:
+"It happened that while Apollos was at Corinth, Paul passed through the upper regions and came to Ephesus, where he found some disciples. He asked them, 'Did you receive the Holy Spirit when you believed?' They answered, 'No, we have not even heard that there is a Holy Spirit.' Paul then asked, 'Into what then were you baptized?' They replied, 'Into John's baptism.' Paul explained, 'John baptized with the baptism of repentance, telling the people to believe in Him who was coming after him, that is, in Jesus.' When they heard this, they were baptized in the name of the Lord Jesus. And when Paul laid his hands on them, the Holy Spirit came upon them, and they began speaking in tongues and prophesying" (Acts 19:1-6).
 
 226
-00:39:51,255 --> 00:40:00,150
-They want to take pride more in their own righteousness than in the grace of God, and they are annoyed that we oppose what they assert against a man of great authority in many debates.
+00:30:22,157 --> 00:30:41,668
+Again, in another passage:
+"When the apostles in Jerusalem heard that Samaria had received the word of God, they sent Peter and John to them. When they arrived, they prayed for them to receive the Holy Spirit. For He had not yet come upon any of them; they had only been baptized in the name of the Lord Jesus. Then they laid their hands on them, and they received the Holy Spirit" (Acts 8:14-17).
 
 227
-00:40:00,150 --> 00:40:09,384
-Nor do they doubt that if they raise any question on this matter, in any gathering of priests or congregation of people, they will encounter hundreds of volumes by the most blessed Augustine.
+00:30:41,668 --> 00:30:53,757
+Finally, it should be understood that just as the other sacraments of baptism are visibly performed by priests but invisibly consecrated by God, the grace of the Holy Spirit is conferred through the laying on of hands and the ministry of bishops.
 
 228
-00:40:09,384 --> 00:40:25,580
-When these begin to reveal to the hearts of listeners the powerful truth of the Christian faith, and to flood the minds of those present from the sources of divine eloquence, who among the faithful, who among the pious, recognizing and commending the causes of their own salvation, would want to accept this bitterness of smoky vanity?
+00:30:53,757 --> 00:30:58,181
+Although priests are also priests, they do not possess the highest rank of the episcopate.
 
 229
-00:40:26,015 --> 00:40:36,985
-I also hope for this from the richness of God's mercy: that those whom He now allows to be deceived by their own free will and to stray from the path of humility, He will not fully and finally deprive of understanding.
+00:30:58,181 --> 00:31:12,089
+It is shown not only by ecclesiastical custom but also by the earlier reading from the Acts of the Apostles that it belongs solely to bishops to either sign or bestow the Holy Spirit, as it asserts that Peter and John were sent to hand over the Holy Spirit to those already baptized.
 
 230
-00:40:36,985 --> 00:40:46,696
-Instead, He allows them to wander further so that when He finally calls them back, His grace will be celebrated with even greater glory, having subdued even the hearts of those who opposed Him.
+00:31:12,384 --> 00:31:21,204
+For priests, whether the bishops are absent or present, it is permitted to baptize and anoint the baptized with chrism, but only if it has been consecrated by a bishop.
 
 231
-00:40:46,696 --> 00:41:01,339
-This opposition arose from their pursuit of virtue and moral integrity, not because anyone should lack these qualities, but because their use is miserable when they are thought to arise from natural ability or from the generosity of grace with some preceding merit of good work or good will.
+00:31:21,204 --> 00:31:28,344
+However, it is not allowed to mark the forehead with the same oil, which is reserved for bishops alone when they impart the Holy Spirit.
 
 232
-00:41:01,339 --> 00:41:06,975
-They indeed assert these things with certain testimonies from Holy Scripture, but they are not reasonably taken.
+00:31:28,344 --> 00:31:36,482
+The Holy Spirit, also called the sevenfold grace, is referred to because of the mystery of the number seven, in which the highest perfection is understood.
 
 233
-00:41:06,975 --> 00:41:17,390
-For in the defense of any definition, one should present those which do not yield to another understanding that seems to contradict the definition, and which do not abandon the rule to which they are fitted.
+00:31:36,482 --> 00:31:46,195
+It is composed of the first whole even number and the first whole odd number: the first whole even number, which can be divided, and the first whole odd number, which cannot be divided.
 
 234
-00:41:17,390 --> 00:41:32,838
-Thus, they say it is spoken to those using free will: "Come to me, all you who labor and are burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart; and you will find rest for your souls. For my yoke is easy, and my burden is light" (Matthew 11:28).
+00:31:46,195 --> 00:31:50,185
+It holds the mystery of the Trinity in the three and the Gospel in the four.
 
 235
-00:41:32,838 --> 00:41:46,827
-They want this to apply to all people laboring in the uncertainty of this life and burdened with sins, so that those who wish to imitate the gentleness and humility of the Savior and take on the yoke of His commandments may find rest for their souls in the hope of eternal life.
+00:31:50,185 --> 00:32:03,993
+Whether three is multiplied by four, or four by three, the number twelve is reached, because the mystery of the Holy Trinity and the teaching of the Gospel were spread by the twelve apostles to the four parts of the world, namely the east, west, north, and south.
 
 236
-00:41:46,827 --> 00:41:53,620
-However, those who do not wish to do this will lack salvation through their own fault; if they had wished, they could have obtained it.
+00:32:03,993 --> 00:32:07,983
+This number is customarily used in sacred scripture to represent perfection.
 
 237
-00:41:53,620 --> 00:42:13,445
-But let them also hear what the Lord has said to those using free will: "Without me, you can do nothing" (John 15:5); and, "No one can come to me unless the Father who sent me draws him" (John 6:44); and, "No one can come to me unless it is granted by my Father" (John 6:65); and, "Just as the Father raises the dead and gives them life, so also the Son gives life to whom He will" (John 5:21).
+00:32:07,983 --> 00:32:17,171
+For God rested on the seventh day after completing His works, and Enoch, who is the seventh from Adam, walked with the Lord, and his translation gave us hope for eternal rest.
 
 238
-00:42:13,847 --> 00:42:21,566
-"No one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him" (Luke 10:22).
+00:32:17,171 --> 00:32:21,476
+Hence, the Jubilee year, which signifies complete rest, is made up of seven weeks.
 
 239
-00:42:21,566 --> 00:42:25,398
-These truths are unchangeable and cannot be twisted into another meaning.
+00:32:21,476 --> 00:32:25,204
+Seven times seven is 49, which, when one is added, completes our unity.
 
 240
-00:42:25,398 --> 00:42:32,592
-Who would doubt that free will responds to the call when the grace of God has created the disposition to believe and obey in that person?
+00:32:25,204 --> 00:32:31,137
+The prophet praises the perfection of this number when he says: "Seven times a day I praise you" (Psalm 119:164).
 
 241
-00:42:32,592 --> 00:42:49,183
-Otherwise, it would be enough to warn a person without also creating a new will within them, as it is written: "The will is prepared by the Lord" (Proverbs 8:35, according to the Septuagint); and as the Apostle says: "For it is God who works in you both to will and to work for his good pleasure" (Philippians 2:13).
+00:32:31,137 --> 00:32:36,807
+This is clarified in another psalm when he says: "His praise shall continually be in my mouth" (Psalm 34:1).
 
 242
-00:42:49,183 --> 00:42:56,218
-What good pleasure, if not the one that God has worked in them, so that he would give both the desire and the action to accomplish it?
+00:32:36,807 --> 00:32:43,895
+And John, in his Revelation, when he writes to the seven churches, is generally believed to have written to the entire Catholic Church.
 
 243
-00:42:56,218 --> 00:43:00,996
-They also use the example of the centurion Cornelius to demonstrate the power of free will.
+00:32:43,895 --> 00:32:49,565
+Hence he also says: "He who has an ear, let him hear what the Spirit says to the churches" (Revelation 2:7).
 
 244
-00:43:00,996 --> 00:43:08,557
-Before receiving grace, he feared and prayed to God, and with spontaneous zeal, he was dedicated to almsgiving, fasting, and prayer (Acts 10:2).
+00:32:49,565 --> 00:33:03,320
+Meanwhile, concerning the number seven, which in some places in Scripture signifies universality or perfection, and in other places the sevenfold grace of the Spirit, there are many references in both the Old and New Testaments, which are too numerous to detail.
 
 245
-00:43:08,557 --> 00:43:13,282
-For this reason, he was praised by divine testimony and received the gift of regeneration.
+00:33:04,056 --> 00:33:08,099
+Now let's see how Isaiah the prophet lists the gifts of the sevenfold Spirit.
 
 246
-00:43:13,282 --> 00:43:19,478
-They do not understand that all of Cornelius's preparation was granted by God's grace (see the Synod of Orange below).
+00:33:08,099 --> 00:33:29,103
+When he was prophesying about Christ, who is the rod of the Lord's power, he said:
+"A rod will come out from the root of Jesse, and a flower from his root will rise up, and the Spirit of the Lord will rest upon him-the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and piety, and he will be filled with the spirit of the fear of the Lord" (Isaiah 11:1).
 
 247
-00:43:19,478 --> 00:43:28,824
-When Saint Peter was taught through a vision about baptizing Cornelius, and therefore about all the Gentiles, he refused unclean and indiscriminate food due to Jewish observance.
+00:33:29,103 --> 00:33:40,236
+The Spirit of the Lord rested upon this flower, who came out from the rod of Jesse, that is, from the birth of the blessed Mary ever virgin, because it pleased him to dwell in all the fullness of divinity bodily.
 
 248
-00:43:28,824 --> 00:43:34,337
-A voice came to him three times saying, "What God has made clean, you must not call common" (Acts 10:15).
+00:33:40,236 --> 00:33:51,211
+Not partially, as in other saints, to whom some are given the word of wisdom, others the word of knowledge, others the grace of virtues, and so on, which are given to each according to measure, but most fully.
 
 249
-00:43:34,337 --> 00:43:56,703
-This clearly shows that all the good works that came before in Cornelius were initiated by God's grace for his purification: so that the Apostle would not hesitate to confer the sacrament to someone whom the Lord had already given this gift, lest the beginning of the new and still unrevealed calling would waver, unless it was confirmed by the very signs of previous efforts showing that God had been at work in those chosen.
+00:33:51,211 --> 00:34:05,809
+Hence the apostle also said: "God does not give the Spirit by measure" (John 3:34); and the prophet: "Behold my servant whom I have chosen, my beloved in whom my soul is well pleased. I will put my Spirit upon him, and he will bring forth judgment to the nations" (Isaiah 42:1).
 
 250
-00:43:56,703 --> 00:44:02,321
-For not everyone has faith (Second Thessalonians 3:2); nor does everyone believe the Gospel (Romans 10:16).
+00:34:05,809 --> 00:34:27,286
+So that the Spirit might rest in him with perpetual habitation, it came to him, according to the testimony of John the Baptist, who said, "I saw the Spirit descending like a dove from heaven, and it remained upon him. I did not know him, but he who sent me to baptize with water said to me, 'Upon whom you see the Spirit descending and remaining, he is the one who baptizes with the Holy Spirit'" (John 1:32).
 
 251
-00:44:02,951 --> 00:44:09,112
-Those who believe are led by the Spirit of God, while those who do not believe turn away by their own free will.
+00:34:27,286 --> 00:34:45,087
+This is called the Spirit of the Lord and the spirit of wisdom, because it is written of Christ, who is the wisdom of God, "All things were made through him, and without him was not anything made that was made" (John 1:3); and in the Psalms it is sung: "How great are your works, O Lord, you have made all things in wisdom" (Psalm 104:24).
 
 252
-00:44:09,112 --> 00:44:12,523
-Therefore, our conversion to God is not from us, but from God.
+00:34:45,087 --> 00:34:54,592
+And in another place, where the Trinity is clearly shown, it is written: "By the word of the Lord the heavens were made, and by the breath of his mouth all their host" (Psalm 33:6).
 
 253
-00:44:12,523 --> 00:44:22,314
-As the Apostle says,
-"By grace you have been saved through faith, and this is not from yourselves, it is the gift of God; not by works, so that no one can boast" (Ephesians 2:8).
+00:34:54,960 --> 00:36:34,848
+Through Christ, who is the Word of the Lord, the Father, as it is written, "In the beginning was the Word" John 1:1, the heavens, that is, the holy preachers who proclaim the glory of God, were made. By the Holy Spirit, who is consubstantial with them and proceeds from both, all their strength and adornment are sustained by the inspiration of the Holy Spirit.
+The Apostle writes, "Christ the power of God and the wisdom of God" First Corinthians 1:24. And in Proverbs, it reads, "The Lord by wisdom founded the earth, by understanding He established the heavens" Proverbs 3:19.
+Just as the Word of the Lord is called light, life, and resurrection, so the Spirit of wisdom, understanding, counsel, might, knowledge, piety, and the fear of the Lord are named. Not because He is different according to these names, but because He is the same source and principle of all virtues.
+Without Christ, no one can be wise, understanding, a counselor, strong, learned, or full of the fear of the Lord. It should be known that the Spirit of the Lord, encompassing wisdom, understanding, counsel, might, knowledge, piety, and the fear of the Lord-the sevenfold number-are called the seven eyes on one stone in Zechariah 3:9. This Spirit rests upon the rod and flower that sprang from Jesse, from the lineage of David.
+This same Spirit, proceeding from the Father and the Son, was granted by the Lord to the apostles, and through their ministry and successors, to His holy Church. Although these gifts come from the same source, the one Spirit, they have distinct properties.
+Being wise is one thing, and understanding is another. Many are wise about eternal things but cannot understand them. Wisdom fills the mind with hope and certainty of eternal things, while understanding penetrates secrets and enlightens the heart by dispelling darkness. Counsel prevents rashness and fills the mind with reason.
 
 254
-00:44:22,314 --> 00:44:28,585
-Let human weakness acknowledge itself, and recognize the condemned succession in the first man of all generations.
+00:36:34,848 --> 00:36:39,102
+Strength, when it does not fear adversity, provides confidence to a trembling mind.
 
 255
-00:44:28,585 --> 00:44:37,551
-When the dead are brought to life, the blind are given sight, and the ungodly are justified, let them confess their life, light, and righteousness in Jesus Christ.
+00:36:39,102 --> 00:36:43,202
+Knowledge, when it dispels ignorance, illuminates with its light those it fills.
 
 256
-00:44:37,551 --> 00:44:41,677
-Let him who boasts, boast in the Lord (1 Corinthians 1:31), not in himself.
+00:36:43,202 --> 00:36:46,226
+Piety allows those it fills to overflow with acts of mercy.
 
 257
-00:44:41,677 --> 00:44:47,618
-While he was ungodly, blind, and dead, he received righteousness, light, and life freely from his deliverer.
+00:36:46,226 --> 00:36:52,120
+Fear, while it keeps the mind from being arrogant about present things, comforts it with the hope of future things.
 
 258
-00:44:47,618 --> 00:44:54,384
-He did not act justly and then his righteousness increased, nor did he walk towards God and then his journey was confirmed.
+00:36:52,120 --> 00:36:58,937
+In this way, they support one another, ensuring that as one helps the other, the order and state of life are most fittingly arranged.
 
 259
-00:44:54,384 --> 00:45:03,295
-He did not love God and then his love was inflamed; but while he was without faith, and therefore ungodly, he received the Spirit of faith and was made righteous.
+00:36:58,937 --> 00:37:04,933
+Wisdom is indeed less if it lacks understanding, and understanding is very useless if it does not derive from wisdom.
 
 260
-00:45:03,295 --> 00:45:20,787
-"The righteous shall live by faith" (Romans 1:17);
-and,
-"Without faith it is impossible to please God" (Hebrews 11:6);
-and,
-"Everything that does not come from faith is sin" (Romans 14:23);
-so that it may be understood that the righteousness of unbelievers is not righteousness because nature without grace is tainted.
+00:37:04,933 --> 00:37:10,674
+When it penetrates higher matters without the weight of wisdom, its own lightness lifts it to fall more gravely.
 
 261
-00:45:20,787 --> 00:45:26,783
-Indeed, having lost natural innocence, man, exiled and lost, walked without a path and entered deeper errors.
+00:37:10,674 --> 00:37:19,233
+Advice is worthless if it lacks the strength of fortitude, because what it discovers through discussion, lacking strength, it does not bring to the perfection of work.
 
 262
-00:45:26,783 --> 00:45:31,899
-But he was sought, found, brought back, and introduced into the path which is truth and life.
+00:37:19,233 --> 00:37:28,049
+And fortitude is greatly destroyed unless it is supported by advice, because the more it sees itself capable, the more it rushes into ruin without the moderation of reason.
 
 263
-00:45:31,899 --> 00:45:36,245
-He was ignited with love for God, who first loved him when he did not love Him.
+00:37:28,049 --> 00:37:35,942
+There is no knowledge if it does not have the utility of piety: because while it neglects to perform the known good, it binds itself to stricter judgment.
 
 264
-00:45:36,245 --> 00:45:56,212
-As the blessed Apostle John says,
-"Not that we loved God, but that He loved us" (1 John 4:10);
-and again,
-"We love because God first loved us" (1 John 4:19);
-and he also says,
-"Beloved, let us love one another, for love is from God; and everyone who loves is born of God and knows God. Whoever does not love does not know God, because God is love" (1 John 4:7-8).
+00:37:35,942 --> 00:37:43,373
+And piety is very useless if it lacks the discernment of knowledge, because while no knowledge enlightens it, it does not know how to show mercy.
 
 265
-00:45:56,927 --> 00:46:03,329
-As blessed Paul says, In Christ Jesus, neither circumcision nor uncircumcision means anything, but faith working through love.
+00:37:43,373 --> 00:37:53,060
+Fear itself, too, if it does not have these virtues, undoubtedly rises to no work of good action: while it trembles at everything, it, paralyzed by its own fear, is idle in all good things.
 
 266
-00:46:03,329 --> 00:46:07,494
-Galatians chapter 5, verse 6
-Where does this faith connected to charity come from?
+00:37:53,060 --> 00:37:58,288
+Therefore, it must be observed with the utmost care, and the help of the Holy Spirit must be implored.
 
 267
-00:46:07,494 --> 00:46:14,911
-Paul himself shows it is received by saying, Because it has been granted to you for Christ, not only to believe in him but also to suffer for him.
+00:37:58,288 --> 00:38:17,252
+Lest wisdom elevate; lest understanding, while it runs subtly, go astray;
+lest advice, while it multiplies, confuse; lest fortitude, while it provides confidence, precipitate;
+lest knowledge, while it knows and does not love, puff up; lest piety, while it inclines outside of rectitude, twist;
+lest fear, while it trembles more than justly, sink into the pit of despair.
 
 268
-00:46:14,911 --> 00:46:19,280
-Philippians chapter 1, verse 29
-This certainly could not happen without great charity.
+00:38:17,252 --> 00:38:24,530
+It should be known indeed that these distributions of spiritual gifts in the body of Christ, which is the Church, are supported by these aids.
 
 269
-00:46:19,280 --> 00:46:24,767
-And again, The love of God has been poured into our hearts through the Holy Spirit who has been given to us.
+00:38:25,248 --> 00:38:31,532
+In the one who is the source of light and the origin of goodness, they reign fully and perfectly, incomparably and ineffably.
 
 270
-00:46:24,767 --> 00:46:33,149
-Romans chapter 5, verse 5
-Without this charity, the Apostle testifies that no matter how much faith, knowledge, virtues, zeal, or labor one has, it is of no benefit.
+00:38:31,532 --> 00:39:34,581
+For Wisdom, who built both a body for herself in the womb of the Virgin and the Church in the world, has the spirit of wisdom by which she manages everything wisely;
+the spirit of understanding, by which she explores all the hidden secrets;
+the spirit of counsel, by which she handles everything with great management, because she is the Angel of great counsel;
+the spirit of fortitude, because she reaches from one end to the other with strength and cannot be overcome by anyone;
+the spirit of knowledge, because she knows everything, except those to whom she will say: "I do not know you" Matthew 25:12;
+the spirit of piety, because she created humanity in goodness, condemned it with justice, and redeemed it with piety;
+the spirit of fear, for those who need the fear of the Lord because they are little. To them, through the Prophet, she says, "Come, children, listen to me; I will teach you the fear of the Lord" Psalm 34:12.
+Therefore, because he humbled himself by descending to our weaknesses, taking the form of a servant, humbling himself unto death, and bowing down to raise us up who were lying down, it is fitting that the spirit of the Lord, which rests upon him, begins with wisdom and descends through the most appropriate steps to fear.
 
 271
-00:46:33,149 --> 00:46:42,293
-First Corinthians chapter 13
-Many praiseworthy and admirable things can be found in a person, but without the core of charity, they have the appearance of piety but lack the truth.
+00:39:34,632 --> 00:39:39,911
+We are indeed moving away from the fear that love drives out, towards the pure fear that lasts forever.
 
 272
-00:46:42,293 --> 00:46:59,363
-In this great and ineffable good, no one was found worthy, but whoever was chosen by God was made worthy:
-as the Apostle says, Giving thanks to the Father, who has made us worthy to share in the inheritance of the saints in light, who has delivered us from the power of darkness and transferred us to the kingdom of the Son of his love.
+00:39:39,911 --> 00:39:47,088
+We reach devotion so that, adorned with acts of devotion, we come to knowledge-not the kind that puffs up, but the kind that love builds up.
 
 273
-00:46:59,363 --> 00:47:14,146
-Colossians chapter 1, verse 3
-And to Timothy: Share in suffering for the gospel according to the power of God, who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before the ages began.
+00:39:47,088 --> 00:39:53,342
+From knowledge, we move to fortitude, so that, adorned with the beauty of knowledge, we might bravely fight against vices.
 
 274
-00:47:14,146 --> 00:47:25,170
-Second Timothy chapter 1, verse 8
-And to Titus: For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, living in malice and envy, hated by others and hating one another.
+00:39:53,342 --> 00:39:58,878
+From fortitude, we move to counsel, so that what we do bravely, we might support with the weight of counsel.
 
 275
-00:47:25,170 --> 00:47:33,501
-But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of works done by us in righteousness, but according to his own mercy.
+00:39:58,878 --> 00:40:05,900
+By obeying counsel in our actions, we enter the mysteries of understanding and come to the wisdom which begins with the fear of the Lord.
 
 276
-00:47:33,501 --> 00:47:34,721
-Titus chapter 3, verse 3
+00:40:05,900 --> 00:40:12,820
+By wisely completing all things and achieving good understanding, we may be admitted to that wisdom through which all things were made.
 
 277
-00:47:35,279 --> 00:47:40,393
-The grace of God justifies anyone, not by making good people better, but by making bad people good.
+00:40:12,820 --> 00:40:19,894
+This wisdom was begotten ineffably by the Father before the ages and, at the end of the ages, took on flesh for the sake of our salvation.
 
 278
-00:47:40,393 --> 00:47:42,976
-Then, through growth, it makes good people better.
+00:40:19,894 --> 00:40:28,609
+This flesh He granted to His faithful to eat when He said: "Unless you eat the flesh of the Son of Man and drink His blood, you will not have life in you" (John 6:55-56).
 
 279
-00:47:42,976 --> 00:47:45,301
-It doesn't take away free will, but frees it.
+00:40:28,968 --> 00:40:32,036
+18. Why we are completed by the body and blood of the Lord.
 
 280
-00:47:45,301 --> 00:47:49,227
-When free will is without God, it is dead to righteousness and alive to sin.
+00:40:32,036 --> 00:40:41,084
+To gain this life, we are baptized, fed with His flesh, and given to drink of His blood, because we cannot become part of His body unless we are imbued with these sacraments.
 
 281
-00:47:49,227 --> 00:47:55,426
-But when the mercy of Christ illuminates it, it is rescued from the kingdom of the devil and becomes the kingdom of God.
+00:40:41,084 --> 00:40:50,237
+For He Himself said: "My flesh is true food, and My blood is true drink" (John 6:54);
+and: "Whoever eats My flesh and drinks My blood remains in Me, and I in them" (John 6:55).
 
 282
-00:47:55,426 --> 00:48:01,624
-To stay in this kingdom, our own ability isn't enough; we need perseverance from the same source that gave us diligence.
+00:40:50,237 --> 00:40:56,997
+It is a saving sacrifice, which in the Old Testament Melchizedek, king of Salem, offered as a symbol of the Lord's body and blood.
 
 283
-00:48:01,624 --> 00:48:07,307
-Even the most ardent faith of Saint Peter would have failed in temptations if the Lord had not prayed for him.
+00:40:56,997 --> 00:41:02,405
+In the New Testament, the same mediator between God and humanity fulfilled it before He was handed over.
 
 284
-00:48:07,307 --> 00:48:23,423
-The Evangelist reveals this in Luke 22:31-32:
-"Jesus said to Peter, 'Simon, Simon, behold, Satan has asked to sift you like wheat. But I have prayed for you that your faith may not fail. And you, when you have turned back, strengthen your brothers. And pray that you may not enter into temptation'" (Luke 22:40).
+00:41:02,405 --> 00:41:08,957
+Taking bread and a cup, blessing them, and giving them to His disciples, He commanded that these things be done in His memory.
 
 285
-00:48:23,423 --> 00:48:26,729
-This further proves that free will can do nothing without grace.
+00:41:08,957 --> 00:41:14,730
+Therefore, the Church celebrates this sacrificial mystery, having left behind and completed the old sacrifices.
 
 286
-00:48:26,729 --> 00:48:38,404
-To whom was it said, "Strengthen your brothers, and pray that you may not enter into temptation"?
-It was said to the one who responded from free will, "Lord, I am ready to go with you both to prison and to death" (Luke 22:33).
+00:41:14,730 --> 00:41:22,218
+The Church offers bread because of the living bread that came down from heaven, and wine for the one who said, "I am the true vine" (John 15:1).
 
 287
-00:48:38,404 --> 00:48:42,691
-The same person is predicted to deny the Lord three times before the rooster crows.
+00:41:22,218 --> 00:41:30,643
+Through the visible offering of the priests and the invisible consecration of the Holy Spirit, bread and wine may attain the dignity of the Lord's body and blood.
 
 288
-00:48:42,691 --> 00:48:45,687
-What else could this mean but that he would fail in faith?
+00:41:30,643 --> 00:41:42,447
+Water is mixed with this blood, either because it flowed from the Lord's side along with blood, or because, as the elders want us to understand, just as Christ is signified by the wine, so the people are signified by the water.
 
 289
-00:48:45,687 --> 00:48:49,045
-Surely the Lord had prayed for him that his faith would not fail.
+00:41:42,447 --> 00:41:48,895
+For wine and water are inseparably mixed in the cup because the Church is inseparably joined and united to its head, Christ.
 
 290
-00:48:49,045 --> 00:48:54,004
-And certainly, He had not prayed in vain, as His work was one with that of the one He prayed to.
+00:41:49,416 --> 00:42:00,569
+Therefore, the Church upholds the tradition of receiving the Eucharist, as handed down by the Lord, so that when one is reborn of water and the Holy Spirit, they are nourished with the body of the Lord and drink His blood.
 
 291
-00:48:54,004 --> 00:49:00,513
-But to show that the one who promised great things about himself did not stand by his own free will, he was allowed to falter.
+00:42:00,569 --> 00:42:05,995
+This ensures that, being incorporated into the body of Christ, they may remain in Christ and Christ in them.
 
 292
-00:49:00,513 --> 00:49:07,745
-This was so that He who looked at and restored the troubled and failing one, without whom no one stands or perseveres, might strengthen him.
+00:42:05,995 --> 00:42:14,034
+Strengthened by the power of this food, they may, like Elijah, reach the mountain of God, which is Christ, the mountain prepared at the summit of the mountains.
 
 293
-00:49:08,519 --> 00:49:26,704
-But some people reject the grace of God because if they acknowledged it as proclaimed in divine scripture and recognized by the power of their own actions, they would also have to admit that out of all the people born through all ages, there is a specific, defined number predestined for eternal life, chosen by God's calling according to His purpose.
-
-294
-00:49:26,704 --> 00:49:29,398
-Denying this is as impious as opposing grace itself.
-
-295
-00:49:29,398 --> 00:49:39,242
-It is evident from common observation how throughout countless ages, innumerable thousands of people, lost in their errors and impieties, have perished without any knowledge of the true God.
-
-296
-00:49:39,242 --> 00:50:39,495
-This is also declared in the Acts of the Apostles, where Paul and Barnabas say to the Lycaonians:
-"Men, why are you doing these things? We are also mortal, humans like you, proclaiming to you that you should turn from these useless things to the living God, who made heaven and earth, the sea, and all things that are in them; who in past generations allowed all nations to walk in their own ways.
-Nevertheless, He did not leave Himself without witness, doing good, giving you rain from heaven and fruitful seasons, filling your hearts with food and gladness."
-If natural intelligence or the use of God's benefits could suffice for them to attain eternal life, then rational contemplation, the temperate climate, and the abundance of fruits and foods would save us as well in our time. By naturally using these things better, we would worship our Creator for His daily gifts.
-But let this overly foolish and dangerous belief be far from the souls of the pious and those redeemed by Christ's blood. Human nature is not liberated except through one mediator between God and humans, the man Christ Jesus (First Timothy 2:5); without Him, nobody is saved (Acts 4:12).
-
-297
-00:50:39,495 --> 00:50:44,624
-Just as He made us, and not we ourselves (Psalm 100:3), so He also renews us, and not we ourselves.
-
-298
-00:50:44,831 --> 00:50:55,505
-So that the ability of man to repay the price of this restoration through works of justice would not seem to be credited to himself, the riches of God's goodness were given to some infants from the very beginning.
-
-299
-00:50:55,505 --> 00:51:00,916
-In them, neither preceding nor succeeding devotion is chosen; there is no obedience, no discretion, no will.
-
-300
-00:51:00,916 --> 00:51:06,378
-I am speaking of those who are reborn as soon as they are born and taken from this life to eternal happiness.
-
-301
-00:51:06,378 --> 00:51:11,639
-Meanwhile, an innumerable multitude of infants of the same nature and condition die without regeneration.
-
-302
-00:51:11,639 --> 00:51:15,297
-About these, it is clear that they do not have a part in the city of God.
-
-303
-00:51:15,297 --> 00:51:23,164
-And where is that which is always opposed to us by those who do not understand, that God wants all men to be saved and to come to the knowledge of the truth?
-
-304
-00:51:23,164 --> 00:52:30,059
-As it is written in First Timothy chapter two, verse four, "God wants all men to be saved and to come to the knowledge of the truth."
-Are there not among all men those who have perished without the knowledge of God from past generations up to now? And if for the older ones—which is not rightly said—the evil deeds they committed by free will were harmful, as if the good were not freed by grace but the evil. What distinction of merits could there be between saved infants and not saved infants? What brought these into the kingdom of God? What excluded these from the kingdom of God? Indeed, if you consider merit, neither part deserved to be saved, but both to be condemned. Because for all being fallen in Adam's transgression, unless merciful grace took up some, unblamed justice would remain over all.
-But what is the cause or reason of this discretion in the secret counsel of God is beyond the capacity of human knowledge to inquire, and it is unknown without diminishing faith. Let us confess that no one is lost undeservedly, no one is freed deservedly, and the most omnipotent goodness of the Lord wants to save all and to imbue all with the knowledge of the truth, whom He wills to be saved and to come to the knowledge of the truth. For unless He calls, teaches, saves, no one comes, no one is instructed, no one is saved.
-
-305
-00:52:30,359 --> 00:52:41,374
-Because even though teachers are commanded to preach to all people without distinction and to spread the seed of the word everywhere, neither the one who plants nor the one who waters is anything, but only God who gives the growth.
-
-306
-00:52:41,374 --> 00:52:43,519
-First Corinthians chapter three, verse seven.
-
-307
-00:52:43,519 --> 00:54:17,592
-When the apostles began to preach the Gospel to the Gentiles, Scripture recalls about some of those who heard, saying, "When the Gentiles heard this, they were glad and honored the word of the Lord; and all who were appointed for eternal life believed." Acts chapter thirteen, verse forty-eight.
-And elsewhere, when many women were listening to Paul teaching, it says, "A woman named Lydia, a dealer in purple cloth from the city of Thyatira, who was a worshiper of God, heard us; the Lord opened her heart to respond to Paul's message." Acts chapter sixteen, verse fourteen.
-At the very time when the preaching of the Gospel was being sent to all nations, the apostles were forbidden to go to certain places by Him who desires all people to be saved and to come to the knowledge of the truth. Certainly, many in that delay and turning away from the Gospel would die without the knowledge of the truth and without the consecration of regeneration. Therefore, let Scripture tell what happened: "Paul and his companions traveled throughout the region of Phrygia and Galatia, having been kept by the Holy Spirit from preaching the word in the province of Asia. When they came to the border of Mysia, they tried to enter Bithynia, but the Spirit of Jesus would not allow them to." Acts chapter sixteen, verses six to seven.
-What wonder is it, then, if at the very beginning of the evangelical preaching, the apostles could only go where the Spirit of God wanted them to go; when we see that many nations are only now beginning to become participants in the grace of Christ, while others have not yet received any scent of this good?
-Or should we say that human wills oppose the will of God, and that the customs of these people are so fierce and unmanageable that they do not hear the Gospel because their impious hearts are not open to the preaching? And who changed their hearts, if not the one who formed their hearts individually? Psalm chapter thirty-three, verse fifteen.
-
-308
-00:54:17,687 --> 00:54:24,552
-Who softened the harshness of this severity to a feeling of obedience, except the one who can raise children for Abraham from stones?
-
-309
-00:54:24,552 --> 00:54:37,868
-Matthew 3:9
-And who gave the preachers fearless and unscathed steadfastness, except the one who said to Paul,
-“Do not be afraid, but speak, and do not be silent; for I am with you, and no one will attack you to harm you, for I have many people in this city”?
-
-310
-00:54:37,868 --> 00:54:53,507
-Acts 18:9
-I also think that no one would dare to say that any nation of the world, any region of the earth, should be excluded from the spreading of the Church's tents, as God says to the Son,
-“Ask of me, and I will give you the nations as your inheritance, and the ends of the earth as your possession.
-
-311
-00:54:53,507 --> 00:55:01,094
-”
-Psalm 2:8
-And again, “All the ends of the earth will remember and turn to the Lord, and all the families of the nations shall worship before him.
-
-312
-00:55:01,094 --> 00:55:08,784
-”
-Psalm 22:28
-The Lord himself also says,
-“This Gospel will be preached in the whole world as a testimony to all nations, and then the end will come.
-
-313
-00:55:08,784 --> 00:55:16,165
-”
-Matthew 24:14
-Therefore, whatever nations have not yet heard will hear the Gospel, and as many as are appointed to eternal life will believe.
-
-314
-00:55:16,165 --> 00:55:29,068
-Acts 13:48
-For no others will come into the inheritance of Christ than those who were chosen before the foundation of the world, and predestined and foreknown, according to the purpose of him who works all things according to the counsel of his will.
-
-315
-00:55:29,068 --> 00:55:39,081
-Ephesians 1:11
-Therefore, let us acknowledge the works of the Lord, and glorify his mercies, and not impatiently bear the fact that we do not know what or how many vessels of election there are.
-
-316
-00:55:39,081 --> 00:55:45,688
-Because even in earlier ages, when it was said of the people of one nation,
-“God is known in Judah; his name is great in Israel.
-
-317
-00:55:45,688 --> 00:56:05,920
-”
-Psalm 76:2
-The future election of the nations was hidden; and later it became known what had not been revealed before: as the Apostle says,
-“Which was not made known to the sons of men in other generations as it has now been revealed to his holy apostles and prophets by the Spirit, that the Gentiles are fellow heirs, members of the same body, and partakers of the promise in Christ Jesus.
-
-318
-00:56:05,920 --> 00:56:06,797
-”
-Ephesians 3:5-6
-
-319
-00:56:07,055 --> 00:56:17,166
-And in the Acts of the Apostles, it says, "The believers from the circumcision who had come with Peter were astounded because the grace of the Holy Spirit was poured out even on the Gentiles" (Acts 10:45).
-
-320
-00:56:17,166 --> 00:56:31,716
-If the Lord chose to hide and delay His plan of calling for as long as He wanted, and revealed it when He wanted, and this ignorance did no harm to His saints, then why do we think it would harm our hope if the number and identity of the people prepared as vessels of mercy for glory are hidden?
-
-321
-00:56:31,716 --> 00:56:40,199
-It is clear that the kingdom of heaven will be entered by all the good, thanks to the grace of God, and will not be entered by any of the evil, due to their own wickedness.
-
-322
-00:56:40,199 --> 00:56:46,068
-It is very foolish and inconsiderate for opponents to say that through this grace of God, nothing is left to free will.
-
-323
-00:56:46,068 --> 00:57:06,634
-Even though infants passing through baptism obviously have no work or desire of their will, and many who indeed use free will but turn away from the true God and lead lives in sin are sanctified by the liberating regeneration at the very end of their breath, yet if we consider with a pious gaze that part of the children of God reserved for works of piety, do we not find in them free will, not destroyed but reborn?
-
-324
-00:57:06,634 --> 00:57:09,495
-When left to itself, free will moved only to its own ruin.
-
-325
-00:57:09,495 --> 00:57:12,306
-It had blinded itself, and it could not enlighten itself.
-
-326
-00:57:12,306 --> 00:57:29,864
-Now, however, the same will is turned, not overturned, and it is given the ability to will differently, to perceive differently, to act differently, and to place its well-being not in itself but in the healer; because it does not yet have perfect health that makes it immune to harm, or the strength to restrain itself from unhealthy influences on its own.
-
-327
-00:57:29,864 --> 00:57:47,077
-Therefore, the man who was bad in free will became good in the same free will; but he was bad by himself, good by God; who reformed him into that initial honor with a different beginning, so that He did not only forgive him the guilt of evil will and action, but also granted him the ability to will well, to act well, and to remain in these things.
-
-328
-00:57:47,471 --> 00:57:53,379
-For every perfect gift, says the apostle James, is from above, coming down from the Father of lights (James 1:17).
-
-329
-00:57:53,379 --> 00:58:22,503
-He clearly shows what free will is like when controlled by the human spirit and what it is like when governed by God, saying, "But if you have bitter jealousy and selfish ambition in your hearts, do not boast and lie against the truth. This wisdom is not that which comes down from above, but is earthly, natural, demonic. For where jealousy and selfish ambition exist, there is disorder and every evil thing. But the wisdom from above is first pure, then peaceable, gentle, reasonable, full of mercy and good fruits, unwavering, without hypocrisy" (James 3:14).
-
-330
-00:58:22,503 --> 00:58:33,696
-Therefore, whoever studies and clings to these virtues is enlightened not by their own wisdom but by the wisdom from above: "For the Lord gives wisdom; from His mouth come knowledge and understanding" (Proverbs 1:6).
-
-331
-00:58:33,696 --> 00:58:37,894
-And this is their truest glory, if they boast not in themselves, but in the Lord.
-
-332
-00:58:37,894 --> 00:58:53,233
-However, the things that are said about fate and the two masses and two natures, with the most foolish falsehood, in injury to such a great man, neither burden him, in whose books such errors are most copiously destroyed, nor do they disturb us, who detest such opinions along with their authors.
-
-333
-00:58:53,233 --> 00:59:00,695
-See Augustine, Book II, against Two Letters of the Pelagians, chapters 6 and 7, and Book IV against Julian, chapter 8, in the appendix, part II.
-
-334
-00:59:00,695 --> 00:59:12,977
-But let those who can fabricate such nonsense see how they remove themselves from the disgrace of this falsehood, if those whose ears they abuse apply a little diligence to understand what the most excellent minister of grace has argued.
-
-335
-00:59:12,977 --> 00:59:29,301
-Though those who speak these things ought to anticipate every delay of such an investigation by bringing forth and explaining the books, or at least demonstrating some part of them, by which such a holy man would have published anything liable to such an interpretation, even if only through doubtful understanding.
-
-336
-00:59:29,663 --> 00:59:38,526
-But they have heard nothing of the sort from us, nor have they read anything of the sort: because we know that nothing happens by fate, but everything is arranged by God's judgment.
-
-337
-00:59:38,526 --> 00:59:46,752
-We know that the nature of all humans was created and continues to be created from one source, which is the flesh of the first man, not from two sources or two natures.
-
-338
-00:59:46,752 --> 00:59:51,060
-That same nature was brought down by the free will of the first man, in whom all sinned.
-
-339
-00:59:51,060 --> 01:00:28,223
-As stated in Romans chapter five, verse twelve, "Therefore, just as sin entered the world through one man, and death through sin, and in this way death came to all people, because all sinned." This nature is in no way free from the debt of eternal death unless it is reformed by the grace of the second creation of Christ, preserved through His free will by acting, aspiring, assisting, and leading the way until the end.
-Hence, because your holiness perceives (if, however, the obscurity of my speech does not hinder it) that it is in vain for some to complain about us, and that all those foolish accusations to irritate and turn away the minds of those whom they wish to persuade otherwise have been concocted: therefore, trust in the power of God's mercy.
-
-340
-01:00:28,223 --> 01:00:38,408
-This contradiction will rest, as in other parts of the world, so also in these regions: so that the preaching of the highest man in the Church at this time may also be helped by those who currently reject it.
-
-341
-01:00:38,408 --> 01:00:48,837
-But you, my most beloved and venerable brother, if you truly desire to be instructed on these questions, as it is fitting for you to desire, dedicate your care to knowing the disputations of the blessed Augustine.
-
-342
-01:00:48,837 --> 01:00:55,349
-In confessing the grace of God, you may attain the purest and most wholesome understanding of the evangelical and apostolic doctrine.
-
-343
-01:00:55,349 --> 01:01:02,057
-May the grace of God and the peace of our Lord Jesus Christ keep you at all times, and guide you along the path of truth to eternal life.
+00:42:14,034 --> 00:42:43,073
+By His gift, they may approach the glory of eternal happiness, where their desire will be fulfilled with good things, and they may say with the Prophet: "As for me, I shall behold your face in righteousness; when I awake, I shall be satisfied with your likeness" Psalms 17:15. Behold, venerable man, I have humbly fulfilled what you prudently commanded, praying for your holiness, that when you find higher answers to these inquiries, you may consider them, and not reject these, as long as all things are to be proven by apostolic authority, and what is good is to be retained.
 

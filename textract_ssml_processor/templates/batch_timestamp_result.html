@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Batch Timestamp Results</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Batch Timestamp Results</h1>
+        {% for result in results %}
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h2>Project: {{ result.project }}</h2>
+                </div>
+                <div class="card-body">
+                    <p><strong>Total Duration:</strong> {{ result.total_duration }}</p>
+                    <h3>English Subtitles (Original)</h3>
+                    <pre>{{ result.english_srt_original }}</pre>
+                    <h3>English Subtitles (Shorter)</h3>
+                    <pre>{{ result.english_srt_shorter }}</pre>
+                    <h3>Latin Subtitles (Original)</h3>
+                    <pre>{{ result.latin_srt_original }}</pre>
+                    <h3>Latin Subtitles (Shorter)</h3>
+                    <pre>{{ result.latin_srt_shorter }}</pre>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</body>
+</html>

@@ -1,1619 +1,1488 @@
 1
-00:00:00,000 --> 00:00:03,648
-ADMONITIO IN EPISTOLAM S. PROSPERI AD S. AUGUSTINUM.
+00:00:00,000 --> 00:00:06,960
+THEODULFI
+AURELIANENSIS EPISCOPI
+DE ORDINE BAPTISMI AD MAGNUM SENONENSEM LIBER.
 
 2
-00:00:03,648 --> 00:00:21,630
-Cum sanctus Augustinus majorem vitae partem in revincendis diversi generis haereticis insumpsisset: post partam Ecclesiae ab eo perfectam de Arianis, Manichaeis Donatistisque victoriam, novissime surrexit Pelagiana haeresis gratiae Dei inimica, quam ipse ab anno 412 scriptis libris de Peccatorum
+00:00:06,960 --> 00:00:16,006
+Reverentissimo atque charissimo fratri Magno
+episcopo Theodulfus salutem. Praeceptum tuum, vir venerabilis Magne, peregi,
+et si non solerti efficacia, plena tamen obedientia.
 
 3
-00:00:21,630 --> 00:00:37,608
-Remissione et de Baptismo Parvulorum, et aliis, annis subsequentibus, ut sese obtulit occasio, strenue debellare non cessavit, quousque pluribus episcoporum conciliis summorumque pontificum decretis damnata, vires amittere, defensorumque numero coepit decrescere.
+00:00:16,006 --> 00:00:25,625
+Praecepisti enim mihi, imo per te charitas praecepit,
+ut quibusdam quaestionibus de ordine baptismi
+a domino et glorioso imperatore Carolo tibi transmissis
+breviter et cito responderem.
 
 4
-00:00:37,608 --> 00:00:55,651
-At vero ultima sanctissimi Doctoris aetate, viri quidam, alius catholici, sed aut minus eruditi, et in Scripturis, unde doctrinam suam hauserat Augustinus, non satis versati, aut forte minus demisse quam oportuerat de seipsis sentientes, lectis Augustini libris aut turbati, aut etiam scandalizati
+00:00:25,625 --> 00:00:34,828
+Coarctantibus
+itaque me hinc brevitate, qua cogebar brevi sermone
+res magnas expedire, illinc temporis angustia, qua
+cito quod jusseras adimplere volebam, explevi quod
+jussisti.
 
 5
-00:00:55,651 --> 00:00:55,955
-sunt.
+00:00:34,828 --> 00:00:50,426
+Quod opus o utinam esset tam efficaciter expletum, quam est libenter susceptum! Quanquam ergo mihi spatiose tractandi, et Patrum volumina revolvendi, quibusdam occupationibus praepedientibus, facultas nulla suppeteret, et me ad jussionem implendam charitas permoveret: de singulis quae mihi occurrere
 
 6
-00:00:55,955 --> 00:01:11,082
-Turbas inter Adrumetinos in Africa monachos, qui abbati Valentino parebant, excitatas non aegre sedarunt
-tum liber de Gratia et Libero Arbitrio, tum alius de Correptione et Gratia, qui mentibus eorum obductas dubitationum
-nubes luce sua dissiparunt.
+00:00:50,426 --> 00:00:57,549
+potuerunt celeri cursu scripsi, et vestrae fraternitati nisi, ut si non habuerint responsa emolumentum, saltim obedientia habeat fructum.
 
 7
-00:01:11,082 --> 00:01:28,882
-At perniciem multo majorem Ecclesiae, apud Gallias praesertim, creavit surculus alius haeresis Pelagianae,
-qui tanto latius diffudit sese, atque altiores radices egit, quanto is prima fronte apparuit minus injuriosus in
-Christi Salvatoris gratiam, quam haud parum quoque amplificare videbatur.
+00:00:57,549 --> 00:01:12,055
+Quaestiones interea istae, ut ego te nosse certus
+sum, a regali necessitudine non sunt factae necessitate
+discendi, sed studio docendi: nec ut ipse his
+absolutis de nescitis valeat imbui, sed ut alii de
+somno desidiosi torporis ad rerum absolvendarum
+utilitatem valeant excitari.
 
 8
-00:01:28,882 --> 00:01:46,561
-Hujus initia quaedam prodierant
-cum novo dogmate Vitalis, viri aliunde catholici, qui cum esset in Carthaginensi eruditus Ecclesia, praecipuam
-quamdam doctrinae sancti Cypriani ejus urbis episcopi venerationem debebat: a qua illum tamen temere
-discedere conquerebatur Augustinus (Epist 217).
+00:01:12,055 --> 00:01:27,445
+Quippe cui hoc semper familiare est, ut exerceat praesules ad sanctarum Scripturarum indagationem, et sanam sobriamque doctrinam, omnem clerum ad disciplinam, philosophos ad rerum divinarum humanarumque cognitionem, monachos ad religionem, omnes generaliter ad sanctitatem, primates ad consilium,
 
 9
-00:01:46,561 --> 00:02:00,959
-Et Vitalem quidem haereticum Pelagianum esse sanctus
-doctor non credebat; sed minime tam orthodoxum esse audierat, ut nihil illius ad eum transiisset vel in eo
-relinqueretur erroris. Pelagiani quippe omnia, ut eidem scribit (Ibid.
+00:01:27,445 --> 00:01:37,532
+judices ad justitiam, milites ad armorum experientiam, praelatos ad humilitatem, subditos ad obedientiam, omnes generaliter ad prudentiam, justitiam, fortitudinem, temperantiam atque concordiam.
 
 10
-00:02:00,959 --> 00:02:19,865
-), ad fidelem piamque vitam hominum pertinentia ita tribuunt libero voluntatis arbitrio, ut habenda ex nobis, non a Domino putent esse poscenda: ille autem initium fidei, ubi est etiam initium bonae, hoc est, piae voluntatis, nolebat donum esse Dei, sed ex nobis nos habere contendebat, ut credere
+00:01:37,896 --> 00:01:52,799
+His et his
+similibus rebus ille virorum optimus, Deo sibi propitio,
+sanctae Ecclesiae fastigium accumulare non
+cessat, et admirabili in rerum ecclesiasticarum sive
+civilium administratione strenuus, et sapientiae fonte
+redundat, et virtutis exhibitione triumphat.
 
 11
-00:02:19,865 --> 00:02:38,644
-incipiamus: caetera autem religiosae vitae bona Deum per gratiam suam jam ex fide petentibus, quaerentibus, pulsantibus donare consentiebat. Hunc Vitalis errorem, quem ipsum amplexi sunt qui vocati sunt Semipelagiani, epistola ad eumdem scripta inde potissimum refellit Augustinus, quod Ecclesia
+00:01:52,799 --> 00:01:58,252
+I. Cur infans catechumenus efficitur. Quod modo infantes catechumeni efficiuntur antiquus
+mos servatur.
 
 12
-00:02:38,644 --> 00:02:57,550
-preces apud Deum fundat pro infidelibus, ut convertantur, et gratiarum actiones pro iisdem ad fidem conversis rependat; nec non pro fidelibus adhibeat orationes, ut in eo quod esse coeperunt ejus munere perseverent: quae epistola ad Vitalem videri potest Adrumetinorum dissensione ac libris ad eam
+00:01:58,252 --> 00:02:10,056
+Quicunque enim ad apostolos
+credentes baptizandi adveniebant, instruebantur
+et docebantur ab eis, et instructi et docti de sacramento
+baptismatis et de caeteris regulis fidei, accipiebant
+sacrosanctum mysterium baptismatis.
 
 13
-00:02:57,550 --> 00:03:16,583
-componendam editis posterior, et ad annum 426 aut 427 revocanda. Diffusis autem longe lateque posterioribus istis Augustini lucubrationibus, fuerunt Massiliae aliisque in locis Galliarum, non pauci qui sibi ex imperitia persuaderent quidquid suis in Pelagianos libris de Vocatione electorum secundum
+00:02:10,056 --> 00:02:22,231
+Unde
+ait Apostolus: An ignoratis, fratres, quia quicunque
+baptizati sumus in Christo Jesu, in morte ipsius baptizati
+sumus (Rom VI 3)? In quibus verbis ostenditur,
+non eos ignorasse sacramenti baptismatis arcana
+qui baptizabantur.
 
 14
-00:03:16,583 --> 00:03:35,616
-Dei beneplacitum scripserat Augustinus, id totum a Patrum opinione atque Ecclesiae sententia abhorrere (Vide infra in epist S Prosperi ad Aug n 2). Illud idem sanctis juxta ac peccatoribus negligentiam teporemque injicere: quia quoquo modo se egerint, non posset aliud erga eos, quam Deus definivit,
+00:02:22,231 --> 00:02:33,665
+Sed et Dominus non utcunque
+ait, Ite, baptizate; sed, Ite, et docete omnes
+gentes, baptizantes eos (Matth XXVIII 19). Ut nosse
+possimus, primum instruere et docere debere eum
+qui baptizandus est, et postea baptizare.
 
 15
-00:03:35,616 --> 00:03:54,331
-accidere. Ac proinde ut maxime vera esset illa doctrina, non tamen evulgandam esse: quippe quae, cum nequaquam esset necessaria, effectus traheret admodum periculosos, necnon cohortantium incitamenta vana cassaque redderet. Quae sua erat a catholico illo dogmate, unde consecutiones tam odiosus
+00:02:33,665 --> 00:02:45,840
+Infantes
+ergo et audientes et catechumeni fiunt, non quo in
+eadem aetate et instrui et doceri possint, sed ut antiquus
+mos servetur, quo apostoli eos quos baptizaturi
+erant primum docebant et instruebant, sicut
+jam dictum est.
 
 16
-00:03:54,331 --> 00:04:01,970
-colligebant, abalienatio, eos in celebres Semipelagianorum (quippe hoc nomen merito suo consecuti sunt) errores impulit.
+00:02:45,840 --> 00:02:54,378
+II. Quid sit catechumenus. Catechumenus autem audiens, sive instructus interpretatur. Genus enim humanum audit et instruitur
+antequam ad baptismum veniat.
 
 17
-00:04:02,351 --> 00:04:11,338
-Nam illi prius
-meliora et magis orthodoxa sentiebant: sed certis regulis ac fundamentis destituti, modo huc, modo illuc mentem
-atque opinionem transferebant (Ibid n 6).
+00:02:54,378 --> 00:03:10,624
+Et quod per Moysem quondam audierat, Audi, Israel, Dominus Deus tuus Deus unus est (Deut VI 4), et per leges et prophetas instruebatur ad unius veri Dei cultum: modo per sacerdotum ministerium et audiens efficitur ut instrui valeat, et relicto ritu quo creaturae deserviebat, soli creatori Deo
 
 18
-00:04:11,338 --> 00:04:23,642
-Visum illis initium fidei, et in finem perseverantiam sic esse
-in nostra potestate, ut non sint dona Dei; aut a Deo nonnisi talem dari perseverantiam, a qua possit homo
-sua voluntate deficere (Aug II lib de Praed sanct c 17 n 48).
+00:03:10,624 --> 00:03:11,178
+deserviat.
 
 19
-00:04:23,642 --> 00:04:35,625
-Nec deerant etiam qui a Pelagianis semitis
-adeo non declinabant, ut nullam aliam gratiam quam rationem, liberumque arbitrium homini nihil prius merenti
-a Creatore datum, agnoscere viderentur (Infra epist S Prosp ad Aug n 4).
+00:03:11,178 --> 00:03:21,159
+Sic enim
+catechumeni in Christum credunt, ut adhuc sua
+peccata portent. De quibus puto in Evangelio dictum,
+Qui dum crederent in Jesum, ipse Jesus non se credebat
+eis (Joan II 24).
 
 20
-00:04:35,625 --> 00:04:46,858
-Nihilominus tamen qui amplectebantur hosce errores viri erant inter caeteros clari, qui virtutum omnium
-studio ac probitatis qua fulgebant opinione magnam sibi auctoritatem apud simpliciores quosque paraverant.
+00:03:21,159 --> 00:03:30,695
+Quicunque ergo a Joanne
+docebantur, sive instruebantur et baptizabantur,
+quia baptismus ejus peccata delere non poterat, catechumenorum
+typum praetulisse noscendi sunt.
 
 21
-00:04:46,858 --> 00:05:00,927
-Sed
-nulli recipiendis Pelagianorum impiis placitis magis obnoxii sunt, nisi a se ipsis sibi caveant, quam isti, nec
-fere reperiuntur qui Dei beneficiis abutantur facilius illis intumescendo, et sibi ipsis accepta referendo, quam
-qui pluribus ab eo fuere cumulati.
+00:03:30,695 --> 00:03:31,841
+III. Cur exsufflatur.
 
 22
-00:05:00,927 --> 00:05:16,815
-Massiliensium Christi servorum, hoc est, monachorum, magnam partem pestis illa corripuerat: neque ullus est qui ignoret Joannem Cassianum, a quo isthic monasterium constitutum fuerat, hunc eumdem errorem propagasse scriptis suis, ac potissimum collatione tertia decima, quam sub annum 426 in lucem
+00:03:31,841 --> 00:03:47,709
+In quorum etiam facie a sacerdote per exsufflationem signum crucis fit, ut et diabolus fugetur, et Christo via praeparetur: ut qui illecebrosa persuasione sua generis humani, quod in primordio sui spiraculum vitae acceperat, habitator erat, ejus virtute et sacratissimo signo per ministerium
 
 23
-00:05:16,815 --> 00:05:25,695
-emisit (Infra append part II p 272), uno videlicet anno postquam Valentinianus III Gallicanos episcopos qui Pelagii dogmata sectabantur, abdicari expellique jusserat.
+00:03:47,709 --> 00:03:53,434
+sacerdotum exire cogatur, qui et in discipulos suos insufflasse, et spiritus immundos increpasse legitur.
 
 24
-00:05:25,695 --> 00:05:35,591
-Ad haec, auctoritatis non minimum
-eidem errori hinc accedebat, quod eorum a quibus defendebatur nonnulli summo sacerdotii honore, id
-est, episcopatu, nuper obtento praeeminebant.
+00:03:53,543 --> 00:04:01,879
+IV. Cur exorcizatur. Unde et exorcizatur idem malignus spiritus, ut
+exeat et recedat ab illo plasmate, quod jam dudum
+per peccatum primi hominis possidebat.
 
 25
-00:05:35,591 --> 00:05:55,122
-Hilarius quoque ipse episcopus Arelatensis, qui Honorato circa finem anni 428 successerat, in caeteris doctrinae Augustini sectator et admirator, in iis tamen quae ad praedestinationem spectant, angebatur, ac nonnihil in querelam trahebat, superque hoc cogitata sua cum sancto doctore conferre
+00:04:01,879 --> 00:04:17,482
+Et quia
+non est, juxta Apostolum, conventio Christi ad Belial,
+nec societas luci ad tenebras (I Cor VI 15), egrediantur
+tenebrae et lux vera Christus ingrediatur. Qui et in Zacharia typice propter peccata nostra,
+quae in corpore suo portavit, sordida vestimenta habuisse
+legitur (Zach III 3).
 
 26
-00:05:55,122 --> 00:05:55,722
-cupiebat.
+00:04:17,482 --> 00:04:33,031
+Et increpans Satanam,
+Hierusalem elegit, sanctam videlicet Ecclesiam, quae
+est Visio pacis, quam quotidie prole nova fecundet. Cui per prophetam dicitur: Filii tui de longe venient,
+et filiae tuae de latere surgent (Isa LX 4). Exorcismus
+praeterea est sermo increpationis sive conjurationis.
 
 27
-00:05:55,722 --> 00:06:15,186
-Virorum tam illustrium tamque in Ecclesia et pietate et dignitate praestantium auctoritas eorum errorem cum sibimetipsis, tum aliis magis periculosum reddebat; debita enim eisdem veneratio et rudes in imitationem pertrahebat, et simul peritiorum linguas inutili silentio cohibebat; ita ut vix
+00:04:33,031 --> 00:04:49,114
+Unde et in Actibus apostolorum exorcistae
+fuisse leguntur, et sancta Ecclesia inter gradus ecclesiasticos
+exorcistarum etiam ministerium habet. Sciendum namque est quia cum exorcizatio fit, ille
+procul dubio exorcizatur qui et baptismati, et saluti
+fidelium, et omnibus virtutibus ejus contrarius
+est.
 
 28
-00:06:15,186 --> 00:06:26,585
-reperiretur ullus qui vel ipsos admoneret, vel errori quem docebant occurreret, praeter paucos perfectae gratiae intrepidos amatores (Infra epist. S. Prosp. ad Aug. n. 7).
+00:04:49,114 --> 00:04:53,495
+Illo enim exorcizato sive expulso, divini verbi
+condimentum credentibus datur.
 
 29
-00:06:26,585 --> 00:06:42,982
-Horum e numero fuere S. Prosper, et Hilarius quidam, alius ab episcopo Arelatensi;
-cum ille ordinis esset laicorum, ut infra fusius demonstraturi sumus, in admonitione epistolae ejusdem ad S. Augustinum mox secuturae post illam de qua hic agimus.
+00:04:53,495 --> 00:05:05,685
+V. Cur catechumenus accipit salem. Et idcirco hi qui baptizandi sunt salem in sacramento
+accipiunt, ut ejus gustu condimentum sapientiae
+percipiant, neque a sapore Christi decipiantur,
+et sint insulsi et fatui.
 
 30
-00:06:42,982 --> 00:07:02,913
-Sanctus Prosper autem, qui postea Augustino in defendendae gratiae munus ac laborem successit, Aquitanus erat, sermone scholasticus, hoc est, egregie litteratus, et omnino vir tum moribus, tum eloquio et studio clarus, nec sancti Augustini notitia indignus: quamvis se ipse tantum ex ordine laicorum
+00:05:05,685 --> 00:05:16,017
+Qui enim ait discipulis suis:
+Vos estis sal terrae (Matth V 13), ipse dixit: Nemo
+mittens manum suam in aratro, et respiciens retro,
+regno coelorum aptus esse potest (Luc IX 62).
 
 31
-00:07:02,913 --> 00:07:15,778
-fuisse quodam modo indicet, ubi profitetur minime se parem auctoritati memoratorum Semipelagianorum, a quibus multum et vitae meritis et summo sacerdotii honore superabatur (Gennad Catal c 84).
+00:05:16,017 --> 00:05:33,141
+Ut autem qui baptizantur regno coelorum apti sint, et ne praeterita peccata iterantes respiciant retro, et efficiantur statua salis, et remanentes insensati exemplo poenae suae alios condiant, debent accipere salem sapientiae, ut quidquid in eis fluxum et fluidum est, verbi Dei sale curetur, et
 
 32
-00:07:15,778 --> 00:07:32,375
-Augustinum numquam viderat, sed tantummodo
-officiosis salutaverat litteris, quas per Leontium diaconum direxerat, per quem et sancti antistitis
-acceperat responsionem; has utriusque ad invicem litteras non superesse amplius merito deploramus.
+00:05:33,141 --> 00:05:35,463
+juxta Apostolum memores sint uxoris Lot.
 
 33
-00:07:32,375 --> 00:07:48,693
-Verumtamen ille, et Augustini elucubrationum assidua lectione, et superna Dei revelatione, edoctus perversissimum esse, negata praedestinatione ac praeveniente gratia, dicere quod initium salutis ex eo qui salvatur, non ex eo stet qui salvat, quodque voluntas hominis divinae gratiae pariat opem, non
+00:05:35,463 --> 00:05:48,465
+Et sicut Elisaeus salis
+immissione sterilitatem aquae curavit, ita nimirum
+verus Elisaeus Dominus noster Jesus Christus
+verbi sui sapore fluidam generis humani sterilitatem
+ad dulcem fidei et bonorum operum saporem perducit.
 
 34
-00:07:48,693 --> 00:08:04,575
-gratia humanam sibi subjiciat voluntatem; spretis aliorum adversis conatibus, non modo hac in fide perstitit, sed et eamdem contra impugnantes propugnavit, tum sancti doctoris Operibus atque illic allatis Scripturarum testimoniis usus, tum argumentis quae per se ipse a positis per Augustinum
+00:05:48,465 --> 00:06:05,705
+Cujus fidei firmitas tunc jam clare elucescit, cum is qui audierat solius Dei cultum esse tenendum, unde audiens vocatus est, et instrui coeperat de verae religionis cultu, unde catechumenus vocatus est, et per exsufflationem et exorcizationem a maligno spiritu erutus est, et in datione salis jam
 
 35
-00:08:04,575 --> 00:08:13,114
-fundamentis ducebat; pugnans videlicet validis ratiociniis, et nervosis illis assertionibus, quibus idem ipse, juxta Gennadii quoque attestationem, pollebat.
+00:06:05,705 --> 00:06:20,390
+habere coepit gustum divini verbi, tradatur ei symbolum, id est verae fidei integra et inconvulsa confessio, ut domus prisco habitatore derelicto fide ornetur, et de qua spinae incredulitatis evulsae sunt, incipiant in ea verae fidei documenta plantari.
 
 36
-00:08:13,114 --> 00:08:28,615
-Inter prima hujus disputationis exordia Massilienses aliquantisper maluerunt vitium imputare suae tarditati,
-quam dogma a se non intellectum damnare: immo fuere inter eos nonnulli qui Augustinum consultum vellent,
-rogatumque ut lucidiorem atque apertiorem super hoc expositionem daret.
+00:06:20,390 --> 00:06:36,701
+Prius
+enim evellendae sunt incredulitatis sive vitiorum
+spinae, et postea plantanda sunt fidei et bonorum
+operum rudimenta. Unde et Dominus ante faciem
+filiorum Israel septem gentes typum vitiorum tenentes
+contrivit, in quarum loco in typo virtutum Israeliticum
+populum collocavit.
 
 37
-00:08:28,615 --> 00:08:44,878
-At vero contigit, Dei miserentis nutu, ut Massiliam per id temporis deferretur liber de Correptione et Gratia, quo libro monachis Adrumetinis ad eadem ipsa quae Massiliensibus facessebant negotium tam plene respondebatur, tamque absolute, ut idem liber ad componendas quae in Galliis excitatae erant
+00:06:36,701 --> 00:06:47,207
+Et ad Jeremiam prophetam
+dicit: Ecce constitui te hodie super gentes et
+super regna, ut evellas, et destruas, et dissipes, et
+disperdas, et aedifices, et plantes (Jer I 10).
 
 38
-00:08:44,878 --> 00:08:47,162
-contentionum turbas conscriptas videretur.
+00:06:47,207 --> 00:07:03,575
+Prius enim dixit evulsionem, et destructionem, et dissipationem, et dispersionem, et postea subjecit aedificationem et plantationem, et per eumdem prophetam ait: Sicut vigilavi super eum, ut evellerem et demolirer et dissiparem et dispergerem et affligerem, sic vigilabo super eos, ut aedificem et
 
 39
-00:08:47,162 --> 00:09:03,262
-Verum conspecto libro, qui apostolicam Augustini doctrinam sequebantur, ipsi quidem novum inde lumen et majora ad eam defendendam praesidia traxerunt: alii autem, quorum mentes error ante occupaverat, caligine propria impediti, nihil aliud illic nisi offensionis adhuc et ardentioris in veritatem
+00:07:03,575 --> 00:07:04,898
+plantem (Jer. XXXI, 28).
 
 40
-00:09:03,262 --> 00:09:04,621
-odii materiam invenerant.
+00:07:04,898 --> 00:07:09,527
+Et hoc ideo quia post exorcizationem et exsufflationem,
+symboli sequitur traditio.
 
 41
-00:09:04,621 --> 00:09:10,223
-Opinionem suam vetustatis
-nomine defendentes, praedestinationis dogma nota novitatis inurebant.
+00:07:09,527 --> 00:07:16,751
+VI. Quae sit interpretatio Symboli secundum Latinos. Quod symbolum Latine indicium, vel signum, vel
+collatio interpretatur.
 
 42
-00:09:10,223 --> 00:09:26,324
-Locos Pauli huc pertinentes dicebant a
-nemine umquam sic intellectos: cumque rogarentur quonam ipsi modo exponi eos vellent, nullum re vera qui
-placeret, sensum sibi occurrere fatebantur; sed de his taceri jubebant quorum altitudinem nullus attigisset.
+00:07:16,751 --> 00:07:28,320
+Indicium, quia per id indicatur
+fidei integritas; signum, quod eo bene retento
+et intellecto fideles ab infidelibus discernuntur; collatio,
+quia in eo apostoli omnem fidei integritatem
+contulerunt.
 
 43
-00:09:26,324 --> 00:09:44,022
-Sententias
-Augustini ex Operibus ante Pelagianam haeresim ab eo compositis producebant, tamquam suae ipsorum
-opinioni plane congruentes. Quin etiam quae idem ex adversa parte sibi opposuit in libro de Correptione et Gratia,
-haec omnia pro se isti magna contentione replicabant.
+00:07:28,320 --> 00:07:38,538
+Quod autem omnes pari fidei sinceritate
+corde retinebant, ore confessi sunt, et singuli
+proprias sententias conferentes, symbolum, id est
+totius fidei collationem, ediderunt.
 
 44
-00:09:44,022 --> 00:10:01,848
-At plurimum ipsis displicebat institutum ibidem discrimen
-inter gratiam quae Adamo data fuerat, et quae nobis nunc datur. Denique praedestinationis exemplum
-nolebant sumi ex parvulis, de quibus nempe alia prius fuisset opinio ipsius quoque Augustini in libris de Libero
-Arbitrio.
+00:07:38,538 --> 00:07:47,875
+Discessuri enim
+ab invicem normam futurae praedicationis in commune
+statuerunt, ne localiter ab invicem discedentes
+diversum aliquid vel dissonum praedicarent.
 
 45
-00:10:01,848 --> 00:10:14,563
-Cum autem illorum quibus spiritus Pelagianae impietatis sic illudebat auctoritate premerentur veritatis defensores,
-compulsi sunt a sancto antistite poscere ut suam ipse auctoritatem illis objiceret.
+00:07:47,875 --> 00:08:02,909
+Decentissimum
+namque et utile erat, ut quibus erat
+anima una et cor unum in Domino, et quos sancti
+Spiritus afflatus vegetabat, unius etiam fidei confessio
+exornaret. Nec enim dirimi in aliquo vel poterant
+vel debebant, qui unius fidei vinculo nectebantur.
 
 46
-00:10:14,563 --> 00:10:29,450
-Hac de re duas ad ipsum
-epistolas scripsit Hilarius, quarum priore, quae excidit, fortasse referebatur odiosa illa praedicandae praedestinationis
-formula, quam ex adversariis objectavit sibi Augustinus (Lib II de Praed SS c 22 n 57).
+00:08:02,909 --> 00:08:09,193
+Plerique interea verbum abbreviatum per
+Isaiam prophetam, in Symbolo et oratione Dominica
+intelligi volunt.
 
 47
-00:10:29,450 --> 00:10:45,231
-Posteriore
-vero Hilarius postquam de adversariorum querelis egit, Quidquid, ait, pro ea gratia, quam in te pusilli cum
-magnis miramur, volueris aut valueris, gratissime accipiemus, tamquam a nobis charissima et reverendissima
-auctoritate decretum.
+00:08:09,193 --> 00:08:22,406
+In altero enim fidei, in altero precum
+continetur integritas, ut et in duodecim verbis duodecim
+apostolorum doctrina, et in septem petitionibus
+omne contineatur quidquid ad praesentis et futurae
+vitae pertinet dispensationem.
 
 48
-00:10:45,231 --> 00:10:53,346
-Ac significat se Prosperum quoque impulisse ad scribendum proprius in eamdem rem
-litteras, quas ei cum suis conjunctim dirigit.
+00:08:22,406 --> 00:08:39,789
+Quamvis etiam totius
+doctrinae verbum dici possit abbreviatum, quia quod
+prius lex et prophetae continebant in latitudine praeceptorum,
+veniens Dominus pronuntiavit et dixit,
+Diliges Dominum tuum ex toto corde tuo, et ex tota
+anima tua, et ex totis viribus tuis, et proximum tuum
+tanquam teipsum.
 
 49
-00:10:53,346 --> 00:11:08,807
-Et illae sunt quas hic exhibemus Prosperi litterae, quarum ille
-exordio testatur se sancto doctori, non solo salutandi eum, ut in priore (non exstat) quadam epistola fecerat,
-studio, sed etiam fidei qua Ecclesia vivit affectu scribere.
-
-50
-00:11:08,807 --> 00:11:28,953
-Excubante enim, inquit, pro universis membris corporis Christi vigilantissima industria tua, et adversus haereticarum doctrinarum insidias veritatis virtute pugnante, nullo modo mihi verendum putavi, ne onerosus tibi aut importunos essem in eo quod ad multorum salutem, ac perinde ad pietatem tuam,
-
-51
-00:11:28,953 --> 00:11:38,215
-pertinet; cum potius reum futurum esse me crederem, si ea quae valde perniciosa esse intelligo, ad SPECIALEM PATRONUM FIDEI non referrem.
-
-52
-00:11:38,215 --> 00:11:58,226
-Et post expositam quae in illis Pelagianae pravitatis reliquiis inerat non mediocrem virulentiam, subjicit: Speramus non solum tenuitatem nostram disputationum tuarum praesidio roborandam, sed etiam ipsos quos meritis atque honoribus claros caligo istius opinionis obscurat, defaecatissimum lumen
-
-53
-00:11:58,226 --> 00:11:59,510
-gratiae accepturus.
-
-54
-00:11:59,510 --> 00:12:16,411
-Haec porro sancti Prosperi epistola scripta fuit anno 428 aut 429, per id tempus quo Arelatensi Ecclesiae
-praeerat Hilarius, ex num. 9. Hic vero ex Lerinensi monacho creatus fuit Arelatensis episcopus post Honoratum,
-anno 428 aut 429 ineunte denatum.
-
-55
-00:12:16,411 --> 00:12:30,000
-Quippe Honoratus suffectus Patroclo, qui anno 426, juxta Prosperi
-Chronicum, interfectus est, Cathedram Arelatensem, teste Honorato Massiliensi in Vita Hilarii Arelatensis,
-per biennium occupavit.
-
-56
-00:12:30,000 --> 00:12:34,152
-S. PROSPERI
-AQUITANI
-EPISTOLA AD AUGUSTINUM,
-
-57
-00:12:34,152 --> 00:12:44,852
-De reliquiis Pelagianae haereseos in Gallia subolescentibus, deque hujusmodi hominum querelis
-adversus praedestinationis et gratiae doctrinam, Augustini opusculis, praesertim libro de Correptione
-et Gratia, explicatam.
-
-58
-00:12:44,852 --> 00:12:50,988
-Domino beatissimo papae, ineffabiliter mirabili, incomparabiliter
-honorando, praestantissimo patrono,
-AUGUSTINO PROSPER. 1 1.
-
-59
-00:12:50,988 --> 00:13:05,469
-Ignotus quidem tibi facie, sed jam aliquatenus,
-si reminiscaris, animo ac sermone compertus; nam
-per sanctum fratrem meum Leontium diaconum
-misi epistolas et recepi; nunc quoque beatitudini
-tuae scribere audeo, non solum salutationis, ut tunc,
-studio; sed etiam fidei qua Ecclesia vivit affectu.
-
-60
-00:13:05,469 --> 00:13:20,096
-Excubante enim pro universis membris corporis Christi vigilantissima industria tua, et adversus haereticarum doctrinarum insidias veritatis virtute pugnante, nullo modo mihi verendum putavi ne onerosus tibi aut importunus essem in eo quod ad multorum salutem, ac perinde ad pietatem tuam, pertinet:
-
-61
-00:13:20,096 --> 00:13:26,281
-cum potius reum futurum esse me crederem, si ea quae valde perniciosa esse intelligo ad specialem patronum fidei non referrem.
-
-62
-00:13:26,281 --> 00:13:39,829
-2. Multi ergo servorum Christi qui in Massiliensi
-urbe consistunt, in sanctitatis tuae scriptis
-quae adversus Pelagianos haereticos condidisti, contrarium
-putant Patrum opinioni et ecclesiastico
-sensui quidquid in eis de vocatione electorum secundum
-Dei propositum disputasti.
-
-63
-00:13:39,829 --> 00:13:54,261
-Et cum aliquamdiu tarditatem suam 2 culpare maluerint quam non intellecta reprehendere, quidamque eorum lucidiorem super hoc atque apertiorem beatitudinis tuae expositionem voluerint postulare: evenit, ex dispositione misericordiae Dei, ut cum quosdam intra Africam similia movissent, librum de
-
-64
-00:13:54,261 --> 00:13:57,304
-Correptione et Gratia, plenum divinae auctoritatis, emitteres.
-
-65
-00:13:57,648 --> 00:14:12,420
-Quo in notitiam nostram insperata opportunitate
-delato, putavimus omnes querelas resistentium sopiendas,
-quia universis quaestionibus de quibus
-consulenda erat sanctitas tua tam plene illic absoluteque
-responsum est, quasi hoc specialiter studueris
-ut quae apud nos erant turbata componeres.
-
-66
-00:14:12,420 --> 00:14:25,872
-Recensito autem hoc beatitudinis tuae libro, sicut
-qui sanctam atque apostolicam doctrinae tuae auctoritatem
-antea sequebantur, intelligentiores multo
-instructioresque sunt facti; ita qui persuasionis suae
-impediebantur obscuro, aversiores quam fuerant
-recesserunt.
-
-67
-00:14:25,872 --> 00:14:40,897
-Quorum tam abrupta dissensio primum propter ipsos metuenda est, ne tam claris tamque egregiis in omnium virtutum studio viris spiritus Pelagianae impietatis illudat: deinde ne simpliciores quique, apud quos horum magna est de probitatis contemplatione 3 reverentia, hoc tutissimum sibi aestiment,
-
-68
-00:14:40,897 --> 00:14:44,400
-quod audiunt eos quorum auctoritatem sine judicio sequuntur asserere.
-
-69
-00:14:44,400 --> 00:14:44,502
-3.
-
-70
-00:14:44,502 --> 00:14:59,680
-Haec enim ipsorum definitio ac professio est: Omnem quidem hominem Adam peccante peccasse; et neminem per opera sua, sed per Dei gratiam regeneratione salvari; universis tamen hominibus propitiationem quae est in sacramento sanguinis Christi sine exceptione esse propositam; ut quicumque ad fidem et
-
-71
-00:14:59,680 --> 00:15:02,319
-ad baptismum accedere voluerint, salvi esse possint.
-
-72
-00:15:02,319 --> 00:15:16,635
-Qui autem credituri sunt, quive in ea
-fide, quae deinceps per Dei gratiam sit juvanda,
-mansuri sunt, praescisse ante mundi constitutionem
-Deum, et eos praedestinasse in regnum suum, quos
-gratis vocatos, dignos futuros electione, et de hac
-vita bono fine excessuros esse praeviderit.
-
-73
-00:15:16,635 --> 00:15:26,279
-Ideoque
-omnem hominem ad credendum et ad sperandum
-divinis institutionibus admoneri, ut de apprehendenda
-vita aeterna nemo desperet, cum voluntariae
-devotioni remuneratio sit parata.
-
-74
-00:15:26,279 --> 00:15:41,987
-Hoc autem propositum vocationis Dei, quo vel ante mundi initium, vel in ipsa conditione generis humani, eligendorum et rejiciendorum dicitur facta discretio, ut, secundum quod placuit Creatori, alii vasa honoris, alii vasa contumeliae sint creati, et lapsis curam resurgendi adimere, et sanctis
-
-75
-00:15:41,987 --> 00:15:51,123
-occasionem teporis afferre: eo quod in utraque parte superfluus labor sit, si neque rejectus ulla industria possit intrare, neque electus ulla negligentia possit excidere.
-
-76
-00:15:51,123 --> 00:16:02,503
-Quoquo
-enim modo se egerint, non posse aliud erga eos
-quam Deus definivit, accidere: et sub incerta spe
-cursum non posse esse constantem; cum si aliud
-habeat praedestinantis electio, cassa sit annitentis
-intentio.
-
-77
-00:16:02,503 --> 00:16:16,875
-Removeri itaque omnem industriam, tollique
-virtutes, si Dei constitutio humanas praeveniat
-voluntates: et sub hoc praedestinationis nomine,
-fatalem quamdam induci necessitatem; aut
-diversarum naturarum dici Dominum conditorem,
-si nemo aliud possit esse quam factus est.
-
-78
-00:16:16,875 --> 00:16:31,941
-Utque
-brevius ac plenius quod opinantur exponam, quidquid
-in libro hoc ex contradicentium sensu sanctitas
-tua sibi opposuit, quidquid etiam in libris contra
-Julianum ab ipso sub hac quaestione objectum potentissime
-debellasti, hoc totum ab istis sanctis
-intentiosissime conclamatur.
-
-79
-00:16:31,941 --> 00:16:47,595
-Et cum contra eos scripta beatitudinis tuae validissimis et innumeris testimoniis divinarum Scripturarum instructa proferimus, ac, secundum formam disputationum tuarum, aliquid etiam ipsi quo concludantur astruimus; obstinationem suam vetustate defendunt, et ea quae de Epistola apostoli Pauli
-
-80
-00:16:47,595 --> 00:16:57,265
-Romanis scribentis ad manifestationem divinae gratiae praevenientis electorum merita proferuntur, a nullo umquam ecclesiasticorum ita esse intellecta ut nunc sentiuntur 4 affirmant.
-
-81
-00:16:57,265 --> 00:17:06,935
-Cumque ut ipsi ea exponant secundum
-quorum velint sensa deposcimus, nihil se profitentur
-invenis e quod placeat, et de his taceri
-exigunt quorum altitudinem nullus attigerit.
-
-82
-00:17:06,935 --> 00:17:20,616
-Eo
-postremo pervicacia tota descendit, ut fidem nostram
-aedificationi audientium contrariam esse definiant;
-ac sic etiam si vera sit, non promendam:
-quia et perniciose non recipienda tradantur, et
-nullo periculo quae intelligi nequeant conticeantur. 4.
-
-83
-00:17:20,616 --> 00:17:36,849
-Quidam vero horum in tantum a Pelagianis semitis non declinant, ut cum ad confitendam eam Christi gratiam quae omnia praeveniat merita humana cogantur, ne si meritis redditur, frustra gratia nominetur; ad conditionem hanc velint uniuscujusque hominis pertinere, in qua eum nihil prius merentem, quia
-
-84
-00:17:36,849 --> 00:17:53,136
-nec existentem, liberi arbitrii et rationalem gratia Creatoris instituat, ut per discretionem boni ac mali, et ad cognitionem Dei, et ad obedientiam mandatorum ejus possit suam dirigere voluntatem, atque ad hanc gratiam qua in Christo renascimur pervenire, per naturalem scilicet facultatem, petendo,
-
-85
-00:17:53,136 --> 00:18:02,148
-quaerendo, pulsando: ut ideo accipiat, ideo inveniat, ideo introeat, quia bono naturae bene usus, ad istam salvantem gratiam initialis gratiae ope meruerit pervenire.
-
-86
-00:18:02,148 --> 00:18:18,272
-Propositum autem vocantis gratiae in hoc omnino definiunt, quod Deus constituerit nullum in regnum suum nisi per sacramentum regenerationis assumere, et ad hoc salutis donum omnes homines universaliter, sive per naturalem, sive per scriptam legem, sive per evangelicam praedicationem vocari: ut et
-
-87
-00:18:18,272 --> 00:18:33,256
-qui voluerint fiant filii Dei, et inexcusabiles sint qui fideles esse noluerint: quia justitia Dei in eo sit, ut qui non crediderint pereant; bonitas in eo appareat, si neminem repellat a vita, sed indifferenter universos velit salvos fieri, et in agnitionem veritatis venire.
-
-88
-00:18:33,528 --> 00:18:48,319
-Jam hic proferunt testimonia quibus divinarum Scripturarum cohortatio ad obediendum incitat hominum voluntates, qui ex libero arbitrio, aut faciant qui jubentur, aut negligant: et consequens putant ut quia praevaricator ideo dicitur non obedisse, quia noluit, fidelis quoque non dubitetur ob hoc
-
-89
-00:18:48,319 --> 00:19:00,152
-devotus fuisse, quia voluit; et quantum quisque ad malum, tantum habeat facultatis ad bonum; parique momento animum se vel ad vitia vel ad virtutes movere, quem bona appetentem gratia Dei foveat, mala sectantem damnatio justa suscipiat.
-
-90
-00:19:00,152 --> 00:19:00,252
-5.
-
-91
-00:19:00,252 --> 00:19:15,244
-Cumque inter haec innumerabilium illis multitudo objicitur parvulorum qui utique, excepto originali peccato, sub quo omnes homines similiter in primi hominis damnatione nascuntur, nullas adhuc habentes voluntates, nullas proprias actiones, non sine Dei judicio secernuntur, ut ante discretionem boni
-
-92
-00:19:15,244 --> 00:19:30,236
-ac 5 mali de usu vitae istius auferendi, alii per regenerationem inter coelestis regni assumantur haeredes, alii sine baptismo inter mortis perpetuae transeant debitores: tales aiunt perdi, talesque salvari, quales futuros illos in annis majoribus, si ad activam servarentur aetatem, scientia divina
-
-93
-00:19:30,236 --> 00:19:30,838
-praeviderit.
-
-94
-00:19:30,838 --> 00:19:40,365
-Nec considerant se gratiam Dei, quam comitem,
-non praeviam humanorum volunt esse meritorum,
-etiam illis voluntatibus subdere, quas ab
-ea secundum suam phantasiam, non negant esse
-praeventas.
-
-95
-00:19:40,365 --> 00:19:52,849
-Sed in tantum quibuscumque commentitiis
-meritis electionem Dei subjiciunt, ut quia praeterita
-quae non exstant, futura quae non sint futura
-confingant; novoque apud illos absurditatis genere,
-et non agenda praescita sint, et praescita non acta
+00:08:39,789 --> 00:08:50,711
+In his duobus mandatis tota lex
+pendet et prophetae (Matth XXII 37). In quo evidenter
+prophetas et legem duobus his sermonibus
+breviat. Haec de Symbolo et nomine ejus dicta
 sint.
 
+50
+00:08:50,711 --> 00:09:00,797
+VII. De credulitate, quomodo credendum sit in Deum Patrem
+omnipotentem, et in Jesum Christum Filium
+ejus et in Spiritum sanctum, sanctam Ecclesiam
+catholicam, et caetera quae sequuntur in eodem Symbolo.
+
+51
+00:09:00,797 --> 00:09:12,930
+Ceterum fides quae in hoc symbolo continetur, ita
+ab his qui baptizandi sunt intelligi debet, ut credant
+in Deum Patrem omnipotentem, creatorem omnium
+visibilium et invisibilium, qui solus quia non est de
+alio, ideo solus appellatur ingenitus.
+
+52
+00:09:12,930 --> 00:09:27,759
+Et in Jesum Christum Filium ejus, per quem omnia facta sunt, verum Deum unigenitum verumque Dei Filium, non factum aut adoptivum, sed genitum et unius cum Patre substantiae, atque ita per omnia aequalem Deo Patri, ut nec tempore, nec gradu, nec potestate esse possit inferior, tantumque esse illum
+
+53
+00:09:27,759 --> 00:09:30,006
+qui est genitus, quantus est ille qui genuit.
+
+54
+00:09:30,006 --> 00:09:42,988
+Credant etiam eum
+natum de Spiritu sancto ex Maria semper virgine:
+id est, ut Spiritu sancto cooperante, verum sibi corpus
+ex virgine idem Dei Filius assumpserit, ut qui
+erat in divinitate Dei Patris Filius, ipse factus sit in
+humanitate hominis matris Filius.
+
+55
+00:09:42,988 --> 00:09:51,376
+Credant etiam
+eum descendisse ultimo tempore pro redemptione
+mundi a Patre, qui nunquam desiit esse cum Patre,
+et hominem verum factum, ut humanum genus homo
+liberaret.
+
+56
+00:09:51,376 --> 00:10:02,310
+Et ipse qui absque initio aeternitatem cum
+Patre et Spiritu sancto possidet, in fine saeculorum
+perfectum naturae nostrae hominem susceperit, et Verbum
+caro factum sit, assumendo humanitatem, non
+permutando divinitatem.
+
+57
+00:10:02,310 --> 00:10:16,890
+Credant etiam eum pertulisse passionem et mortem, non in virtute divinitatis, sed in infirmitate humanitatis, mortuum vera carnis morte, resurrexisse vera carnis resurrectione, et resurrectione sua spem nobis resurrectionis contulisse: ita duntaxat ut sicut ille tertia die resurrexit vivus a
+
+58
+00:10:16,890 --> 00:10:20,984
+mortuis, ita et nos in fine saeculorum resurgamus in eadem qua nunc vivimus carne.
+
+59
+00:10:21,384 --> 00:10:37,203
+Credant etiam eum in eodem corpore, quod de virgine assumpsit, et passionem sustinuit et resurrexit, ascendisse in coelum, et in eodem et nunc esse, et ad judicium venturum esse, et resuscitatis omnibus, dare aliis pro peccatis supplicii aeterni sententiam, aliis pro justitiae meritis aeternae
+
+60
+00:10:37,203 --> 00:10:38,387
+beatitudinis praemium.
+
+61
+00:10:38,387 --> 00:10:51,785
+Credant et in
+Spiritum sanctum, Deum verum ex Patre Filioque
+procedentem, aequalem per omnia Patri et Filio, voluntate,
+potestate, aeternitate, substantia, nec esse
+in hac sancta Trinitate ullos gradus quibus aliquis
+inferior superiorve dici possit.
+
+62
+00:10:51,785 --> 00:11:06,905
+Credant etiam sanctam
+Ecclesiam catholicam, id est universalem, non
+in sanctam Ecclesiam, ut credentes in Trinitatem. Credant ejusdem sanctae Trinitatis domum esse sanctam
+Ecclesiam. A cujus communione discedentes
+schismatici et haeretici vocantur, et aeterna damnatione
+puniuntur.
+
+63
+00:11:06,905 --> 00:11:13,847
+In ejus vero communione permanentes,
+et membra Christi esse, et remissionem peccatorum
+percipere, et ad vitam aeternam pertinere.
+
+64
+00:11:13,847 --> 00:11:26,868
+Quia ergo parvuli, necdum ratione utentes, haec minime
+capere possunt, oportet ut cum ad intelligibilem
+aetatem pervenerint doceantur, et fidei sacramentis,
+et confessionis suae mysteriis, ut ea veraciter
+credant et diligenti cura custodiant.
+
+65
+00:11:26,868 --> 00:11:34,832
+Confessionem
+suam plane diximus, quia quamvis illi necdum
+loqui possint, pro illis et confitentur et loquuntur
+qui eos de lavacro fontis suscipiunt.
+
+66
+00:11:34,832 --> 00:11:43,872
+Nec immerito
+dignum est, ut qui aliorum peccatis obnoxii sunt,
+aliorum etiam confessione per mysterium baptismatis
+remissionem originalium percipiant peccatorum.
+
+67
+00:11:43,872 --> 00:11:44,911
+VIII. De scrutinio.
+
+68
+00:11:44,911 --> 00:12:01,215
+Qui vero illius sunt jam aetatis ut rationem credulitatis suae reddere possint, diligenti examine scrutandi sunt, utrum veraciter credant, an alicujus falsitatis in eis macula celetur: ne dum, aut timore aut favore terrenarum potestatum, aut acquisitione quarumdam rerum, ad baptismatis sacramentum
+
+69
+00:12:01,215 --> 00:12:08,875
+ignorantibus ministris Ecclesiae perveniunt, tradatur sanctum canibus, et mittantur margaritae inter porcos, et lupi ovina pelle vestiantur.
+
+70
+00:12:08,875 --> 00:12:21,678
+Hunc enim
+morem Ecclesia servare consuevit, ut per aliquot
+dierum spatium hi qui in solemnitate Paschali baptizandi
+sunt scrutentur, ut instructis et doctis, et
+simplici corde ad fidem veram venientibus, vitae
+sacramenta impertiantur.
+
+71
+00:12:21,678 --> 00:12:31,800
+Quibus ut aptiores inveniantur
+baptismatis sacramento, et eorum fides
+probabilior sit, quaedam fiunt corporaliter, quae
+spiritali gustu degustata mysticum quid et spiritale
+sapiant.
+
+72
+00:12:31,800 --> 00:12:37,811
+IX. Cur tanguntur de sputo aures et nares. Tanguntur itaque de sputo nares et aures, et dicitur:
+Effeta.
+
+73
+00:12:37,811 --> 00:12:54,573
+Nares, ut Christum in odore unguentorum
+sequantur et dicant: Trahe me, post te curremus
+(Cant I 3), et cum Apostolo profiteantur dicentes:
+Christi bonus odor sumus Deo (II Cor II 15), et
+illius membra efficiantur cui dicitur: Et odor vestimentorum
+tuorum super omnia aromata (Cant. IV,
+10).
+
+74
+00:12:54,573 --> 00:13:11,798
+Quem odorem tunc bene habere poterit, si cum Maria, quae interpretatur domina sive luminatrix, alabastro unguenti, hoc est sacrae fidei puritate et bonae operationis exercitio, ungant pedes Jesu, apostolorum videlicet monita complentes vel praedicatorum quorumlibet, per quos Christus inambulat, et
+
+75
+00:13:11,798 --> 00:13:19,023
+domus, mundus videlicet sive universitas sanctae Ecclesiae, eorum bona opinione, quasi quodam dulci et suavi odore repleatur.
+
+76
+00:13:19,023 --> 00:13:31,161
+Et quia plerumque
+odoris suavitas et diversa thymiamata dissolutis et
+amatoribus conveniunt, isti e contrario, et continentes
+et Christi amatores effecti illius solummodo
+salutiferum semper amplectantur odorem.
+
+77
+00:13:31,161 --> 00:13:48,444
+Tanguntur et aures, ut audientes verba Dei et facientes ea, similes sint secundum Evangelium viro sapienti, qui aedificavit domum suam supra petram (Matth VII 24), et spiritali auditu semper spiritalia auscultent: ut cum David dicere possint: Audiam quid loquatur in me Dominus Deus (Psal LXXXIV 9),
+
+78
+00:13:48,444 --> 00:14:00,178
+et cum Isaia, Dominus Deus aperuit mihi aurem, ego autem non contradico, retrorsum non abii (Isa. L, 5); ut quae spiritaliter dicuntur spiritaliter audientes, ad spiritalium operum emolumenta perveniant.
+
+79
+00:14:00,178 --> 00:14:17,518
+Cum itaque Dominus in Evangelio dicit: Qui
+habet aures audiendi audiat (Matth XI 15), et Joannes
+in Apocalypsi sua: Qui habet aures audiendi
+audiat quid Spiritus dicat Ecclesiis (Apoc II 7); hic
+non aures carnales, sed spiritales quaeruntur, et
+per aurium nomen interioris hominis auditus designatur.
+
+80
+00:14:17,518 --> 00:14:23,472
+In sacro etenim eloquio plerumque per
+membra corporis spiritales animae virtutes intelliguntur.
+
+81
+00:14:23,472 --> 00:14:39,689
+Quia ergo divinitas hominem assumens, quoddam ex connexione duarum substantiarum in una Dei filii persona collyrium fecit, unde genus humanum quod caecum a primis parentibus natum erat illuminaret, non ab re sputo aures tanguntur et nares, ut qui expuens linguam muti tetigerat, et sputo lutum
+
+82
+00:14:39,689 --> 00:14:53,638
+fecerat, et oculos caeci nati aperuerat, nunc per ministerium sacerdotum, et auditum spiritalem his qui baptizandi sunt tribuat, et recte loquendi, id est fidem veram confitendi facultatem praebeat, et nares quibus bonum Christi odorem capiant aperiat.
+
+83
+00:14:53,638 --> 00:15:00,336
+Pectus enim illius qui
+baptizatur refertum semper esse debet, et divini
+odoris nectare et spiritali unctione delibutum.
+
+84
+00:15:00,336 --> 00:15:03,819
+X. Cur pectus oleo ungitur, vel scapulae signantur, vel
+liniuntur.
+
+85
+00:15:03,819 --> 00:15:19,334
+Unde etiam his qui baptizandi sunt pectus de oleo et scapulae tanguntur, ut illius olei sancti videlicet spiritus unctione leniti, de quo Apostolus ait: Sicut unctio ejus docet nos de omnibus (I Joan XXII 7), ante et retro muniti, id est contra omnia prospera sive adversa sint circumspecti, et
+
+86
+00:15:19,334 --> 00:15:27,144
+coelestium animalium imitatione ante et retro pleni sint oculis, id est, in praeteritum et futurum respicientes salutis suae custodiam non amittant.
+
+87
+00:15:27,144 --> 00:15:40,760
+Tangitur eis pectus, ut cum
+David dicere possint: Et misericordia ejus praeveniat
+me (Psal LVIII 11). Tanguntur scapulae, ut
+cum eodem dicant: Et misericordia ejus subsequatur
+me (Psal XXII 6). Id est anteriora, ut bene
+velint; posteriora, ne frustra velint.
+
+88
+00:15:40,760 --> 00:15:49,784
+Bene autem
+velle et perficere ab eo nobis datur, a quo est omne
+datum optimum, et omne donum perfectum. Et quoniam
+in cordis nomine saepe mens designatur, sicut
+est illud.
+
+89
+00:15:49,784 --> 00:16:05,405
+In toto corde meo exquisivi te (Psal. CXVIII, 10), et in olei nomine intelligitur unctio sancti Spiritus, sive opera luminis et misericordiae, cordis locus unctione utrimque munitur, id est anterior et posterior, et undique mens Christiani et pinguedine sancti Spiritus, et operibus luminis atque
+
+90
+00:16:05,405 --> 00:16:06,619
+misericordiae exuberet.
+
+91
+00:16:06,936 --> 00:16:20,805
+XI. Quid sit abrenuntiatio? Quibus bene exuberat, si abrenuntiando diabolo
+et operibus ejus, dominationem illius aspernetur,
+et jugum quod se premebat, illius olei unctione
+fatiscat, et impleatur illud propheticum: Computrescet
+jugum a facie olei (Isa X 27).
+
+92
+00:16:20,805 --> 00:16:28,330
+Abrenuntiare
+etenim poni solet pro eo quod est spernere,
+rejicere, contradicere, sive aliud quid quod hoc
+verbo in hoc sensu exprimi potest.
+
+93
+00:16:28,330 --> 00:16:44,189
+Quamvis enim illius verbi quod est nuntio sensus in promptu sit, cum sine praepositione profertur, et accepta praepositione interdum a sua significatione non longe recedat, ut est illud: Narrabo et renuntiabo (Psal LIV 18), interdum vero in alium sensum vertatur, ut est illud: Sic ergo omnis ex
+
+94
+00:16:44,189 --> 00:16:53,220
+vobis qui non renuntiat omnibus quae possidet, non potest meus esse discipulus (Luc XIV 33); abrenuntiare tamen semper in eo sensu poni consuevit quem superius diximus.
+
+95
+00:16:53,220 --> 00:16:58,004
+Abrenuntiare etenim se fatetur Satanae, et omnibus
+operibus ejus, et omnibus pompis ejus.
+
 96
-00:19:52,849 --> 00:20:05,736
-Hanc sane de humanis meritis praescientiam
-Dei, secundum quam gratia vocantis operetur,
-multo sibi rationabilius videntur astruere, cum ad
-earum nationum contemplationem venitur, quae vel
-in praeteritis saeculis dimissae sunt ingredi vias suas
-(Act.
+00:16:58,004 --> 00:17:14,077
+Quam abrenuntiationem
+recte confessio sanctae Trinitatis sequitur,
+ut ubi abundavit peccatum superabundet
+gratia, et ubi computruit jugum diaboli a facie unctionis
+Spiritus sancti, adveniat illius jugum qui
+dixit: Discite a me quia mitis sum et humilis corde,
+et invenietis requiem animabus vestris.
 
 97
-00:20:05,736 --> 00:20:21,173
-XIV, 15), vel nunc quoque adhuc in veteris ignorantiae impietate depereunt, nec ulla eis aut Legis aut Evangelii illuminatio coruscavit, cum tamen, in quantum praedicatoribus ostium apertum est, et via facta est, gentium populus qui sedebat in tenebris et in umbra mortis, lucem viderit magnam (Isa
+00:17:14,077 --> 00:17:27,624
+Jugum enim
+meum suave est, et onus meum leve (Matth XI 29). Satanas enim, qui et diabolus nuncupatur, a fidelibus
+abrenuntiatur ut Deo Salvatori liberius serviatur,
+quia juxta ejusdem Domini vocem, Nemo potest
+duobus dominis servire (Luc XVI 13).
 
 98
-00:20:21,173 --> 00:20:36,404
-IX 2; Matth IV 16); et qui quondam non populus, non autem populus Dei sit; et quorum aliquando non misertus est, nunc autem misereatur (Oseae II 24 et Rom IX 25): praevisos inquiunt a Domino credituros, et ad unamquamque gentem ita dispensata tempora ac ministeria magistrorum, ut exortura erat
+00:17:27,624 --> 00:17:32,982
+XII. De abrenuntiatione Satanae, et omnibus operibus
+ejus atque pompis, vel quae opera diaboli et
+pompae.
 
 99
-00:20:36,404 --> 00:20:51,583
-bonarum credulitas voluntatum. Nec vacillare illud, quod Deus omnes homines velit salvos fieri, et in agnitionem veritatis venire (I Tim II 4): quandoquidem inexcusabiles sint, qui et ad unius veri Dei cultum potuerint instrui intelligentia naturali, et Evangelium ideo non audierint, quia nec
+00:17:32,982 --> 00:17:43,904
+Abrenuntiatur etiam operibus ejus, quia opera
+illius contraria sunt operibus Salvatoris; et quia
+ille armis suis, id est vitiis, genus humanum sibi
+subjecit, Dominus armis suis, id est virtutibus,
+illum debellavit.
 
 100
-00:20:51,583 --> 00:21:06,865
-fuerint recepturi. 6. Pro universo autem humano genere mortuum esse Dominum nostrum Jesum Christum, et neminem prorsus a redemptione sanguinis ejus exceptum, etiamsi omnem hanc vitam alienissima ab eo mente pertranseat, quia ad omnes homines pertineat divinae misericordiae sacramentum: quo ideo
+00:17:43,904 --> 00:17:51,509
+In illius enim militia, id est peccatis
+nostrae servitutis permanens, accepit mortem:
+in istius militia, id est virtutibus, accipimus vitam
+aeternam.
 
 101
-00:21:06,865 --> 00:21:22,148
-plurimi non renoventur, quia quod nec renovari velle habeant praenoscantur. Itaque quantum ad Deum pertinet, omnibus paratam vitam aeternam; quantum autem ad arbitrii libertatem, ab his eam apprehendi, qui Deo sponte crediderint, et auxilium gratiae merito credulitatis acceperint. In istam vero
+00:17:51,509 --> 00:18:01,920
+Septem itaque principalia vitia,
+quibus diabolus genus humanum infestat, non incongrue
+opera Satanae dicere possumus; quibus
+opponuntur septem principales virtutes, quae opera
+sunt procul dubio salutaria.
 
 102
-00:21:22,148 --> 00:21:37,482
-talis gratiae praedicationem hi quorum contradictione offendimur, cum prius meliora sentirent, ideo se vel maxime contulerunt; quia si profiterentur ab ea omnia bona merita praeveniri, et ab ipsa ut possint esse donari; 6 necessitate concederent, Deum, secundum propositum et consilium voluntatis
+00:18:01,920 --> 00:18:13,250
+Nec minus interea
+pompis ejus abrenuntiatur, quae utique opera sunt
+Satanae: sed eo quasi discerni videntur a caeteris
+operibus ejus, quia in eis superbia, cujus ille auctor
+est, et quae eum dejecit, quodammodo designatur.
 
 103
-00:21:37,482 --> 00:21:42,611
-suae, occulto judicio, et opere manifesto, aliud vas condere in honorem, aliud in contumeliam (Rom.
+00:18:13,250 --> 00:18:19,732
+Pompae igitur ejus sunt, ambitio, arrogantia,
+vana gloria, et caetera hujusmodi quae de fonte
+superbiae procedere dignoscuntur.
 
 104
-00:21:42,611 --> 00:21:47,688
-IX,
-21); quia nemo nisi per gratiam justificetur, et nemo
-nisi in praevaricatione nascatur.
+00:18:19,732 --> 00:18:32,747
+Pompam enim,
+ambitionem sive jactantiam, et his similia intelligi
+debere propheticus sermo demonstrat cum
+dicit: Vae qui opulenti estis in Sion, et confiditis
+in monte Samariae, optimates, capita populorum,
+ingredientes pompatice domum Israel (Amos VI 1).
 
 105
-00:21:47,688 --> 00:22:03,232
-Sed refugiunt istud fateri, divinoque ascribere operi sanctorum merita formidant: nec acquiescunt praedestinatum electorum numerum nec augeri posse, nec minui, ne locum apud infideles ac negligentes cohortantium incitamenta non habeant, ac superflua sit industriae ac laboris indictio, cujus studium
+00:18:32,747 --> 00:18:42,954
+Sed et Clemens Prudentius, disertissimus atque
+Christianissimus poeta, in hac significatione pompam
+posuit in libro Psychomachia, ubi ait:
+Pompa ostentatrix vani splendoris inani
+Exuitur nudata peplo.
 
 106
-00:22:03,232 --> 00:22:05,051
-cessante electione frustrandum sit.
+00:18:42,954 --> 00:18:55,305
+Quamvis ergo omne peccatum superbia dici possit,
+quia quando quis peccat, Deo qui peccare prohibuit
+contraire videtur, aliud tamen est desidiose,
+aliud malitiose, aliud scienter, aliud ignoranter,
+aliud negligenter, aliud arroganter, peccare.
 
 107
-00:22:05,051 --> 00:22:15,241
-Ita demum enim posse unumquemque
-ad correctionem aut ad profectum vocari, si se
-sciat sua diligentia bonum esse posse, et libertatem
-suam ob hoc Dei auxilio juvandam, si quod Deus
-mandat elegerit.
+00:18:55,305 --> 00:19:07,248
+Quolibet
+autem modo quis peccet, si poenitere contemnit,
+in magnum se superbiae baratrum immergit,
+de quo non nisi per confessionem peccatorum suorum,
+et emendationem morum, et salutaris poenitentiae
+adminiculum egredi potest.
 
 108
-00:22:15,241 --> 00:22:30,733
-Ac sic cum in his qui tempus acceperunt liberae voluntatis, duo sint quae humanam operentur salutem, Dei scilicet gratia et hominis obedientia, priorem volunt obedientiam esse quam gratiam, ut initium salutis ex eo qui salvatur, non ex eo credendum sit stare qui salvat; et voluntas hominis divinae
+00:19:07,248 --> 00:19:15,294
+Duobus enim
+modis homo Deo superbit, cum aut praeceptis ejus
+inobediens existit, et ea quae prohibita sunt committit,
+aut commissa poenitere negligit.
 
 109
-00:22:30,733 --> 00:22:34,424
-gratiae sibi pariat opem, non gratia sibi humanam subjiciat voluntatem.
+00:19:15,294 --> 00:19:26,344
+Unde sive
+hi qui baptizandi sunt, sive nos qui baptismi sacramentum
+jam percepimus, ante oculos ponere
+debemus pactum, quod cum Deo in baptismate fit,
+ubi abrenuntiatur Satanae, et operibus ejus, et pompis.
 
 110
-00:22:34,424 --> 00:22:34,528
-7.
+00:19:26,344 --> 00:19:34,176
+Quod pactum tunc irritum fit, si aut in
+fide quis permanendo vitiis, aut a fide exhorbitando
+idolorum cultibus, aut haeresum erroribus
+subdatur.
 
 111
-00:22:34,528 --> 00:22:50,073
-Quod cum perversissimum esse revelante Dei misericordia, et instruente nos tua beatitudine, noverimus, possumus quidem ad non credendum esse constantes, sed ad auctoritatem talia sentientium non sumus pares: quia multum nos et vitae meritis antecellunt, et aliqui eorum adepto nuper summo sacerdotii
+00:19:34,176 --> 00:19:35,528
+XIII. De sacramento baptismi.
 
 112
-00:22:50,073 --> 00:22:57,819
-honore supereminent; nec facile quisquam, praeter paucos perfectae gratiae intrepidos amatores, tanto superiorum disputationibus ausus est contraire.
+00:19:35,528 --> 00:19:49,476
+Quia igitur constat pactiones credentium esse duas, unam in qua abrenuntiatur diabolo et pompis ejus, et omnibus operibus ejus, alteram qua se credere confitentur in Patrem et Filium et in Spiritum sanctum, oportet has inconvulsae mentis intentione teneri, et ut intemerate custodiri possint, illius
 
 113
-00:22:57,819 --> 00:23:12,480
-Ex quo non solum his qui eos audiunt,
-verum etiam ipsis qui audiuntur, cum dignitatibus
-crevit periculum, dum et multos reverentia eorum
-aut inutili cohibet silentio, aut incurioso ducit assensu;
-et saluberrimum ipsis videtur, quod pene
-nullius contradictione reprehenditur.
+00:19:49,476 --> 00:20:02,444
+semper adjutorium quaerere, qui baptismi sacramentum ad salutem generis humani contulit, cujus mysterium et in Veteri Testamento per Moysem praefiguratum est, cum populus in nube et in mari baptizatus est, et in Novo nobis per mediatorem Dei et hominem apertissime demonstratum.
 
 114
-00:23:12,480 --> 00:23:29,008
-Unde quia in istis Pelagianae pravitatis reliquiis non mediocris virulentiae libra nutritur, si principium salutis male in homine collatur; si divinae voluntati impie voluntas humana praefertur, ut ideo quis adjuvetur quia voluit, non ideo quia adjuvatur velit; si originaliter malus receptionem boni
+00:20:02,444 --> 00:20:08,415
+Ipse enim
+ait, quoniam Nisi quis renatus fuerit ex aqua et
+Spiritu sancto, non poterit introire in regnum coelorum
+(Joan III 3).
 
 115
-00:23:29,008 --> 00:23:45,095
-non a summo bono, sed a semetipso inchoare male creditur; si aliunde Deo placetur, nisi ex eo quod ipse donaverit: tribue nobis in hac causa, papa beatissime, pater optime, quantum juvante Domino potes, diligentiam pietatis tuae, ut quae in istis quaestionibus obscuriora , et ad percipiendum
+00:20:08,415 --> 00:20:22,035
+Et Joannes de eo ait: Ego
+baptizo in aqua in poenitentia; medius autem vestrum
+stat, quem vos nescitis, ipse vos baptizabit in
+Spiritu sancto et igni (Matth III 11; Joan I 26). Per hoc qui nascimur mundo, renascimur Deo;
+et qui per peccatum eramus filii irae, per gratiam
+efficimur filii Dei.
 
 116
-00:23:45,095 --> 00:23:48,896
-difficiliora sunt, quam lucidissimis expositionibus digneris aperire.
+00:20:22,035 --> 00:20:29,826
+Hac enim tinctione et hoc lavacro
+Ecclesia vegetatur. Ex osse dormientis protoplasti
+mulier aedificata est, ex latere Christi in
+cruce dormientis Ecclesia formata est.
 
 117
-00:23:48,896 --> 00:23:49,117
-7 8.
+00:20:29,826 --> 00:20:40,368
+Profluxerunt
+enim ex ejus latere sanguis et aqua, duo sanctae
+Ecclesiae praecipua sacramenta, ut in altero consecratio,
+in altero mundatio eidem tribueretur Ecclesiae. Regeneramur namque ex lavacro, ut consecramur
+et sanguine.
 
 118
-00:23:49,117 --> 00:24:05,535
-Ac primum, quia plerique non putant Christianam fidem hac dissensione violari, quantum periculi sit in eorum persuasione patefacias; deinde quomodo per istam praeoperantem et cooperantem gratiam liberum non impediatur arbitrium; tum utrum praescientia Dei ita secundum propositum maneat, ut ea ipsa
+00:20:40,368 --> 00:20:44,193
+Unde et populus mare Rubrum
+transiit, quia baptismus Christi sanguine consecratur.
 
 119
-00:24:05,535 --> 00:24:22,063
-quae sunt proposita, sint accipienda praescita: an per genera causarum et species personarum ista varientur; ut quia diversae sunt vocationes, in his qui nihil operaturi salvantur, quasi solum Dei propositum videatur existere; in his autem qui aliquid boni acturi sunt, per praescientiam possit stare
+00:20:44,193 --> 00:20:57,954
+Quia ergo elementum aquae in hoc mundo omnibus elementis purgandi, vivificandi, recreandi gratia aptius est, non immerito ei baptismi dignitas confertur, quia et regenerandorum hominum efficaciam, cum spiritus Dei in mundi primordio super id ferebatur, concipiebat, et purgandorum, cum ex latere
 
 120
-00:24:22,063 --> 00:24:38,481
-propositum: an vero uniformiter, licet dividi praescientia a proposito temporali distinctione non possit, praescientia tamen quodam ordine sit subnixa proposito; et sicut nihil sit quorumcumque negotiorum quod non scientia divina praevenerit, ita nihil sit boni, quod in nostram participationem non
+00:20:57,954 --> 00:20:59,820
+Christi proflueret, dignitatem capiebat.
 
 121
-00:24:38,481 --> 00:24:39,748
-Deo auctore defluxerit.
+00:21:00,240 --> 00:21:15,884
+Per hoc etenim visibile elementum res illa invisibilis
+signatur, ut sicut aqua purgatur exterius
+corpus, ita latenter ejus mysterio per Spiritum
+sanctum purificetur et animus. Invocato namque
+Deo descendit Spiritus sanctus de coelis et sanctificatis
+aquis tribuit eis vim purgationis.
 
 122
-00:24:39,748 --> 00:24:53,135
-Postremo
-quemadmodum per hanc praedicationem propositi
-Dei, quo fideles fiunt qui praeordinati sunt ad vitam
-aeternam, nemo eorum qui cohortandi sunt impediatur,
-nec occasionem negligentiae habeant, si se praedestinatos
-esse desperent.
+00:21:15,884 --> 00:21:30,481
+Inde
+homo ad imaginem reparatus sanctae Trinitatis, ad
+quam conditus fuerat expellitur, et qui vetus in
+eas per peccatum primi hominis intraverat, novus
+ex eis per Christi gratiam egreditur, et spiritu gratiae
+in melius immutatus, longe aliud quam fuerat efficitur.
 
 123
-00:24:53,135 --> 00:25:08,024
-Illud etiam qualiter diluatur, quaesumus patienter insipientiam nostram ferendo demonstres, quod retractatis priorum de hac re opinionibus, pene omnium par invenitur et una sententia, qua propositum et praedestinationem Dei secundum praescientiam receperunt; ut ob hoc Deus alios vasa honoris, alios
+00:21:30,481 --> 00:21:35,109
+Foedus enim erat deformitate peccatorum:
+ibi reducitur pulcher dealbatione virtutum.
 
 124
-00:25:08,024 --> 00:25:15,244
-contumeliae fecerit, quia finem uniuscujusque praeviderit, et sub ipso gratiae 8 adjutorio in qua futurus esset voluntate et actione praescierit.
+00:21:35,109 --> 00:21:48,164
+Nullatenus
+itaque baptismi mysterium perfici potest,
+nisi sub invocatione sanctae Trinitatis, quia et Dominus
+ad apostolos dixit: Ite, docete omnes gentes,
+baptizantes eos in nomine Patris, et Filii, et Spiritus
+sancti (Matth XXVIII 19).
 
 125
-00:25:15,244 --> 00:25:15,343
-9.
+00:21:48,164 --> 00:21:56,592
+Et idem Dominus hoc
+sacramentum firmavit, cum in suo baptismate Pater
+declaratus est in voce, Filius in corpore, Spiritus
+sanctus in columbae ostensione.
 
 126
-00:25:15,343 --> 00:25:29,833
-Quibus omnibus enodatis, et multis insuper, quae altiore intuitu ad causam hanc pertinentia magis potes videre, decussis, credimus et speramus non solum tenuitatem nostram disputationum tuarum praesidio roborandam, sed etiam ipsos, quos meritis atque honoribus claros caligo istius opinionis
+00:21:56,592 --> 00:22:09,923
+O praeclarum
+et admirabile sacramentum, quod de filiis irae facit
+filios Dei, de veteribus novos, de foedis pulchros,
+in quo et regeneramur, et purgamur, et exemplum
+mortis Christi imitamur. Quomodo ergo hoc exemplum
+imitemur dicat Apostolus.
 
 127
-00:25:29,833 --> 00:25:44,622
-obscurat, defaecatissimum lumen gratiae recepturos: nam unum eorum praecipuae auctoritatis et spiritalium studiorum virum, sanctum Hilarium Arelatensem episcopum, sciat beatitudo tua admiratorem sectatoremque in aliis omnibus tuae esse doctrinae, et de hoc quod in querelam trahit, jam pridem apud
+00:22:09,923 --> 00:22:24,961
+An ignoratis, inquit,
+quia quicunque baptizati sumus in Christo Jesu,
+in morte ipsius baptizati sumus? Consepulti ergo
+sumus cum illo per baptismum in morte, ut quemadmodum
+resurrexit Christus a mortuis per gloriam
+Patris, ita et nos in novitate vitae ambulemus
+(Rom VI 3).
 
 128
-00:25:44,622 --> 00:25:47,460
-sanctitatem tuam sensum suum per litteras velle conferre.
+00:22:24,961 --> 00:22:40,936
+Morimur ergo peccato, quando abrenuntiamus diabolo et omnibus quae ejus sunt; consepelimur Christo, cum sub invocatione sanctae Trinitatis sub trina mersione, in fonte lavacri quasi in quodam sepulcrum descendimus; consurgimus Christo, cum exuti omnibus peccatis, de fonte quasi de sepulcro
 
 129
-00:25:47,460 --> 00:25:59,858
-Sed quia utrum hoc facturus, aut quo fine
-sit facturus, incertum est, et omnium nostrum fatigatio,
-providente hoc praesenti saeculo Dei gratia,
-in tuae charitatis et scientiae vigore respirat: adde
-eruditionem humilibus, adde increpationem superbis.
+00:22:40,936 --> 00:22:41,487
+egredimur.
 
 130
-00:25:59,858 --> 00:26:13,004
-Necessarium et utile est etiam quae scripta sunt
-scribere, ne leve existimetur, quod non frequenter
-arguitur. Sanum enim putant esse quod non dolet;
-nec vulnus superducta cute sentiunt; sed intelligant
-perventurum ad sectionem, quod habuerit perseverantem
-tumorem.
+00:22:41,928 --> 00:22:56,643
+Sed neque
+mysterium trium dierum ac noctium, quibus in
+sepulcro Dominus fuisse legitur, praeteritur, cum
+invocata sancta Trinitate, quae utique vera lux
+est, in fontem descendimus. Lux est enim Pater,
+et in lumine ejus, quia est Filius, lumen videmus
+Spiritum sanctum.
 
 131
-00:26:13,004 --> 00:26:25,104
-Gratia Dei et pax Domini nostri
-Jesu Christi coronet te in omni tempore, et ambulantem
-de virtute in virtutem glorificet in aeternum,
-domine papa beatissime, ineffabiliter mirabilis, incomparabiliter
-honorande, praestantissime patrone.
+00:22:56,643 --> 00:23:13,060
+Facimus autem et tres noctes,
+cum tenebrarum et ignorantiae patri, una cum
+mendacio, quod ex eo natum est, et mendax est
+sicut et pater ejus, et cum loquitur mendacium,
+de suis propriis loquitur, contradicimus. Sed et
+tertio loco spiritum erroris destruimus, qui inspirat
+pseudoprophetas, ut dicant.
 
 132
-00:26:25,104 --> 00:26:40,276
-ADMONITIO
-IN EPISTOLAM S. PROSPERI AQUITANI AD RUFINUM
-De epistola ad Rufinum tria investigari possunt: 1o Quis iste Rufinus, ad quem data ista epistola; 2o quo
-tempore scripta fuerit; qua occasione et necessitate ad id S. Prosperum compellente.
+00:23:13,060 --> 00:23:27,282
+Haec dicit Dominus,
+quos Dominus non misit. Destruimus enim
+haec et conculcamus, si consepulti sumus Christo
+etiam secundum illud quod ipse dicit: Ecce dedi
+vobis potestatem calcandi super serpentes et scorpiones,
+et super omnem virtutem inimici (Luc. X,
+19).
 
 133
-00:26:40,276 --> 00:26:58,856
-De Rufino quidem quis ille fuerit, inter multos hujusce nominis circa haec tempora notos, non facile est
-decernere, nec ab ullo hactenus pro certo definitum reperimus. Erat certe hic S. Prospero nostro amicus, et ex
-his quos amicitia charitati spiritali innixa, pro amicorum salute sollicitos reddit.
+00:23:27,282 --> 00:23:32,937
+Quae singula ita sunt contraria sanctae Trinitati
+ut nox diei, ut tenebrae luci, ut mendacium
+veritati.
 
 134
-00:26:58,856 --> 00:27:01,457
-Unde cum ille de motis contra
-doctrinam S.
+00:23:32,937 --> 00:23:44,248
+Fons quoque baptismi similitudinem gerit
+sepulcri Christi, quod novum fuisse legitur: quia
+quicunque in eo consepelitur Christo et ei consurgit
+secundum eumdem Apostolum, in novitate vitae
+deambulare debet.
 
 135
-00:27:01,457 --> 00:27:19,664
-Augustini contentionibus confusos rumores audiisset, Prosperumque sibi amicissimum male apud plerosque audire cognovisset, veritus ne animae sibi charissimae salus periclitaretur, nec etiam inauditum praecipiti judicio damnare ausus, satius duxit ipsum litteris convenire, cum forte ab eo longo
+00:23:44,248 --> 00:23:57,921
+Cujus fontis septem gradus, tres
+in descensu tres noctes, et tres in ascensu tres
+dies significare videntur, de quibus superius dictum
+est. Septimus vero, qui et quartus, ille est
+de quo quidam ait: Et aspectus quarti similis filio
+Dei (Dan III 92).
 
 136
-00:27:19,664 --> 00:27:26,476
-locorum intervallo dissitus, id verbis praestare non posset, quas quidem communi amico deferendas commendavit.
+00:23:57,921 --> 00:24:11,977
+Qui fornacem ignis exstinguit,
+qui est stabilimentum pedum, fundamentum aquae;
+in quo, juxta Apostolum, Inhabitat omnis plenitudo
+divinitatis corporaliter (Coloss II 9). Idcirco autem
+baptismus non iteratur, quia et Christus non amplius
+quam semel moritur.
 
 137
-00:27:26,476 --> 00:27:35,023
-Nisi forte malueris
-proficiscenti amico in mandatis datum ut piam quam gerebat pro amico sollicitudinem coram ipse sine scripto
-exponeret.
+00:24:11,977 --> 00:24:21,312
+Peccata enim, quae
+post baptismum committuntur, poenitentiae lacrymis,
+eleemosynis, et caeteris bonorum operum exhibitionibus,
+non baptismatis iteratione delentur.
 
 138
-00:27:35,023 --> 00:27:51,311
-Neutrum enim pro certo elici videtur, sed alterutrum certe contigisse judicatur ex primis epistolae
-sancti Prosperi verbis: Accepi, inquit ille, per communem amicum fraternae erga me sollicitudinis tuae signa,
-et curam sincerissimae charitatis gratulanter agnovi.
+00:24:21,312 --> 00:24:38,025
+Dominico interea corpori sepeliendo mundissima linteamina et aromata adhibentur, quia et is qui Christo consepeliri desiderat, si jam aetas permittit, quamvis mortuus sit per originale peccatum, quod adhuc portat, debet tamen honorum operum exhibitione flagrare, et mundis indui vestibus, de quibus
 
 139
-00:27:51,311 --> 00:28:09,085
-Ac ne quid maligni rumores, in quantum se auribus tuis subtrahere nequeunt, formidinis tibi aut anxietatis inferrent, absolvere te ab omni scrupulo, quantum epistolari licuit sermone, curavi; in tantum studens omnia plenissima veritate tibi pandere, ut quia non potuisti in totum quae ab
+00:24:38,025 --> 00:24:43,185
+propheta sacerdotes indui orat cum dicit: Sacerdotes tui induantur justitiam (Psal CXXXI 9).
 
 140
-00:28:09,085 --> 00:28:16,702
-adversantibus disseminantur audire, per me ipsum queas, quidquid de nobis ad inanem invidiam fertur referturque cognoscere.
+00:24:43,185 --> 00:25:00,011
+Si ergo antequam renascatur, et originali peccato purgetur, et Christo consepeliatur, aromatibus debet fragrare, odorem praestare, et mundissimis vestibus indui, quanto magis renatus, purgatus, Christo convivificatus, in novitate vitae ambulans nova creatura effectus, et odoris fragrantia exuberare,
 
 141
-00:28:16,702 --> 00:28:25,991
-De tempore vero scriptionis hujus, hoc pro indubitato asseri fas est eam, vivente adhuc Augustino, sed ultimis
-tanti magistri annis exaratam.
+00:25:00,011 --> 00:25:02,927
+et candidorum vestimentorum clarescere debet nitore?
 
 142
-00:28:25,991 --> 00:28:40,098
-Quod certe indubitatum reddunt haec epistolae istius verba, Beatissimus quoque
-Augustinus, praecipua utique in hoc tempore portio Domini sacerdotum; et in fine epistolae: Ut praedicatio
-summi hoc tempore in Ecclesia viri, etc.
+00:25:03,096 --> 00:25:04,803
+XIV. Cur albis induitur vestibus.
 
 143
-00:28:40,098 --> 00:28:57,763
-Ultimos vero sancti doctoris vitae annos clare demonstrant insimulati
-Galli operum S. Augustini obtrectatores infamatoresque, quos maxime offendit lectio libri de Correptione et
-Gratia pro monachorum Adrumetinorum institutione et emendatione, circa annum Christi 426 aut 427 scripti.
+00:25:04,803 --> 00:25:20,325
+Ut ergo nos, qui mundo morimur, Christo consurgimus, bonorum operum nitore induamur, et coelestium gaudiorum spe confirmemur, decentissima ratione angelus, qui ejus resurrectionem nuntiat, in albis vestibus sedere describitur, et qui ejus reditum apostolis nuntiant in albis vestibus apparent, et nos
 
 144
-00:28:57,763 --> 00:28:59,448
-Hos autem ipsos depingit S.
+00:25:20,325 --> 00:25:35,692
+albis post baptismum induimur vestibus, ut munditiam teneamus in opere quam accepimus in regeneratione, servantes et nostram innovationem, et angelici splendoris decorem, et dentur nobis singulis stolae albae, spes videlicet immortalitatis et aeternae felicitatis, ut cum propheta dicere possimus:
 
 145
-00:28:59,448 --> 00:29:17,425
-Prosper, cum subdit: Huic, id est, beatissimo Augustino, inter tot certaminum palmas, inter tot triumphorum coronas, ad illuminationem Ecclesiae et ad gloriam Christi, qua ipse illustratus est praefulgenti, quidam nostrorum (quod de ipsis multum dolendum est) occultis, sed non incognitis
+00:25:35,692 --> 00:25:39,107
+Gaudens gaudebo in Domino, et exsultavit spiritus meus in Deo meo.
 
 146
-00:29:17,425 --> 00:29:19,173
-susurrationibus obloquuntur.
+00:25:39,107 --> 00:25:52,612
+Quia induit me vestimento salutis,
+et indumentum justitiae circumdedit me (Isa LXI 10). Ille vestimenta ista nos custodire faciat qui ea dedit,
+ut de nobis dici possit quod in Apocalypsi scriptum
+est: Beatus qui vigilat et custodit vestimenta sua
+(Apoc XVI 15).
 
 147
-00:29:19,173 --> 00:29:37,649
-Et prout sibi obnoxias aliquorum aures opportunasque repererint, scripta ejus, quibus error Pelagianorum impugnatur infamant: dicentes eum liberum arbitrium penitus submovere, et sub gratiae nomine necessitatem fatalem praedicare; adjicientes etiam duas illum humani generis massas, et duas credi
+00:25:52,612 --> 00:26:03,633
+Quia ergo omnia in baptismi ratione
+redolent mysteriis, et exuberant sacramentis,
+opportunum erat ut novus homo nova acciperet
+vestimenta et purgatus veteris noxae colluvione,
+candidarum vestium indueretur nitore.
 
 148
-00:29:37,649 --> 00:29:43,516
-velle naturas; ut scilicet tantae pietatis viro paganorum et Manichaeorum ascribatur impietas.
+00:26:03,633 --> 00:26:18,896
+Moyses enim Aaron et filios ejus prius aquis lavit, et post linteis induit vestimentis, quia et noster verus Moyses, qui populum de Aegyptiaca servitute, de gentilitatis videlicet errore liberat, qui est mediator Dei et hominum, sui nos inenarrabilis sacramenti unda purificat, et bonorum operum
 
 149
-00:29:43,516 --> 00:30:01,805
-Deinde vero Cassiani collationem decimam tertiam, quae est de protectione Dei, indigitare videtur cum ait:
-Volentes enim in sua justitia magis quam in Dei gratia gloriari, moleste ferunt quod his quae adversum
-excellentissimae auctoritatis virum inter multas collationes asseruere, resistimus.
+00:26:18,896 --> 00:26:19,880
+indumentis exornat.
 
 150
-00:30:01,805 --> 00:30:15,225
-Haec autem collatio cum
-Honorato Massiliensi cum aliis sex dicata legatur, ante annum 426, quo in episcopum Massiliensem assumptus
-est scripta esse convincitur. Haec autem occasio (ut jam insinuatum est) nata est S.
+00:26:19,880 --> 00:26:30,693
+Cujus facies, manifestatio videlicet divinitatis ejus,
+testimonio legis et prophetarum in monte Ecclesiae
+ut sol resplendet, et vestimenta ejus, id est sancti
+omnes, efficiuntur sicut lana alba, vel sicut nix.
 
 151
-00:30:15,225 --> 00:30:30,455
-Prospero scribendae hujus epistolae, cum Rufinus
-rumoribus ab inimicis doctrinae sancti Augustini contra ipsius Prosperi Augustini discipuli non occulti famam
-disseminatis, motum se significasset, seque ab hoc scrupulo absolvi optaret.
+00:26:30,693 --> 00:26:40,680
+Cui cum Apocalypsi gratias agamus, qui lavit nos
+a peccatis nostris in sanguine suo, et fecit nos regnum
+et sacerdotes Deo Patri suo, cui est gloria in saecula
+saeculorum (Apoc I 5 6).
 
 152
-00:30:30,455 --> 00:30:42,469
-Sanctus Prosper justis amici postulatis
-obtemperare satagens, plenius exponit, qui rumores ab inimicis doctrinae sancti Augustini spargerentur, et
-sub quo praetextu tanto doctori obloqui non vererentar.
+00:26:40,680 --> 00:26:48,240
+Hoc etenim regnum et
+sacerdotium, et visibili chrismatis unguento per
+ministerium sacerdotum, et invisibili Spiritus sancti
+gratia a Domino linitur.
 
 153
-00:30:42,469 --> 00:30:59,299
-Inter praecipuos autem Pelagianorum errores esse, Gratiam
-Dei secundum merita hominum dari; quo incolumi sibi principio, caetera dogmata sua facile resuscitabant. Primum quidem ipsos docuisse tantam humanae naturae esse sanitatem, ut per solum liberum arbitrium posset
-bonum implere.
+00:26:48,240 --> 00:26:50,469
+XV. Cur sacro chrismate caput perungitur.
 
 154
-00:30:59,299 --> 00:31:17,021
-Quod cum sanae doctrinae adversum omnino pateret, ab omnibusque explosum esset catholicis dogma, gratiam quidem ad incipiendum, proficiendum et perseverandum in bono necessariam professos esse; sed intellectum, hoc tantummodo eos de gratia Dei confiteri, quod haec velut quaedam libero arbitrio sit
+00:26:50,469 --> 00:27:06,239
+Cujus unguenti sacramentum a Moyse primum jubente Domino in Exodo legitur compositum, et in Novo Testamento a Domino veraciter declaratum, qui unctus est a Patre oleo laetitiae prae consortibus suis; cui non ad mensuram dat Deus spiritum, quoniam in ipso habitat omnis plenitudo divinitatis
 
 155
-00:31:17,021 --> 00:31:33,435
-magistra, seque per cohortationes, per legem, per doctrinam, per creaturarum contemplationem, per miracula, perque terrores extrinsecus judicio ejus ostendat, quo unusquisque secundum voluntatis suae motum, si quaesierit inveniat, si petierit recipiat, si pulsaverit introeat.
+00:27:06,239 --> 00:27:06,946
+corporaliter.
 
 156
-00:31:33,435 --> 00:31:50,563
-Unde sequatur gratiam secundum merita hominum dari, et
-proinde gratiam jam non esse gratiam. Hanc vero filiorum tenebrarum versutiam et Orientalium episcoporum
-judicio, et sedis apostolicae auctoritate, et Africanorum praesulum vigilantia fuisse manifestatam. S. Augustinum,
-quem dicit S.
+00:27:06,946 --> 00:27:17,115
+Ipsi enim Ecclesia dicit: Oleum effusum
+est nomen tuum, ideo adolescentulae dilexerunt
+te (Cant I 2); quia videlicet, et a chrismate Christi,
+et a Christo Christianorum nomen exortum est.
 
 157
-00:31:50,563 --> 00:32:08,286
-Prosper tunc fuisse praecipuam portionem Domini sacerdotum, hanc scriptis libris polemicis destruxisse, talemque haeresim omni ex parte debellasse; quosdam tamen inter catholicos in Galliis inveniri, qui doctrinam ejus librosque malignis rumoribus infamarent, dicentes eum liberum arbitrium penitus
+00:27:17,115 --> 00:27:32,559
+Ante adventum etenim ejus, reges solummodo ungebantur
+et sacerdotes, qui etiam Christi vocabantur:
+post adventum vero ejus, non jam solum
+reges et sacerdotes, sed omnis hac unctione consecratur
+Ecclesia, quia constat eam esse regnum et
+sacerdotium, et filios ejus reges et sacerdotes.
 
 158
-00:32:08,286 --> 00:32:15,363
-submovere, et sub nomine gratiae necessitatem praedicare fatatem, duas etiam ab ipso credi velle uno in homine naturas.
+00:27:32,559 --> 00:27:44,088
+Baptizatorum
+itaque capita chrismate liniuntur, ut in
+regno et sacerdotio Ecclesiae delibuti, et Christiani
+nominis praerogativam accipiant, et ejus membra
+qui eos redemit et eorum caput est, effici valeant.
 
 159
-00:32:15,719 --> 00:32:31,184
-Quae
-si ita se haberent, palam obsisterent, et noxios errores scriptis libris refellerent, non vero occultis susurris nocere
-tentarent viro illi, cujus doctrina Romanae Ecclesiae et Africanorum, immo et omnium toto orbe catholicorum
-doctrinae congrueret.
+00:27:44,088 --> 00:27:45,919
+XVI. Cur mystico tegitur velamine.
 
 160
-00:32:31,184 --> 00:32:49,449
-Ad hos ausus impelli hujusmodi homines, quod aegre ferrent iis resisti quae in suis Collationibus Augustinianae doctrinae adversa attulerant, nec ignotum ipsis, quod si talia in qualibet frequentia sacerdotum moverent, centenis sibi beatissimi Augustini voluminibus obviaretur; quibus abunde probatum
+00:27:45,919 --> 00:28:01,969
+Quia igitur idem Redemptor noster rex, cui per prophetam dicitur: Regnum tuum, Domine, regnum omnium saeculorum, et dominatio tua in omni generatione et generationem (Psal CXLIV 13), qui diabolum, mortem, et mundum mirifice triumphavit: et sacerdos, cui per eumdem prophetam dicitur: Tu es sacerdos
 
 161
-00:32:49,449 --> 00:32:57,485
-esset, in nullo alio gloriandum, cum boni aliquid operati sumus, quam in gratia Christi Domini, non vero in viribus liberi arbitrii.
+00:28:01,969 --> 00:28:17,749
+in aeternum secundum ordinem Melchisedech (Psal CIX 4), qui se Deo Patri in sacrificium obtulit: decentissimum est ut sancta ejus Ecclesia, quae utique corpus ejus est, et regnum sit et sacerdotium, et nos in ea regenerati, qui ejus membra sumus, reges simus et sacerdotes; reges, ut et contra
 
 162
-00:32:57,485 --> 00:33:09,844
-Sperare tamen se de misericordiae Dei divitiis (Ibid n 5), quod quos tunc libero falli arbitrio et ab
-humilitatis via evagari patiebatur, non usquequaque, neque in finem, esset intelligentia fraudaturus.
+00:28:17,749 --> 00:28:33,799
+diabolum viriliter dimicemus, et administrationem vitae nostrae admirabili dispensatione gubernemus: et sacerdotes, ut in templo Dei sancto quod sumus nos, altare fidei aedificantes, bonorum operum ei hostias pacificas offeramus, et cum Apostolo dicamus: Benedictus Deus et Pater Domini nostri Jesu
 
 163
-00:33:09,844 --> 00:33:27,318
-In hoc autem errabant illi (Ibid et num seqq ), quod virtutum bonorumque operum principia in naturali
-possibilitate statuerent; aut si haec a gratia fluere dicerent, hanc a bono aliquo opere aut ab aliqua bona voluntate
-fuisse praeventam, et talium merito concessam. Hujusmodi errorem S.
+00:28:33,799 --> 00:28:38,970
+Christi, qui benedixit nos in omni benedictione spiritali in caelestibus in Christo (Ephes I 3).
 
 164
-00:33:27,318 --> 00:33:44,122
-Prosper sedulo evertit, ex Scripturarum
-testimoniis probans, homini post lapsum nullas ad bonum superesse vires, nec ad merendum quidem, sine
-praevenientis gratiae auxilio: et a perditione quam Adae peccato incurrerunt homines solius Dei miserantis gratia
-gratuita erui posse.
+00:28:38,970 --> 00:28:47,534
+De
+quo altari fumus orationum nostrarum ei quotidie
+ascendat, juxta illud quod ait propheta: Dirigatur
+oratio mea sicut incensum in conspectu tuo (Psal CXL 2).
 
 165
-00:33:44,122 --> 00:33:57,090
-Quod efficit adducto infantium sine baptismo decedentium exemplo, et earum gentium ad
-quas hactenus salutis Evangelium nondum noscitur pervenisse. Gratia vero non negari liberum arbitrium, sed
-statui et reformari.
+00:28:47,534 --> 00:29:03,476
+Capita itaque eorum qui regenerantur ex aqua et Spiritu sancto mystico velamine teguntur, ut eis per Petrum dicatur: Vos estis genus electum, regale sacerdotium, gens sancta, populus acquisitionis (I Pet II 9); ut hoc velamine et diadema regium et sacerdotalis capitis velamentum significetur: et
 
 166
-00:33:57,090 --> 00:34:10,727
-Quod sibi relictum ad malum et ad lapsum dumtaxat homini sufficit, gratia vero sanandum
-est, qua aliter cogitare et agere ipsi inspiratur, sanitatemque suam, non sibi, sed medico suo acceptam referre
-docetur (Num 19).
+00:29:03,476 --> 00:29:19,310
+quia per caput mens plerumque in sacro eloquio accipi solet, juxta illud: Respicite et levate capita vestra (Luc XXI 28), mens renatorum et regiae dignitatis ornamenta, et sacerdotalis verticis habeat tegumentum, ut et contra vitia sacerdotali velamine muniatur, et virtutum gemmis spiritaliter
 
 167
-00:34:10,727 --> 00:34:24,242
-Tandem sanctus Prosper obductam Augustini doctrinae calumniarum nubem dissipat, qua
-fatum aut duplicem naturam inducere fingebatur. Nihil talibus erroribus proximum ab eo umquam scriptum
-contendit.
+00:29:19,310 --> 00:29:22,273
+exornetur, et unctione sacrosancti chrismatis liniatur.
 
 168
-00:34:24,242 --> 00:34:32,405
-Augustino aut discipulis ejus nihil quidquam fato contingere, sed omnia divinae providentiae ordinatione
-dirigi, docet.
+00:29:22,704 --> 00:29:34,536
+Quibus
+etiam septiformis gratiae spiritus per chrismatis
+unctionem conceditur, ut non solum spiritus, qui
+unius est cum Patre et Filio substantiae, sed totius
+sanctae Trinitatis habitaculum effici mereantur.
 
 169
-00:34:32,405 --> 00:34:52,848
-Nec duas ab illis statui naturas, unam bonam, malam alteram, sed unam omnino; quae cum creata esset recta, a rectitudine primi hominis peccato decidit, mortique aeternae facta est obnoxia: sed nova in Christo creatione reparandam, qui libertatem hominis reparando et continuis auxiliis praeveniendo
+00:29:34,536 --> 00:29:48,219
+XVII. Cur ab episcopo confirmatus per manus impositionem
+accipiat septiformis gratiae spiritum. Quod ergo presbyteris baptizatos chrismate unguere
+licet, Spiritum vero sanctum per manus impositionem
+tradere non licet, antiquus iste mos ab
+apostolis Ecclesiae est traditus.
 
 170
-00:34:52,848 --> 00:34:53,328
-salvat.
+00:29:48,219 --> 00:30:03,211
+Sic enim scribitur in Actibus Apostolorum: Factum est autem, cum Apollo esset Corinthi, ut Paulus peragratis superioribus partibus veniret Ephesum, et inveniret quosdam discipulos, dixitque ad eos: Si Spiritum sanctum accepistis credentes? At illi dixerunt ad eum: Sed neque si Spiritus sanctus est
 
 171
-00:34:53,328 --> 00:35:07,871
-Operi finem imponit (Num 20), Rufinum amicum exhortando ut Augustini disputationibus cognoscendis
-curam impendat, si vere de sana circa Dei gratiam doctrina instrui desideret sicut eum desiderare conveniebat.
+00:30:03,211 --> 00:30:03,714
+audivimus.
 
 172
-00:35:07,871 --> 00:35:12,527
-S. PROSPERI
-AQUITANI
-EPISTOLA AD RUFINUM. DE GRATIA ET LIBERO ARBITRIO.
+00:30:03,714 --> 00:30:14,731
+Ille vero ait:
+In quo ergo baptizati estis? Qui dixerunt: Joannis
+baptismate. Dixit autem Paulus: Joannes baptizavit
+baptismo poenitentiae populum, dicens, in eum qui
+venturus est post ipsum crederent, hoc est in Jesum.
 
 173
-00:35:12,527 --> 00:35:24,508
-Domino fratri dilectissimo in Christo, et merito
-venerabili RUFINO, PROSPER aeternam salutem
-dicit. 87 PROLOG. ---1. Accepi per communem amicum
-fraternae erga me sollicitudinis tuae signa, et curam
-sincerissimae charitatis gratulanter agnovi.
+00:30:14,731 --> 00:30:23,535
+His auditis, baptizati sunt in nomine Domini Jesu;
+et cum imposuisset illis manus Paulus, venit Spiritus
+sanctus super eos, et loquebantur linguis et prophetabant
+(Act XIX 1).
 
 174
-00:35:24,508 --> 00:35:38,716
-Ac ne quid maligni rumores, in quantum se auribus tuis subtrahere nequeunt, formidinis tibi aut anxietatis inferrent; absolvere te ab omni scrupulo, quantum epistolari licuit sermone, curavi: in tantum studens omnia plenissima veritate tibi pandere, ut quia non potuisti in totum quae ab
+00:30:23,535 --> 00:30:38,527
+Item in alio loco: Cum audissent
+apostoli qui erant Hierosolymis, quia recepit Samaria
+verbum Domini, miserunt ad eos Petrum et Joannem;
+qui cum venissent, oraverunt pro ipsis ut acciperent
+Spiritum sanctum. Nondum enim in quemquam illorum
+venerat, sed baptizati tantum erant in nomine
+Domini Jesu.
 
 175
-00:35:38,716 --> 00:35:44,756
-adversantibus disseminantur audire, per me ipsum queas quidquid de nobis ad inanem invidiam fertur referturque cognoscere.
+00:30:38,527 --> 00:30:41,847
+Tunc imponebant manus super illos
+et accipiebant Spiritum sanctum.
 
 176
-00:35:44,756 --> 00:35:54,608
-Sed insinuanda prius sanctitati tuae est
-qualitas quaestionis, de qua ista nascuntur: quo tibi
-magis pateat falsitas obloquentium et videas quam
-lucem quibus tenebris conentur obducere. CAP. I. ---2.
+00:30:41,847 --> 00:30:56,738
+Denique sciendum est, quia sicut caetera baptismatis sacramenta per sacerdotes visibiliter fiunt, per Deum invisibiliter consecrantur, ita nimirum et Spiritus sancti gratia per impositionem manuum et ministerium episcoporum fidelibus traditur: presbyteri vero, licet sint sacerdotes, pontificatus
 
 177
-00:35:54,608 --> 00:36:05,945
-Pelagiana igitur haeresis, quo dogmate
-catholicam fidem destruere adorta sit, et quibus
-impietatum venenis viscera Ecclesiae atque ipsa vitalia
-corporis Christi voluerit occupare, notiora sunt
-quam ut opere narrationis indigeant.
+00:30:56,738 --> 00:30:57,945
+tamen apicem non habent.
 
 178
-00:36:05,945 --> 00:36:12,381
-Ex his tamen
-una est blasphemia, nequissimum et subtilissimum
-germen aliarum, qua dicunt Gratiam Dei secundum
-merita hominum dari.
+00:30:57,945 --> 00:31:12,384
+Hoc autem solis pontificibus
+deberi, ut vel signent, vel paracletum Spiritum
+tradant, non solum consuetudo ecclesiastica demonstrat,
+verum etiam superior illa lectio Actuum
+Apostolorum, quae asserit Petrum et Joannem esse
+directos; qui jam baptizatis traderent Spiritum
+sanctum.
 
 179
-00:36:12,381 --> 00:36:27,233
-Cum enim primum tantam naturae humanae vellent astruere sanitatem Alias sanctitatem], ut per solum liberum arbitrium posset assequi Dei regnum: eo quod tam plene ipso conditionis suae praesidio juvaretur, ut habens naturaliter rationalem intellectum, facile bonum eligeret, malumque vitaret et ubi in
+00:31:12,384 --> 00:31:26,937
+Nam presbyteris, sive absentibus, sive
+praesentibus episcopis, baptizare et baptizatos chrismate
+ungere licet, sed quod ab episcopo fuerit
+consecratum: non tamen frontem ex eodem oleo
+signare, quod solis debetur episcopis cum tradunt
+Spiritum paracletum.
 
 180
-00:36:27,233 --> 00:36:32,728
-utraque parte libera essent opera voluntatis, non facultatem his qui mali sunt ad bonum 88 deesse, sed studium.
+00:31:26,937 --> 00:31:43,152
+Qui Spiritus paracletus septiformis
+etiam gratiae dicitur, propter septenarii numeri
+mysterium, in quo summa perfectio intelligitur. Est enim compositus ex toto primo pari, et ex
+toto primo impari: ex toto primo pari qui dividi
+potest, et ex toto primo impari, qui dividi non potest.
 
 181
-00:36:32,975 --> 00:36:48,345
-Cum ergo, ut dixi, totam justitiam hominis ex naturali vellent rectitudine ac possibilitate subsistere, atque hanc definitionem doctrina sana respueret; damnatum a catholicis sensum, et multis postea haereticae fraudis varietatibus coloratum, hoc apud se ingenio servaverunt, ut ad incipiendum, et ad
+00:31:43,152 --> 00:31:47,163
+Habet enim in ternario mysterium Trinitatis,
+in quaternario Evangelii.
 
 182
-00:36:48,345 --> 00:36:52,803
-proficiendum, et ad perseverandum in bono necessariam homini Dei gratiam profiterentur.
+00:31:47,163 --> 00:32:02,748
+Sive enim tres per quatuor,
+sive quatuor per tres multiplicentur, ad duodenarium
+numerum surgitur, quia mysterium sanctae
+Trinitatis, et doctrina Evangelii per XII apostolos
+in quatuor mundi partes, orientem videlicet et
+occidentem, septentrionem et meridiem derivata est.
 
 183
-00:36:52,803 --> 00:36:59,207
-CAP. II. ---3. Sed in hac professione, quo dolo
-vasa irae molirentur irrepere, ipsa Dei gratia vasis
-misericordiae revelavit.
+00:32:02,748 --> 00:32:16,442
+Hic enim numerus in sacro eloquio pro perfectione
+poni consuevit. Consummatis enim Deus operibus
+suis septimo die requievit, et Enoch, qui septimus
+est ab Adam, cum Domino ambulavit, et ejus translatio
+spem nobis aeternae requiei contulit.
 
 184
-00:36:59,207 --> 00:37:14,167
-Intellectum est enim, saluberrimeque perspectum, hoc tantum eos de gratia confiteri, quod quaedam libero arbitrio sit magistra, seque per cohortationes, per legem, per doctrinam, per creaturarum contemplationem, per miracula, perque terrores extrinsecus judicio ejus ostentet, quo unusquisque
+00:32:16,442 --> 00:32:32,084
+Unde et
+Jubilaeus annus, in quo plenaria requies signatur,
+septem hebdomadibus conficitur. Septies enim septem
+fiunt 49, qui monade addita nostrae adunationis
+impletur. Hujus numeri perfectionem propheta
+commendat cum dicit: Septies in die laudem dixi
+tibi (Ps CXVIII 164).
 
 185
-00:37:14,167 --> 00:37:19,495
-secundum voluntatis suae motum, si quaesierit, inveniat; si petierit, accipiat; si pulsaverit, introeat.
+00:32:32,084 --> 00:32:45,033
+Quod in alio psalmo quasi
+exponens aperit cum dicit: Semper laus ejus in ore
+meo (Psal XXXIII 2). Nam et Joannes in Apocalypsi
+sua, quod septem scribit ecclesiis, generaliter universae
+catholicae creditur scripsisse Ecclesiae.
 
 186
-00:37:19,495 --> 00:37:34,353
-Quia scilicet gratiae ipsius vocatio, hoc primum circa nos agat, ut nostrae facultatis arbitrium admoneat; nec aliud sit gratia, quam lex, quam propheta, quam doctor, cui circa omnes homines per universum mundum commune et generale sit studium, ut qui voluerint credant, et qui crediderint,
+00:32:45,033 --> 00:32:50,304
+Unde
+et ipse ait: Qui habet aures audiendi audiat quid
+Spiritus dicat Ecclesiis (Apoc II 7).
 
 187
-00:37:34,353 --> 00:37:46,495
-justificationem merito fidei et bonae voluntatis accipiant: ac sic gratia Dei secundum hominum meritum tribuatur: atque hoc modo gratia non sit gratia: quia si meritis redditur, et non ipsa est bonorum creatrix, frustra gratia nominatur.
+00:32:50,304 --> 00:33:04,056
+De septenario
+interea numero, qui in quibusdam Scripturae locis
+universitatem sive perfectionem, in quibusdam vero
+septiformis gratiae Spiritum significat, multa et in
+Veteri et in Novo Testamento habentur, quae persequi
+longum est.
 
 188
-00:37:46,495 --> 00:37:47,519
-CAP. III. ---4.
+00:33:04,056 --> 00:33:08,958
+Nunc videamus qualiter Isaias
+propheta ejusdem Spiritus septiformis dona enumeret.
 
 189
-00:37:47,519 --> 00:38:01,428
-Has autem versutias, quibus se filii 89 tenebrarum in similitudinem filiorum lucis transfigurare voluerunt, cum et Orientalium episcoporum judicia, et apostolicae sedis auctoritas, et Africanorum conciliorum vigilantia deprehenderit: beatissimus quoque Augustinus, praecipua utique in hoc tempore
+00:33:08,958 --> 00:33:26,715
+Cum enim de Christo, qui est virga virtutis Domini, prophetaret, ait: Egredietur virga de radice Jesse, et flos de radice ejus, ascendet, et requiescet super eum spiritus Domini, spiritus sapientiae et intellectus, spiritus consilii et fortitudinis, spiritus scientiar et pietatis, et replebit eum
 
 190
-00:38:01,428 --> 00:38:15,290
-portio Domini sacerdotum, copiose et pulchre, in multis voluminum disputationibus destruxit: utpote inter multa Dei dona, quibus illum abundantissime Spiritus veritatis implevit, habens etiam hanc scientiae et sapientiae ex Dei charitate virtutem, ut non solum istam adhuc in suis detruncationis
+00:33:26,715 --> 00:33:28,807
+spiritus timoris Domini (Isa XI 1).
 
 191
-00:38:15,290 --> 00:38:18,908
-palpitantem, sed etiam multas prius haereses invicto verbi gladio debellaret.
+00:33:28,807 --> 00:33:40,764
+Super hunc florem, qui de virga
+Jesse, id est beatae Mariae semper virginis partu egressus
+est, requievit spiritus Domini, quia in ipso complacuit
+omnem plenitudinem divinitatis habitare
+corporaliter.
 
 192
-00:38:18,908 --> 00:38:32,863
-Cui inter tot certaminum palmas, inter tot triumphorum coronas ad illuminationem Ecclesiae, et ad gloriam Christi, qua ipse illustratus est, perfulgenti, quidam nostrorum (quod de ipsis multum dolendum est) occultis, sed non incognitis susurrationibus obloquuntur; et prout sibi obnoxias aliquorum
+00:33:40,764 --> 00:33:52,423
+Nequaquam per partes, ut in caeteris
+sanctis, quibus alii datur sermo sapientiae, alii sermo
+scientiae, alii gratia virtutum, et caetera, quibus unicuique
+datur secundum mensuram, sed plenissime.
 
 193
-00:38:32,863 --> 00:38:42,167
-aures opportunasque repererint, scripta ejus, quibus error Pelagianorum impugnatur, infamant; dicentes eum liberum arbitrium penitus submovere, et sub gratiae nomine necessitatem praedicare fatalem.
+00:33:52,423 --> 00:34:05,994
+Unde et apostolus ait: Non ad mensuram dat Deus
+spiritum (Joan III 34); et propheta: Ecce puer meus
+quem elegi, electus meus in quo complacuit animae
+meae. Ponam spiritum meum super eum, judicium
+gentibus proferet (Isa XLII 1).
 
 194
-00:38:42,167 --> 00:38:49,732
-Adjicientes etiam,
-duas illum humani generis massas, et duas credi
-velle naturas: ut scilicet tantae pietatis viro paganorum
-et Manichaeorum ascribatur impietas.
+00:34:05,994 --> 00:34:23,871
+Ut enim in eo perpetua habitatione requiesceret, ad eum venit, juxta Joannis Baptistae testimonium, qui ait, Vidi Spiritum descendentem quasi columbam de caelo, et mansit super eum, et ego nesciebam illum, sed qui misit me baptizare in aqua, ille mihi dixit, Super quem videris Spiritum descendentem
 
 195
-00:38:49,732 --> 00:39:03,641
-Quae si vera sunt, cur ipsi tam negligentes, ne dicam tam impii, sunt, ut tam abruptam perniciem ab Ecclesia non repellant, tam insanis praedicationibus non resistant, nec saltem aliquibus scriptis eum, a quo talis emanat doctrina, conveniant? Magna enim gloria sua humano generi consuluerint, si
+00:34:23,871 --> 00:34:28,354
+et manentem super eum, ipse est qui baptizat in Spiritu sancto (Joan I 32).
 
 196
-00:39:03,641 --> 00:39:05,239
-Augustinum ab errore revocaverint.
+00:34:28,354 --> 00:34:45,394
+Qui
+spiritus Domini appellatur et spiritus sapientiae,
+quia de Christo, qui est sapientia Dei, scriptum est:
+Omnia per ipsum facta sunt, et sine ipso factum est
+nihil (Joan I 3); et in Psalmis canitur: Quam magnificata
+sunt opera tua, Domine, omnia in sapientia
+fecisti (Psal CIII 24).
 
 197
-00:39:05,567 --> 00:39:20,523
-Nisi forte modesti homines, novique censores, magnorum prius meritorum seni honorabiliter ac misericorditer parcunt, et securi quia libros ejus nemo usquam recipiat, conquiescunt; atque ignoverint, immo noverint, non solum Romanam Africanamque Ecclesiam, et per omnes mundi partes universos
+00:34:45,394 --> 00:34:54,960
+Et in alio loco, ubi Trinitas
+aperte monstratur, scriptum est: Verbo Domini coeli
+firmati sunt, et spiritu oris ejus omnis virtus eorum
+(Psal XXXII 6).
 
 198
-00:39:20,523 --> 00:39:35,890
-promissionis filios cum doctrina hujus viri, sicut in tota fide, ita in gratiae confessione congruere: sed etiam in his ipsis locis, in quibus adversus eum querimonia concitatur, esse, proprio Deo, plurimos, qui ad perceptionem evangelicae apostolicaeque doctrinae saluberrimis ejus disputationibus
+00:34:54,960 --> 00:35:10,363
+Quia per Christum, qui est Verbum Domini, id est Patris, de quo scriptum est, In principio erat Verbum (Joan I 1), coeli, videlicet sancti praedicatores, qui enarrant gloriam Dei, facti sunt, et Spiritu sancto, qui est eorum consubstantialis, qui ab utroque procedit, omnis virtus eorum; quia omnium
 
 199
-00:39:35,890 --> 00:39:40,944
-imbuuntur, et quotidie in membris corporis 90 Christi, in quantum ea ipse multiplicat, dilatantur.
+00:35:10,363 --> 00:35:13,814
+sanctorum ornatus et virtus Spiritus sancti inspiratione subsistit.
 
 200
-00:39:40,944 --> 00:39:47,442
-Si recte reprehendimur, cur non constanter
-arguimur? Si arguendi non sumus, cur occulta
-obtrectatione mordemur? CAP. IV. ---5.
+00:35:13,814 --> 00:35:23,241
+Et Apostolus scribit,
+Christus Dei virtus et Dei sapientia (I Cor I 24). Et
+in Proverbiis legitur, Deus in sapientia sua fundavit
+terram, et paravit coelos in prudentia (Prov III 19).
 
 201
-00:39:47,442 --> 00:40:01,881
-Sed quis nescit cur ista privatim
-de stomacho garriant, et publice de consilio conticescant? Volentes enim in sua justitia magis quam
-in Dei gratia gloriari, moleste ferunt quod his quae
-adversum excellentissimae auctoritatis virum, inter
-multas collationes asseruere, resistimus.
+00:35:23,241 --> 00:35:38,387
+Et quomodo idem sermo Domini vocatur lux et vita et resurrectio, sic spiritus sapientiae et intellectus, consilii et fortitudinis, et scientiae et pietatis ac timoris Domini nuncupatur; non quod diversus sit juxta differentias nominum, sed quod unus atque idem cunctarum virtutum fons sit atque
 
 202
-00:40:01,881 --> 00:40:11,060
-Nec dubitant,
-si quam hinc moverint quaestionem, in qualibet
-frequentia sacerdotum, in qualibet congregatione
-populorum, centenis sibi beatissimi Augustini
-voluminibus obviandum.
+00:35:38,387 --> 00:35:38,953
+principium.
 
 203
-00:40:11,060 --> 00:40:26,015
-Quae cum cordibus audientium
-manifestare coeperint potentissimam Christianae
-fidei veritatem, et de fontibus divini eloquii
-praesentium animos inundare, quis fidelium, quis
-piorum, recognitis et commendatis sibi salutis suae
-causis, amaritudinem istam volet fumosae recipere
-vanitatis?
+00:35:38,953 --> 00:35:46,063
+Absque Christo igitur nec sapiens quis esse potest,
+nec intelligens, nec consiliarius, nec fortis, nec eruditus,
+nec plenus timore Domini.
 
 204
-00:40:26,015 --> 00:40:42,631
-Ego quidem etiam hoc de divitiis misericordiae Dei spero, quod quos nunc libero falli arbitrio suo, et ab humilitatis via patitur evagari, non usquequaque neque in finem sit intelligentia fraudaturus; sed hunc ipsum in longinquiora progressum, ideo ab eo tardius revocari, ut opus gratiae ejus majore
+00:35:46,063 --> 00:36:01,260
+Et hoc sciendum est quod spiritus Domini, sapientiae et intellectus, consilii et fortitudinis, scientiae et pietatis, ac timoris Domini, id est, septenarius numerus, qui septem oculi in uno lapide dicuntur Zachariae (Zach III 9), requiescat super virgam et florem qui de Jesse, ac per hoc stirpe
 
 205
-00:40:42,631 --> 00:40:50,717
-gloria celebretur, cum sibi etiam adversantium corda subdiderit, quibus de virtutum studio exortum est periculum, et de morum probitate discrimen.
+00:36:01,260 --> 00:36:02,032
+David surrexit.
 
 206
-00:40:50,717 --> 00:41:04,064
-Non quia quisquam carere his debeat, sed quia miserrimus
-eorum usus est, cum ex naturali putantur
-facultate prodisse; aut ex largitate quidem gratiae,
-sed aliquo vel boni operis, vel bonae voluntatis merito
-praecedente venisse. CAP. V. ---6.
+00:36:02,032 --> 00:36:15,581
+Hunc enim spiritum,
+qui a Patre Filioque procedit, idem Dominus apostolis,
+et per apostolorum et eorum successorum ministerium
+sanctae suae tribuit Ecclesiae. Cujus dona,
+quanquam ex unius spiritus fonte procedant, videntur
+quodammodo quasdam habere proprietates.
 
 207
-00:41:04,064 --> 00:41:19,516
-Asserunt quidem haec quibusdam
-sanctarum Scripturarum testimoniis, sed non rationabiliter
-assumptis. Ad defensionem enim alicujus
-definitionis ea promenda sunt, quae alteri intellectui,
-a quo videtur definitio dissonare, non cedant, et eam
-regulam, cui sunt aptata, non deserant.
+00:36:15,581 --> 00:36:30,623
+Aliud
+enim est, sapere, aliud intelligere: quia multi aeterna
+quidem sapiunt, sed haec intelligere minime possunt. Sapientia ergo mentem, quam insederit, de aeternorum
+spe et certitudine replet: et intellectus, eo quod
+secreta penetrat, cor quod tetigerit, reficiendo ejus
+tenebras illustrat.
 
 208
-00:41:19,516 --> 00:41:36,076
-Dictum ergo
-aiunt libero arbitrio utentibus: Venite ad me, omnes
-qui laboratis et onerati estis, et ego vos reficiam: tollite
-jugum meum super vos, et discite a me quoniam mitis
-sum et humilis corde; et invenietis requiem animabus
-vestris: jugum enim meum suave est, et onus meum
-leve (Matth XI 28).
+00:36:30,623 --> 00:36:34,848
+Consilium, dum esse aliquem
+praecipitem prohibet, ratione animum replet.
 
 209
-00:41:36,076 --> 00:41:52,469
-Quod ad omnes homines volunt pertinere, laborantes in incerto istius vitae oneratosque 91 peccatis, ut qui voluerint mansuetudinem et humilitatem Salvatoris imitari, et jugum mandatorum ejus subire, inveniant requiem animabus suis in spe vitae aeternae; qui autem haec facere noluerint, sua culpa
+00:36:34,848 --> 00:36:47,291
+Fortitudo
+vero, cum adversa non metuit, trepidanti menti
+confidentiam praebet. Scientia, cum ignorantiam
+fugat, lumine suo quem repleverit illustrat. Pietas
+misericordiae operibus eum quem repleverit exuberare
+concedit.
 
 210
-00:41:52,469 --> 00:41:55,516
-careant salute; quam si voluissent, potuerant obtinere.
+00:36:47,291 --> 00:37:00,416
+Timor, dum premit mentem ne de
+praesentibus superbiat, de futuris illam spei refectione
+confortat. Sic enim quodam adminiculo suo
+invicem sibi succurrunt, ut dum alia aliae suffragatur,
+vitae ordo et status decentissime componatur.
 
 211
-00:41:55,516 --> 00:42:12,020
-Sed audiant et dictum a Domino libero arbitrio utentibus: Sine me nihil potestis facere (Joan XV 5); et, Nemo venit ad me, nisi Pater qui misit me, attraxerit eum (Joan VI 44); et, Nemo potest venire ad me nisi datum ei fuerit a Patre meo (Ibid 66); et, Sicut Pater vivificat mortuos, ita et Filius
+00:37:00,416 --> 00:37:12,121
+Minor quippe est sapientia si intellectu careat, et
+valde inutilis intellectus est si ex sapientia non subsistat:
+quia cum altiora sine sapientiae pondere
+penetrat, sua illum levitas gravius ruiturum levat.
 
 212
-00:42:12,020 --> 00:42:13,460
-quos vult vivificat (Joan.
+00:37:12,121 --> 00:37:28,883
+Vile est consilium, cui robur fortitudinis deest, quia
+quod tractando invenerit, carens viribus usque ad
+perfectionem operis non perducit. Et valde fortitudo
+destruitur, nisi per consilium fulciatur, quia quo
+plus se posse conspicit, eo virtus sine rationis moderamine
+deterius in praeceps ruit.
 
 213
-00:42:13,847 --> 00:42:30,794
-V, 21); et, Nemo novit Filium, nisi Pater, neque Patrem quis novit nisi Filius, et cui voluerit Filius revelare (Luc X 22). Quae omnia cum sint incommutabilia, et nequeant ulla interpretatione in sensum alium detorqueri, quis ambigat tunc liberum arbitrium cohortationi vocantis obedire, cum in illo
+00:37:28,883 --> 00:37:43,599
+Nulla est scientia,
+si utilitatem pietatis non habet: quia dum bona
+cognita exsequi negligit, sese ad judicium arctius
+stringit. Et valde inutilis est pietas, si scientiae discretione
+careat, quia dum nulla hanc scientia illuminat,
+quomodo misereatur ignorat.
 
 214
-00:42:30,794 --> 00:42:41,506
-gratia Dei affectum credendi obediendique generaverit? Alioquin sufficeret moneri hominem, non etiam in ipso novam fieri voluntatem, sicut scriptum est: Praeparatur voluntas a Domino (Prov.
+00:37:43,599 --> 00:37:53,997
+Timor quoque
+ipse, has etiam virtutes si non habuerit, ad nullum
+opus procul dubio bonae actionis surgit: qui dum
+ad cuncta trepidat, ipsa sui formidine a bonis omnibus
+torpens vacat.
 
 215
-00:42:41,506 --> 00:42:58,283
-VIII, 35, juxta LXX); et sicut ait Apostolus: Deus est enim qui operatur in vobis et velle et perficere, pro bona voluntate (Philip II 13). Pro qua bona voluntate, nisi quam in ipsis operatus est Deus, ut quod donaverat velle, donaret et facere. CAP. VI.---7. Dicunt etiam ad demonstrandam liberi
+00:37:53,997 --> 00:38:10,815
+Summopere itaque observandum est, et ipsius sancti Spiritus adjutorium implorandum, ne sapientia elevet; ne intellectus, dum subtiliter currit, aberret; ne consilium, dum se multiplicat, confundat; ne fortitudo, dum fiduciam praebet, praecipitet; ne scientia, dum novit et non diligit, inflet; ne
 
 216
-00:42:58,283 --> 00:43:14,719
-arbitrii facultatem, magnum in centurione Cornelio exstare documentum: eo quod ante gratiae perceptionem timens atque orans Deum, eleemosynis, et jejuniis, et orationi spontaneo studio fuerit intentus (Act X 2); atque ob hoc divino testimonio laudatus, donum regenerationis acceperit. Neque
+00:38:10,815 --> 00:38:17,747
+pietas, dum se extra rectitudinem inclinat, intorqueat; ne timor, dum plus justo trepidat, in disperationis foveam mergat.
 
 217
-00:43:14,719 --> 00:43:31,212
-intelligunt omnem illam praeparationem Cornelii per Dei gratiam fuisse collatam (Vide synodum Arausicanam infra). Siquidem cum sanctus Petrus per visionem omne genus animalium, de baptizando Cornelio, ac perinde de omnibus gentibus doceretur, atque ille immundum et indiscretum cibum Judaica
+00:38:17,747 --> 00:38:25,248
+Sciendum sane
+quod hae donorum spiritalium distributiones in corpore
+Christi, quod est Ecclesia, his fulciantur adminiculis.
 
 218
-00:43:31,212 --> 00:43:48,159
-observantia recusaret, trina ad eum vox facta est dicens, Quae Deus mundavit, tu ne commune dixeris (Act X 15). Quo satis aperte ostenditur omnia bona opera quae in Cornelio praecesserunt, Dei gratia ad emundationem ipsius inchoasse: ut cui Dominus jam impertierat hoc donum, non dubitaret Apostolus
+00:38:25,248 --> 00:38:32,324
+In eo vero qui est fons luminis et origo bonitatis,
+plene atque perfecte incomparabiliter atque
+ineffabiliter regnent.
 
 219
-00:43:48,159 --> 00:44:02,611
-conferre sacramentum, ne novae et necdum revelatae vocationis vacillaret exordium, nisi per ipsa indicia praecedentium studiorum, Deum in assumendis constaret operatum. Non enim omnium est fides (II Thess III 2); nec 92 omnes credunt Evangelio (Rom X 16).
+00:38:32,324 --> 00:38:50,075
+Sapientia namque, quae et in Virginis utero sibi corpus, et in mundo Ecclesiam aedificavit, habet spiritum sapientiae quo omnia sapienter agit; intelligentiae, qua cuncta arcana secretorum rimatur: consilii, quo cuncta cum magna dispensatione gerit, quia est magni consilii Angelus; fortitudinis,
 
 220
-00:44:02,951 --> 00:44:20,688
-Sed
-qui credunt, Dei aguntur Spiritu; qui non credunt,
-libero avertuntur arbitrio. Conversio ergo nostra
-ad Deum non ex nobis, sed ex Deo est: sicut Apostolus
-dicit, Gratia salvi facti estis per fidem, et hoc
-non ex vobis, sed Dei donum est; et non ex operibus,
-ne quis glorietur (Ephes II 8). CAP.
+00:38:50,075 --> 00:39:07,945
+quia attingit omnia a fine usque ad finem fortiter, et a nullo vinci potest: scientiae, quia nihil ignorat, exceptis his quibus dicturus est: Nescio vos (Matth XXV 12); pietatis, quia hominem quem bonitate creavit, justitia damnavit, pietate redemit; timoris, propter eos qui timore Domini indigent
 
 221
-00:44:20,688 --> 00:44:21,283
-VII. ---8.
+00:39:07,945 --> 00:39:09,025
+quia parvuli sunt.
 
 222
-00:44:21,283 --> 00:44:39,138
-Agnoscat se humana debilitas, et in primo homine universarum generationum damnata successio; et cum mortui vivificantur, cum caeci illuminantur, cum impii justificantur, confiteantur vitam, et lumen, et justitiam suam Jesum Christum; et qui gloriatur, in Domino glorietur (I Cor I 31), non in se: qui
+00:39:09,025 --> 00:39:14,842
+quibus per Prophetam dicit,
+Venite, filii, audite me, timorem Domini docebo vos
+(Psal XXXIII 12).
 
 223
-00:44:39,138 --> 00:44:45,447
-cum esset impius, et caecus, et mortuus, a liberatore suo gratis accepit et justitiam, et lumen, et vitam.
+00:39:14,842 --> 00:39:32,832
+Quia ergo ille ad infirma nostra descendens exinanivit semetipsum formam servi accipiens, humiliavit semetipsum usque ad mortem, et inclinavit semetipsum, ut nos jacentes ad se erigeret, non inconvenienter spiritus Domini, qui super eum requiescit, a sapientia incipit, et per decentissimos gradus ad
 
 224
-00:44:45,447 --> 00:45:03,183
-Non enim juste agebat, et aucta est justitia ejus; nec ad Deum gradiebatur, et confirmatus est cursus ejus; nec diligebat Deum, et inflammata est charitas ejus; sed cum esset sine fide, ac proinde impius, accepit Spiritum fidei, et factus est justus: Justus autem ex fide vivit (Rom I 17); et, Sine
+00:39:32,832 --> 00:39:34,272
+timorem usque descendit.
 
 225
-00:45:03,183 --> 00:45:14,849
-fide nemo potest placere Deo (Hebr XI 6); et, Omne quod non est ex fide, peccatum est (Rom. XIV, 23): ut scilicet intelligat justitiam infidelium non esse justitiam quia sordet natura sine gratia.
+00:39:34,632 --> 00:39:51,183
+Nos vero a timore, quem foras charitas mittit, venientes ad timorem castum qui permanet in saeculum saeculi, pervenimus ad pietatem, ut pietatis operibus exornati veniamus ad scientiam, non quae inflat, sed quam charitas aedificat; a scientia ad fortitudinem, ut scientiae decore exornati fortiter
 
 226
-00:45:14,849 --> 00:45:15,801
-CAP. VIII. ---9.
+00:39:51,183 --> 00:40:07,790
+contra vitia dimicemus: a fortitudine ad consilium, ut ea quae fortiter agimus, consilii gravitate muniamus: ut actibus nostris consilio obtemperatis, ad arcana intellectus intrantes, ad eam veniamus sapientiam, quae initium habet timorem Domini; ut sapienter omnia complentes, et intellectum bonum
 
 227
-00:45:15,801 --> 00:45:33,537
-Amissa quippe naturali innocentia, homo exsul ac perditus, ambulans sine via, profundiores intrabat errores; sed quaesitus, et inventus, et reportatus est, et in via quae veritas et vita est introductus; ac dilectione in Deum, qui illum non diligentem prior dilexit, ignitus est: sicut dicit beatus
+00:40:07,790 --> 00:40:24,175
+faciendo habentes, illi sapientiae admitti valeamus, per quam facta sunt omnia: quae et ante saecula a Patre ineffabiliter genita est, et in fine saeculorum carnem nostrae salutis causa dignata est accipere; quam carnem fidelibus suis edendam tribuit cum dixit: Nisi manducaveritis carnem filii
 
 228
-00:45:33,537 --> 00:45:51,095
-apostolus Joannes, Non quasi nos dilexerimus Deum, sed quoniam ipse dilexit nos (I Joan IV 10); et iterum, Nos ergo diligamus Deum, quoniam Deus prior dilexit nos (I Joan IV 19); et idem dicit, Charissimi, diligamus invicem, quoniam charitas ex Deo est; et omnis qui diligit ex Deo natus est, et
+00:40:24,175 --> 00:40:28,800
+hominis, et biberitis ejus sanguinem, non habebitis vitam in vobis (Joan VI 55 56).
 
 229
-00:45:51,095 --> 00:45:51,988
-cognoscit Deum.
+00:40:28,968 --> 00:40:42,061
+XVIII. Cur corpore et sanguine Dominico consummetur. Propter hanc vitam adipiscendam et baptizamur,
+et ejus carne pascimur, et ejus sanguine potamur,
+quia nequaquam possumus in ejus corpus transire,
+nisi his sacramentis imbuamur.
 
 230
-00:45:51,988 --> 00:45:56,927
-Qui non diligit, non novit Deum; quia Deus
-charitas est (I Joan IV 7 et 8).
+00:40:42,061 --> 00:40:52,524
+Sic enim ipse ait:
+Caro mea vere est cibus, et sanguis meus vere est potus
+(Joan VI 54); et: Qui manducat meam carnem
+et bibit meum sanguinem, in me manet et ego in illo
+(Joan VI 55).
 
 231
-00:45:56,927 --> 00:46:05,509
-Cui beatus Paulus
-congruit, dicens, In Christo Jesu, neque circumcisio,
-neque praeputium valet aliquid, sed fides quae per dilectionem
-operatur (Galat V 6).
+00:40:52,524 --> 00:41:09,163
+Est enim sacrificium salutare, quod et in Veteri Testamento Melchisedech rex Salem in typo corporis et sanguinis Domini obtulit, et in Novo idem mediator Dei et hominum antequam traderetur adimplevit, cum accipiens panem et calicem, et benedicens eis, et tradens discipulis suis, haec in sui
 
 232
-00:46:05,509 --> 00:46:19,425
-Unde habetur haec fides
-connexa charitati, nisi unde eam ipse monstrat acceptam,
-dicens, Quia vobis donatum est pro Christo,
-non solum ut in eum credatis, sed etiam ut pro ipso
-patiamini (Philip I 29). Quod utique fieri sine magna
-charitate non poterat.
+00:41:09,163 --> 00:41:10,935
+commemoratione fieri praecepit.
 
 233
-00:46:19,425 --> 00:46:25,366
-Et iterum, Charitas Dei diffusa
-est in cordibus nostris, per Spiritum sanctum qui datus
-est nobis (Rom V 5).
+00:41:10,935 --> 00:41:27,974
+Hoc ergo mysterium sacrificii, derelictis ac finitis veteribus hostiis, Ecclesia celebrat, offerens panem propter panem vivum qui de coelo descendit, vinum pro eo qui dixit, Ego sum vitis vera (Joan XV 1); ut per visibilem sacerdotum oblationem, et invisibilem sancti Spiritus consecrationem, panis
 
 234
-00:46:25,366 --> 00:46:41,538
-Sine qua charitate Apostolus quantam fidem quantamque scientiam, quas virtutes, quae studia, quos labores, 93 nihil prodesse testatur (I Cor 13)? Quia scilicet multa laudabilia atque miranda possunt in homine reperiri, quae sine charitatis medullis habent quidem pietatis similitudinem, sed non
+00:41:27,974 --> 00:41:31,519
+et vinum in corporis et sanguinis Domini transeant dignitatem.
 
 235
-00:46:41,538 --> 00:46:42,473
-habent veritatem.
+00:41:31,519 --> 00:41:41,925
+Cui sanguini
+admiscetur aqua, sive quia de latere Domini
+cum sanguine fluxit, sive quia, ut majores intelligi
+volunt, sicut per vinum Christus, ita et per aquam
+populus significatur.
 
 236
-00:46:42,473 --> 00:46:43,298
-CAP. IX. ---10.
+00:41:41,925 --> 00:41:49,416
+Vinum enim et aqua inseparabiliter
+in calice miscentur, quia et Ecclesia capiti
+suo Christo inseparabiliter juncta cohaeret.
 
 237
-00:46:43,298 --> 00:46:59,745
-Hoc ergo tanto et tam ineffabili bono, nemo inventus est dignus, sed quicumque electus est a Deo, factus est dignus: sicut dicit Apostolus (Coloss I 3), Gratias agentes Patri, qui dignos nos fecit in partem sortis sanctorum in lumine, qui eripuit nos de potestate tenebrarum, et transtulit in regnum
+00:41:49,416 --> 00:42:06,905
+Morem ergo accipiendae Eucharistiae a Domino traditum Ecclesia tenet, ut cum ex aqua et Spiritu sancto quis renascitur, corpore Domini pascatur, et sanguine ejus potetur: ut in corpore Christi trajecto, et ille in Christo maneat, et Christus in eo: ut istius cibi fortitudine roboratus, exemplo Eliae
 
 238
-00:46:59,745 --> 00:47:01,010
-Filii dilectionis suae.
+00:42:06,905 --> 00:42:24,160
+veniat usque ad montem Dei, Christum videlicet, qui est mons domus Domini praeparatus in vertice montium, et ejus dono ad aeternae beatitudinis gloriam peraccedat, ubi satietur in bonis desiderium ejus, et cum Propheta dicere possit: Ego autem cum justitia apparebo in conspectu tuo, satiabor cum
 
 239
-00:47:01,010 --> 00:47:15,477
-Et idem ad Timotheum
-(II Tim I 8): Conlabora, inquit, Evangelio
-secundum virtutem Dei, qui nos liberavit et vocavit
-vocatione sancta: non secundum opera nostra, sed secundum
-suum propositum, et gratiam, quae data est
-nobis in Christo Jesu ante tempora saecularia.
+00:42:24,160 --> 00:42:26,492
+manifestabitur gloria tua (Psal XVI 15).
 
 240
-00:47:15,477 --> 00:47:31,594
-Et ad Titum (Tit III 3): Eramus, inquit, et nos aliquando insipientes et increduli, errantes et servientes desideriis et voluptatibus variis, in malitia et invidia agentes, odibiles, odientes invicem: cum autem benignitas et humanitas apparuit Salvatoris nostri, non ex operibus justitiae quae
-
-241
-00:47:31,594 --> 00:47:34,784
-fecimus, sed secundum suam misericordiam salvos nos fecit.
-
-242
-00:47:35,279 --> 00:47:52,098
-Gratia igitur Dei quoscumque justificat, non ex bonis meliores, sed ex malis bonos facit; postea per profectum, ex bonis factura meliores; non adempto libero arbitrio, sed liberato: quod donec sine Deo solum fuit, mortuum fuit justitiae, vixitque peccato: ubi autem ipsum illuminavit misericordia
-
-243
-00:47:52,098 --> 00:48:02,837
-Christi, erutum est a regno diaboli, et factum est regnum Dei; in quo ut permanere possit, ne ea quidem facultate sufficit sibi, nisi inde accipiat perseverantiam, unde accepit industriam .
-
-244
-00:48:02,837 --> 00:48:03,632
-CAP. X. ---11.
-
-245
-00:48:03,632 --> 00:48:20,621
-Quoniam et ipsius sancti Petri ardentissima fides in tentationibus defecisset, nisi pro eo Dominus supplicasset: sicut Evangelista manifestat, dicens (Luc XXII 31 32): Dixit autem Jesus Petro, Simon, Simon, ecce Satanas postulavit ut vos cribaret velut triticum: ego autem rogavi pro te, ne deficiat
-
-246
-00:48:20,621 --> 00:48:26,530
-fides tua: et tu tandem conversus, confirma fratres tuos; et roga, ne intretis in tentationem (Ibid 40).
-
-247
-00:48:26,530 --> 00:48:43,235
-Et ut magis probaretur liberum arbitrium nihil posse sine gratia; cui dictum fuerat, Confirma fratres tuos, et roga, ne intretis in tentationem; quique responderat, utique ex libero arbitrio, Domine, tecum paratus sum et in carcerem, et in mortem ire (Ibid 33); eidem praedicitur quod priusquam
-
-248
-00:48:43,235 --> 00:48:45,565
-gallus cantet, ter Dominum negaturus sit.
-
-249
-00:48:45,565 --> 00:48:56,474
-Quod quid est aliud 94 quam quod in fide defecturus
-sit? Certe rogaverat pro eo Dominus ne deficeret
-fides ipsius: nec utique frustra rogaverat,
-cujus una erat cum eo quem rogaverat, operatio.
-
-250
-00:48:56,474 --> 00:49:08,519
-Sed ne libero arbitrio videretur stare qui de se
-magna promiserat, permittitur periclitari; ut conturbatum
-ac deficientem ille respiciat et reficiat,
-sine quo nemo consistit, nemo persistit. CAP. XI. ---12.
-
-251
-00:49:08,519 --> 00:49:24,084
-Ab hac autem confessione gratiae Dei, ideo quidam resiliunt, ne cum eam talem confessi fuerint, qualis divino eloquio praedicatur, et qualis opere suae potestatis agnoscitur, etiam hoc necesse habeant confiteri, quod ex omni numero hominum per saecula cuncta natorum, certus apud Deum, definitusque
-
-252
-00:49:24,084 --> 00:49:29,046
-sit numerus praedestinati in vitam aeternam populi, et secundum propositum Dei vocantis electi.
-
-253
-00:49:29,046 --> 00:49:41,268
-Quod quidem tam impium est negare,
-quam ipsi gratiae contraire. Neque enim remotum
-est ab inspectione communi quot saeculis quam innumera
-hominum millia erroribus suis impietatibusque
-dimissa, sine ulla veri Dei cognitione defecerint.
-
-254
-00:49:41,268 --> 00:49:56,937
-Sicut etiam in Actibus Apostolorum, Pauli et Barnabae verba declarant, dicentium Licaoniis (Act XIV 14): Viri fratres, quid haec facitis? Et nos mortales sumus, similes vobis homines, annuntiantes vobis ut ab his vanis convertamini ad Deum vivum, qui fecit coelum et terram, mare et omnia quae in eis
-
-255
-00:49:56,937 --> 00:50:01,115
-sunt; qui in praeteritis generationibus, dimisit omnes gentes ingredi vias suas.
-
-256
-00:50:01,115 --> 00:50:09,106
-Et quidem non sine testimonio
-semetipsum relinquens, benefaciens eis, de coelo
-dans pluviam et tempora fructifera, implens cibo et
-laetitia corda vestra.
-
-257
-00:50:09,106 --> 00:50:24,514
-Cum utique si eis vel naturalis intelligentia, vel usus beneficiorum Dei ad capessendam vitam aeternam sufficere potuisset, nostro etiam tempore rationalis nos contemplatio, et temperies aeris, et fructum copia, ciborumque salvaret: quia scilicet melius natura utentes, Creatorem nostrum propter
-
-258
-00:50:24,514 --> 00:50:26,238
-quotidiana ipsius dona coleremus.
-
-259
-00:50:26,238 --> 00:50:39,661
-CAP. XII. ---13. Sed absit ab animis piorum et
-Christi sanguine redemptorum stulta nimium et
-perniciosa persuasio. Naturam humanam non liberat
-extra unum mediatorem Dei et hominum, hominem
-Christum Jesum (I Tim II 5); sine illo nemini
-salus est (Act IV 12).
-
-260
-00:50:39,661 --> 00:50:44,831
-Sicut ipse fecit nos, et
-non ipsi nos (Psal XCIX 3); ita ipse reficit nos,
-et non ipsi nos.
-
-261
-00:50:44,831 --> 00:51:01,289
-Ac ne sibi facultas hominis pretium reparationis hujus, vel post restitutionem sui, per opera videretur justitiae repensare; effuderunt 95 se divitiae bonitatis Dei in ipsa quorumdam primordia parvulorum; in quibus nec praecedens eligitur, nec secutura devotio; non obedientia, non discretio, non
-
-262
-00:51:01,289 --> 00:51:01,789
-voluntas.
-
-263
-00:51:01,789 --> 00:51:18,191
-De his enim loquor qui mox ut nati
-sunt renascuntur, et rapti ab hac vita aeternae beatitudini
-deputantur; cum tamen innumerabilis multitudo,
-ejusdem naturae, ejusdem conditionis infantium,
-sine regeneratione decedat, de qua dubitari
-non potest quod partem in Dei civitate non habeat. CAP. XIII.
-
-264
-00:51:18,191 --> 00:51:18,525
----14.
-
-265
-00:51:18,525 --> 00:51:35,149
-Et ubi est illud quod nobis quasi contrarium a non intelligentibus semper opponitur , quod Deus omnes homines velit salvos fieri, et ad agnitionem veritatis venire (I Tim II 4)? Numquid non sunt de omnibus hominibus qui a praeteritis generationibus usque in hoc tempus sine Dei cognitione perierunt?
-
-266
-00:51:35,149 --> 00:51:51,718
-Et si majoribus natu (quod non recte dicitur) mala opera quae libero arbitrio commiserant obfuerunt, quasi boni, non mali gratia liberentur, inter salvatos parvulos et non salvatos parvulos, quae meritorum potuit esse discretio? quid istos introduxit in regnum Dei? quid istos exclusit a Dei regno?
-
-267
-00:51:51,718 --> 00:52:03,672
-Equidem si meritum consideres, non una pars salvari meruit, sed utraque damnari: quia omnibus in Adae praevaricatione prostratis, nisi quosdam assumeret misericors gratia, maneret super universos inculpata justitia.
-
-268
-00:52:03,672 --> 00:52:20,018
-Quae autem sit discretionis istius in secreto consilio Dei causa vel ratio, et supra facultatem humanae cognitionis inquiritur, et sine fidei diminutione nescitur: modo confiteamur neminem immerito perdi, neminem merito liberari, et omnipotentissimam Domini bonitatem omnes salvare, et omnes ad
-
-269
-00:52:20,018 --> 00:52:25,244
-agnitionem veritatis imbuere, quos vult omnes fieri salvos, et ad agnitionem veritatis venire.
-
-270
-00:52:25,244 --> 00:52:30,359
-Nisi enim ipso vocante, docente,
-salvante, nemo venit, nemo eruditur, nemo salvatur.
-
-271
-00:52:30,359 --> 00:52:42,809
-Quia etsi indifferenter omnibus hominibus jubentur
-praedicare doctores, et semen verbi ubique
-disserere; tamen neque qui plantat, neque qui rigat
-est aliquid, sed qui incrementum dat Deus
-(I Cor III 7). CAP. XIV. ---15.
-
-272
-00:52:42,809 --> 00:52:58,272
-Unde cum apostoli gentibus
-Evangelium praedicare coepissent, de parte quadam
-eorum qui audierant, Scriptura commemorat, dicens,
-Audientes autem gentes gavisae sunt, et glorificabant
-verbum Domini, et crediderunt quotquot
-erant praeordinati ad vitam aeternam (Act XIII 48).
-
-273
-00:52:58,272 --> 00:53:11,347
-Et alibi, cum multae mulieres audirent Paulum docentem:
-Quaedam, inquit, mulier nomine Lydia, purpuraria
-civitatis Tyatirorum, colens Deum, audivit,
-cujus Dominus aperuit cor ut intenderet his quae dicebantur
-a Paulo (Act XVI 14).
-
-274
-00:53:11,347 --> 00:53:28,173
-Et rursum eo ipso tempore, quo 96 ad omnes gentes praedicatio Evangelii mittebatur, quaedam loca Apostoli adire prohibentur ab eo qui vult omnes homines salvos fieri et ad agnitionem veritatis venire: multis utique in illa retardatis atque aversis Evangelii mora, sine agnitione veritatis et sine
-
-275
-00:53:28,173 --> 00:53:30,390
-regenerationis consecratione morituris.
-
-276
-00:53:30,390 --> 00:53:44,545
-Dicat ergo
-Scriptura quod gestum est: Transeuntes autem, inquit,
-Phrygiam et Galatiae regionem, vetiti sunt a
-sancto Spiritu loqui verbum in Asia. Cum venissent
-autem in Mysiam, tentabant ire in Bithyniam, et non
-permisit illos Spiritus Jesu (Ibid).
-
-277
-00:53:44,545 --> 00:54:01,259
-Quid autem mirum,
-si inter ipsa evangelicae praedicationis exordia,
-non poterant ire apostoli nisi quo eos Spiritus Dei
-ire voluisset; cum videamus plerasque gentes modo
-primum Christianae gratiae fieri coepisse participes,
-alias autem nullum adhuc odorem boni istius
-attigisse? CAP. XV. ---16.
-
-278
-00:54:01,259 --> 00:54:17,687
-An dicendum est, voluntati Dei
-humanas obsistere voluntates, et tam feros tamque
-intractabiles horum hominum esse mores, ut Evangelium
-ideo non audiant, quia praedicationi impia
-corda non pateant? Et quis istis corda mutavit,
-nisi qui finxit singillatim corda eorum (Psal. XXXII,
-15)?
-
-279
-00:54:17,687 --> 00:54:34,109
-Quis hujus rigoris duritiem ad obediendi mollivit affectum, nisi qui potens est de lapidibus Abrahae filios excitare (Matth III 9)? Et quis dabit praedicantibus intrepidam illaesamque constantiam, nisi ille qui ait Paulo, Noli timere, sed loquere, et ne taceas; propter quod ego sum tecum, et nemo
-
-280
-00:54:34,109 --> 00:54:50,531
-apponetur tibi ut noceat te, quoniam populus est mihi multus in hac civitate (Act XVIII 9)? Puto autem quod nemo audeat dicere ullam mundi gentem, ullam terrae praetermittendam esse regionem, in qua non sint Ecclesiae tabernacula dilatanda, dicente Deo ad Filium, Postula a me, et dabo tibi gentes
-
-281
-00:54:50,531 --> 00:55:06,676
-haereditatem tuam, et possessionem tuam terminos terrae (Psal. II, 8); et iterum, Reminiscentur et convertentur ad Dominum universi fines terrae, et adorabunt in conspectu ejus omnes patriae gentium (Psal XXI 28): dicente quoque ipso Domino, Praedicabitur hoc Evangelium in universo mundo, in
-
-282
-00:55:06,676 --> 00:55:10,326
-testimonium omnibus gentibus, et tunc veniet finis (Matt XXIV 14).
-
-283
-00:55:10,326 --> 00:55:17,956
-Quaecumque ergo
-gentes nondum audierunt, audient Evangelium, et
-credent quotquot ex eis praeordinati sunt in vitam aeternam
-(Act XIII 48).
-
-284
-00:55:17,956 --> 00:55:31,724
-Non enim alii venient in consortium
-haereditatis Christi, quam qui ante constitutionem
-mundi electi sunt, et praedestinati atque praesciti,
-secundum propositum ejus qui omnia operatur
-secundum consilium voluntatis suae (Ephes I 11). CAP. XVI. ---17.
-
-285
-00:55:31,724 --> 00:55:39,852
-Confiteamur igitur opera Domini,
-et glorificemus misericordias ejus, nec impatienter
-feramus quod quae aut quanta sint electionis vasa
-non novimus.
-
-286
-00:55:39,852 --> 00:55:56,163
-Quia et in anterioribus saeculis, quando de 97 unius gentis populo dicebatur, Notus in Judaea Deus, in Israel magnum nomen ejus (Psal. LXXV, 2); futura gentium latebat electio; et postmodum innotuit quod revelatum ante non fuerat: sicut dicit Apostolus, Quod aliis generationibus non est agnitum
-
-287
-00:55:56,163 --> 00:56:06,668
-filiis hominum, sicut nunc revelatum est sanctis apostolis ejus et prophetis in Spiritu, esse gentes cohaeredes, et concorporales, et comparticipes promissionis in Christo Jesu (Ephes I 11).
-
-288
-00:56:07,055 --> 00:56:15,314
-Et in Actibus
-apostolorum, Obstupuerunt, inquit, ex circumcisione
-fideles qui venerant cum Petro, quia et in nationes
-gratia Spiritus sancti effusa est (Act X 45).
-
-289
-00:56:15,314 --> 00:56:30,158
-Si enim hoc consilium vocationis suae Dominus, quamdiu voluit, abscondit ac distulit, et quando voluit, revelavit, sanctisque ejus ignorantia ista non nocuit, cur spei nostrae obesse credimus, si in quo numero quibusve hominibus vasa misericordiae in gloriam praeparantur, occulitur? cum tamen
-
-290
-00:56:30,158 --> 00:56:36,998
-constet regnum coelorum omnes ingressuros bonos, hoc eis donante Dei gratia, et nullos ingressuros malos, hoc ipsorum merente nequitia.
-
-291
-00:56:36,998 --> 00:56:44,446
-CAP. XVII. ---18. Nimium vero inepte, nimiumque
-inconsiderate ab adversantibus dicitur quod per
-hanc Dei gratiam libero nihil relinquatur arbitrio.
-
-292
-00:56:44,446 --> 00:56:59,645
-Quamvis enim in parvulis baptismum transeuntibus, manifestissime nullum opus nullusque appetitus eorum voluntatis existat, et plerosque utentes quidem libero arbitrio, sed aversos a vero Deo, vitamque in flagitiis exigentes liberatrix regeneratio in ipso exhalandi spiritus fine sanctificet, tamen si
-
-293
-00:56:59,645 --> 00:57:11,804
-eam filiorum Dei partem quae ad pietatis opera reservatur, pio consideremus intuitu, nonne in eis non peremptum inveniemus liberum arbitrium, sed renatum? Quod utique cum solum esset, sibique permissum, non nisi in suam perniciem movebatur.
-
-294
-00:57:11,804 --> 00:57:14,996
-Ipsum enim
-se excaecaverat, et ipsum se illuminare non poterat.
-
-295
-00:57:14,996 --> 00:57:30,144
-Nunc autem idem arbitrium conversum est, non eversum, et donatum est ei aliter velle, aliter sapere, aliter agere, et incolumitatem suam non in se, sed in medico collocare: quia necdum tam perfecta utitur sanitate ut ea, quae ei nocuerant, nequeant jam nocere, aut ab insalubribus possit jam viribus
-
-296
-00:57:30,144 --> 00:57:30,904
-suis temperare.
-
-297
-00:57:30,904 --> 00:57:46,104
-Proinde homo qui in libero arbitrio fuit malus, in ipso libero arbitrio factus est bonus; sed per se malus, per Deum bonus; qui eum ita in illum initialem honorem alio initio reformavit, ut ei non solum culpam malae voluntatis et actionis 98 remitteret, sed etiam bene velle, bene agere, atque in his
-
-298
-00:57:46,104 --> 00:57:47,016
-permanere donaret.
-
-299
-00:57:47,471 --> 00:57:54,645
-Omne enim,
-inquit apostolus Jacobus, datum optimum, et omne
-donum perfectum desursum est, descendens a Patre luminum
-(Jacob I 17).
-
-300
-00:57:54,645 --> 00:58:11,143
-Qui quale sit liberum arbitrium quod humano spiritu agitur, et quale sit quod a Deo regitur, evidenter ostendit, dicens, Quod si zelum amarum habetis, et contentiones in cordibus vestris, nolite gloriari adversum veritatem, et mendaces esse; non est ista sapientia de sursum descendens, sed terrena,
-
-301
-00:58:11,143 --> 00:58:12,247
-animalis, diabolica.
-
-302
-00:58:12,247 --> 00:58:26,428
-Ubi enim zelus et contentio,
-ibi inconstantia et omne opus pravum. Quae autem desursum
-est sapientia, primum quidem pudica est, deinde
-pacifica, modesta, suadibilis, plena misericordia
-et fructibus bonis, non dijudicans, sine simulatione
-(Jacob III 14 etc).
-
-303
-00:58:26,428 --> 00:58:41,933
-Quicumque ergo his virtutibus
-student atque inhaerent, non sua, sed superna
-sapientia illustrati sunt: Quoniam Dominus dat sapientiam,
-et a facie ejus scientia et intellectus (Prov I 6). Et haec eorum verissima gloria est, si non in
-se, sed in Domino gloriantur. CAP. XVIII. ---19.
-
-304
-00:58:41,933 --> 00:58:58,156
-Ea autem quae de fato et de duabus massis duabusque naturis, stultissimo mendacio, in tanti viri injuriam jactitantur, neque ipsum quidem onerant, in cujus libris copiosissime hujusmodi destruuntur errores; nec nos perturbant, qui tales opiniones cum suis auctoribus exsecramur (Vide Aug lib II
-
-305
-00:58:58,156 --> 00:59:02,791
-contra duas epist Pelag c 6 et 7 ac lib IV contra Julian c 8 infra append parte II).
-
-306
-00:59:02,791 --> 00:59:19,235
-Sed videant quomodo se a dedecore istius exuant falsitatis, qui possunt tam inepta confingere, si hi quorum abutuntur auribus, aliquantulum diligentiae ad cognoscenda ea quae praestantissimus minister gratiae disputavit, intenderint: licet omnem istius inquisitionis moram ipsi, qui haec loquuntur,
-
-307
-00:59:19,235 --> 00:59:29,277
-praevenire deberent, proferendo atque explicando libros, ullamve eorum particulam demonstrando, quam per dubium saltem intellectum tali interpretationi obnoxium vir sanctus ediderit.
-
-308
-00:59:29,663 --> 00:59:47,530
-Sed prorsus nihil tale apud nos audierunt, nihil tale legerunt: quia non fato quidquam geri, sed omnia Dei judicio novimus ordinari, nec ex duabus massis duabusve naturis, sed ex una massa, quae est caro primi hominis, unam scimus omnium hominum creatam crearique naturam, et eamdem per ipsius primi
-
-309
-00:59:47,530 --> 01:00:04,918
-hominis liberum arbitrium, in quo omnes peccaverunt (Rom V 22), esse prostratam; nec ullo modo ab aeternae mortis debito liberam, nisi eam ad imaginem Dei secundae creationis Christi gratia reformaverit, liberumque ejus arbitrium agendo, aspirando, 99 auxiliando, et usque in finem praeeundo
-
-310
-01:00:04,918 --> 01:00:05,575
-servaverit.
-
-311
-01:00:05,575 --> 01:00:06,531
-EPILOGUS. ---17.
-
-312
-01:00:06,531 --> 01:00:24,098
-Unde quia perspicit sanctitas tua (si tamen sermonis mei non obsistit obscuritas) frustra quosdam de nobis conqueri, et omnes illas ineptas criminationes, ad exasperandos avertendosque animos eorum quibus aliud volunt persuadere, contexi: confide ergo in virtute misericordiae Dei, quoniam haec
-
-313
-01:00:24,098 --> 01:00:35,451
-contradictio, sicut in aliis mundi partibus, ita et in his regionibus conquiescet: ut praedicatio summi hoc tempore in Ecclesia viri, etiam ab his a quibus ad praesens repellitur, adjuvetur.
-
-314
-01:00:35,451 --> 01:00:53,018
-Tu autem, dilectissime et venerandissime mihi frater, si vere de his quaestionibus instrui desideras, sicut desiderare te convenit, ipsis beati Augustini disputationibus cognoscendis impende curam, ut in confitenda Dei gratia defaecatissimam ac saluberrimam evangelicae apostolicaeque doctrinae
-
-315
-01:00:53,018 --> 01:00:54,632
-intelligentiam consequaris.
-
-316
-01:00:54,632 --> 01:01:02,399
-Gratia Dei et pax Domini nostri
-Jesu Christi custodiat te in omni tempore, et per
-viam veritatis dirigat in vitam aeternam.
+00:42:26,492 --> 00:42:43,224
+Ecce, vir venerabilis, quod prudenter jussisti,
+humiliter implevi, deprecans sanctitatem vestram,
+ut cum de his interrogationibus altiores responsiones
+inveneritis, illis adhibitis, istas non rejiciatis, dummodo
+apostolica auctoritate omnia sunt probanda,
+et quae bona sunt retinenda.
 
