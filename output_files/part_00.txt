@@ -1,0 +1,1510 @@
+<h2><center><font color="White">Volume front matter</font></center></h2>
+PATROLOGIAE CURSUS COMPLETUS
+SIVE BIBLIOTHECA UNIVERSALIS, INTEGRA, UNIFORMIS, COMMODA, OECONOMICA,
+OMNIUM SS. PATRUM, DOCTORUM SCRIPTORUMQUE ECCLESIASTICORUM
+QUI AB AEVO APOSTOLICO AD INNOCENTII III TEMPORA
+FLORUERUNT;
+RECUSIO CHRONOLOGICA
+OMNIUM QUAE EXSTITERE MONUMENTORUM CATHOLICAE TRADITIONIS PER DUODECIM PRIORA
+ECCLESIAE SAECULA,
+JUXTA EDITIONES ACCURATISSIMAS, INTER SE CUMQUE NONNULLIS CODICIBUS MANUSCRIPTIS COLLATAS,
+PERQUAM DILIGENTER CASTIGATA;
+DISSERTATIONIBUS, COMMENTARIIS LECTIONIBUSQUE VARIANTIBUS CONTINENTER ILLUSTRATA;
+OMNIBUS OPERIBUS POST AMPLISSIMAS EDITIONES QUAE TRIBUS NOVISSIMIS SAECULIS DEBENTUR ABSOLUTAS
+DETECTIS, AUCTA;
+INDICIBUS PARTICULARIBUS ANALYTICIS, SINGULOS SIVE TOMOS, SIVE AUCTORES ALICUJUS MOMENTI
+SUBSEQUENTIBUS, DONATA;
+<br>CAPITULIS INTRA IPSUM TEXTUM RITE DISPOSITIS, NECNON ET TITULIS SINGULARUM PAGINARUM MARGINEM SUPERIOREM
+DISTINGUENTIBUS SUBJECTAMQUE MATERIAM SIGNIFICANTIBUS, ADORNATA;
+OPERIBUS CUM DUBIIS TUM APOCRYPHIS, ALIQUA VERO AUCTORITATE IN ORDINE AD TRADITIONEM
+ECCLESIASTICAM POLLENTIBUS, AMPLIFICATA;
+DUOBUS INDICIBUS GENERALIBUS LOCUPLETATA: ALTERO SCILICET RERUM, QUO CONSULTO, QUIDQUID
+UNUSQUISQUE PATRUM IN QUODLIBET THEMA SCRIPSERIT UNO INTUITU CONSPICIATUR; ALTERO
+SCRIPTURAE SACRAE, EX QUO LECTORI COMPERIRE SIT OBVIUM QUINAM PATRES
+ET IN QUIBUS OPERUM SUORUM LOCIS SINGULOS SINGULORUM LIBRORUM
+SCRIPTURAE TEXTUS COMMENTATI SINT.
+EDITIO ACCURATISSIMA, CAETERISQUE OMNIBUS FACILE ANTEPONENDA, SI PERPENDANTUR: CHARACTERUM NITIDITAS,
+CHARTAE QUALITAS, INTEGRITAS TEXTUS, PERFECTIO CORRECTIONIS, OPERUM RECUSORUM TUM VARIETAS
+TUM NUMERUS, FORMA VOLUMINUM PERQUAM COMMODA SIBIQUE IN TOTO OPERIS DECURSU CONSTANTER
+SIMILIS, PRETII EXIGUITAS, PRAESERTIMQUE ISTA COLLECTIO, UNA, METHODICA ET CHRONOLOGICA,
+SEXCENTORUM FRAGMENTORUM OPUSCULORUMQUE HACTENUS HIC ILLIC SPARSORUM,
+PRIMUM AUTEM IN NOSTRA BIBLIOTHECA, EX OPERIBUS AD OMNES AETATES,
+LOCOS, LINGUAS FORMASQUE PERTINENTIBUS, COADUNATORUM.
+<br>
+SERIES SECUNDA,
+<br>
+IN QUA PRODEUNT PATRES, DOCTORES SCRIPTORESQUE ECCLESIAE LATINAE
+A GREGORIO MAGNO AD INNOCENTIUM III.
+ACCURANTE J.-P. MIGNE,
+BIBLIOTHECAE CLERI UNIVERSAE,
+SIVE CURSUUM COMPLETORUM IN SINGULOS SCIENTIAE ECCLESIASTICAE RAMOS EDITORE.
+<br>
+PATROLOGIA BINA EDITIONE TYPIS MANDATA EST, ALIA NEMPE LATINA, ALIA GRAECO-LATINA.---VENEUNT
+MILLE FRANCIS DUCENTA VOLUMINA EDITIONIS LATINAE; OCTINGENTIS ET
+MILLE TRECENTA GRAECO-LATINAE.---MERE LATINA UNIVERSOS AUCTORES TUM OCCIDENTALES, TUM
+ORIENTALES EQUIDEM AMPLECTITUR; HI AUTEM, IN EA, SOLA VERSIONE LATINA DONANTUR.
+<br>
+PATROLOGIAE TOMUS C.
+<br>
+BEATI FLACCI ALBINI SEU ALCUINI
+<br>
+TOMUS PRIMUS.
+<br>
+EXCUDEBATUR ET VENIT APUD J.-P. MIGNE EDITOREM,
+IN VIA DICTA <em>D᾽AMBOISE,</em> PROPE PORTAM LUTETIAE PARISIORUM VULGO <em>D᾽ENFER NOMINATAM, SEU PETIT-MONTROUGE.</em>
+
+1851 
+<h4><center><font color="White">Series title page</font></center></h4>
+SAECULUM IX.
+<br>
+B. FLACCI ALBINI SEU ALCUINI ABBATIS ET CAROLI MAGNI IMPERATORIS MAGISTRI
+
+OPERA OMNIA
+
+JUXTA EDITIONEM FROBENII, ABBATIS AD SANCTUM EMMERAMUM RATISBONAE, NOVISSIME AD
+PRELUM REVOCATA ET VARIIS MONUMENTIS AUCTA.
+ACCURANTE J.-P. MIGNE,
+BIBLIOTHECAE CLERI UNIVERSAE,
+SIVE CURSUUM COMPLETORUM IN SINGULOS SCIENTIAE ECCLESIASTICAE RAMOS EDITORE.
+<br>
+TOMUS PRIMUS.
+<br>
+VENEUNT 2 VOLUMINA 15 FRANCIS GALLICIS.
+EXCUDEBATUR ET VENIT APUD J.-P. MIGNE EDITOREM,
+IN VIA DICTA <em>D᾽AMBOISE,</em> PROPE PORTAM LUTETIAE PARISIORUM VULGO <em>D᾽ENFER NOMINATAM,
+SEU PETIT-MONTROUGE.</em> 1851 
+
+<h2><center><font color="White">Contents page</font></center></h2>
+<h3>ELENCHUS AUCTORUM ET OPERUM QUI IN HOC TOMO C CONTINENTUR.</h3> 
+<p>B. FLACCUS ALBINUS, SEU ALCUINUS. OPERUM OMNIUM PARS PRIMA.---EPISTOLAE. 135
+</p><p>OPERUM OMNIUM PARS SECUNDA.---OPUSCULA EXEGETICA. 515
+</p><dd><em>Opusculum primum.</em>---Interrogationes et responsiones in Genesin.<em>Ibid.</em>
+<dd><em>Opusc.</em> II.---Enchiridion, seu expositio pia ac brevis in psalmos
+poenitentiales, in psalmum CXVIII et graduales. 569
+<dd><em>Opusc.</em> III.---Compendium in Canticum Canticorum. 639
+<dd><em>Opusc.</em> IV.---Commentaria super Ecclesiasten. 665
+<dd><em>Opusc.</em> V.---Interpretationes nominum Hebraicorum progenitorum
+Domini nostri Jesu Christi. 723
+<dd><em>Opusc.</em> VI.---Commentaria in sancti Joannis Evangelium. 733
+<dd><em>Opusc.</em> VII.---Tractatus super tres sancti Pauli ad Titum, ad Philemonem et ad Hebraeos Epistolas. 1007 
+<dd>Commentatio brevis in quasdam sancti Pauli sententias. 1083
+<dd>Commentariorum in Apocalypsin libri quinque. 1085
+<p></p><center>ANNO DOMINI DCCCIV.</center>
+
+<p></p><h3>B. FLACCI ALBINI SEU ALCUINI ABBATIS,
+CAROLI MAGNI REGIS AC IMPERATORIS MAGISTRI,
+OPERA OMNIA</h3>
+POST PRIMAM EDITIONEM, A VIRO CLARISSIMO D. ANDREA QUERCETANO CURATAM,
+DE NOVO COLLECTA, MULTIS LOCIS EMENDATA, ET OPUSCULIS PRIMUM
+REPERTIS PLURIMUM AUCTA, VARIISQUE MODIS ILLUSTRATA
+CURA AC STUDIO FROBENII,
+S. R. I. PRINCIPIS ET ABBATIS AD SANCTUM EMMERAMUM RATISBONAE. 
+
+<h3>PRAEFATIO GENERALIS. (J. Frobenius)</h3>
+<p><nobr><sub></sub></nobr> I. Henricus Canisius jurisconsultus, et initio saeculi
+XVII in Academia Ingolstadiensi sanctorum canonum
+professor ordinarius, multis laboribus litterariis celeberrimus,
+et veterum monumentorum scrutator solertissimus,
+cum plura beati Alcuini opuscula in
+bibliothecis delitescentia luci vero publicae a se reddenda,
+detexisset, recte sentiens, nonnulla alia ejusdem
+praeclarissimi magistri opuscula aut penitus periisse,
+aut adhuc bibliothecarum vinculis constricta
+opem eruditorum exspectare, optabat ut immeritis
+illis pedicis manicisque exsolvantur, quo tandem in
+luce versari, et per ora doctorum volitare queant.
+«Utinam, inquit, existeret, qui Alcuini omnia monumenta
+in lucem erueret, vel saltem illa quae jam sunt
+eruta, unum in volumen colligeret, collectaque simul
+vulgaret.» Tom. II Thesauri Monum. Edit. Basnagii,
+pag. 484 et 485.
+</p><p>II. Id quod Canisius in votis habuit, primus omnium
+maxima cura ac diligentia exsequi adlaboravit
+vir magni pariter inter eruditos nominis D. Andreas
+<nobr><sub></sub></nobr> Quercetanus Turonensis. Is enim patriae suae
+amore, prout ipse profitetur initio Praefationis in
+suam editionem, incitatus, omnia beati Alcuini opuscula
+seu jam edita, seu ex codd. mss. Pauli Petavii,
+Augusti Thuani, Puteanorum fratrum, Sirmondi et
+aliorum conquisita collegit, et partim auctius ac
+emendatius, partim vero tunc primum detecta de
+novo edidit Lutetiae Parisiorum anno 1617.
+</p><p>III. Verum haec viri summi qualiscunque diligentia
+non se protendebat ad exteras Italiae, Hispaniae, Angliae
+ac Germaniae bibliothecas, in quibus tamen celeberrimi
+hujus sui temporis scriptoris opuscula varia
+olim certatim a suis discipulis descripta ac recondita
+conservabantur: alii tamen viri eruditi, quibus in illa
+veterum monumentorum reconditoria penetrandi fortuna
+arrisit, Martenius, Mabillonius, Baluzius, Pezius
+et alii, plura opuscula mss. beati Alcuini detexerunt,
+quae priori illi collectioni addi, et ita nova aliquando
+editio completior ac perfectior fieri posset; in quem
+<nobr><sub></sub></nobr> finem iidem nova sua reperta suis collectaneis addita
+et cum aliis opusculis, prout sese quaerentibus fortuito
+offerebant, commista luci publicae commiserunt.
+Magnum vero exinde incommodum relictum est,
+quod eruditi qui de beato Alcuino quaedam suis laboribus
+apta discere cupiebant, necesse haberent, illius
+seu epistolas, seu commentationes, tractatus et carmina,
+per vasta et parum obvia volumina distracta
+conquirere: quod quidem incommodum nonnisi uno
+novae collectionis ac editionis auxilio reparandum
+fuit. Incommodum isthoc magis crevit, postquam
+exemplaria quoque editionis Quercetanae evasere
+rarissima, ut nunc in paucissimis plane bibliothecis
+reperiantur.
+</p><p>IV. Consilium ergo novae editionis procurandae
+jam initio hujus saeculi in Gallia coeptum, et spes
+brevi illius obtinendae et absolvendae facta est: hucusque
+tamen exspectationem fefellit, et effectu caruit.
+Optabat vir praeclarissimus D. Antonius Rivet
+de la Grange, Benedictinus congregationis sancti Mauri
+<nobr><sub></sub></nobr> in aestimatissimo opere Hist. Lit. Franciae, tom. IV,
+pag. 343, ut labor saltem, quem ipse in recensendis
+omnibus beati Alcuini tam genuinis quam suppositis
+operibus impendit, virum aliquem bene eruditum
+permoveret ad opus tandiu exspectatum exsequendum.
+His D. Riveti aliorumque virorum eruditorum
+votis ac desideriis quovis modo satisfaciendi cupido
+me tunc incessit, cum eorum, a quorum nutu pendebam,
+voluntate curandae bibliothecae nostrae sancti
+Emmerami, magnum mss. eximiae vetustatis atque
+optimae notae numerum continenti, admotus fui. Deprehensis
+nempe quibusdam codicibus, nongentorum
+et amplius annorum aetatem indubiis notis praeferentibus,
+varia beati Alcuini opuscula continentibus,
+eadem cum editione D. Quercetani conferens facile
+adverti, illorum ope plures praedictae editionis hiatus
+impleri, errata innumera corrigi, et veram multis
+locis lectionem restitui posse. Praeterea nonnulla
+etiam opuscula sese obtulere, frustra hucusque quaesita
+<nobr><sub></sub></nobr> et ex parte ignorata ab eruditis; quorum omnium
+rationes suis locis proferentur. Manum ergo operi
+admovere coepi, non eo quidem consilio ut egomet
+novam illorum operum editionem susciperem, sed
+ut manum auxiliatricem porrigerem, si vir quispiam
+eo apparatu eruditionis, quo me destitutum agnoveram,
+instructus huic se labori serio tandem commodare
+vellet.
+</p><p>V. Peropportune vero accidit quod a cl. D. Oliverio
+Legiponte monasterii sancti Martini Coloniae Agrippinae
+O. S. B. asceta doctissimo, atque, dum viveret, litteraria
+consuetudine mihi conjunctissimo per litteras
+edoctus fuerim, virum varia eruditione praeditum
+D. Ildephonsum Catelinot Benedictinae congreg. sanctorum
+Vitoni et Hydulphi ad sanctum Michaelem supra
+Mosam alumnum, dudum huic labori manum admovisse,
+jamque omnia beati Alcuini opera duobus tomis
+distincta prelo parata habere: quod ipsum postea
+ex illustris Calmeti historia litteraria Lotharingiae,
+<nobr><sub></sub></nobr> atque ex Hist. Lit. Franciae tom. VIII Avertiss.,
+pag. X, amplius et certius didici. Hunc igitur doctissimum
+virum D. Catelinot per litteras conveni, eidem
+meam operam spopondi, illiusque arbitrio et
+usui subsidia, quaecunque ad coeptum a se opus perficiendum
+ad manus habebam, lubens obtuli; quaedam
+insuper illi suggerens, quae ad ejus notitiam
+haud pervenisse existimabam. Viri hujus egregii Responsorias
+datas 13 Febr. 1754, ex quibus impensum
+illius in novum hoc opus studium, et causa simul
+impeditae tandiu editionis discitur, hic subjicere,
+eruditis, spero, haud fore ingratum: «Pluribus abhinc
+annis, inquit, novam Operum Alcuini editionem
+aggressus fui, ac trium annorum spatio, quantum in
+me fuit, absolvi. Ast, proh dolor! inedita ac sopita
+remanet ab anno 1745. Nec non bibliotheca Benedictina,
+quam ad umbilicum quoque perduxi. In regionibus
+enim nostris opera non nisi Gallico idiomate
+scripta sub prelo sudant, Latina vero in forulis et
+pulvere bibliothecarum jacent. Huc accedit gravis
+<nobr><sub></sub></nobr> penuria mss. codicum, quorum ope et opera novae
+editiones adornantur. Tanta est illa inopia in Gallia
+nostra et Lotharingia, ut in decursu laboris unum
+duntaxat detegere potuerimus, nempe tractatum de
+Processione sancti Spiritus ab Alcuino nostro inscriptum
+Carolo Magno imperatori coronato anno 800.
+Qualis et quantus ille sit tractatus, annuntiat Antonius
+Rivetus in Admonitione ad tom. VIII Galliae Litterariae,
+pag. X, XI et XII . . . . . . Precare pro peccatore
+annorum octoginta trium et mensium decem, qui
+nullo indiget adminiculo ad ambulandum, ad videndum,
+ad audiendum; sed mens sana in corpore sano,
+quod Dei donum est, et ei reddo corde et animo.»
+Hucusque Senecio venerabilis.
+</p><p>VI. Acceptis hisce viri egregii litteris facile animadverti,
+editionem illam Operum beati Alcuini diu
+adhuc fore protrahendam, aut per obitum senis hujus
+tot jam annis gravati penitus deserendam, aut non
+nisi cum multorum monumentorum huc pertinentium,
+<nobr><sub></sub></nobr> in variis bibliothecis etiamnum latentium defectu
+prodituram. Per integrum ergo annum, debilitatis
+virium mearum conscius, deliberans, num
+difficili huic labori manum ipse admoverem, tandem
+opus tentare mecum statui. Hoc meum propositum
+eidem D. Catelinot initio anni 1755 per epistolam
+significavi, confisus tunc, quod a nova, quam animo
+et calamo conceperat et parturire moliebatur clariss.
+D. Legipontius supra laudatus, societate litteraria
+Benedictina, auxilium atque subsidia majora ad hoc
+opus facilius exsequendum conducentia essem adepturus.
+De hoc enim instituto idem D. Legipontius rev.
+D. Calmetum per litteras edocuit, doctosque sodales
+congregationis Lotharingicae, cui is tunc praefecturam
+gerebat, ut huic societati sese adjungi paterentur,
+invitavit: singulariter vero D. Catelinot eo permovit,
+ut collectanea sua, pro nova editione operum
+<nobr><sub></sub></nobr> B. Alcuini parata, mihi cederet, nomine ejusdem
+societatis completius et emendatius vulganda. Assensit
+vir optimus D. Legipontii postulationi, et sine
+dilatione, propriae suae gloriae prope oblitus, cum
+maxima benevolentia, quod petitum fuerat, praestitit.
+Is ergo mense Aprili ejusdem anni totum suum apparatum
+cum quibusdam praeliminaribus, cum notis
+variis et observationibus doctissimis ad me direxit,
+magna simul cum humilitate deprecatus, «ut si quid
+aliquando ex Operibus tanti viri (beati Alcuini) vel
+omnia edenda sint, suo parcatur nomini. Multo praeclarius
+est, inquit, et dignius nomen societatis litterariae,
+quod tam magnificae editioni praeponatur.
+</p><p>VII. Verum institutum illud societatis litterariae
+Benedictinae, quod D. Legipontius maximo cum fervore
+promovere laboravit, ad optatum effectum illo
+vivente perduci haud potuit; ipso vero ad coelestes
+sedes abeunte penitus, quod dolens refero, et in cunis
+exspiravit, commercio litterario, quo prolem
+<nobr><sub></sub></nobr> conceptam animari oportebat, simul abrupto. Totum
+igitur pondus propositi laboris, in adornanda nova
+Operum beati Alcuini editione, in debiles humeros
+meos recidit: quos tamen subtrahere nolui; sed
+recogitans difficultates non fugiendas esse, sed superandas,
+et omnia nos posse in eo qui nos confortat,
+credensque simul hunc laborem cessurum ad Dei
+gloriam et aliquem Ecclesiae profectum, vel etiam ad
+rei litterariae commodum et quodcunque incrementum,
+memet ad opus cordate aggrediendum excitavi.
+Divini ergo auxilii spe fretus, virorum etiam doctorum,
+eorum maxime qui ubivis locorum thesauris
+veterum monumentorum custodiendis praesunt, adjumenta
+quaerere, et bibliothecarum tam vicinarum
+quam dissitarum, in quibus codices huc pertinentes
+latere noveram aut suspicabar, fores pulsare constitui.
+Scripsi ad doctos illarum bibliothecarum custodes,
+ad alios eruditos magni nominis magnaeque
+auctoritatis viros, ut thesauros latentes aut aperirent,
+aut aperiri juberent; atque ad meum usum primo
+<nobr><sub></sub></nobr> operum ab ipsis servatorum catalogos, deinde ipsa
+opera me delecta, vel variantes lectiones inde excerptas
+mecum communicari facerent. Quae quidem res
+felicius quam sperare poteram, cessit, ita, ut Alcuinus
+meus longe ditior quam in collectione D. Quercetani
+aut D. Catelinoti fuit evaserit: quorum id ope,
+quibusque mediis id perfecerim, nunc paucis enarrabo.
+</p><p>VIII. Prima subsidia mihi venere e bibliothecis illustrissimorum
+capitulorum cathedralium Salisburgensis
+et Frisingensis, opitulantibus illarum ecclesiarum
+reverendissimis canon. capitularibus, praeprimis D.
+comite de Saurau, eo tempore rev. archiepiscopi ac
+principis Salisburgensis ad comitia imperii hic Ratisbonae
+legato plenipotentiario; et D. barone de Wertenstein,
+serenissimi ac eminentissimi cardinalis
+Bavari, episcopi Frisingensis, etc., etc., consiliario
+intimo, utroque bonorum omnium luctu satis nuper
+erepto. Ambo summa cum benevolentia plures, quos
+<nobr><sub></sub></nobr> inspicere cupiebam, codices e pretiosissimis illis
+vetustatis reconditoriis subministrarunt, quorum ope
+varia anecdota obtinui, quorum aliqua ad edita emendanda,
+alia ad defectus maxime notabiles supplendos,
+alia denique ad opus novis opusculis augendum
+adhibere potui, prout suis semper locis notavi.
+</p><p>IX. Non minus benevolum, nec minus ad studia
+mea juvanda propensum expertus fui eminentissimum
+D. cardinalem Passioneum, jam antea de beato
+Alcuino, cujus epistolam ad Eanbaldum, nunc ordine
+quinquagesimam
+<br>@ Secundum hujusce novae editionis recensionem, quinquagesimam sextam. EDIT. tom. I, pag. 63, notis varia eruditione
+refertis illustraverat, optime meritum: hic
+ergo vir summus, fama eruditionis clarus et, dum viveret,
+litteratorum Maecenas optimus a me imploratus,
+primo indicem omnium opusculorum ad Alcuinum
+pertinentium, in praedivite bibliotheca Vaticana
+cujus ille tunc praefecturam cum maxima sui nominis
+<nobr><sub></sub></nobr> laude gerebat, servatorum ad me mitti curavit; deinceps
+vero ejusdem bibliothecae custodibus, ut quae ex
+eodem indice selegeram, descripta ad me dirigerent,
+mandavit. Inde ergo accepi: 1o libellum beati Alcuini
+ad monachos Gothiae contra haeresin Felicis, hucusque
+desideratum, editum a nobis cum praefatione cl.
+D. Foggini; 2o libellum de Antichristo Alcuino suppositum;
+3o libellum de Partibus orationis, de quo
+videatur monitum praevium ad part. V Operum Alcuini;
+4o chartulas calculationis cursus lunaris et bissextilis
+praeparationis. Demum variantes quasdam et
+meliores lectiones, quas suis locis addidi.
+</p><p>X. His eminentissimi cardinalis beneficiis cumulatus,
+et fiducia tam promptae benevolentiae animatus
+ejusdem quoque consilium expetere non verebar,
+de edendis inter Opera beati Alcuini vel omittendis
+libris illis famosis, quos Carolinos appellant, <em>de non
+adorandis imaginibus, quos quidam scriptores eidem
+Alcuino nostro tribuere volebant.</em> Simul vero rogavi
+<nobr><sub></sub></nobr> ut eosdem libros cum cod. mss. bibl. Vaticanae,
+quem litteris Longobardicis scriptum ibidem servari
+scripserat Aug. Steuchus de falsa Donat. Constantini
+contra Laurentium Vallam, lib. II, pag. 111, conferri
+jubeat, eum praecipue in finem, ut constare possit,
+an capitulum ultimum illorum librorum, quale in
+editione Severini Binii reperitur, genuinum sit, an,
+quod Goldastus adversus Binium contendit, spurium
+et confictum? Non reticuit eruditissimus cardinalis
+suam, quam mente tenebat sententiam, eamque mihi
+aperire dignatus est per epistolam Roma ad me
+scriptam IV Kal. Febr. 1759, in haec verba: «In bibliotheca
+Vaticana nullus reperitur ms. cod. libros
+illos continens quos Carolinos de non adorandis
+imaginibus vocare solent. Quod pertinet ad eorum
+confutationem ab Adriano I compositam et Carolo
+Magno inscriptam, exstat illa in duobus mss. Codd.,
+nempe Regio Vat. 1041 et 1062. Sed uterque Codex
+chartaceus est et admodum recens. Etsi vero ex
+forma litterarum aperte constet, in Gallia utrumque
+<nobr><sub></sub></nobr> exaratum fuisse, neuter tamen indicat, ex quo vetustiore
+Codice, et in qua bibliotheca descriptus fuerit.
+Caeterum nihil dubito, Codicem 1062 illum ipsum
+esse, quem ad Gregorium XIII fuisse missum ex Gallia
+tradit Severinus Binius. Cum autem enixe postules,
+utrum bonum censeam dare his quoque locum
+in appendice Operum Alcuini, candide dicam: non
+censere; nullam enim esse video alicujus ponderis
+conjecturam, quae suadeat Carolum Magnum Alcuini
+opera usum fuisse in iis condendis libris, quos Carolinos
+appellant.» Hactenus sapientissimus cardinalis,
+cujus consilium eo libentius secutus sum, quod
+revera nulla ratio, quae alicujus ponderis haberi possit,
+succurrat pro opinione contraria, multae vero
+et graves rationes prorsus persuadeant, beatum Alcuinum
+illorum librorum auctorem non fuisse, quas
+protuli infra in praefatione ad opuscula supposita.
+</p><p>XI. Hoc primum tentamen cum tam feliciter mihi
+cessisset, alias insuper vias explorare constitui, minime
+<nobr><sub></sub></nobr> haesitans, per illas me reperturum ampliora
+adhuc subsidia, et viros eruditos aeque ad studiis
+meis succurrendum faciles. Quod ut promptius fieret,
+conspectum omnium opusculorum, quae et quo
+ordine in nova editione comparere deberent, anno
+1760 typis Montagianis vulgari feci: addito indice
+aliquorum codd. mss. in variis bibliothecis latentium:
+atque ita una quasi generali epistola viros
+doctos ad symbola sua huc conferenda invitavi ac
+provocavi; nec sane frustra; spe enim citius viri
+quidam et eruditione et libris editis celeberrimi ultro
+nec singulariter implorati suam operam obtulerunt.
+Inter quos primi fuere illustris D. Christ. Ludov.
+Scheidius serenissimae familiae Guelficae historiographus,
+operis laudatissimi: Origines Guelficae aliorumque
+plurium scriptor. Cl. D. Christ. Adolphus
+Klotzius in universitate Halensi eloquentiae et philosophiae
+professor variis lucubrationibus et litterariis
+pugnis clarus; deinde illustris D. Christ. Fridericus
+<nobr><sub></sub></nobr> Temlerus regiae Danicae majestati a secretis.
+A. D. Scheidio ocius accepi epistolam humanitate
+plenam, qua mihi propensissima voluntate omnem
+operam suam addixit, et ad similem benevolentiam
+doctos Danos et Anglos, misso ad eos conspectu a
+me edito, persuadere velle promisit. Majora praestitit
+D. Klotzius, qui ut eumdem conspectum noviter
+vulgatum toti orbi litterario notum redderet, illum
+cum magna commendatione in Actis eruditorum
+Lipsiensibus anni 1760 pag. 233, recensuit, ac postea
+per epistolam ad strenue in coepto opere pergendum,
+me animavit, oblatis quibusvis, quae in illius
+potestate essent, subsidiis, donatoque libello paucis
+apud nos cognito et rarae eruditionis, in quo de eruditione
+Saxonis Carolini Alcuini discipuli, Vitembergae
+sub praesidio D. Joannis Guilielmi de Berger
+disseritur.
+</p><p>XII. Porro illustris D. Temleri propensionem insolitam
+et ardorem pro laboribus meis juvandis prorsus
+<nobr><sub></sub></nobr> singularem, quo vocis praeconio exornem vix
+habeo. Vir iste praeclarus, nunquam antea mihi cognitus,
+ex Actibus Lipsiensibus de consilio meo
+edoctus, paulo post lectiones quasdam variantes epistolarum
+ac librorum de Trinitate, ex veteri editione
+Homiliarii Doctorum descriptas et a cel. Baluzio
+olim notatas, ad me misit, et ut opera sua pro libitu
+uterer, me cohortatus est. Hac viri optimi benevolentia
+fretus ipsum rogavi, ut si quos doctos viros
+in Anglia nosset, eos mihi conciliaret; ut beati Alcuini
+scripta, quae in illius regionis bibliothecis servari
+ex catalogis librorum mss. Angliae et Hiberniae,
+atque ex aliis eruditorum recensionibus noveram,
+perquirerent, et ea quae expetieram pro gloria conterranei
+sui ad me destinarent. Non defuit petitis
+vir illustris; illius tamen conatus ibidem fuere frustranei.
+Responsum enimvero ex Anglia tulit doctis
+viris profecto indignum, nobisque ingratum: exspectare
+nos jusserunt ultra anni spatium, donec
+desiderata describi possent; simul vero pro scriptura
+<nobr><sub></sub></nobr> ac labore unius hebdomadae, mercedem pacisci
+voluere centum et ultra librarum sterlings. Et primam
+quidem conditionem in acceptis ferre voluissem;
+alteram vero, quae turpis nobis visa est (et
+cui non videretur?), repudiare debui. Neque tamen
+fortuna, quae in Anglia minus fuit propitia, me penitus
+deseruit; beneficio enim viri clarissimi D. de
+Brequigny, regiae inscrip. et hum. lit. Academiae
+socii, epistolas, quas maxime obtinere desiderabam,
+ab eodem, dum Christianissimi regis mandato anno
+1764 Angliae bibliothecas perscrutaretur, ex cod.
+ms. bibliothecae Harleianae descriptas accepi. Hujus
+ergo viri egregii benevolentiae thesaurus iste litterarius
+ab omnibus eruditis in acceptis referendus
+est, ut prolixius narravi in Monito praevio ad Mantissam.
+</p><p>XIII. Aliam rursus viam labores meos juvandi
+causa in Hispania nempe, tentavit praelaudatus D.
+Temlerus Optabam ex illius regionis bibliothecis, praesertim
+<nobr><sub></sub></nobr> Escuriali et Toletana, nonnulla monumenta
+ibi, quod sciebam, servata adipisci, ad historiam
+erroris Adoptianorum, cujus Alcuinus maxima pars
+fuit, illustrandam conducentia: epistolam nimirum
+ineditam episcoporum Hispaniae, sectatorum Elipanti
+archiepiscopi Toletani, ad episcopos Galliae, Aquitaniae
+et Austriae scriptam, cujus potissimum causa
+convocatum fuit concilium Francofordiense anni 794,
+cujus ob detritos, ut praetendebatur, characteres non
+nisi initium et conclusionem dederat D. Henricus
+Floresius in sua Espa˝a Sagrada, tom. V, pag. 557.
+Cupiebam pariter, libros Etherii ac Beati adversus
+ingruentem errorem Adoptianorum scriptos, et primum
+a Petro Stevartio cum aliis veteribus scriptoribus
+Ingolstadii anno 1616 editos, cum cod. ms.
+conferri et inde emendari posse, eo quod editio illa
+in nonnullis locis manca et imperfecta esse videbatur;
+statueram siquidem aliquando libros illos correctiores
+in appendicem operum beati Alcuini referre,
+<nobr><sub></sub></nobr> sicut in illorum conspectu typis vulgato significavi.
+Huic meo desiderio ut satisfieri posset, laudatus
+Temlerus amicum in Hispania degentem, eadem
+promptitudine ac zelo ad litteratorum labores juvandos
+affectum, convenit, nempe D. Carolum Christophorum
+Pluer regiae legationis Danicae Madriti ecclesiasten;
+qui vir praeclarissimus ocius omnem
+lapidem movit, viasque omnes tentavit, atque viros
+doctos, quos in hunc finem quidpiam conferre posse
+credebat, infatigabiliter sollicitavit, ut hisce votis
+meis obsecundarent. Verum conatus illius plurima
+reperere obstacula: fores enim bibliothecarum illarum
+tantopere obseratae sunt, ut nemini exterorum
+ad illas accessus pateat, aut codices mss. ibidem
+reconditos ulla ratione cuiquam pedicis ac manicis
+suis solvere in aliorum usum liceat. Reperit tamen
+laudatus D. Pluer virum magni apud Hispanos et
+apud exteros quoque nominis, D. Gregorium Majansium
+generosum Valentinum, a quo, ob gestam aliquando
+praefecturam bibliothecae regiae, quaecunque
+<nobr><sub></sub></nobr> votis meis expetita obtineri posse spes magna affulsit.
+De hoc D. Majansio laudatus D. Pluer in litteris
+e <em>Portugo ad aquas minerales in montibus Granatensibus
+d.</em> d. X Jun. 1765, ita ad me scripsit: «Non
+omnino desunt (in Hispania) viri sapientia et eruditione
+praestantes, quorum dux et antesignanus celeberrimus
+Greg. Majansius sine dubio censendus est.
+Vir enim iste una cum doctissimo fratre Antonio
+sese unice litteris consecravit. Regi cum esset a bibliotheca
+Gregorius, ut invidiae cederet, se hoc
+munere sponte sua abdicavit. Tantum vero abfuit
+ut ista rerum mutatio virum a litterarum amore
+avocaret, ut calcar potius ipsi addidisse videatur.
+Verum certe est, qui cum solida eruditionis laude
+aequale inserviendi studium conjungat, excepto Gregorio,
+in universa Hispania reperiri neminem.» Viro
+igitur huic tantopere mihi laudato desiderium meum
+per epistolam aperui, atque adjutorium illius, si
+quod mihi impendere valeret, expetii, eo eventu felici,
+<nobr><sub></sub></nobr> ut ab amicis suis tandem illam magni momenti
+epistolam episcoporum Elipanti sectatorum ineditam
+extorserit, quam is e cod. ms. Toletano descriptam
+ocius ad me deferri curavit, addita epistola, quam
+ad fidem rei conciliandam impressam exhibui. Codicem
+tamen, in quo continetur memoratus Apologeticus
+Etherii et Beati, quo cum editio Stevartii non
+satis accurata conferri potuisset, nulla industria
+obtinere potuit vir optimus, cui in hunc finem ejusdem
+Stevartii volumen typis impressum direxeram;
+prout mihi significavit in epistola altera ibidem a
+me exhibita. Quae causa fuit mutati a me consilii,
+quod etiam D. Catelinot placuerat, eosdem libros his
+operibus jungendi, ut initio proposueram in conspectu
+operum istorum superius memorato. Quaenam
+alia idem D. Majansius, studiis meis summopere
+affectus, pro illustrandis Adoptianorum scriptis et
+actis suggesserit, et humanissimis atque eruditissimis
+illius epistolis intelligi potest, in Appendice II
+<nobr><sub></sub></nobr> a me relatis.
+</p><p>XIV. His viis, ad terminum mihi propositum felicius
+pertingendi, in Lotharingia, Italia, Anglia et
+Hispania haud omnino frustra tentatis, committere
+haud potui, quin etiam insigniores bibliothecas Galliae
+consulerem, in quibus tam praeclare versati sunt
+sodales celeberrimae Benedictinae congregationis sancti
+Mauri: quamvis ab hoc proposito me avertere
+potuisset D. Catelinot supra laudatus, ad me scribens
+quod in Gallia et Lotharingia tanta sit mss. codd.
+inopia, ut in decursu laboris sui unum duntaxat detegere
+potuerit, nempe libellum de Processione Spiritus
+sancti. Nihilominus idipsum per memet experiri
+etiam volui. Scripsi igitur ad rev. D. Boudier, ejusdem
+congregationis tunc superiorem generalem, rogans
+ut quosdam suorum sodalium ad operam suam
+mihi commodandam permoveret. Non defuit meis
+<nobr><sub></sub></nobr> petitis vir humanissimus, cujus posthac benevolentiam
+in aliis quoque rebus, quod aeterna apud nos
+memoria celebrabitur, utilissimam expertus fui. Ejus
+ergo jussu doctissimus D. Philippus Ludovicus Lieble
+in abbatia sancti Germani a Pratis bibliothecarius,
+primo catalogum omnium opusculorum mss. ad Alcuinum
+pertinentium, quae in bibliotheca regia Parisiensi
+servantur; deinceps vero variantes lectiones
+summa diligentia inde excerptas, et quaedam anecdota
+ad me misit, nimirum epistolam Alcuini ad Georgium
+patriarcham Jerosolymitanum; et opusculum
+de Orthographia. Hujus viri industriae pariter debeo
+notitiam illarum epistolarum quas, tandiu in
+bibliothecis Angliae conclusas, nuper suis vinculis
+solvit vir illustris D. de Brequigny, cujus supra memini,
+et amplius memoravi in Monito praevio ad
+Mantissam epistolarum
+<br>@ Quod vide post Monitum in hancce editionem novam. EDIT. 
+ubi tota detecti hujus thesauri
+historia ipsis hujus celeberrimi Academici verbis narratur.
+</p><p><nobr><sub></sub></nobr> XV. Alter quoque ejusdem congregationis sodalis
+eruditissimus D. Jacques-Claude Vincent bibliothecarius
+abbatiae sancti Remigii Rhemensis ab amico
+mihi addictissimo D. Joanne Francisco monasterii
+sancti Symphoriani Metensis monacho Benedictino,
+historiae novae ejusdem civitatis scriptore, excitatus
+opem non modicam mihi tulit, conferendo opuscula
+Alcuini mss. in bibliotheca sancti Remigii, et altera
+sancti Theodorici prope Rhemos servata, quorum
+differentes lectiones ad me missae apprime servierunt
+ad veram lectionem multis locis restituendam. Cupiebam
+equidem simul conferri potuisse vitam beati
+Alcuini antiquam cum cod. mss. Rhemis quoque in
+bibliotheca monasterii sanctae Mariae servato, quo
+usus est D. Quercetanus, cujus nihilominus editio alicubi
+mendosa mihi videbatur. Verum idem mihi accidit
+quod olim D. Mabillonio, qui, ut ipse narrat in
+observationibus praeviis in Vitam beati Alcuini,
+num. 3, codicem illum aliquando visum, ac postea,
+ut cum editis conferri posset, perquisitum, nancisci
+<nobr><sub></sub></nobr> non potuit: etiamnum enim neque in praedicta bibliotheca,
+neque in ejusdem catalogo manuscriptorum
+hujus Vitae ullum vestigium reperitur, prout edoctus
+fui ex litteris amicissimi D. Caroli Lanceloti
+die 10 Martii 1776 ad me exaratis, cujus viri laboribus
+et industriae singulari monasterium nostrum sancti
+Emmerami in acceptis fert sacrarum linguarum et
+elegantioris litteraturae pleniorem eruditionem.
+</p><p>XVI. Grata demum mente recolenda est beneficentia
+reverendissimi ac dignitate simul atque multiplici
+eruditione illustrissimi S. R. I. principis et abbatis
+sancti Blasii D. Martini Gerbert. Ei in acceptis ferendum,
+quod nunc publicam lucem adeptae sint epistolae
+quaedam ad Amalarium episcopum Trevirensem
+et Petrum Nonantulae abbatem pertinentes. Unde
+etiam controversia de auctore epistolae de Caeremoniis
+baptismi, quam Canisius et Quercetanus Alcuini
+esse arbitrabantur, in luce collocata est, Sirmondique
+sententia pro eodem Amalario confirmata.
+<nobr><sub></sub></nobr> Neque sine laude praetereundi sunt duumviri in republica
+litteraria optime meriti et diffusa eruditione,
+quam praeclaris suis operibus probarunt, celeberrimi;
+nempe D. Oefelius bibliothecae electoralis Monacensis;
+et D. Kollarius, Caesareae Vindobonensis, custodes
+et cultores solertissimi. Primus excusso ditissimo
+suae curae concredito thesauro, quidquid usibus meis
+aptum reperit, mihi tradidit, ac praeterea multa laboribus
+meis accommodatissima consilia suggessit.
+Alter indicem omnium codd. mss. ad Alcuinum pertinentium
+in amplissima Caesarea bibliotheca servatorum
+mihi benevole indulsit, et posthac lectiones
+variantes inde extrahi, easque una cum epistola inedita
+ad Aquilam, quae nunc ordine 121 [Edit. nov.
+161] est, ad me deferri curavit.
+</p><p>XVII. Haec fere sunt subsidia, quae pro explendis,
+augendis corrigendisque beati Alcuini Operibus ope
+<nobr><sub></sub></nobr> virorum eruditorum obtinui. Porro in reliquis commemorandis,
+quae ab aliis quibusdam bibliothecis ad
+me pervenerunt, minoris momenti, non est, cur diutius
+lectorem detineam. Omnium enim opusculorum,
+quae mihi usui fuere, mentionem semper feci in Monitis
+praeviis. Nunc ergo, quid in hac editione praeterea
+praestitum a me sit, breviter enarrandum, ad ea,
+compendii gratia, lectorem referendo, quae in iisdem
+Monitis ad singulas Partes additis, praenotavi.
+</p><p>XVIII. Ope nimirum codicum mss. vetustorum,
+imo majorem partem coaevorum ac optimae notae;
+opusculorum quoque quorumdam separatim editorum,
+quorum copiam ex variis, quas laudavi, bibliothecis
+habui, editionem D. Quercetani prope ubique,
+praeter libros adversus Felicem et Elipantum scriptos,
+quorum nulli vetusti codices reperiri potuerunt, correxi;
+multa loca corrupta suae integritati restitui;
+monumenta nonnulla, quae ad haec usque tempora
+condita delituerunt, collegi, iisque hanc meam editionem
+locupletavi: inter quae praeprimis memorandae
+<nobr><sub></sub></nobr> sunt epistolae ultra septuaginta, quas prioribus, ante
+quam illae ad me e bibliotheca Harleiana pervenissent,
+jam prope prelo absolutis, per modum Mantissae addere
+oportuit
+<br>@ <nobr><sub></sub></nobr> Vide Monitum editoris novi.. Reliqua anecdota et nunc primum in
+lucem eruta in Elencho operum statim subjiciendo
+compendii causa signo stellae * notavi. Porro opuscula
+dubiae auctoritatis, atque omnino spuria et beato Alcuino
+supposita a genuinis, quibus in priori editione
+commista fuerunt, separavi: de quibus eruditi legere
+non gravabuntur Monita praevia unicuique
+opusculo praefixa. Demum toti huic collectioni triplicem
+Appendicem adjungere visum est, cujus consilii
+rationem quoque reddidi in Monito praevio.
+</p><p>XIX. His omnibus prelo pene absolutis forte fortuna
+ad manus meas delatus est cod. ms. vetustissimus,
+circa medium saec. IX scriptus, repertus nuper
+<nobr><sub></sub></nobr> in bibliotheca collegii sancti Pauli hujus urbis nostrae
+<nobr><sub></sub></nobr> Ratisbonensis, cujus contenta anecdota inter addenda
+et supplenda dare oportuit ad calcem Operum.
+</p><p>XX. Curam demum meam eo direxi, ut haec editio
+majori lectorum commoditati servire possit. Quapropter
+loca quaedam per meas aliorumque notas illustrare
+studui: sanctorum Patrum sententias et integras
+nonnunquam commentationes, quas beatus
+Alcuinus in sua commentaria suosque tractatus retulit,
+ex optimis editionibus citavi; differentes ac aliquoties
+meliores lectiones adnotavi, et alia praestiti
+quae hic commemorare longum esset, et ab attento
+lectore in ipso opere facile deprehendi possunt.
+</p><p>XXI. Quod ordinem quo singula opuscula in hac
+collectione disposita fuerunt, concernit, diversus est
+ab illo quem obtinent in editione D. Qnercetani.
+Initium coepi ab epistolis, quas collector laudatus penultimo
+loco dedit, ob hanc potissimum rationem,
+et quod ab eruditis avidius expetantur, et quod ex
+illis, tanquam fonte limpidissimo, majorem partem
+profluxerint, quae de Vita beati Alcuini sum commentatus;
+<nobr><sub></sub></nobr> et ideo tanquam testimonia fidelissima
+haberi debeant illorum omnium quae ibi narrantur et
+critice expenduntur. Epistolas sequuntur secundum
+dignitatem materiarum opuscula exegetica, dogmatica,
+liturgica et moralia; historica seu Vitae sanctorum,
+poetica, grammatica, rhetorica et dialectica;
+illa demum, quae exstant, astronomica, de
+cursu et saltu lunae ac bissexto. Idem deinde ordo
+servatur in opusculis dubiis et supposititiis.
+</p><p>Et haec fere sunt quae in novissima hac Operum
+beati Alcuini editione pro mea tenuitate inter tot et
+varia officii mihi incumbentis negotia, quae totum pene
+hominem sola exposcunt, praestare potui: quod etiam
+munus impedimento fuit, ne opus, quod in statu majoris
+quietis coeptum fuit, citius absolveretur, aut
+accuratius expoliretur. Quod aequi bonique habeant
+<nobr><sub></sub></nobr> benevoli et eruditi lectores. 
+
+</p><h3>COMMENTATIO FROBENII
+DE VITA BEATI F. ALBINI SEU ALCUINI
+DE NOVO EX GENUINIS ACTIS ET ILLIUS SCRIPTIS CONCINNATA. </h3>
+<p>
+</p><h4>PROOEMIUM.</h4><nobr><sub></sub></nobr> 
+<p>Viri eruditi, qui sanctorum Ecclesiae Patrum aliorumque
+veteris aevi celebrium scriptorum operibus
+<nobr><sub></sub></nobr> colligendis, aut nova editione vulgandis, operam navarunt,
+non tantum in illustrandis scriptis, verum
+etiam in ordinandis gestibus et actibus illorum, suoque
+tempori assignandis omnem diligentiam adhibuerunt,
+ut nimirum virorum sua aetate tam illustrium
+non tantum eruditio et doctrina, hujus nostrae
+aetatis hominibus ac posteris communicaretur; verum
+etiam illorum virtutes, quibus quondam praefulserunt,
+ad imitandum proponerentur. Idem consilium
+in hac nova beati Alcuini Operum editione sequi nostri
+muneris esse credidimus. Quamvis enim vetustus
+quidam et prope coaetaneus scriptor anonymus
+Vitam beati viri ex narratione Sigulfi ejus discipuli
+posteris commendaverit, illius tamen narrationes,
+solida crisi et nonnunquam veritate destitutas
+esse, diu conquesti sunt eruditi. Propterea vir illustris
+D. Andreas Quercetanus correctiones plures illi
+adhibere, novamque Vitam beati Alcuini ex propriis
+alius scriptis et Operibus a se vulgatis, concinnare
+<nobr><sub></sub></nobr> necessum duxit; illamque suae editioni, praefationis
+loco, praefixit. Quae quidem industria tunc sufficere
+potuit ad Alcuinum nostrum ex opusculis tunc detectis
+<nobr><sub></sub></nobr> plenius cognoscendum. Nihilominus cum ex scriptis
+noviter nunc repertis, quae D. Quercetani notitiam
+fugerunt, commentationi viri hujus clarissimi
+novam lucem conciliari, et quae adhuc obscura remanebant,
+plenius elucidari posse comperimus; operam
+nostram, in Vita beati viri de novo concinnanda,
+et quaestionibus quibusdam hinc inde motis enodandis
+positam, haud importunam aut inutilem fore judicabunt,
+ut confidimus, eruditi lectores; quorum
+tamen rationabili desiderio, Vitam nonnunquam primaevam
+ac ipsius D. Quercetani commentationem
+inspiciendi et consulendi, deesse noluimus, sed
+utramque ad finem hujus nostrae elucubrationis exhibebimus. 
+</p><p>
+</p><h4>CAPUT PRIMUM.</h4>
+<em>De beati Alcuini variis nominibus, patria, parentibus,
+fratribus, etc.</em>
+<p>I. Nomen Alcuini varie in variis scriptis ac codicibus
+exaratum reperitur. In vetustioribus quidem et
+<nobr><sub></sub></nobr> correctioribus chartis, in epistolis maxime quas
+coaevo prope charactere scriptas deprehendimus,
+nomen suum ipse, ut conjicere licet, frequentius expressit
+scribendo vel <em>Albinus</em> vel <em>Alchuinus, vel, dum
+ad Davidem suum, ad Homerum, ad Damoetam,</em> amicos
+alios familiarius scribebat, <em>Flaccus Albinus aut</em>
+<em>Albinus Flaccus.</em> Reliquas igitur appellationes, quales
+a posterioribus scriptoribus exaratae leguntur, ut
+<em>Alboinus, Alkoinus, Alchwinus, Alquinus, etc.,</em> imperitiae
+scribentium aut durae aspirationi dictantium,
+credam esse attribuendas. Nimis ergo acute nonnulli
+hujus nominis originem per fictas prorsus derivationes
+et vocum compositiones inquirunt cum Heutero,
+qui in Etymis <em>Alcwin interpretatur:</em> <em>undique</em>
+rem facientem augentemque, a verbo <em>Gwin, quod
+apud Germanos lucrum significat.</em> Caeterum, <em>Alcuin</em>
+seu <em>Alchuin nomen patrium Germano-Saxonicum
+fuisse videtur,</em> quod posthac meliore et Latino vocabulo
+<em>Albinus, efferre voluit;</em> prout fecisse apparet
+in epistola ad Elipantum scripta, qui in sua Responsoria
+<nobr><sub></sub></nobr> ad nomen istud alludens insigni scommate
+ipsum vocat <em>Albinum nigredine teterrimum.</em>
+</p><p>II. Pronomen <em>Flaccus, quod nonnunquam ante vel
+postposuit, e baptismate hausisse cl.</em> Quercetano in
+praefat. num. 2 visum est. Vero tamen similius est,
+nomen hoc esse ascititium, quo beatus Alcuinus inter
+familiares, quos in artibus liberalibus ac scientiis
+excolendis socios habuit, uti consuevit, ex more scilicet
+sui temporis, de quo in epistola 184 (nunc 125)
+ad Gundradam, cognomento Eulaliam ita scribit:
+«Saepe familiaritas nominis immutationem solet facere,
+sicut ipse Dominus Simeonem mutavit in Petrum,
+et filios Zebedaei, filios nominavit tonitrui:
+quod etiam in antiquis vel <em>his novellis diebus probare
+poteris.</em>» Flaccus ergo nomen fuit Alcuino ascititium,
+vel ab ipso electum; Alcuinus vero seu Alchuinus
+primaevum et proprium. Quapropter loco inscriptionis
+Operum illius, qua cl. Quercetanus, auctoritate
+Sixti Senensis et aliorum quorumdam deceptus,
+<nobr><sub></sub></nobr> primo, ut ipse fatetur num. 2 praefat. usus
+est, ponendo: <em>Albini Flacci Alchuini, nos ubique
+posuimus:</em> <em>Flacci Albini seu Alcuini;</em> in contextu
+vero nostro semper <em>Alcuinus scribimus, quod et frequentius
+fieri ab eruditis comperimus.</em> Verum in his
+diutius immorari operae pretium non est.
+</p><p>III. Sollicite vero cavendum est ne hic noster Albinus
+seu Alcuinus confundatur vel cum Albino abbate
+Cantuariensi, a ven. Beda in prologo et lib. V
+Hist. Angl., cap. 21, laudato, et ad quem ejusdem
+Bedae exstat epistola Analect. Mabillonii novae editionis
+pag. 398, vel cum Albino Leonis III papae cubiculario,
+cujus meminit Eginhardus in Annalibus
+ad annum 799, vel demum cum Albuino monacho
+Hersfeldensi. De duobus quidem posterioribus pauciores
+sunt, qui se in errorem hujus confusionis induci
+passi sunt; de priori vero Albino, cujus ven.
+Beda meminit, plerique paulo recentioris aetatis scriptores
+hallucinati sunt: et quidem Clemens Reynerus,
+<nobr><sub></sub></nobr> vir alias apprime doctus, Apostol. Benedict. in
+Anglia tract. I, sect. I, pag. 34 seqq., multis contendit,
+eumdem esse Albinum Bedae, quem vocat, discipulum
+et Caroli Magni magistrum; hancque ait
+esse communem historicorum traditionem; nec repugnare
+existimat aetatem Bedae et Alcuini (quam
+difficultatem D. Quercetanus obmovebat), quoniam,
+ut credebat, Alcuinus aetatem centum annorum attigit
+vel etiam superavit, quippe qui in epist. 38
+(nunc 43), ad Carolum, se senem valde annosum
+esse indicat.
+</p><p>IV. Verum hanc Reyneri opinionem solide reprobat
+R. P. Michael Alfort Annal. Eccles. Britan. tom.
+II, ad annum 710, num. 4 et seqq., demonstrans,
+traditionem historicorum quae praetenditur, nec communem
+esse, nec talium virorum, qui vetustatis haberent
+sigillum, sed quorumdam mediae aetatis, qui
+ad pauca respicientes facile pronuntiant. Istis ergo
+qui putant Alcuinum Cantianum fuisse, et coenobio
+<nobr><sub></sub></nobr> sancti Augustini ibidem praefectum, nominis similitudo,
+et temporum aliqua vicinitas imposuit, ut scribit
+Harpsfeldius saec. IX, c. 14, apud eumdem Alfortum
+l. cit. num. 8. Et sane, si scriptores illi narrationem
+ven. Bedae de Albino suo accuratius expendissent,
+suum errorem facillime deprehendissent.
+Narrat enim in libri V cap. 21 Albinum jam anno
+710 in regimine monasterii sancti Augustini Cantuariensis
+Adriano successisse: et in prologo laudat
+illum tanquam abbatem reverendissimum et doctissimum,
+non a se, sed a beatae memoriae Theodoro
+archiepiscopo et ab Adriano abbate in illa ecclesia
+Cantuariensi, ubi Beda nunquam munus docendi obivit,
+institutum fuisse. Insuper ven. Beda Albinum
+illum «sui opusculi Historiae gentis Anglorum auctorem
+ante omnes et adjutorem» laudat, cujus
+opera et consilio in illa Historia concinnanda se usum
+fuisse profitetur. Quae omnia profecto Alcuino nostro
+convenire haud posse, quisque vel parum attentus
+facile perspiciet. Consule, si placet, quae contra Reynerum
+<nobr><sub></sub></nobr> solide disputat Alfortus l. cit. Inferius pariter
+monstrabimus, beatum Alcuinum nunquam fuisse
+ven. Bedae discipulum. Anastasius Bibliothecarius
+in Vita Adriani I papae mentionem facit cujusdam
+<em>Albini,</em> quem vocat regis Caroli <em>deliciosum, qui cum
+Georgio episcopo et Gulfardo abbate missus sit a
+rege bellum Longobardicum suscepturo ad sedem
+apostolicam anno 773.</em> Verum hic Albinus deliciosus
+alius est ab Alcuino nostro, qui illo anno Eboraci
+adhucdum residens, necdum in Galliam transmigraverat.
+Vocatur tamen et ipse noster Alcuinus deliciosus
+regis Caroli a Sigeberto Gemlacensi, Trithemio
+et aliis, quorum testimonia suo loco inferius
+afferemus. Vide Mabil. libr. XXIV Annal., num. 45,
+pag. 226.
+</p><p>V. De hujus ergo nostri Flacci Albini seu Alcuini
+nunc patria et parentibus paucis, quantum ex certis
+monumentis elicere potuimus, disseramus. Illum in
+Scoticis Britanniae partibus natum fuisse quidam
+<nobr><sub></sub></nobr> Scotiae historici existimarunt, inter hos Buchananus,
+lib. V Hist., non a familia, sed a gente Scotorum,
+qui se Albinos sua lingua vocant, nomen suum traxisse
+contendit. Alios quoque, ut hic D. Quercetanus
+notavit, reperire est qui illum in comitatu Midlesexiae,
+non procul a Londino oriundum dixerunt.
+Verum nihil est quod in unius alteriusve partis patrocinium
+ex monumentis vetustatis possit adduci:
+illorum ergo scriptorum sententia unice probanda
+est, qui beatum Alcuinum ex proprio ipsius testimonio
+Eboraci in Northumbriae regno natum fuisse affirmant;
+ita enim ipsemet scribit in epist. 5 (nunc 6),
+ad Eboracenses: «Vos fragiles <em>infantiae meae annos
+materno fovistis affectu;</em> et lascivum <em>pueritiae tempus
+pia sustinuistis patientia,</em> et paternae castigationis
+disciplinis ad perfectam <em>viri edocuistis aetatem.</em>»
+Enimvero an non ibi natus censeatur, ubi non tantum
+in <em>virum</em> excrevit, sed et <em>pueritiam,</em> imo et <em>infantiam
+exegit? sed crebra forte,</em> quam beatus Alcuinus
+<nobr><sub></sub></nobr> in suis epistolis facit, Nordanhumbrorum
+mentio, qui regiones Scoticas usque ad Edinburgi
+fretum possidebant, praedictis scriptoribus rerum
+Scoticarum ansam dedit, inquit D. Quercetanus, ut
+in Scotia procreatum eum suspicarentur. Legi quoque
+de hac quaestione meretur Richardus Smitheus
+Florum Hist. eccles. Anglorum libro II, cap. 12,
+sect. 3, num. 2.
+</p><p>VI. Non eadem certitudine constat quo genere
+beatus Alcuinus, aut quibus parentibus fuerit oriundus:
+quod quidem ipsemet ferme tacuit, et nullus
+actuum illius aut Vitae scriptorum prodidit. Auctor
+Vitae ejus initio cap. 1, <em>nobili</em> illum <em>gentis Anglorum
+prosapia exortum asserit.</em> Et rursum num. 7 ejusdem
+cap. indicat, tyrones scholae Eboracensis, inter quos
+et Alcuinus numerabatur, e classe nobilium fuisse:
+<em>erat, inquit Ecgberto praesuli,</em> cujus disciplinae puer
+quoque Alcuinus traditus fuerat, <em>ex nobilium filiis
+grex scholasticorum.</em> Haec generis beati Alcuini nobilitas
+<nobr><sub></sub></nobr> inde maxime elucet, quod stirpi sancti Wiligis,
+patris sancti Willibrordi cognatione junctus fuerit,
+ac eo titulo cellam maritimam a sancto Wiligiso in
+promontoriis, mari Oceano et Humbri fluvio vicinis,
+constructam, ac deinceps a posteris suis possessam,
+ipse <em>legitima</em> (haereditaria, ut interpretor) successione
+obtinuerit, prout ipse testatur in epist. ad
+Beornradum, Vitae sancti Willibrordi in hac editione
+praefixa, et cap. 1 Vitae ejusdem. Porro de nobilitate
+generis sanctorum Wiligisi et Willibrordi Alcuinus
+in elegia, Vitae hujus sancti apposita, seu cap. 33,
+et de sancto Willibrordo ita canit:
+
+</p><p><em>Nobilis</em> iste fuit <em>magna de gente sacerdos.</em>
+
+De sancto Wiligiso vero:
+
+</p><p>Vir fuit in populo dignus, cognomine Wilgis, 
+<br>In Transhumbrana <em>nobile gente degens.</em>
+</p><p>Hinc B. Alcuinus Carolo Magno ipsum sub spe
+amplae mercedis vocanti respondit: <em>Libenter etiam</em>
+<nobr><sub></sub></nobr> paterna in regione mea non modica haereditate ditatus,
+hac spreta, tibi ut prodessem, hic pauper stare delector.
+Vitae cap. 2, num. 12.
+</p><p>VII. Et haec quidem pauca, nec plura de beati Alcuini
+genere; de parentum vero ejus nomine ac conditione
+nihil nobis aetas indulsit. Fratres tamen et
+sorores in Anglia habuit, quod ipse satis aperte
+indicat in epist. 102 (nunc 130), ad Aquilam, in qua
+huic intimo suo amico singularem, quo ipsum amplectebatur,
+amorem significans scribit: «Credas
+velim, Pater dulcissime, quod non tanta suavitate
+fratrum vel sororum litterulas legere potui ultramarinas,
+quanta tuae dilectionis transalpinas: nec tale
+post eos taedium fatigat cor meum, quale post tuae
+faciei visionem amabilem.» Inter fratres porro illius
+germanos an censendus sit idem Aquila seu Arno,
+episcopus primum ac deinde primus archiepiscopus
+Salisburgensis, quocum beatus Alcuinus per
+frequentes epistolas omnia sui pectoris arcana communicavit,
+non concordant scriptores. Viri quidam
+<nobr><sub></sub></nobr> celebres, Mabillonius, lib. XXIII Annal., pag. 87; et
+in Elogio hist. ad Vit. beati Alcuini, cap. 1, num. 3;
+Rivet., Hist Lit. Franc., tom. IV, pag. 296; Ceillier,
+<em>Hist.</em> Gén. des auteurs sacrés, tom. XVIII;
+Quercetanus in praefat., cap. 1, num 1, D. Catelinot
+in ms., nihil haesitantes pronuntiant, beatum Alcuinum
+Arnonis ejusdem fratrem germanum fuisse.
+Unicum pene, quo illi ad id asserendum moventur,
+argumentum, ducitur ex epistola 86 (nunc 91), quae
+inscribitur: <em>Charissimo germano meo Aquilae antistiti
+Albinus salutem, et ex epist.</em> 78 (nunc 83),
+ad
+fratres Juvavenses, ubi Aquilam illorum quidem patrem
+et pastorem, suum vero germanum vocat:
+«olim, inquit, pio Patri Aquilae pontifici, germano
+meo, pastori vestro, etc.» Huic nihilominus opinioni
+contradicunt alii pariter celebres scriptores,
+Cointius, Pagius, Hansizius et alii, qui vocabula
+illa fratris ac germani non de sanguinis, sed de animorum
+conjunctione accipienda esse recte judicant.
+<nobr><sub></sub></nobr> Legenti enim epistolas Alcuini ad Aquilam, ait Hansizius
+Germ. Sacrae tom. II, pag. 102, num. 12, satis
+apparet Alcuinum de industria collegisse titulos
+omnes exprimendae sincerissimae charitatis et amicitiae
+qua in Arnonem tanquam alter Pylades ferebatur,
+quas amoris significationes supervacaneum
+sane erat fratri consanguineo toties ingerere. Praeterea
+haud vero simile est, prout D. Mabillonio videbatur,
+Arnonem in Britannia, quae Alcuini patria
+fuit, natum; sed potius Saxonem vel Bojum fuisse,
+et adolevisse in gremio ecclesiae Frisingensis, ut
+idem vir cl. D. Hansizius argumentis haud contemnendis
+contendit ibidem, num. 1 et seqq. Committere
+haud possum quin hujus aliorumque doctorum virorum
+judicio meum quoque adjungam, cui ex sequentibus
+insuper rationibus robur addi posse existimo. Etenim
+in epistolis 76 (nunc 91) et 92 (nunc 108) Alcuinus
+ipsemet sat aperte declarat quo sensu Aquilam
+fratrem suum appellet, charitate nimirum, non consanguinitate.
+<nobr><sub></sub></nobr> In priori enim exoptat ut verba salutationis
+in chartula per manus currentis viatoris
+citius veniant ad «filium charitatis meae, qui est
+pater meritis, frater charitate, filius aetate.» In posteriore
+quoque Aquilam rogat, ut ne velit oblivisci
+«patrem senio, filium meritis, fratrem charitate.»
+Et initio epist. 115 (nunc 154) explicare videtur se
+potius fideli familiarique consuetudine quam nativa
+germanitate suo Aquilae conjunctum esse, ait enim:
+«Solet charitas olim germanitate fideli compacta
+novis saepius litteris reformari, ut firma agnoscatur
+in fide, quae est dulcis in consuetudine.» Similiter
+epistolam 177 (nunc 118) <em>dilectissimo filio Aquilae
+inscriptam ita incipit:</em> «Scio te patrem esse dignitate
+et meritis, sed ex charitatis dulcedine (filii) tibi
+nomen imposui, quia nihil debet patri charius esse,
+quam filius.» In his omnibus plane nihil apparet
+unde concludi possit beatum Alcuinum Aquilam
+suum agnovisse fratrem consanguineum, sed semper
+<nobr><sub></sub></nobr> illum eo affectu appellasse fratrem, quo filium,
+nimirum ex dulcedine charitatis. Imo ex verbis
+epist. 102 (nunc 130) paulo ante citatis potius intelligitur
+Aquilam a beato Alcuino in fratrum numero
+non computari; ibi siquidem contestatur
+<em>Aquilae dulcissimo Patri quod magis illius epistolis
+delectetur, quam iis quas a fratribus ac sororibus
+suis in Britannia relictis acciperet.</em> Si aeque illum
+fratrem naturalem habuisset, alio certe stylo usus
+fuisset, ex quo intelligi possit se Aquilam fratrem
+inter alios fratres habere chariorem. Si vero cuipiam
+placuerit, haec ipsa epistolae 102 verba interpretari
+de fratribus ac sororibus non naturalibus,
+sed affectu dilectionis ita vocatis, non repugnabo:
+hoc ipso etenim innotescet, quo sensu beatus Alcuinus
+alios quoque amicos, et maxime Aquilam
+suum appellare fratres consueverit.
+</p><p>VIII. Cognitis jam iis quae de patria, parentibus
+ac fratribus beati Alcuini ex citatis documentis elicere
+licuit, nullam diligentiam intermisimus, qua
+<nobr><sub></sub></nobr> vel ex vita ejus primaeva, vel ex Alcuini ipsius scriptis,
+vel ex aliis vetustis monumentis tempus aut
+annus nativitatis illius erui ac determinari possit;
+verum nullibi certi quidpiam ad hoc praestandum
+subvenit. Celebriores nostrae aetatis scriptores in eo
+fere conveniunt, beatum Alcuinum ante obitum
+Ven. Bedae, hoc est, ante annum 735 vix natum
+fuisse. Mabill. lib. XXI Annal., num. 17, pag. 94, et
+lib. XXIII, num. 37, pag. 187; Rivet. Hist. Lit. Franc.
+tom. IV, pag. 295; Ceillier Hist. Gén. des auteurs
+sacrés, tom. XVIII, pag. 248. Illi ergo annum nativitatis
+beati Alcuini circa annum 735, quo, ut
+paulo inferius patebit, Ven. Beda obiit, constituunt;
+quorum calculum et nos vel idcirco sequimur, quod
+is cum reliquis actis vitae suae optime conveniat
+et in nullo dissentiat. 
+</p><p>
+</p><h4>CAPUT II.</h4>
+<em>Beati Alcuini educatio et magistri.</em>
+<p><nobr><sub></sub></nobr> IX. Beatum Alcuinum Eboraci ut natum, ita et
+educatum fuisse supra cap. 1, num. 5, ostendimus.
+Exactis prope in monasterio ibidem annis pueritiae,
+haustisque primis scientiarum elementis, cum jam
+psalmorum lectionem memoriter teneret, traditur
+disciplinae Hechberti seu Egberti illius sedis archiepiscopi,
+fortioribus jam scientiarum ac pietatis cibis
+alendus, ut scribit Vitae ejus auctor cap. 1, num.
+7. Successerat praesul ille religiosissimus Wilfrido
+juniori solitudinem petenti in cathedra Eboracensi non
+anno 735, ut Alfortus ad hunc annum, num. 18, et ad
+annum 738 num. 1, contendit, sed anno 732, prout
+testatur vetus scriptor, qui post Bedam historiam
+Anglorum continuavit et ad hunc annum, quo Cymbertus
+Lindisfarorum episcopus obiit, etiam ordinationem
+Ecgberti retulit. Constat porro ex ipso Alcuino
+in poemate de episcopis Eboracensibus Ecgbertum
+sedem Eboracensem tenuisse annis triginta
+quatuor:
+
+</p><p><nobr><sub></sub></nobr> Rexit hic ecclesiam triginta et quatuor annis.
+
+Ex consensu vero auctorum indubium est, ut ipsemet
+Alfortus fatetur, Ecgertum obiisse anno 766.
+Ab hoc anno si illos 34 subtraxeris, remanet annus
+732 initi regiminis episcopalis. Hic episcopus Ecgbertus,
+quem Malmesburiensis omnium artium liberalium
+armarium vocat, in monasterio suo scholam
+constituit filiorum nobilium, quorum alii artis grammaticae
+rudimentis, alii disciplinarum liberalium
+studiis, alii divinarum Scripturarum scientia instruebantur.
+Hos omnes condiscipulos suos Alcuinus
+litterarum ac pietatis studio anteibat; suo vero magistro
+cum tanta confidentia et fidelitate adhaerebat,
+ut nihil ageret quod magistri auctoritas non probasset:
+adeo ut arcana quoque cordis sui, imo et stimulos
+libidinis, quibus aliquando impetebatur, eidem
+aperire non erubesceret, non ignarus illius
+quod sanctissimus monachorum legislator Benedictus
+cap. 8 suae regulae suis sectatoribus praescripsit,
+<nobr><sub></sub></nobr> «ut malas cogitationes cordi suo advenientes abbati
+non celent suo.» Quod sane praesentissimum remedium
+est pro domandis tentationibus illis periculosissimis.
+</p><p>X. Ecgberto anno 766 XIII Kal. Decembris mortuo
+Alcuinus «divino munere Elcbertum seu Aelbertum
+virum beatum et clarum loco amissi magistrum
+accepit,» ut scribit auctor Vitae cap. 2, num. 9,
+quod non ita intelligendum esse censeo, quasi Aelbertus
+ille modus docendi in schola Eboracensi non
+obtinuerit vivente adhuc Ecgberto, sed primum post
+illius obitum. Illum enim magistrum scholae Eboracensis
+ab Ecgberto adhuc in vivis agente rectorem
+constitutum fuisse ipse Alcuinus testatur in poemate
+de Pont. Eborac., ubi postquam narravit Aelbertum,
+jam sacerdotem ordinatum, suo pontifici semper
+individuum comitem adhaesisse, addit:
+
+</p><p>A quo defensor clero decernitur omni, Et simul Euborica praefertur in urbe magister.
+
+<nobr><sub></sub></nobr> Quamvis ergo Ecgbertus apostolico zelo ductus nunquam
+a munere docendi pueros et adolescentes cessaverit,
+praecipuam tamen scholarum curam, sollicitudine
+suae ecclesiae plurimum impeditus, Aelberto
+demandavit, cui etiam maxime tanquam proprio
+ac praecipuo suo magistro, Alcuinus omnem pene
+suum in litteris profectum in eodem poemate refert
+acceptum. Hinc illum a sapientia, doctrina et munere
+docendi unice depraedicat, ostendens quas ante
+adeptum episcopatum varii generis disciplinas docuerit;
+quod exteras etiam regiones adierit:
+
+</p><p>Sophiae deductus amore; Si quid forte novi librorum seu studiorum
+Quod secum ferret, terris reperiret in illis.
+
+In hac peregrinatione litteraria Aelbertus, opinor,
+Alcuinum adolescentem comitem habuit; de hac
+enim interpretor initium epistolae 222 (nunc 53),
+ubi ait, se olim magistri sui vestigia secutum apud
+Corbeienses [<em>An Morbacenses?</em>] divertisse, illiusque
+<nobr><sub></sub></nobr> congregationis laudabilem conversationem vidisse
+et amasse. Vid. notas ad eamdem epistolam.
+Narrat praeterea Alcuinus in cit. loc. quod Aelbertus
+ex illo itinere rediens pastoralem quidem curam
+sumere compulsus sit, nihil tamen in illo munere
+a studio legendi ac docendi remiserit:
+
+</p><p>Sed neque decrevit, curarum pondera propter, Scripturas fervens industria prisca legendi, Factus utrumque, sagax doctor, pius atque sacerdo.
+
+Demum narrat quod idem Aelbertus praesul plenus
+dierum ac meritorum ante obitum suum Eanbaldo
+condiscipulo suo pontificale decus, sibi vero librorum
+gazas, seu bibliothecae optimis libris refertae
+curam ipsumque scholae regimen tradiderit. De quo
+redibit sermo infra cap. 4.
+</p><p>XI. Quoniam de magistris beati Alcuini sermonem
+coepimus, inquirere porro baud supervacaneum,
+imo necesse erit, num iis quoque Ven. Beda sit accensendus?
+quod quidem scriptores anterioris aetatis
+<nobr><sub></sub></nobr> pene omnes veluti indubitatum supponunt, recentiores
+vero omnia ad severiorem crisin vocantes
+refutant, et gravibus rationibus demonstrant Ven.
+Bedam obiisse prope annum 735 quo beatum Alcuinum
+vix natum, aut certe disciplinis severioribus
+minus aptum adhuc fuisse credunt. Certe puer erat
+cum primo traditus fuit disciplinae Ecgberti archiepiscopi
+Eboracensis anno 732, ut paulo ante diximus,
+ordinati. Obiit vero Ven. Beda primis annis episcopatus
+ejusdem antistitis, uti constat ex ipsius Alcuini
+testimonio in fine hujus cap. referendo: nimirum
+anno 735 triennio post Ecgberti ordinationem,
+quando Alcuinus lucem vix aspexisse creditur, aut
+certe, ut primum diximus, puer erat.
+</p><p>XII. Verumenimvero de aetate Ven. Bedae longe
+aliter sentit celebris scriptor Franciscus Chiffletius
+in dissertatione, quam novae suae editioni Hist. Eccles.
+Gentis Anglorum a Ven. Beda compilatae praemisit,
+ubi pluribus argumentis evincere conatur,
+vir doctus, Ven. Bedam vitam suam usque ad annum
+<nobr><sub></sub></nobr> 762 produxisse, ac demum nonagenarium obiisse,
+ut vitae Alcuini scriptor testatur. Quod si verum sit,
+tunc sane aetas haud repugnaret, quin Alcuinus potuerit
+esse Bedae discipulus; eo siquidem anno 762,
+ipse prope triginta annos aetatis numerasset. Haec
+ergo Chiffletii singularis sententia absque discussione
+praeteriri nequit.
+</p><p>XIII. Praecipuum et pene unicum quo haec illius
+sententia niti videtur fundamentum structum est super
+testimonio, quod nullam, ut ipse putabat, patitur
+exceptionem, testis nimirum oculati, qui viro
+beato in extremis constituto astitit, Cuthberti scilicet
+ejus discipuli, cujus exstat de transitu Ven. Bedae
+epistola ad Cuthwinum, edita saepius, et apud Mabillonium
+Act. SS. saec. III Ben., part. I, pag. 537, et
+emendatior, ut praetenditur, a Chiffletio cit. opere,
+cap. 2 dissertationis, pag. 11. Argumentum suum
+Chiffletius ita instruit cap. 1, p. 4: «Cuthbertus diserte
+ait Bedam beatam animam exhalasse <em>quarta</em>
+<nobr><sub></sub></nobr> feria ad vesperam, septimo Kal. Junii, sive die mensis
+Maii 26 accurate. Fuit enim anno Christi 762
+Pascha 18 Aprilis, Ascensio Maii 27. Quod ergo praemiserat
+Cuthbertus, vitam duxisse usque ad diem
+Ascensionis Dominicae, exclusive intelligendus est,
+vel accipiendus de die ecclesiastico Ascensionis, qui
+a primis vesperis, adeoque a feria quarta exeunte incipiebat.»
+Ita Chiffletius. Ast nescio qua subreptione
+deceptus vir doctus asserere potuerit Cuthbertum
+diserte dixisse: <em>Bedam beatam animam exhalasse</em>
+quarta feria ad vesperam, VII <em>Kalendas Junii.</em> Feriam
+quartam enim illo Kalendarum Junii die accidisse, in
+Cuthberti epistola minime legimus; sed sat aperte
+ibi dicitur, festum ipsum Ascensionis illo die, VII Kal.
+Junii, celebratum fuisse. Postquam enim Cuthbertus
+circa epistolae initium narravit Bedam duabus fere
+ante Resurrectionis festum hebdomadis morbo correptum
+vitam duxisse <em>usque ad diem Ascensionis, id
+est, septima Kal.</em> Junii (ita enim ibi verba nectit)
+<nobr><sub></sub></nobr> post longius intervallum narrat, quod <em>feria quarta a
+mane usque ad vesperam diem duxerit,</em> ac demum decantans
+<em>Gloria Patri, etc.,</em> spiritum e corpore ultimum
+exhalaverit. Haec profecto narratio sensum quem D.
+Chiffletius comminiscitur haud insinuat, nimirum Ven.
+Bedam animam exhalasse <em>feria quarta ad vesperam</em>
+VII <em>Kal.</em> Junii; sed hunc unice, ut textus habet, <em>vitam
+duxisse usque ad diem Ascensionis Dominicae, id
+est, septimam Kal.</em> Junii. Quod idem plane sonat,
+ac si dixisset: Vitam duxit usque ad diem Ascensionis,
+id est, usque ad VII Kal. Junii, ita nimirum, ut
+ex mente Cuthberti eadem fuerit dies septima Kal.
+Junii et dies Ascensionis Dominicae. Testimonium
+igitur Cuthberti, in quo D. Chiffletius maximum suae
+sententiae praesidium collocabat, illi potius refragatur,
+quia dies Ascensionis ex computi legibus non
+anno 762, sed anno 735 in diem 26 Maii, hoc est, VII
+Kal. Junii, incurrit.
+</p><p>XIV. Cum igitur praecipuum argumentum, quo cl.
+<nobr><sub></sub></nobr> Chiffletius obitum Ven. Bedae ad annum 762 usque
+producere voluit, illius intentioni minime faveat, sed
+ex illo Cuthberti testimonio potius relatio auctoris
+Chronologiae Hist. Gent. Angl. adjectae, Simeonis
+quoque Dunelmensis seu Turgoti libr. II de Dunelm.
+eccles. cap. 4. Stubesii Dominicani in Act. Pont.
+Eborac. atque virorum doctissimorum, Pagii Mabillonii
+aliorumque recentiorum criticorum sententia,
+qua obitus Bedae in anno Christi 735 statuitur, confirmetur;
+reliqua argumenta, quibus D. Chiffletius
+ex testimonio scriptoris Vitae Alcuini, ex Carthusianorum
+Coloniensium additione ad Martyrologium,
+ex epitaphio Bedae a Wione Ligni Vitae libr. V, cap.
+101 relato, ac demum ex epistolis quibusdam Lulli
+archiepiscopi Moguntini, Bedam nonagenarium obiisse
+probare contendit, omne ad id persuadendum pondus
+amittunt. Nam additiones illae Carthusianorum
+Coloniensium ad Usuardi Martyrologium recentiores
+sunt quam ut fidem contra tot alia antiquiora testimonia
+facere queant, ut pote factae ac editae primum anno
+<nobr><sub></sub></nobr> 1521, ut ipsemet Chiffletius fatetur. Similiter recentius
+est epitaphium illud apud Wionem, in quo legitur
+incomptus hic versus:
+
+</p><p>Annos in hac vita ter duxit vitae triginta,
+
+quodque sacris reliquiis Bedae inditum fuisse monet
+Wion, postquam e Girvo, ubi primum sepultae jacebant,
+Dunelmum translatae fuere circa annum millesimum,
+trecentis prope annis post ven. viri obitum:
+nihil vero ejusmodi legitur in altero epitaphio, quod
+ex cod. Thuanaeo edidit Mabill. ad Vitam Ven. Bedae,
+pag. 539. Vide etiam Acta SS. Antverpiensia ad diem
+27 Maii, not. e. Occasionem erroris de Bedae aetate
+nonaginta annorum abs dubio praebuit scriptor Vitae
+beati Alcuini, quem etiam pro sua opinione D. Chiffletius
+adhibuit, scribens cap 1, num. 7 Bedam <em>nonagenarium
+ad Dominum migrasse.</em> Verum scriptor ille
+sat clare significat, se de ea re nihil certi habere,
+<nobr><sub></sub></nobr> sed ex quorumdam narratione id accepisse ait; non
+ergo a Sigulfo Alcuini discipulo ac socio, a quo reliqua
+beati Alcuini acta didicerat, eam quoque notitiam
+de aetate et obitu Ven. Bedae hausit, sed ab aliis quibusdam,
+quorum fidei id dubius reliquit. Similem
+fabulam ex aliorum relatione idem scriptor ibi subjunxit
+de tempore quod Beda in scribendis libris suis
+insumpsit: «Decimo nono aetatis suae anno, inquit,
+levita, trigesimo vero sacerdos efficitur, a quo tempore,
+quae ante per triginta annos didicerat Ecclesiae
+profutura usque quinquagesimo nono, cum sudore
+non inerti, dignis memoria libris inserere proprio
+stylo studuit. Per alios autem triginta annos, ferunt
+ea, quae scripserat, correxisse.» Figmentum! evilescit
+sane penitus hoc praefati scriptoris testimonium,
+dum ibidem scribit, Bedam anno 731, die Ascensionis
+Dominicae, VII Kal. Junii obiisse, et nonagenarium
+ad Dominum migrasse, ubi scriptor ille multipliciter
+allucinatur. Quomodo enim scribitur (verbis utor
+<nobr><sub></sub></nobr> ipsius D. Chiffletii l. cit. pag. 6) Beda obiisse anno
+Christi 731 nonagenarius, qui anno eodem testatur,
+fuisse se annorum non amplius quinquaginta novem?
+Aut quomodo dici potest, obiisse Beda anno 731, die
+Ascensionis Dominicae, et VII Kal. Junii, cum ex veteris
+computi regulis certissimum sit, illo anno 731
+Ascensionem Domini non VII Kal. Junii, sed VI Idus
+Maii evenisse? Allucinationem quidem istam D. Chiffletius
+non auctoris, sed librarii vitio tribuendam, et
+idcirco loco 731 legendum existimat 762 prout ipsum
+auctorem scripsisse non dubitat. Verum quis non
+palpet hanc Chiffletii conjecturam, nullo adhibito
+idoneo argumento, ex praecepta semel opinione manasse.
+Testimonium ergo scriptoris Vitae beati Alcuini
+tam evidenter allucinantis pro confirmatione
+opinionis Chiffletianae ineptum et inidoneum
+est.
+</p><p>XV. Demum haud majoris ponderis est argumentum
+quod D. Chiffletius ex quibusdam epistolis beati
+<nobr><sub></sub></nobr> Lulli archiepiscopi Moguntini, quae inter Bonifacianas
+tom. XIII, Bibl. Patrum ex editione Nicolai Serrarii
+recensentur, instruit, ex quibus vir doctus evincere
+contendit, Ven. Bedam non nisi post martyrium
+sancti Bonifacii e vita migrasse, atque adeo ultra annum
+755 in vivis egisse et nonagenarium obiisse. Ita
+vero ipse loc. cit. pag. 6 et 7 ex epistolis 89, 95, 111
+et 150 ratiocinatur: «Epistola 150, in qua Beda
+<em>nuper in Ecclesia fulsisse dicitur, male sancto Bonifacio
+Moguntino in editis ascripta est, cum vere sit
+Lulli ejus successoris, quod gemina ratione sic
+ostendo:</em> prior petitur ex tribus epistolis supra memoratis.
+Per primam petierat Lullus a Cuthberto
+omnia Bedae opuscula, e quibus cum pauca obtinuisset,
+quorum mentio in epistolis 89 et 95, supererat,
+ut reliqua quae sibi deerant postularet, hoc vero facit
+epistola illa 150. Altera ratio est quod constet
+Bedam Bonifacio fuisse superstitem; etenim Bonifacius
+glorioso martyrio vitam sibi in coelum stravit
+<nobr><sub></sub></nobr> anno Christi 755. Porro Lullus post Bonifacium jam
+episcopus misit pallam holosericam ad cohonestandas
+Bedae recens exstincti reliquias: ejusdem ergo Lulli
+est epistola illa ad Cuthbertum abbatem, quae est in
+collectione centesima quinquagesima, in qua Bedae
+<em>nuper in Ecclesia lucentis, adeoque tunc vita jam
+perfuncti, mentionem facit.</em>» His praemissis ita concludit
+Chiffletius: «Cum igitur ex his liquido appareat
+Bedam in vivis fuisse ultra annum Christi 755,
+examussim aetas ejus nonagenaria quam ex ejus epitaphio
+aliisque argumentis astruximus, obitum ejus
+defigit anno 762 qui fuit Lulli post Bonifacium sedentis
+septimus.»
+</p><p>XVI. Mirum certe est Chiffletium ex rationibus levissimis
+et pene nullis epistolam 150 collectionis illius,
+sancto Bonifacio abjudicare, et beato Lullo vindicare
+voluisse. Prior quidem ratio probat Lullum ita scribere
+potuisse, uti scripsit auctor epistolae 150, non
+vero probat Lullum, et non Bonifacium, ita revera
+scripsisse. Altera ratio est aperta petitio principii.
+<nobr><sub></sub></nobr> Lullum enim esse epistolae 150 auctorem inde concluditur,
+quod ipse jam episcopus post sanctum Bonifacium
+anno 755 martyrio coronatum, illam scripserit,
+et cum illa miserit pallam holosericam ad cohonestandas
+Bedae recens exstincti reliquias. Imo Bonifacium
+Bedae fuisse superstitem ex aliis certe genuinis
+ejusdem epistolis, in collectione illa saepius memorata
+8 et 9, evincitur. In prima siquidem vir sanctus
+petit ab Egberto archiepiscopo Eboracensi ut sibi ex
+opusculis Bedae aliquos tractatus conscribere et dirigere
+dignetur, «quem, inquit, nuper, ut audivimus,
+divina gratia in vestra provincia fulgere concessit.»
+In epistola 9 ab Huetberto abbate similiter «rogat, ut
+aliqua de opusculis sagacissimi investigatoris Scripturarum
+Bedan monachi, quem nuper in domo Dei, inquit,
+apud vos . . . fulsisse audivimus conscripta nobis
+transmittere dignemini.» Sicut ergo Chiffletius
+ex verbis epistolae 150, quibus mentio fit Bedae <em>nuper
+in Ecclesia lucentis, infert ipsum tunc vita jam defunctum,</em>
+<nobr><sub></sub></nobr> ita ex simili mentione, quam facit sanctus
+Bonifacius in epistolis 8 et 9 recte infertur, Bedam
+ante martyrium sancti Bonifacii, atque adeo ante annum
+755 obiisse: et cum sanctus Bonifacius in praefatis
+epistolis eodem stylo utatur, quo utitur auctor
+epistolae centesimae quinquagesimae, nulla causa subest
+cur haec, de cujus auctore nemo ante D. Chiffletium
+dubitavit, eidem sancto Germanorum apostolo
+abjudicetur. Advertendum vero hic esse moneo, epistolam
+150 praefatae collectionis, quam Serrarius tanquam
+ineditam ex Baronio tom. IX Annal. pag. 96
+descripsit, non differre ab epist. 9 ejusdem collectionis,
+sed unam eamdemque esse cum illa, cum hac solum
+differentia, quod ubi in priori, nempe 150, legitur:
+«Rogamus, ut reliqua, etc.» in posteriori nempe 9
+legatur: «Rogamus ut aliqua, etc.;» et ubi in ista
+legitur: «Et si vobis laboriosum non sit, ut cloccam
+unam transmittatis,» in illa legatur: «ut
+eorum unum (apud Baronium, partem unam) nobis
+<nobr><sub></sub></nobr> grande solatium peregrinationis nostrae transmittatis.»
+</p><p>XVII. His quae hucusque adversus D. Chiffletium
+disputavimus robur accedit insuperabile ex testimonio
+ipsius Alcuini, qui in Poemate de Pontif. Eborac.
+scribit Bedam obiisse primis annis episcopatus Egberti
+illius Ecclesiae archiepiscopi. Ita ibi canit:
+
+</p><p><em>Temporibus primis praefati praesulis almi, Presbyter eximius meritis cognomine Beda.</em> Astra petens clausit praesentis lumina vitae.
+
+Egbertus, ut supra monstravimus cathedram Eboracensem
+conscendit anno 732, obiit vero anno 766;
+Bedae ergo vita attingere non potuit, ut Chiffletio visum
+est, annum 762, qui non ad primos, sed ad ultimos
+annos episcopatus Egberti pertinet.
+</p><p>XVIII. Verum longior singularis illius sententiae D.
+Chiffletii discussio supervacanea fortassis, et ab hoc
+loco extranea cuiquam videri possit; illam tamen ob
+ipsam illius singularitatem praeterire non potuimus,
+<nobr><sub></sub></nobr> ut jam nihil dubii relinquatur beatum Alcuinum circa
+annum 735 Ven. Bedae, jam anno eodem defuncti, discipulum
+esse non potuisse. 
+</p><p>
+</p><h4>CAPUT III.</h4>
+<em>Beati Alcuini professio monastica ex observationibus
+D.</em> Mabillonii
+<p>XIX. Postquam in prioribus capitibus ostensum
+fuit, beatum Alcuinum in ecclesia Eboracensi sub
+magisterio Egberti et Aelberti ab infantia educatum,
+nutritum, ac virtutibus scientiisque excultum fuisse,
+hoc loco incongruum haud videbitur inquirere, quodnam
+ibi genus vitae, canonicorum videlicet seu clericorum,
+an monachorum professus fuerit. Et hoc quidem
+argumentum Mabillonius a nemine suo tempore
+tractatum invenit, licet scriptores quidam, praesertim
+Benedictini, virum beatum suis accenserent,
+nonnullis recentioribus contradicentibus. Quapropter
+vir ille celeberrimus et in similibus rebus tractandis
+<nobr><sub></sub></nobr> exercitatissimus, id argumenti in elogio ad Vitam
+beati Alcuini accuratius tractandum sibi sumpsit,
+atque utriusque partis rationes, non quae hactenus
+prolatae sint, sed quae proferri possint, bona fide in
+medium adduxit, quas hoc loco in compendium contractas
+exhibere lectoribus gratius fore duximus,
+quam si easdem cum omni sua prolixitate, vel nostras,
+in materia a viro illo celeberrimo pene exhausta,
+obtrudere voluissemus. Pauca nihilominus,
+quae firmandae D. Mabillonii sententiae apta fore credidimus,
+nonnunquam immiscere placuit.
+</p><p>XX. Primo loco Mabillonius invicte probat, Alcuinum
+in ecclesia Eboracensi non solum educatum,
+verum etiam illi tanquam membrum incardinatum
+et astrictum fuisse; quod nemo non concedet, qui
+epistolas Eboracensibus fratribus ab ipso scriptas
+perlegerit. In epistola enim alias 7 (nunc 6) illius
+ecclesiae filium se profitetur, non tantum ob gratiam
+educationis aut subjectionis (quo nomine omnes
+<nobr><sub></sub></nobr> Christiani matris Ecclesiae filii dici possunt) sed adoptionis
+causa, qua illorum congregationi tanquam
+membrum et ejusdem ovilis, domus, familiaeque particeps
+aggregari meruit. In illa communitate continuo
+vitam duxit, ad illam quandoque peregrinatus obedientia
+tractus reversus est; ibi bibliothecae custos,
+ibi scholae moderator fuit, quod officium in communitatibus
+religiosis extraneis, si domestici ad hoc
+idonei reperiuntur, rarius committi solet. Inde venit
+quod Alcuinus, mortuo Eanbaldo seniore archiepiscopo
+Eboracensi, dum ipse in Gallia versabatur, ad
+electionem novi praesulis vocatus fuerit: ad quam
+quo minus accedere potuerit, febrium acerbitatem
+et tardationem regis in Saxonia impedimento fuisse
+scribit in epist. 48 et 49 (nunc 54 et 55).
+</p><p>XXI. Haec cum ita se habebant, dubitari jam minime
+potest quin beatus Alcuinus institutum illud,
+quod in illa ecclesia et communitate tunc vigebat, professus
+sit. Institutum vero illud <em>primo monasticum</em>
+<nobr><sub></sub></nobr> fuit. Nam Ven. Beda in epist. ad Egbertum antistitem,
+Eboracensem congregationem <em>monasterium vocat:</em>
+ibi servabatur <em>regularis vitae disciplina.</em> In epistola
+enim 5 (nunc 6) Alcuinus fratres Eboracenses ad
+illius observantiam adhortatur: «Regularis, inquit,
+vitae vos ordinet disciplina.» Quibus verbis ipse monasticam
+disciplinam intelligit; addit enim: «et
+ecclesiasticae pietatis moderatio venerabiles efficiat:»
+ubi differentiam regularis ab ecclesiastica seu clericali
+disciplina insinuat, et ad utramque hortatur,
+quia utramque illi fratres profitebantur. Ibi similiter
+eos, uti alios monachos in aliis epistolis, hortatur
+ad humilitatem et obedientiam, quae sunt virtutes
+monachis propriae et monasticae vitae fundamentum.
+Porro in poemate de Episcopis Eboracensibus
+Wilfridum juniorem, antequam episcopus ordinatus
+fuisset, Euboricae <em>vicedomnum et abbatem fuisse ait,
+quia nimirum in ecclesiis cathedralibus monachorum,
+praeter episcopum erat etiam abbas,</em> qui regularis
+<nobr><sub></sub></nobr> vitae maxime curam gerebat. Ibidem Aelbertus,
+Wilfridi post Ecgbertum successor in <em>monasterio</em>
+ (nempe Eboracensi) a puerilibus annis traditus, et
+post exactos annos decem pontificatus eadem monasterii
+septa, ut Deo soli serviret, repetiisse perhibetur.
+Demum sanctus Liudgerus Eboraci, Alcuino
+praeceptore, <em>in monasterio monachorum eruditus
+fuisse memoratur in anonymi libello de Vita sancti
+Liudgeri apud Mab.</em> Act. SS. saec. IV Bened. part. I,
+pag. 37, cap. 5. Ergo in Eboracensi congregatione
+monasticum institutum tunc viguit; et quidem <em>secundo
+Benedictinorum.</em> Nam sanctus Wilfridus I
+archiepiscopus Eboracensis in sua dioecesi regulam
+sancti Benedicti invexisse, et ejus ope instituta ecclesiarum
+meliorasse perhibetur ab Eddio Stephano
+apud Mabill. ibidem in Vita sancti Wilfridi cap. 14,
+quem locum idem Mabill. egregie illustrat ibi in observ.
+praev. num. 10 et 11, pag. 673. Quid, quod Joan.
+diaconus in Vita sancti Gregorii Magni, lib. IV, cap.
+82 testetur, quod «tunc vix poterat in illis partibus
+<nobr><sub></sub></nobr> monachus aliquis inveniri, a quo non observaretur
+tam in proposito quam in habitu regula sancti Benedicti.
+His ratiociniis D. Mabillonii aliud addere liceat
+ex epist. 58 (nunc 73) ad Calvinum presbyterum, ex
+qua intelligitur, illum fuisse membrum ecclesiae Eboracensis,
+concurrens ad electionem episcopi illius
+sedis; et illum cum monachis in cella sancti Stephani
+monachum vixisse, ibi enim Alcuinus Calvinum adhortatur,
+ut praeter virtutes alias, etiam discretioni
+studeat, «quae, inquit, inter monachos mater virtutum
+esse dicitur,» nempe in regula sancti Benedicti
+cap. 64.
+</p><p>XXII. <em>Repones.</em> Sigulfum et Fridugisum Alcuini
+discipulos et in schola ecclesiae Eboracensis educatos,
+habitu canonico usos fuisse. Respondet D. Mabillonius,
+1o non tamen de illis 

@@ -5,7 +5,9 @@ from .utils import handle_uploaded_file, get_existing_files, estimate_total_cost
 import os
 import json
 import logging
+import openai
 from logging.handlers import RotatingFileHandler
+from time import time
 
 # Set up logging
 logger = logging.getLogger(__name__)
@@ -167,41 +169,60 @@ def delete_processed(filename):
         flash(f"File {filename} not found.")
     return redirect(url_for('app.index'))
 
-# @bp.route('/clean/<filename>', methods=['POST'])
-# def clean(filename):
-#     logger.info(f"Cleaning file: {filename}")
-#     processed_folder = current_app.config['PROCESSED_FOLDER']
-#     file_path = os.path.join(processed_folder, filename)
-    
-#     try:
-#         with open(file_path, 'r', encoding='utf-8') as file:
-#             content = json.load(file)
+@bp.route('/translate_title', methods=['POST'])
+def translate_title():
+    try:
+        text = request.json.get('text', '')
         
-#         cleaned_chunks = []
-#         for chunk in content['chunks']:
-#             original_latin = chunk['original_latin']
-#             translated_english = chunk['translated_english']
-            
-#             # Clean both original Latin and translated English
-#             cleaned_latin = clean_ssml_tags(preprocess_ssml_tags(original_latin))
-#             cleaned_english = clean_ssml_tags(preprocess_ssml_tags(translated_english))
-            
-#             cleaned_chunks.append({
-#                 "chunk_number": chunk['chunk_number'],
-#                 "original_latin": cleaned_latin,
-#                 "translated_english": cleaned_english
-#             })
+        # Format the prompt with specific instructions
+        formatted_prompt = f"""Please translate this Latin text as a title or chapter name following these rules:
+        1. If it's a chapter, spell out all numbers (including Roman numerals). Example: 'Caput I' should become 'Chapter One'
+        2. If there's a title and author, present the title first, followed by the author
+        3. Standardize the formatting
         
-#         content['chunks'] = cleaned_chunks
+        Text to translate: {text}"""
         
-#         # Save the cleaned content back to the file
-#         with open(file_path, 'w', encoding='utf-8') as file:
-#             json.dump(content, file, ensure_ascii=False, indent=2)
+        api_key = os.getenv('OPENAI_API_KEY')
         
-#         logger.info(f"File cleaned successfully: {filename}")
-#         flash(f"File {filename} has been cleaned successfully.")
-#     except Exception as e:
-#         logger.error(f"Error cleaning file {filename}: {str(e)}", exc_info=True)
-#         flash(f"Error cleaning file {filename}: {str(e)}")
-    
-#     return redirect(url_for('app.index'))
+        if not api_key:
+            raise ValueError("API key for OpenAI is not set. Please set the OPENAI_API_KEY environment variable.")
+        
+        # Initialize the client with the API key
+        client = openai.OpenAI(api_key=api_key)
+        
+        for attempt in range(5):  # Retry up to 5 times
+            try:
+                response = client.chat.completions.create(
+                    model="gpt-4o",
+                    messages=[{"role": "user", "content": formatted_prompt}],
+                    max_tokens=2048,
+                    temperature=0.7
+                )
+                
+                if response.choices and response.choices[0].message:
+                    translated_text = response.choices[0].message.content.strip()
+                    
+                    # Wrap the translation in SSML tags
+                    ssml_text = f'<speak>\n    {translated_text}\n</speak>'
+                    
+                    return jsonify({
+                        'success': True,
+                        'translation': ssml_text
+                    })
+                else:
+                    logger.warning(f"No response generated on attempt {attempt + 1}")
+            except Exception as e:
+                wait = 2 ** attempt
+                logger.error(f"Request failed on attempt {attempt + 1}, retrying in {wait} seconds... Exception: {e}")
+                time.sleep(wait)
+                if attempt == 4:  # Last attempt failed
+                    raise
+        
+        raise Exception("Failed to get translation after all attempts")
+        
+    except Exception as e:
+        logger.error(f"Translation error: {str(e)}", exc_info=True)
+        return jsonify({
+            'success': False,
+            'error': str(e)
+        }), 500

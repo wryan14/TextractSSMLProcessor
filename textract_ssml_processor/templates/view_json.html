@@ -112,6 +112,7 @@
                         <div class="card-body">
                             <button id="save-btn" class="btn btn-success btn-block mb-2">Save Changes</button>
                             <button id="new-chunk-btn" class="btn btn-info btn-block mb-2">New Chunk Before</button>
+                            <button id="translate-title-btn" class="btn btn-info btn-block mb-2">Translate Title with GPT</button>
                             <button id="delete-chunk-btn" class="btn btn-danger btn-block">Delete Chunk</button>
                             <button id="remove-phonemes-btn" class="btn btn-warning btn-block mb-2">Remove Phonemes</button>
                             <button id="remove-lang-tags-btn" class="btn btn-warning btn-block mb-2">Remove Lang Tags</button>
@@ -350,6 +351,73 @@
             }
         });
     });
+        // Add these functions to your existing JavaScript
+        async function translateTitle() {
+            const latinText = $('#latin-editor').val();
+            
+            if (!latinText.trim()) {
+                alert('Please enter some Latin text to translate.');
+                return;
+            }
+            
+            // Show loading state
+            const translateBtn = $('#translate-title-btn');
+            const originalText = translateBtn.text();
+            translateBtn.prop('disabled', true);
+            translateBtn.html('<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Translating...');
+            
+            try {
+                const response = await fetch('{{ url_for("app.translate_title") }}', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ text: latinText })
+                });
+                
+                const data = await response.json();
+                
+                if (data.success) {
+                    // Clear the current English editor and set the translated text
+                    $('#cleaned-english-editor').val(data.translation);
+                    
+                    // Show success message
+                    $('#flash-messages').html(
+                        '<div class="alert alert-success alert-dismissible fade show" role="alert">' +
+                        'Title translated successfully!' +
+                        '<button type="button" class="close" data-dismiss="alert" aria-label="Close">' +
+                        '<span aria-hidden="true">&times;</span></button></div>'
+                    );
+                } else {
+                    throw new Error(data.error || 'Translation failed');
+                }
+            } catch (error) {
+                $('#flash-messages').html(
+                    '<div class="alert alert-danger alert-dismissible fade show" role="alert">' +
+                    'Error translating title: ' + error.message +
+                    '<button type="button" class="close" data-dismiss="alert" aria-label="Close">' +
+                    '<span aria-hidden="true">&times;</span></button></div>'
+                );
+            } finally {
+                // Reset button state
+                translateBtn.prop('disabled', false);
+                translateBtn.text(originalText);
+            }
+        }
+    
+        // Add this to your document.ready function
+        $(document).ready(function() {
+            // Add this to your existing event handlers
+            $('#translate-title-btn').click(translateTitle);
+            
+            // Add keyboard shortcut for translation (Ctrl + T)
+            $(document).keydown(function(e) {
+                if (e.ctrlKey && e.which === 84) { // 'T' key
+                    translateTitle();
+                    e.preventDefault();
+                }
+            });
+        });
 </script>
 </body>
 </html>
