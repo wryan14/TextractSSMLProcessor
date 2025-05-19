@@ -30,6 +30,16 @@
             </div>
             <button type="submit" class="btn btn-primary">Generate Subtitles</button>
         </form>
+        <hr>
+        <h2>Batch Process Projects</h2>
+        <form action="{{ url_for('timestamp.batch_create_timestamps') }}" method="post">
+            <div class="form-group">
+                <label for="projects_directory">Projects Directory:</label>
+                <input type="text" class="form-control" id="projects_directory" name="projects_directory" placeholder="Enter the path to the projects directory" required>
+                <small class="form-text text-muted">Provide the path to the directory containing all projects.</small>
+            </div>
+            <button type="submit" class="btn btn-primary">Batch Generate Subtitles</button>
+        </form>
     </div>
 </body>
 </html>

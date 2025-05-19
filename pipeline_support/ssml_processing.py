@@ -4,6 +4,7 @@ import re
 import boto3
 from botocore.exceptions import BotoCoreError, ClientError
 from typing import List, Dict
+import shutil
 
 def split_ssml(ssml_text, max_chunk_size=2500):
     parts = re.split(r'(<[^>]+>)', ssml_text)
@@ -60,7 +61,6 @@ class SSMLProcessingError(Exception):
 
 def process_ssml_from_json_files(input_directory: str,
                                  output_directory: str, 
-                                 output_filename: str, 
                                  default_voice_id: str,
                                  start_part: int = 1) -> List[str]:
     print(f"Starting process_ssml_from_json_files with start_part={start_part}")
@@ -75,13 +75,11 @@ def process_ssml_from_json_files(input_directory: str,
     os.makedirs(output_directory, exist_ok=True)
     output_files = []
 
-    # Modified sorting logic
     def sort_key(filename):
-        # Extract the number at the end of the filename
         match = re.search(r'_part_(\d+)\.txt\.json$', filename)
         if match:
             return int(match.group(1))
-        return 0  # Default value for files that don't match the pattern
+        return 0
 
     json_files = sorted([f for f in os.listdir(input_directory) if f.endswith('.json')], key=sort_key)
     
@@ -94,6 +92,10 @@ def process_ssml_from_json_files(input_directory: str,
 
     for json_file in json_files:
         print(f"Processing file: {json_file}")
+
+        # Extract book name from filename
+        book_name = json_file.split('_part_')[0]
+        output_filename = book_name
 
         try:
             with open(os.path.join(input_directory, json_file), 'r', encoding='utf-8') as file:
@@ -149,16 +151,58 @@ def process_ssml_from_json_files(input_directory: str,
     print(f"Finished processing. Generated {len(output_files)} output files.")
     return output_files
 
+def move_files_to_book_folders(output_directory: str):
+    """
+    Moves processed audio files into separate folders for each book.
+    """
+    # List all .mp3 files in the output directory
+    files = [f for f in os.listdir(output_directory) if f.endswith('.mp3')]
+    
+    for file in files:
+        # Extract the book name by splitting on 'processed_' and '_part'
+        book_name = file.split('_part')[0]
+        book_folder = os.path.join(output_directory, book_name)
+        
+        # Create the book folder if it doesn't exist
+        os.makedirs(book_folder, exist_ok=True)
+        
+        # Construct the correct source and destination paths
+        src = os.path.join(output_directory, file)
+        dst = os.path.join(book_folder, file)
+        
+        try:
+            # Move the file to the correct folder
+            print(f"Moving {src} to {dst}")
+            shutil.move(src, dst)
+        except FileNotFoundError as e:
+            print(f"FileNotFoundError: {e}")
+        except Exception as e:
+            print(f"An error occurred: {e}")
+
+def reorder_part_numbers(output_directory: str):
+    """
+    Reorders the part numbers within each book folder to start from 1 and be sequential.
+    """
+    for book_folder in os.listdir(output_directory):
+        book_path = os.path.join(output_directory, book_folder)
+        if os.path.isdir(book_path):
+            files = [f for f in os.listdir(book_path) if f.endswith('.mp3')]
+            files.sort(key=lambda x: int(re.search(r'part(\d+)', x).group(1)))
+            
+            for i, file in enumerate(files, start=1):
+                old_name = os.path.join(book_path, file)
+                new_name = re.sub(r'part\d+', f'part{i:03d}', file)
+                os.rename(old_name, os.path.join(book_path, new_name))
+    
+    print("Part numbers have been reordered within each book folder.")
+
 # Example usage
 if __name__ == "__main__":
     input_directory = 'C:/Users/rdw71/Documents/Python/TextractSSMLProcessor/processed'
-    audio_dir = 'C:/Users/rdw71/Documents/Python/TextractSSMLProcessor/audio_output'
-    title = "Your Book Title"  # Set this to your book title
-    output_filename = title.replace(' ', '_')
+    output_directory = 'C:/Users/rdw71/Documents/Python/TextractSSMLProcessor/audio_output'
     default_voice_id = 'Matthew'
-    start_part = 1  # Start from Polly audio file part 1, adjust as needed
+    start_part = 1
 
-    # Check if the input directory exists
     if not os.path.exists(input_directory):
         print(f"Error: Input directory '{input_directory}' does not exist.")
     else:
@@ -166,8 +210,7 @@ if __name__ == "__main__":
         try:
             outfiles = process_ssml_from_json_files(
                 input_directory=input_directory,
-                output_directory=audio_dir, 
-                output_filename=output_filename, 
+                output_directory=output_directory,
                 default_voice_id=default_voice_id,
                 start_part=start_part
             )
@@ -177,7 +220,5 @@ if __name__ == "__main__":
                 print("First few output files:")
                 for file in outfiles[:5]:
                     print(file)
-        except SSMLProcessingError as e:
-            print(f"Error processing SSML: {str(e)}")
         except Exception as e:
             print(f"Unexpected error: {str(e)}")

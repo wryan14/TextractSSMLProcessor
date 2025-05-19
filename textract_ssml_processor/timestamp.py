@@ -206,9 +206,11 @@ def generate_srt_content(all_chunks: List[Dict], language: str, use_shorter_subt
     return srt_content
 
 
-def save_srt_files(english_original, english_shorter, latin_original, latin_shorter):
-    subtitle_folder = current_app.config['SUBTITLE_OUTPUT']
-    os.makedirs(subtitle_folder, exist_ok=True)
+def save_srt_files(english_original, english_shorter, latin_original, latin_shorter, output_dir=None):
+    if output_dir is None:
+        output_dir = current_app.config['SUBTITLE_OUTPUT']
+    
+    os.makedirs(output_dir, exist_ok=True)
     
     files = {
         'english_original.srt': english_original,
@@ -218,8 +220,9 @@ def save_srt_files(english_original, english_shorter, latin_original, latin_shor
     }
     
     for filename, content in files.items():
-        with open(os.path.join(subtitle_folder, filename), 'w', encoding='utf-8') as f:
+        with open(os.path.join(output_dir, filename), 'w', encoding='utf-8') as f:
             f.write(content)
+
 
 def format_time(seconds: float) -> str:
     hours, remainder = divmod(seconds, 3600)
@@ -312,3 +315,71 @@ def download_srt(language, version):
                      as_attachment=True,
                      download_name=filename,
                      mimetype='text/plain')
+
+@bp.route('/batch_create_timestamps', methods=['POST'])
+def batch_create_timestamps():
+    projects_directory = request.form['projects_directory']
+    
+    if not os.path.exists(projects_directory):
+        flash('Projects directory does not exist.', 'danger')
+        return render_template('create_timestamps.html')
+    
+    project_dirs = [d for d in os.listdir(projects_directory) if os.path.isdir(os.path.join(projects_directory, d))]
+    
+    all_results = []
+    
+    for project in project_dirs:
+        processed_folder = os.path.join(projects_directory, project, 'SSML')
+        audio_dir = os.path.join(projects_directory, project, 'Audio')
+        subtitle_output_dir = os.path.join(projects_directory, project, 'subtitles')
+        
+        if not os.path.exists(processed_folder) or not os.path.exists(audio_dir):
+            flash(f'Missing directories for project: {project}', 'warning')
+            continue
+        
+        json_files = sorted([f for f in os.listdir(processed_folder) if f.endswith('.json')], key=natural_sort_key)
+        audio_files = sorted([f for f in os.listdir(audio_dir) if f.endswith('.mp3')], key=natural_sort_key)
+        
+        all_chunks = []
+        cumulative_time = 0.0
+        audio_file_index = 0
+        
+        for json_file in json_files:
+            json_file_path = os.path.join(processed_folder, json_file)
+            with open(json_file_path, 'r', encoding='utf-8') as f:
+                json_data = json.load(f)
+            chunks = json_data['chunks']
+            
+            for chunk in chunks:
+                if audio_file_index >= len(audio_files):
+                    break
+                
+                audio_file = audio_files[audio_file_index]
+                file_path = os.path.join(audio_dir, audio_file)
+                audio = MP3(file_path)
+                duration = audio.info.length
+                
+                chunk['start_time'] = cumulative_time
+                cumulative_time += duration
+                chunk['end_time'] = cumulative_time
+                all_chunks.append(chunk)
+                
+                audio_file_index += 1
+        
+        english_srt_original = generate_srt_content(all_chunks, 'english', use_shorter_subtitles=False)
+        english_srt_shorter = generate_srt_content(all_chunks, 'english', use_shorter_subtitles=True)
+        latin_srt_original = generate_srt_content(all_chunks, 'latin', use_shorter_subtitles=False)
+        latin_srt_shorter = generate_srt_content(all_chunks, 'latin', use_shorter_subtitles=True)
+        
+        save_srt_files(english_srt_original, english_srt_shorter, latin_srt_original, latin_srt_shorter, output_dir=subtitle_output_dir)
+        
+        all_results.append({
+            'project': project,
+            'english_srt_original': english_srt_original,
+            'english_srt_shorter': english_srt_shorter,
+            'latin_srt_original': latin_srt_original,
+            'latin_srt_shorter': latin_srt_shorter,
+            'total_duration': format_time(cumulative_time)
+        })
+    
+    return render_template('batch_timestamp_result.html', results=all_results)

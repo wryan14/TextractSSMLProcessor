@@ -224,7 +224,7 @@ def copy_files(source_dir, destination_dir):
 def prompt_user_to_load_files(directory):
     print(f"Please load your audio files into the directory: {directory}")
     subprocess.run(f'explorer {os.path.realpath(directory)}')
-    input("Press Enter to continue once the files are loaded...")
+    # input("Press Enter to continue once the files are loaded...")
 
 # Store mp4 parts for later batch mp4 creation
 import json
