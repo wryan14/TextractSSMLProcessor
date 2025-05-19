@@ -66,7 +66,10 @@ TextractSSMLProcessor/
 │   └── templates/
 │       ├── base.html
 │       ├── index.html
-│       └── confirm.html
+│       ├── confirm.html
+│       ├── view_json.html
+│       ├── create_timestamps.html
+│       └── timestamp_result.html
 │
 ├── uploads/
 ├── processed/
