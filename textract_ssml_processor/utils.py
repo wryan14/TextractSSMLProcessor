@@ -93,7 +93,7 @@ def chunk_text(text: str, max_chunk_size: int = 2000) -> List[str]:
 #     return [f"<speak>{chunk}</speak>" for chunk in ssml_chunks]
 
 # Function to generate SSML request
-def generate_ssml_request(text_chunk, title, author):
+def generate_ssml_request(text_chunk):
     allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <sub>, <w>"
     prompt_text = (f"Please review this messy text to format, correct any spelling mistakes, remove page numbers and page titles, and mark it up with SSML markup for a text-to-speech process. "
                    f"The only permitted tags are {allowed_tags}. Please only provide the marked up text in your response. "
@@ -188,7 +188,7 @@ def safe_format_text_with_gpt(text_chunk: str, language: str) -> Tuple[str, str]
     if language.lower() != 'english':
         formatted_prompt = generate_translation_request(text_chunk, language)
     else:
-        formatted_prompt = generate_ssml_request(text_chunk, "", "")
+        formatted_prompt = generate_ssml_request(text_chunk)
 
     for attempt in range(5):  # Retry up to 5 times
         try:
@@ -219,12 +219,12 @@ def safe_format_text_with_gpt(text_chunk: str, language: str) -> Tuple[str, str]
             time.sleep(wait)
     raise Exception("Failed to process text after multiple attempts")
 
-def handle_uploaded_file(file_path: str, title: str, author: str, language: str) -> str:
+def handle_uploaded_file(file_path: str, language: str) -> str:
     filename = os.path.basename(file_path)
     output_file_name = f"processed_{filename}"
     
     # Process the file
-    output_dict = process_text_file(file_path, output_file_name, title, author, language)
+    output_dict = process_text_file(file_path, output_file_name, language)
     
     # Save the output dictionary as a JSON file
     output_json_path = os.path.join(current_app.config['PROCESSED_FOLDER'], f"{output_file_name}.json")
@@ -287,7 +287,7 @@ import time
 from typing import Dict, List
 from functools import partial
 
-def process_text_file(file_path: str, output_file_name: str, title: str, author: str, language: str) -> Dict[str, List[Dict[str, str]]]:
+def process_text_file(file_path: str, output_file_name: str, language: str) -> Dict[str, List[Dict[str, str]]]:
     logger.info(f"Starting to process file: {file_path}")
     
     with open(file_path, 'r', encoding='utf-8') as file:
