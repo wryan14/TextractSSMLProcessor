@@ -48,9 +48,6 @@ if not api_key:
 # Initialize the client with the API key
 client = openai.OpenAI(api_key=api_key)
 
-# def log_translation(original, translated):
-#     translation_logger.info(json.dumps({'original': original, 'translated': translated}))
-
 # Function to remove page titles and headers
 def remove_headers(text):
     lines = text.split('\n')
@@ -86,16 +83,10 @@ def chunk_text(text: str, max_chunk_size: int = 2000) -> List[str]:
     
     return chunks
 
-# # Function to chunk the processed SSML
-# def chunk_ssml_text(ssml_text, chunk_size=4000):
-#     # Split the SSML content into manageable chunks
-#     ssml_chunks = chunk_text(ssml_text, chunk_size)
-#     return [f"<speak>{chunk}</speak>" for chunk in ssml_chunks]
-
 # Function to generate SSML request
-def generate_ssml_request(text_chunk, title, author):
-    # maybe add sub - but probably rules around numbering. 
-    allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <w>"
+def generate_ssml_request(text_chunk):
+    # Excluding phoneme from allowed tags as requested
+    allowed_tags = "<break>, <lang>, <p>, <s>, <speak>, <sub>, <w>"
     prompt_text = (f"Please review this messy text to format, correct any spelling mistakes, remove page numbers and page titles, and mark it up with SSML markup for a text-to-speech process. "
                    f"The only permitted tags are {allowed_tags}. Please only provide the marked up text in your response. "
                    f"Text to format: {text_chunk}")
@@ -110,9 +101,9 @@ def generate_translation_request(ssml_chunk, language):
     return prompt_text
 
 # Function to clean and enhance SSML with GPT
-
 def clean_and_enhance_ssml_with_gpt(ssml_chunk):
-    allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <w>"
+    # Excluding phoneme from allowed tags as requested
+    allowed_tags = "<break>, <lang>, <p>, <s>, <speak>, <w>"
     prompt_text = (
         f"Please review and enhance the provided SSML content to correct any spelling mistakes and improve readability. "
         f"Ensure that all SSML tags are correctly formatted with no nested tags and all open tags are closed. "
@@ -145,9 +136,9 @@ def clean_and_enhance_ssml_with_gpt(ssml_chunk):
     
     raise Exception("Failed to process text after multiple attempts")
 
-
 def validate_ssml_with_gpt(ssml_chunk):
-    allowed_tags = "<break>, <lang>, <p>, <phoneme>, <s>, <speak>, <w>"
+    # Excluding phoneme from allowed tags as requested
+    allowed_tags = "<break>, <lang>, <p>, <s>, <speak>, <w>"
     prompt_text = (
         f"Please review the provided SSML content to ensure it is valid and compatible with AWS Polly. "
         f"Ensure that all SSML tags are correctly formatted with no nested tags and all open tags are closed. "
@@ -175,15 +166,18 @@ def validate_ssml_with_gpt(ssml_chunk):
     
     raise Exception("Failed to validate text after multiple attempts")
 
-
-
-
 def safe_format_text_with_gpt(text_chunk: str, language: str) -> Tuple[str, str]:
+    """Format ``text_chunk`` using GPT and return validated SSML.
+
+    The function returns a tuple ``(validated_ssml, smooth_text)`` where
+    ``validated_ssml`` is the SSML content ready for further processing and
+    ``smooth_text`` is a human friendly version used only for logging.
+    """
     logger.debug(f"Formatting text with GPT, language: {language}")
     if language.lower() != 'english':
         formatted_prompt = generate_translation_request(text_chunk, language)
     else:
-        formatted_prompt = generate_ssml_request(text_chunk, "", "")
+        formatted_prompt = generate_ssml_request(text_chunk)
 
     for attempt in range(5):  # Retry up to 5 times
         try:
@@ -203,7 +197,9 @@ def safe_format_text_with_gpt(text_chunk: str, language: str) -> Tuple[str, str]
                 # Get the smoothed text for logging
                 smooth_text = smooth_text_for_youtube(validated_ssml)
 
-                return smooth_text, text_chunk
+                # Return the validated SSML for further processing and the
+                # smoothed text for optional logging.
+                return validated_ssml, smooth_text
             else:
                 logger.warning(f"No response generated on attempt {attempt + 1}")
         except Exception as e:
@@ -212,12 +208,12 @@ def safe_format_text_with_gpt(text_chunk: str, language: str) -> Tuple[str, str]
             time.sleep(wait)
     raise Exception("Failed to process text after multiple attempts")
 
-def handle_uploaded_file(file_path: str, title: str, author: str, language: str) -> str:
+def handle_uploaded_file(file_path: str, language: str) -> str:
     filename = os.path.basename(file_path)
     output_file_name = f"processed_{filename}"
     
     # Process the file
-    output_dict = process_text_file(file_path, output_file_name, title, author, language)
+    output_dict = process_text_file(file_path, output_file_name, language)
     
     # Save the output dictionary as a JSON file
     output_json_path = os.path.join(current_app.config['PROCESSED_FOLDER'], f"{output_file_name}.json")
@@ -236,7 +232,6 @@ def get_synchronized_texts(log_file_path):
             original_texts.append(entry['original'])
             translated_texts.append(entry['translated'])
     return "\n\n".join(original_texts), "\n\n".join(translated_texts)
-
 
 def convert_html_to_ssml(html_content):
     # Parse HTML content
@@ -280,7 +275,7 @@ import time
 from typing import Dict, List
 from functools import partial
 
-def process_text_file(file_path: str, output_file_name: str, title: str, author: str, language: str) -> Dict[str, List[Dict[str, str]]]:
+def process_text_file(file_path: str, output_file_name: str, language: str) -> Dict[str, List[Dict[str, str]]]:
     logger.info(f"Starting to process file: {file_path}")
     
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -335,94 +330,6 @@ def generate_title_file(title, output_folder, base_name, part_num, chunk_num):
         file.write(title_content)
     return title_file_name
 
-# def process_ssml_chunks(file_path: str, latin_correlate_path: str) -> Dict[str, List[Dict[str, str]]]:
-#     logger.debug(f"Processing SSML chunks for file: {file_path}")
-#     logger.debug(f"Latin correlate path: {latin_correlate_path}")
-    
-#     latin_text = ""
-#     try:
-#         with open(latin_correlate_path, 'r', encoding='utf-8') as latin_file:
-#             latin_text = latin_file.read()
-#         logger.debug(f"Latin text length: {len(latin_text)}")
-#     except Exception as e:
-#         logger.error(f'Error loading Latin path - {e}')
-    
-#     if not latin_text:
-#         logger.warning("Latin text is empty or could not be loaded.")
-
-#     text = ""
-#     try:
-#         with open(file_path, 'r', encoding='utf-8') as file:
-#             text = file.read()
-#         logger.debug(f"Original text length: {len(text)}")
-#     except Exception as e:
-#         logger.error(f'Error loading original file - {e}')
-    
-#     if not text:
-#         logger.error("Original text is empty or could not be loaded.")
-#         return {"chunks": []}
-
-#     text = re.sub(r'</?speak>', '', text)
-#     text = html.unescape(text)
-#     paragraphs = re.split(r'(?<=</p>)', text)
-    
-#     chunks = []
-#     current_chunk = ''
-#     chunk_size = 50000
-
-#     for para in paragraphs:
-#         if len(current_chunk) + len(para) > chunk_size:
-#             chunks.append(f'<speak>{current_chunk}</speak>')
-#             current_chunk = para
-#         else:
-#             current_chunk += para
-    
-#     if current_chunk:
-#         chunks.append(f'<speak>{current_chunk}</speak>')
-    
-#     logger.debug(f"Number of chunks: {len(chunks)}")
-    
-#     output_dict = {"chunks": []}
-    
-#     for i, chunk in enumerate(chunks, 1):
-#         logger.debug(f"Processing chunk {i}")
-#         # Preprocess and clean SSML tags
-#         chunk = preprocess_ssml_tags(chunk)
-#         chunk = clean_ssml_tags(chunk)
-        
-#         # Translate the chunk and clean SSML
-#         try:
-#             translated_chunk, _ = safe_format_text_with_gpt(chunk, language="Latin")
-#             logger.debug(f"Translated chunk length: {len(translated_chunk)}")
-            
-#             # Clean the translated chunk
-#             translated_chunk = preprocess_ssml_tags(translated_chunk)
-#             translated_chunk = clean_ssml_tags(translated_chunk)
-#         except Exception as e:
-#             logger.error(f"Error in translation for chunk {i}: {e}")
-#             translated_chunk = None
-        
-#         # Find corresponding Latin text
-#         original_latin = "Latin text not found"
-#         if latin_text:
-#             start_index = latin_text.find(chunk)
-#             if start_index != -1:
-#                 end_index = start_index + len(chunk)
-#                 original_latin = latin_text[start_index:end_index]
-#             else:
-#                 logger.warning(f"Latin text not found for chunk {i}")
-#         else:
-#             logger.warning(f"No Latin text available for chunk {i}")
-        
-#         chunk_dict = {
-#             "chunk_number": i,
-#             "original_latin": original_latin,
-#             "translated_english": translated_chunk if translated_chunk else "Translation failed"
-#         }
-#         output_dict["chunks"].append(chunk_dict)
-    
-#     return output_dict
-
 # Function to detect HTML content
 def is_html(text):
     html_tags = re.compile('<.*?>')
@@ -443,7 +350,8 @@ def get_cleaned_chunks(folder, filename):
 
 def preprocess_ssml_tags(content: str) -> str:
     """Preprocess SSML tags in the given content string."""
-    allowed_tags = ["break", "lang", "p", "phoneme", "s", "speak", "sub", "w"]
+    # Removed phoneme from allowed tags as requested
+    allowed_tags = ["break", "lang", "p", "s", "speak", "sub", "w"]
     allowed_pattern = re.compile(r'</?({})(\s[^>]*)?/?>'.format('|'.join(allowed_tags)), re.IGNORECASE)
 
     # Unescape HTML entities
@@ -461,7 +369,8 @@ def preprocess_ssml_tags(content: str) -> str:
 
 def clean_ssml_tags(content: str) -> str:
     """Clean and process SSML tags in the given content string."""
-    allowed_tags = ["break", "lang", "p", "phoneme", "s", "speak", "sub", "w"]
+    # Removed phoneme from allowed tags as requested
+    allowed_tags = ["break", "lang", "p", "s", "speak", "sub", "w"]
 
     def ensure_role_attribute(tag):
         return tag.replace('<w', '<w role="amazon:NN"', 1) if 'role=' not in tag else tag
@@ -535,7 +444,7 @@ def estimate_cost(file_path):
     
     character_count = len(text)
 
-    # OpenAI gpt-4oo cost
+    # OpenAI gpt-4o cost
     gpt_cost = (character_count / 1000000) * 20  # $0.02 per 1k tokens (approx 750 characters)
 
     # Amazon Polly costs
@@ -567,4 +476,3 @@ def estimate_total_cost(file_paths):
         total_polly_cost_long_form += polly_cost_long_form
     
     return total_character_count, total_gpt_cost, total_polly_cost_generative, total_polly_cost_long_form
-
