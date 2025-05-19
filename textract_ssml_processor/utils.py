@@ -534,7 +534,7 @@ def estimate_cost(file_path):
     
     character_count = len(text)
 
-    # OpenAI gpt-4oo cost
+    # OpenAI gpt-4o cost
     gpt_cost = (character_count / 1000000) * 20  # $0.02 per 1k tokens (approx 750 characters)
 
     # Amazon Polly costs
