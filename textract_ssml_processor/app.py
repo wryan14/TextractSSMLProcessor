@@ -37,11 +37,9 @@ def index():
     upload_form = UploadForm()
     if request.method == 'POST' and upload_form.validate_on_submit():
         files = request.files.getlist('files')
-        title = upload_form.title.data
-        author = upload_form.author.data
         language = upload_form.language.data
-        
-        logger.info(f"Received upload request: Title: {title}, Author: {author}, Language: {language}")
+
+        logger.info(f"Received upload request: Language: {language}")
         
         # Save files temporarily and get their paths
         file_paths = []
@@ -64,8 +62,6 @@ def index():
                                polly_cost_generative=f"${polly_cost_generative:.2f}",
                                polly_cost_long_form=f"${polly_cost_long_form:.2f}",
                                files=file_paths,
-                               title=title,
-                               author=author,
                                language=language)
     
     processed_files = get_existing_files(current_app.config['PROCESSED_FOLDER'])
@@ -78,11 +74,9 @@ def confirm():
     logger.info("Confirm route accessed")
     try:
         files = request.form.getlist('files')
-        title = request.form.get('title')
-        author = request.form.get('author')
         language = request.form.get('language')
-        
-        logger.info(f"Received data: files={files}, title={title}, author={author}, language={language}")
+
+        logger.info(f"Received data: files={files}, language={language}")
         
         if not files:
             logger.error("No files received in the request")
@@ -94,7 +88,7 @@ def confirm():
             logger.info(f"Processing file: {file_path}")
             if os.path.exists(file_path):
                 try:
-                    output_json_path = handle_uploaded_file(file_path, title, author, language)
+                    output_json_path = handle_uploaded_file(file_path, language)
                     processed_files.append(os.path.basename(output_json_path))
                     logger.info(f"File processed successfully: {output_json_path}")
                     os.remove(file_path)  # Remove the temporary file

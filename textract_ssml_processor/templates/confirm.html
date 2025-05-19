@@ -27,8 +27,6 @@
             {% for file in files %}
             <input type="hidden" name="files" value="{{ file }}">
             {% endfor %}
-            <input type="hidden" name="title" value="{{ title }}">
-            <input type="hidden" name="author" value="{{ author }}">
             <input type="hidden" name="language" value="{{ language }}">
             <button type="submit" class="btn btn-primary">Confirm and Process</button>
         </form>
