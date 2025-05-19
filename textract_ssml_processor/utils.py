@@ -178,6 +178,12 @@ def validate_ssml_with_gpt(ssml_chunk):
 
 
 def safe_format_text_with_gpt(text_chunk: str, language: str) -> Tuple[str, str]:
+    """Format ``text_chunk`` using GPT and return validated SSML.
+
+    The function returns a tuple ``(validated_ssml, smooth_text)`` where
+    ``validated_ssml`` is the SSML content ready for further processing and
+    ``smooth_text`` is a human friendly version used only for logging.
+    """
     logger.debug(f"Formatting text with GPT, language: {language}")
     if language.lower() != 'english':
         formatted_prompt = generate_translation_request(text_chunk, language)
@@ -202,7 +208,9 @@ def safe_format_text_with_gpt(text_chunk: str, language: str) -> Tuple[str, str]
                 # Get the smoothed text for logging
                 smooth_text = smooth_text_for_youtube(validated_ssml)
 
-                return smooth_text, text_chunk
+                # Return the validated SSML for further processing and the
+                # smoothed text for optional logging.
+                return validated_ssml, smooth_text
             else:
                 logger.warning(f"No response generated on attempt {attempt + 1}")
         except Exception as e:
