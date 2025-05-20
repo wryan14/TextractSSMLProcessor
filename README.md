@@ -77,3 +77,12 @@ TextractSSMLProcessor/
 ├── .env
 ├── requirements.txt
 └── README.md
+
+## Running Tests
+
+After installing the dependencies, run the test suite with:
+
+```bash
+pytest
+```
+
