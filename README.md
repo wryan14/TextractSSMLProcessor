@@ -126,6 +126,26 @@ TextractSSMLProcessor/
 └── README.md
 ```
 
+## Fonts
+
+The `static/fonts` directory contains fonts used by the web interface:
+
+- **Open Sans** (`OpenSans-Italic-VariableFont_wdth,wght.ttf` and
+  `OpenSans-VariableFont_wdth,wght.ttf`) – sourced from
+  [Google Fonts](https://fonts.google.com/specimen/Open+Sans) and licensed under
+  the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+- **PT Serif** (`PTSerif-Bold.ttf`, `PTSerif-BoldItalic.ttf`,
+  `PTSerif-Italic.ttf`, `PTSerif-Regular.ttf`) – sourced from
+  [Google Fonts](https://fonts.google.com/specimen/PT+Serif) and licensed under
+  the [SIL Open Font License 1.1](https://scripts.sil.org/OFL).
+- **Luxurious Roman** (`LuxuriousRoman-Regular.ttf`) – sourced from
+  [Google Fonts](https://fonts.google.com/specimen/Luxurious+Roman) and licensed
+  under the [SIL Open Font License 1.1](https://scripts.sil.org/OFL).
+
+These files are small (about 2&nbsp;MB in total) and are included directly in
+the repository for convenience. If you prefer to obtain them separately, you can
+download the fonts from Google Fonts and place them in `static/fonts/`.
+
 ## Running Tests
 
 After installing the dependencies, run the test suite with:
