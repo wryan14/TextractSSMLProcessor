@@ -1,0 +1,66 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "textract-ssml-processor"
+version = "0.1.0"
+description = "Flask-based web app to process text with OpenAI and Amazon Polly"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+
+# Dependencies derived from requirements.txt
+# Exclude packaging tools
+
+dependencies = [
+    "Flask==3.0.3",
+    "flask-bootstrap5==0.1.dev1",
+    "Flask-WTF==1.2.1",
+    "WTForms==3.1.2",
+    "Werkzeug==3.0.3",
+    "Jinja2==3.1.4",
+    "MarkupSafe==2.1.5",
+    "boto3==1.34.107",
+    "botocore==1.34.107",
+    "bs4==0.0.2",
+    "beautifulsoup4==4.12.3",
+    "certifi==2024.2.2",
+    "click==8.1.7",
+    "colorama==0.4.6",
+    "distro==1.9.0",
+    "ffmpeg-python==0.2.0",
+    "future==1.0.0",
+    "h11==0.14.0",
+    "httpcore==1.0.5",
+    "httpx==0.27.0",
+    "idna==3.7",
+    "itsdangerous==2.2.0",
+    "jmespath==1.0.1",
+    "lxml==5.2.2",
+    "mutagen==1.47.0",
+    "openai==1.30.1",
+    "pydantic==2.7.1",
+    "pydantic_core==2.18.2",
+    "python-dateutil==2.9.0.post0",
+    "s3transfer==0.10.1",
+    "six==1.16.0",
+    "sniffio==1.3.1",
+    "soupsieve==2.5",
+    "tqdm==4.66.4",
+    "typing_extensions==4.11.0",
+    "urllib3==2.2.1",
+    "anyio==4.3.0",
+    "annotated-types==0.6.0",
+    "blinker==1.8.2",
+    "nltk",
+]
+
+[project.scripts]
+textract-ssml-processor = "run:main"
+
+[tool.setuptools]
+packages = [
+    "textract_ssml_processor",
+    "pipeline_support",
+]
