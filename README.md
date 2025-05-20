@@ -2,6 +2,8 @@
 
 TextractSSMLProcessor is a Flask-based web application that processes text files using OpenAI's gpt-4o and Amazon Polly. The application performs OCR text processing, formats the text with SSML tags, and cleans up the resulting SSML for text-to-speech conversion.
 
+Audio samples are not included in the repository. You can supply your own `.mp3` files by placing them in the `audio/` directory.
+
 ## Features
 
 1. **Upload OCR Text Files**: Upload text files for processing.
@@ -53,6 +55,7 @@ TextractSSMLProcessor is a Flask-based web application that processes text files
 2. **View Processed Files**: Once the text is processed, it will appear in the "Processed Files" table. Click "Clean" to clean the SSML tags and chunk the text.
 3. **Manage Chunks**: The cleaned and chunked files will appear in the "Chunked Files" table. You can download or delete these files as needed.
 4. **Estimate Costs**: After uploading a file, the estimated costs for processing with OpenAI gpt-4o and Amazon Polly will be displayed. Confirm if you want to proceed with the processing.
+5. **Provide Audio Samples**: Place your own MP3 files in the `audio/` directory to generate timestamps or video output.
 
 ## Folder Structure
 
@@ -74,6 +77,7 @@ TextractSSMLProcessor/
 ├── uploads/
 ├── processed/
 ├── chunks/
+├── audio/
 ├── .env
 ├── requirements.txt
 └── README.md
