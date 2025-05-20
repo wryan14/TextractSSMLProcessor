@@ -2,6 +2,8 @@
 
 TextractSSMLProcessor is a Flask-based web application that processes text files using OpenAI's gpt-4o and Amazon Polly. The application performs OCR text processing, formats the text with SSML tags, and cleans up the resulting SSML for text-to-speech conversion.
 
+Audio samples are not included in the repository. You can supply your own `.mp3` files by placing them in the `audio/` directory.
+
 ## Features
 
 1. **Upload OCR Text Files**: Upload text files for processing.
@@ -47,12 +49,56 @@ TextractSSMLProcessor is a Flask-based web application that processes text files
     flask run
     ```
 
+## AWS Credentials for Amazon Polly
+
+The application uses Amazon Polly to generate audio. Boto3 looks for AWS
+credentials in your environment or the AWS configuration files. You can
+provide them in one of two ways:
+
+1. Export the following environment variables:
+   ```bash
+   export AWS_ACCESS_KEY_ID=your_access_key
+   export AWS_SECRET_ACCESS_KEY=your_secret_key
+   # export AWS_SESSION_TOKEN=your_session_token  # if using temporary credentials
+   ```
+2. Or configure the AWS CLI which creates `~/.aws/credentials`:
+   ```bash
+   aws configure
+   ```
+
+Ensure the credentials have permission to use the Polly `SynthesizeSpeech` API.
+
+## ImageMagick and ffmpeg
+
+The audio and video utilities depend on ImageMagick and `ffmpeg`. Install them
+with your system package manager:
+
+- **Ubuntu/Debian**
+  ```bash
+  sudo apt-get install imagemagick ffmpeg
+  ```
+- **macOS (Homebrew)**
+  ```bash
+  brew install imagemagick ffmpeg
+  ```
+
+MoviePy needs the path to the `magick` executable. Instead of editing
+`pipeline_support/audio_processing.py` to set a hard-coded path, define the
+`IMAGEMAGICK_BINARY` environment variable:
+
+```bash
+export IMAGEMAGICK_BINARY=/path/to/magick
+```
+
+This variable will be picked up at runtime and used by MoviePy.
+
 ## Usage
 
 1. **Upload File**: Click on "Choose File" to upload a text file. Provide an output file name and submit to process the text with OpenAI gpt-4o.
 2. **View Processed Files**: Once the text is processed, it will appear in the "Processed Files" table. Click "Clean" to clean the SSML tags and chunk the text.
 3. **Manage Chunks**: The cleaned and chunked files will appear in the "Chunked Files" table. You can download or delete these files as needed.
 4. **Estimate Costs**: After uploading a file, the estimated costs for processing with OpenAI gpt-4o and Amazon Polly will be displayed. Confirm if you want to proceed with the processing.
+5. **Provide Audio Samples**: Place your own MP3 files in the `audio/` directory to generate timestamps or video output.
 
 ## Folder Structure
 
@@ -74,9 +120,11 @@ TextractSSMLProcessor/
 ├── uploads/
 ├── processed/
 ├── chunks/
+├── audio/
 ├── .env
 ├── requirements.txt
 └── README.md
+```
 
 ## Workflow Overview
 
@@ -116,3 +164,7 @@ TextractSSMLProcessor/
 - **ssml_processing.py** – converts SSML chunks in JSON files into MP3 using Amazon Polly.
 - **ssml_validator.py** – runs a suite of checks for SSML formatting problems.
 - **text_processing.py** – removes notes and splits input text into manageable sections.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
