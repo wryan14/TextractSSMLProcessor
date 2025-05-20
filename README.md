@@ -77,3 +77,42 @@ TextractSSMLProcessor/
 ├── .env
 ├── requirements.txt
 └── README.md
+
+## Workflow Overview
+
+1. **Upload text through the web interface**
+   - Start the application:
+     ```bash
+     python run.py
+     ```
+   - Use the browser to upload your text files. Each upload is sent to GPT-4o for cleanup and SSML tagging. The resulting JSON files are saved in `processed/`.
+
+2. **Generate audio with Amazon Polly**
+   - Edit `pipeline_support/ssml_processing.py` to point `input_directory` to `processed/` and `output_directory` to the folder where MP3 files should be created.
+   - Run the script:
+     ```bash
+     python pipeline_support/ssml_processing.py
+     ```
+   - The script synthesizes each SSML chunk to an MP3 file.
+
+3. **Create subtitle files**
+   - Once audio files are available, create SRT subtitles using the timestamp blueprint:
+     ```bash
+     python -m textract_ssml_processor.timestamp
+     ```
+   - Subtitles are written to the `subtitles/` directory.
+
+4. **Optional video generation**
+   - `pipeline_support/audio_processing.py` can combine audio and subtitles into a simple video:
+     ```bash
+     python pipeline_support/audio_processing.py
+     ```
+   - Edit the script variables to reference your MP3 and SRT files. The output MP4 is saved to the location specified in the script.
+
+## pipeline_support scripts
+
+- **audio_processing.py** – utilities for merging MP3 files, adding metadata, and creating videos with subtitles.
+- **file_processing.py** – strips SSML tags and copies cleaned text files.
+- **ssml_processing.py** – converts SSML chunks in JSON files into MP3 using Amazon Polly.
+- **ssml_validator.py** – runs a suite of checks for SSML formatting problems.
+- **text_processing.py** – removes notes and splits input text into manageable sections.
