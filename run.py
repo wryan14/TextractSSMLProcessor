@@ -12,10 +12,13 @@ def create_directories():
 
 from textract_ssml_processor import create_app
 
-# Create necessary directories
-create_directories()
 
-app = create_app()
+def main():
+    """Run the Flask application."""
+    create_directories()
+    app = create_app()
+    app.run(debug=True)
+
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    main()
