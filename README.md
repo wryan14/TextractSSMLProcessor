@@ -49,6 +49,49 @@ Audio samples are not included in the repository. You can supply your own `.mp3`
     flask run
     ```
 
+## AWS Credentials for Amazon Polly
+
+The application uses Amazon Polly to generate audio. Boto3 looks for AWS
+credentials in your environment or the AWS configuration files. You can
+provide them in one of two ways:
+
+1. Export the following environment variables:
+   ```bash
+   export AWS_ACCESS_KEY_ID=your_access_key
+   export AWS_SECRET_ACCESS_KEY=your_secret_key
+   # export AWS_SESSION_TOKEN=your_session_token  # if using temporary credentials
+   ```
+2. Or configure the AWS CLI which creates `~/.aws/credentials`:
+   ```bash
+   aws configure
+   ```
+
+Ensure the credentials have permission to use the Polly `SynthesizeSpeech` API.
+
+## ImageMagick and ffmpeg
+
+The audio and video utilities depend on ImageMagick and `ffmpeg`. Install them
+with your system package manager:
+
+- **Ubuntu/Debian**
+  ```bash
+  sudo apt-get install imagemagick ffmpeg
+  ```
+- **macOS (Homebrew)**
+  ```bash
+  brew install imagemagick ffmpeg
+  ```
+
+MoviePy needs the path to the `magick` executable. Instead of editing
+`pipeline_support/audio_processing.py` to set a hard-coded path, define the
+`IMAGEMAGICK_BINARY` environment variable:
+
+```bash
+export IMAGEMAGICK_BINARY=/path/to/magick
+```
+
+This variable will be picked up at runtime and used by MoviePy.
+
 ## Usage
 
 1. **Upload File**: Click on "Choose File" to upload a text file. Provide an output file name and submit to process the text with OpenAI gpt-4o.
