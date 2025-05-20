@@ -126,6 +126,14 @@ TextractSSMLProcessor/
 └── README.md
 ```
 
+## Running Tests
+
+After installing the dependencies, run the test suite with:
+
+```bash
+pytest
+```
+
 ## Workflow Overview
 
 1. **Upload text through the web interface**
