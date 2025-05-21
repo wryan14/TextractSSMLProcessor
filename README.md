@@ -82,15 +82,14 @@ with your system package manager:
   brew install imagemagick ffmpeg
   ```
 
-MoviePy needs the path to the `magick` executable. Instead of editing
-`pipeline_support/audio_processing.py` to set a hard-coded path, define the
-`IMAGEMAGICK_BINARY` environment variable:
+MoviePy needs the path to the `magick` executable. If it is not on your `PATH`,
+set the `IMAGEMAGICK_BINARY` environment variable:
 
 ```bash
 export IMAGEMAGICK_BINARY=/path/to/magick
 ```
 
-This variable will be picked up at runtime and used by MoviePy.
+The audio utilities read this variable at runtime and configure MoviePy.
 
 ## Usage
 

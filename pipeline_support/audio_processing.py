@@ -15,7 +15,9 @@ from moviepy.config import change_settings
 from moviepy.video.tools.subtitles import SubtitlesClip
 
 # Configuration
-change_settings({"IMAGEMAGICK_BINARY": r"C:\Program Files\ImageMagick-7.1.1-Q16-HDRI\magick.exe"})
+image_magick_binary = os.environ.get("IMAGEMAGICK_BINARY")
+if image_magick_binary:
+    change_settings({"IMAGEMAGICK_BINARY": image_magick_binary})
 
 # Logging setup
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s')
