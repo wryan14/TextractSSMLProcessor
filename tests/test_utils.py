@@ -4,6 +4,7 @@ import types
 import importlib.util
 import importlib.machinery
 from pathlib import Path
+import pytest
 
 
 def load_utils_module():
@@ -56,3 +57,36 @@ def test_safe_format_text_with_gpt(monkeypatch):
     validated, smooth = utils.safe_format_text_with_gpt('data', 'English')
     assert validated == '<speak>translated cleaned</speak>'
     assert smooth == '<speak>translated cleaned</speak> smooth'
+
+
+def test_estimate_cost(tmp_path):
+    utils = load_utils_module()
+    sample_text = 'Hello world'
+    file_path = tmp_path / 'sample.txt'
+    file_path.write_text(sample_text, encoding='utf-8')
+
+    count, gpt_cost, gen_cost, long_cost = utils.estimate_cost(str(file_path))
+
+    expected_count = len(sample_text)
+    assert count == expected_count
+    assert gpt_cost == pytest.approx(expected_count / 1_000_000 * 20)
+    assert gen_cost == pytest.approx(expected_count / 1_000_000 * 30)
+    assert long_cost == pytest.approx(expected_count / 1_000_000 * 100)
+
+
+def test_estimate_total_cost(tmp_path):
+    utils = load_utils_module()
+    texts = ['abc', '12345']
+    paths = []
+    for idx, text in enumerate(texts):
+        p = tmp_path / f'file{idx}.txt'
+        p.write_text(text, encoding='utf-8')
+        paths.append(str(p))
+
+    totals = utils.estimate_total_cost(paths)
+
+    total_chars = sum(len(t) for t in texts)
+    assert totals[0] == total_chars
+    assert totals[1] == pytest.approx(total_chars / 1_000_000 * 20)
+    assert totals[2] == pytest.approx(total_chars / 1_000_000 * 30)
+    assert totals[3] == pytest.approx(total_chars / 1_000_000 * 100)
