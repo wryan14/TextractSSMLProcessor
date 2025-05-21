@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Batch Timestamp Results</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-</head>
-<body>
+{% extends 'base.html' %}
+{% block title %}Batch Timestamp Results{% endblock %}
+{% block nav %}{% endblock %}
+{% block content %}
     <div class="container mt-5">
         <h1>Batch Timestamp Results</h1>
         {% for result in results %}
@@ -28,5 +23,4 @@
             </div>
         {% endfor %}
     </div>
-</body>
-</html>
+{% endblock %}
