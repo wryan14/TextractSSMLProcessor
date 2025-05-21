@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>View and Edit JSON</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+{% extends 'base.html' %}
+{% block title %}View and Edit JSON{% endblock %}
+{% block nav %}{% endblock %}
+{% block head %}
     <style>
         body {
             background-color: #f8f9fa;
@@ -43,8 +40,8 @@
             border-radius: 5px;
         }
     </style>
-</head>
-<body>
+{% endblock %}
+{% block content %}
     <div class="container-fluid mt-4">
         <h1 class="text-center mb-4">Edit Text: {{ filename }}</h1>
         <!-- New file counter display -->
@@ -167,6 +164,8 @@
         </div>
     </div>
 
+{% endblock %}
+{% block scripts %}
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
@@ -351,5 +350,4 @@
         });
     });
 </script>
-</body>
-</html>
+{% endblock %}
