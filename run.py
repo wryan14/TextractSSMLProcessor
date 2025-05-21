@@ -1,12 +1,19 @@
 import os
 
+from config import Config
+
 def create_directories():
-    # Get the directory of the current script
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    
-    directories = ["processed", "chunks", "uploads"]
-    for directory in directories:
-        path = os.path.join(base_dir, directory)
+    """Ensure application data folders exist."""
+    directories = [
+        Config.PROCESSED_FOLDER,
+        Config.CHUNKS_FOLDER,
+        Config.UPLOAD_FOLDER,
+        Config.LATIN_FOLDER,
+        Config.AUDIO_OUTPUT_FOLDER,
+        Config.SUBTITLE_OUTPUT,
+    ]
+
+    for path in directories:
         if not os.path.exists(path):
             os.makedirs(path)
 
