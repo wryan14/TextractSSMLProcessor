@@ -91,13 +91,6 @@ def remove_ssml_tags(text: str) -> str:
     text = re.sub(r'\s+', ' ', text).strip()
     return text
 
-def remove_ssml_tags(text: str) -> str:
-    # Remove all SSML tags, including their content for certain tags
-    text = re.sub(r'<\s*sub\s+[^>]*>.*?</\s*sub\s*>', '', text, flags=re.DOTALL)
-    text = re.sub(r'<[^>]+>', '', text)
-    # Remove extra whitespace
-    text = re.sub(r'\s+', ' ', text).strip()
-    return text
 
 def count_words(text: str) -> int:
     # Split on whitespace and punctuation, but keep hyphenated words together
